@@ -6,24 +6,32 @@ import {
   recentTalks,
   recentUpdates,
   researchAreas,
+  talksArchiveUrl,
 } from "./site-content";
 
 export default function Home() {
   return (
     <SiteFrame>
       <section className="hero">
-        <p className="eyebrow">ASTROPHYSICS · COSMOLOGY · GRAVITY</p>
-        <h1>Curiosity at the edge of the universe.</h1>
-        <div className="hero-copy">
-          <p>
-            I am an astrophysicist and professor at the University of Waterloo,
-            and Associate Faculty at Perimeter Institute. My work looks for
-            observational clues to the deepest questions in fundamental physics.
-          </p>
-          <div className="hero-actions">
-            <Link className="button" href="/research">Explore the research</Link>
-            <Link className="text-link" href="/cv">View CV <span>↗</span></Link>
+        <div className="hero-layout">
+          <div>
+            <p className="eyebrow">ASTROPHYSICS · COSMOLOGY · GRAVITY</p>
+            <h1>Curiosity at the edge of the universe.</h1>
+            <div className="hero-copy">
+              <p>
+                I am an astrophysicist and professor at the University of Waterloo,
+                and Associate Faculty at Perimeter Institute. My work looks for
+                observational clues to the deepest questions in fundamental physics.
+              </p>
+              <div className="hero-actions">
+                <Link className="button" href="/research">Explore the research</Link>
+                <Link className="text-link" href="/cv">View CV <span>↗</span></Link>
+              </div>
+            </div>
           </div>
+          <figure className="hero-portrait">
+            <img src="/images/niayesh-afshordi-portrait.jpg" alt="Niayesh Afshordi" />
+          </figure>
         </div>
         <div className="orbit-mark" aria-hidden="true"><i /><i /><i /></div>
       </section>
@@ -91,11 +99,13 @@ export default function Home() {
         <h2>Conversations about cosmology, fundamental physics, and how science works.</h2>
         <div className="talks-grid">
           {recentTalks.map((talk) => (
-            <article key={`${talk.date}-${talk.title}`}>
+            <a className="talk-card-link" href={talksArchiveUrl} key={`${talk.date}-${talk.title}`} target="_blank" rel="noreferrer" aria-label={`Open materials for ${talk.title}`}>
+              <article>
               <p>{talk.date}</p>
               <h3>{talk.title}</h3>
               <span>{talk.venue}</span>
-            </article>
+              </article>
+            </a>
           ))}
         </div>
         <Link className="button button-light" href="/talks">Talks & public work</Link>

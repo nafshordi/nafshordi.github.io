@@ -7,7 +7,117 @@ export const researchAreas = [
   "Cosmological backreaction and missing baryons",
 ];
 
-export const currentMembers = ["Alice Chen", "Conner Dailey"];
+export const researchFeatures = [
+  {
+    title: "Quantum gravity & black holes",
+    description: "How do quantum principles reshape gravity near black holes, horizons, and the earliest moments of the universe? This work seeks observable consequences of ideas that are often thought to be beyond experimental reach.",
+    image: "/media/2015/12/uhrn1prime.png",
+    alt: "Causal diagram from archived research on black holes and gravity",
+    caption: "A causal-structure diagram from the research archive.",
+  },
+  {
+    title: "Gravitational waves & compact objects",
+    description: "Gravitational-wave signals provide a sharp new way to test strong gravity, black-hole structure, and the assumptions that underlie waveform models.",
+    image: "/media/2017/01/mergingblackholes_v2-1.jpg",
+    alt: "Illustration of merging black holes and emitted gravitational waves",
+    caption: "An archived visualization of a compact-binary merger.",
+  },
+  {
+    title: "Early universe & the cosmic microwave background",
+    description: "The oldest observable light in the universe preserves clues about primordial physics, cosmic initial conditions, and the mechanisms that seeded today’s structure.",
+    image: "/media/2015/07/planck_cmb.jpg",
+    alt: "All-sky map of fluctuations in the cosmic microwave background",
+    caption: "An all-sky cosmic-microwave-background map in the research archive.",
+  },
+  {
+    title: "Dark universe & cosmic structure",
+    description: "Large-scale structure, galaxies, and their environments offer complementary tests of dark matter, dark energy, gravity, and the physics linking small and cosmic scales.",
+    image: "/media/2015/12/znorm_mass_new.png",
+    alt: "Archived scientific plot comparing halo mass and velocity dispersion",
+    caption: "An archived comparison plot from work on cosmic structure.",
+  },
+];
+
+export type GroupMember = {
+  name: string;
+  role: string;
+  years: string;
+  research: string;
+  destination: string;
+  image?: string;
+};
+
+export const currentPeople: GroupMember[] = [
+  {
+    name: "Alice Chen",
+    role: "PhD researcher",
+    years: "2023–present in the 2025 CCV",
+    research: "Machine learning and cosmic structure formation.",
+    destination: "University of Waterloo and Perimeter Institute.",
+    image: "/media/2019/05/bf1aaee0379c95bfb23647282f6efa13.gif",
+  },
+  {
+    name: "Conner Dailey",
+    role: "PhD researcher",
+    years: "2020–2024 in the 2025 CCV",
+    research: "The initial-boundary-value problem in numerical relativity.",
+    destination: "Last recorded at the University of Waterloo and Perimeter Institute; status to reconfirm.",
+    image: "/media/2024/09/conner-dailey-web.jpg",
+  },
+];
+
+export const alumniPeople: GroupMember[] = [
+  {
+    name: "Jolene Zheng",
+    role: "Undergraduate researcher",
+    years: "2021",
+    research: "COVID forecast modelling and the online dashboard.",
+    destination: "Software Engineer, Bloomberg (recorded in the 2025 CCV).",
+    image: "/media/2021/04/image-14.png",
+  },
+  {
+    name: "Hannah Dykaar",
+    role: "Undergraduate researcher",
+    years: "2016",
+    research: "Gravitational-wave echoes from the abyss.",
+    destination: "PhD student, University of Toronto (recorded in the 2025 CCV).",
+    image: "/media/2015/07/unnamed-e1502618910753.jpg",
+  },
+  {
+    name: "Connor Adair",
+    role: "Undergraduate researcher",
+    years: "2017",
+    research: "Gravitational-wave echoes.",
+    destination: "MSc student, University of British Columbia (recorded in the 2025 CCV).",
+    image: "/media/2019/02/profile-pic.jpg",
+  },
+  {
+    name: "Aditya Dhumuntarao",
+    role: "Visiting PhD researcher",
+    years: "2017–2021",
+    research: "Quantum field theory in curved spacetime and local observers.",
+    destination: "Postdoctoral researcher, Sandia National Laboratories (recorded in the 2025 CCV).",
+    image: "/media/2018/04/aditya-e1522979303913.jpg",
+  },
+  {
+    name: "Michael Meiers",
+    role: "Master’s researcher",
+    years: "2014–2016",
+    research: "Universal horizons in black holes.",
+    destination: "PhD student, University of California–Davis (recorded in the 2025 CCV).",
+    image: "/media/2015/07/michael-meiers-e1440388294268.jpg",
+  },
+  {
+    name: "Yasaman K. Yazdi",
+    role: "Master’s researcher",
+    years: "2011–2013",
+    research: "Vacuum states and entropy from a spacetime perspective.",
+    destination: "Avadh Bhatia Postdoctoral Fellow, University of Alberta (recorded in the 2025 CCV).",
+    image: "/media/2015/07/img_1650_2-e1440387894698.jpg",
+  },
+];
+
+export const currentMembers = currentPeople.map((member) => member.name);
 
 export const alumni = [
   "Matthew Robbins", "Tomas Ghersi", "Mohammad Zhoolideh Haghighi",
@@ -43,6 +153,8 @@ export const recentTalks = [
     venue: "Simon Fraser University Physics Colloquium",
   },
 ];
+
+export const talksArchiveUrl = "https://www.dropbox.com/scl/fo/h3czitrga1jxz2tiev3dz/AA4bmJHNu_nipZS4aF5guus?rlkey=hr3wsei04cwpvprfe0952auim&dl=0";
 
 export const recentUpdates = [
   {

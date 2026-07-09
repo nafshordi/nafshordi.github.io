@@ -1,0 +1,5143 @@
+{
+  "generated_at": "2026-07-09T21:50:43+00:00",
+  "source_description": "Local My Talks archive (files remain in the source archive).",
+  "count": 570,
+  "by_format": {
+    "Keynote": 211,
+    "PDF": 216,
+    "PowerPoint": 137,
+    "Web slides": 6
+  },
+  "talks": [
+    {
+      "title": "RN50 talk template",
+      "category": "Abyss",
+      "year": null,
+      "format": "Keynote",
+      "path": "Abyss/RN50 talk template.key",
+      "modified": "2024-06-12",
+      "bytes": 1045749
+    },
+    {
+      "title": "RN50 talk template",
+      "category": "Abyss",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "Abyss/RN50 talk template.pptx",
+      "modified": "2024-06-12",
+      "bytes": 1078458
+    },
+    {
+      "title": "Abyss MSI McGill 2020",
+      "category": "Abyss",
+      "year": "2020",
+      "format": "Keynote",
+      "path": "Abyss/Abyss_MSI_McGill_2020.key",
+      "modified": "2020-09-16",
+      "bytes": 206914003
+    },
+    {
+      "title": "Testing Aspects of General Relativity-II Apr 2023",
+      "category": "Abyss",
+      "year": "2023",
+      "format": "Keynote",
+      "path": "Abyss/Testing Aspects of General Relativity-II_Apr_2023.key",
+      "modified": "2023-06-13",
+      "bytes": 57179910
+    },
+    {
+      "title": "Niayesh Ramesh June 2024",
+      "category": "Abyss",
+      "year": "2024",
+      "format": "Keynote",
+      "path": "Abyss/Niayesh_Ramesh_June_2024.key",
+      "modified": "2024-07-14",
+      "bytes": 33699663
+    },
+    {
+      "title": "aether",
+      "category": "aether",
+      "year": null,
+      "format": "PDF",
+      "path": "aether/aether.pdf",
+      "modified": "2008-06-03",
+      "bytes": 2305651
+    },
+    {
+      "title": "aether",
+      "category": "aether",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "aether/aether.pptx",
+      "modified": "2008-06-03",
+      "bytes": 713322
+    },
+    {
+      "title": "aether-Btt talk",
+      "category": "aether",
+      "year": null,
+      "format": "PDF",
+      "path": "aether/aether-Btt talk.pdf",
+      "modified": "2009-03-27",
+      "bytes": 290538
+    },
+    {
+      "title": "Aspen Jan 09",
+      "category": "aether",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "aether/Aspen_Jan_09.pptx",
+      "modified": "2009-01-27",
+      "bytes": 1222384
+    },
+    {
+      "title": "BH shape dynamics",
+      "category": "aether",
+      "year": null,
+      "format": "Keynote",
+      "path": "aether/BH_shape_dynamics.key",
+      "modified": "2013-07-22",
+      "bytes": 1601169
+    },
+    {
+      "title": "BH shape dynamics",
+      "category": "aether",
+      "year": null,
+      "format": "PDF",
+      "path": "aether/BH_shape_dynamics.pdf",
+      "modified": "2013-07-22",
+      "bytes": 6605466
+    },
+    {
+      "title": "Case Aug 09",
+      "category": "aether",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "aether/Case_Aug_09.pptx",
+      "modified": "2009-08-28",
+      "bytes": 1601006
+    },
+    {
+      "title": "CC philiosophy PI may 10",
+      "category": "aether",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "aether/CC_philiosophy_PI_may_10.pptx",
+      "modified": "2010-05-22",
+      "bytes": 1412944
+    },
+    {
+      "title": "CC philiosophy UWO may 11",
+      "category": "aether",
+      "year": null,
+      "format": "Keynote",
+      "path": "aether/CC_philiosophy_UWO_may_11.key",
+      "modified": "2011-05-07",
+      "bytes": 7735048
+    },
+    {
+      "title": "Gueph Colloquium Oct 19",
+      "category": "aether",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "aether/Gueph_Colloquium_Oct_19.pptx",
+      "modified": "2010-10-19",
+      "bytes": 46639324
+    },
+    {
+      "title": "IPMU Feb 09",
+      "category": "aether",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "aether/IPMU_Feb_09.pptx",
+      "modified": "2009-02-27",
+      "bytes": 1034484
+    },
+    {
+      "title": "KITPC Mar 09",
+      "category": "aether",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "aether/KITPC_Mar_09.pptx",
+      "modified": "2009-03-05",
+      "bytes": 1033773
+    },
+    {
+      "title": "Lorentz pic",
+      "category": "aether",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "aether/Lorentz_pic.pptx",
+      "modified": "2013-01-31",
+      "bytes": 6314182
+    },
+    {
+      "title": "miami 09",
+      "category": "aether",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "aether/miami_09.pptx",
+      "modified": "2009-12-16",
+      "bytes": 984289
+    },
+    {
+      "title": "miami 09 afshordi",
+      "category": "aether",
+      "year": null,
+      "format": "PDF",
+      "path": "aether/miami_09_afshordi.pdf",
+      "modified": "2009-12-16",
+      "bytes": 492226
+    },
+    {
+      "title": "PI CC May 09",
+      "category": "aether",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "aether/PI_CC_May_09.pptx",
+      "modified": "2009-05-27",
+      "bytes": 1626758
+    },
+    {
+      "title": "PI job talk Mar 09",
+      "category": "aether",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "aether/PI_job_talk_Mar_09.pptx",
+      "modified": "2009-03-19",
+      "bytes": 2443186
+    },
+    {
+      "title": "PI theory canada Jun 09",
+      "category": "aether",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "aether/PI_theory_canada_Jun_09.pptx",
+      "modified": "2009-06-04",
+      "bytes": 1614386
+    },
+    {
+      "title": "QG measurement ipm aug 10",
+      "category": "aether",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "aether/QG_measurement_ipm_aug_10.pptx",
+      "modified": "2010-08-16",
+      "bytes": 1507898
+    },
+    {
+      "title": "SFU Oct 09",
+      "category": "aether",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "aether/SFU_Oct_09.pptx",
+      "modified": "2009-10-08",
+      "bytes": 1675368
+    },
+    {
+      "title": "Stanford Sep 09",
+      "category": "aether",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "aether/Stanford_Sep_09.pptx",
+      "modified": "2009-09-28",
+      "bytes": 1675599
+    },
+    {
+      "title": "Vanderbilt Oct 09",
+      "category": "aether",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "aether/Vanderbilt_Oct_09.pptx",
+      "modified": "2009-10-02",
+      "bytes": 1675293
+    },
+    {
+      "title": "CITA25 May 2010",
+      "category": "aether",
+      "year": "2010",
+      "format": "PowerPoint",
+      "path": "aether/CITA25_May_2010.pptx",
+      "modified": "2010-05-14",
+      "bytes": 1691048
+    },
+    {
+      "title": "IAP Feb 2010",
+      "category": "aether",
+      "year": "2010",
+      "format": "PowerPoint",
+      "path": "aether/IAP_Feb_2010.pptx",
+      "modified": "2010-02-19",
+      "bytes": 1947309
+    },
+    {
+      "title": "miami 2010 Dec 19",
+      "category": "aether",
+      "year": "2010",
+      "format": "PowerPoint",
+      "path": "aether/miami_2010_Dec_19.pptx",
+      "modified": "2010-12-19",
+      "bytes": 2782799
+    },
+    {
+      "title": "Penn Feb 2010",
+      "category": "aether",
+      "year": "2010",
+      "format": "PowerPoint",
+      "path": "aether/Penn_Feb_2010.pptx",
+      "modified": "2010-02-08",
+      "bytes": 1607939
+    },
+    {
+      "title": "aether APC June 2011",
+      "category": "aether",
+      "year": "2011",
+      "format": "Keynote",
+      "path": "aether/aether_APC_June_2011.key",
+      "modified": "2011-06-16",
+      "bytes": 16980708
+    },
+    {
+      "title": "Einstein CITA Sep 2011",
+      "category": "aether",
+      "year": "2011",
+      "format": "Keynote",
+      "path": "aether/Einstein_CITA_Sep_2011.key",
+      "modified": "2011-09-17",
+      "bytes": 19992291
+    },
+    {
+      "title": "Einstein IUCAA Oct 2011",
+      "category": "aether",
+      "year": "2011",
+      "format": "PDF",
+      "path": "aether/Einstein_IUCAA_Oct_2011.pdf",
+      "modified": "2011-10-15",
+      "bytes": 8803902
+    },
+    {
+      "title": "Einstein IUCAA Oct 2011",
+      "category": "aether",
+      "year": "2011",
+      "format": "Keynote",
+      "path": "aether/Einstein_IUCAA_Oct_2011.key",
+      "modified": "2011-10-15",
+      "bytes": 36251698
+    },
+    {
+      "title": "Einstein KICP Oct 2011",
+      "category": "aether",
+      "year": "2011",
+      "format": "Keynote",
+      "path": "aether/Einstein_KICP_Oct_2011.key",
+      "modified": "2011-10-05",
+      "bytes": 25004934
+    },
+    {
+      "title": "rustbelt buffalo 2011 Jan 15",
+      "category": "aether",
+      "year": "2011",
+      "format": "PowerPoint",
+      "path": "aether/rustbelt_buffalo_2011_Jan_15.pptx",
+      "modified": "2011-01-15",
+      "bytes": 2675101
+    },
+    {
+      "title": "Aether PI May 2012",
+      "category": "aether",
+      "year": "2012",
+      "format": "Keynote",
+      "path": "aether/Aether_PI_May_2012.key",
+      "modified": "2012-05-09",
+      "bytes": 23130094
+    },
+    {
+      "title": "Aether PI Oct 2012",
+      "category": "aether",
+      "year": "2012",
+      "format": "Keynote",
+      "path": "aether/Aether_PI_Oct_2012.key",
+      "modified": "2012-10-24",
+      "bytes": 23184753
+    },
+    {
+      "title": "Einstein York Feb 2012",
+      "category": "aether",
+      "year": "2012",
+      "format": "Keynote",
+      "path": "aether/Einstein_York_Feb_2012.key",
+      "modified": "2012-02-28",
+      "bytes": 30548084
+    },
+    {
+      "title": "Einstein York Feb 2012",
+      "category": "aether",
+      "year": "2012",
+      "format": "PowerPoint",
+      "path": "aether/Einstein_York_Feb_2012.ppt",
+      "modified": "2012-03-17",
+      "bytes": 5067264
+    },
+    {
+      "title": "Eisntein Fail CASCA May 2013",
+      "category": "aether",
+      "year": "2013",
+      "format": "Keynote",
+      "path": "aether/Eisntein_Fail_CASCA_May_2013.key",
+      "modified": "2013-05-29",
+      "bytes": 19747056
+    },
+    {
+      "title": "Eisntein Fail SuperJedi July 2013",
+      "category": "aether",
+      "year": "2013",
+      "format": "Keynote",
+      "path": "aether/Eisntein_Fail_SuperJedi_July_2013.key",
+      "modified": "2013-07-04",
+      "bytes": 19458358
+    },
+    {
+      "title": "Lorentz Madison Feb 2013",
+      "category": "aether",
+      "year": "2013",
+      "format": "Keynote",
+      "path": "aether/Lorentz_Madison_Feb_2013.key",
+      "modified": "2022-11-25",
+      "bytes": null
+    },
+    {
+      "title": "Lorentz UTehran Oct 2014",
+      "category": "aether",
+      "year": "2014",
+      "format": "Keynote",
+      "path": "aether/Lorentz_UTehran_Oct_2014.key",
+      "modified": "2022-11-25",
+      "bytes": null
+    },
+    {
+      "title": "aether Philosophy summer inst jun 2018",
+      "category": "aether",
+      "year": "2018",
+      "format": "Keynote",
+      "path": "aether/aether_Philosophy_summer_inst_jun_2018.key",
+      "modified": "2018-06-14",
+      "bytes": 94152695
+    },
+    {
+      "title": "aether Philosophy summer inst jun 2018 2.29.44 AM",
+      "category": "aether",
+      "year": "2018",
+      "format": "PDF",
+      "path": "aether/aether_Philosophy_summer_inst_jun_2018 2.29.44 AM.pdf",
+      "modified": "2018-06-26",
+      "bytes": 26938511
+    },
+    {
+      "title": "aether Western Mar 2018",
+      "category": "aether",
+      "year": "2018",
+      "format": "Keynote",
+      "path": "aether/aether_Western_Mar_2018.key",
+      "modified": "2018-03-29",
+      "bytes": 85941032
+    },
+    {
+      "title": "Aether WU March 2018",
+      "category": "aether",
+      "year": "2018",
+      "format": "Keynote",
+      "path": "aether/Aether_WU_March_2018.key",
+      "modified": "2018-03-29",
+      "bytes": 16886808
+    },
+    {
+      "title": "1108.0396v1",
+      "category": "AiRE_disk",
+      "year": null,
+      "format": "PDF",
+      "path": "AiRE_disk/1108.0396v1.pdf",
+      "modified": "2016-05-03",
+      "bytes": 5612479
+    },
+    {
+      "title": "1309.5646v1",
+      "category": "AiRE_disk",
+      "year": null,
+      "format": "PDF",
+      "path": "AiRE_disk/1309.5646v1.pdf",
+      "modified": "2016-05-03",
+      "bytes": 1798593
+    },
+    {
+      "title": "AiRE disk DARK",
+      "category": "AiRE_disk",
+      "year": null,
+      "format": "PDF",
+      "path": "AiRE_disk/AiRE_disk_DARK.pdf",
+      "modified": "2016-05-04",
+      "bytes": 2526458
+    },
+    {
+      "title": "AiRE disk DARK",
+      "category": "AiRE_disk",
+      "year": null,
+      "format": "Keynote",
+      "path": "AiRE_disk/AiRE_disk_DARK.key",
+      "modified": "2016-05-10",
+      "bytes": 18720547
+    },
+    {
+      "title": "AiREGLQ (1)",
+      "category": "AiRE_disk",
+      "year": null,
+      "format": "PDF",
+      "path": "AiRE_disk/AiREGLQ (1).pdf",
+      "modified": "2016-05-03",
+      "bytes": 4028165
+    },
+    {
+      "title": "apj 779 2 95",
+      "category": "AiRE_disk",
+      "year": null,
+      "format": "PDF",
+      "path": "AiRE_disk/apj_779_2_95.pdf",
+      "modified": "2016-05-04",
+      "bytes": 897051
+    },
+    {
+      "title": "transitions1",
+      "category": "AiRE_disk",
+      "year": null,
+      "format": "PDF",
+      "path": "AiRE_disk/transitions1.pdf",
+      "modified": "2016-05-03",
+      "bytes": 1406540
+    },
+    {
+      "title": "transitions2",
+      "category": "AiRE_disk",
+      "year": null,
+      "format": "PDF",
+      "path": "AiRE_disk/transitions2.pdf",
+      "modified": "2016-05-03",
+      "bytes": 1408069
+    },
+    {
+      "title": "Alice Western 2015",
+      "category": "Alice",
+      "year": "2015",
+      "format": "Keynote",
+      "path": "Alice/Alice_Western_2015.key",
+      "modified": "2016-08-23",
+      "bytes": 70248563
+    },
+    {
+      "title": "Alice Western 2015",
+      "category": "Alice",
+      "year": "2015",
+      "format": "PDF",
+      "path": "Alice/Alice_Western_2015.pdf",
+      "modified": "2015-10-22",
+      "bytes": 37802614
+    },
+    {
+      "title": "Alice PSI 2016",
+      "category": "Alice",
+      "year": "2016",
+      "format": "Keynote",
+      "path": "Alice/Alice_PSI_2016.key",
+      "modified": "2016-08-23",
+      "bytes": 87007300
+    },
+    {
+      "title": "Fundamental ISW",
+      "category": "Aspen_08",
+      "year": null,
+      "format": "PDF",
+      "path": "Aspen_08/Fundamental ISW.pdf",
+      "modified": "2008-01-28",
+      "bytes": 3269254
+    },
+    {
+      "title": "Fundamental ISW",
+      "category": "Aspen_08",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "Aspen_08/Fundamental ISW.pptx",
+      "modified": "2008-01-28",
+      "bytes": 1582997
+    },
+    {
+      "title": "backreaction Chicago05 Poster",
+      "category": "backreaction",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "backreaction/backreaction_Chicago05_Poster.ppt",
+      "modified": "2005-12-08",
+      "bytes": 543744
+    },
+    {
+      "title": "backreaction MPA05",
+      "category": "backreaction",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "backreaction/backreaction_MPA05.ppt",
+      "modified": "2005-08-22",
+      "bytes": 1225728
+    },
+    {
+      "title": "backreaction MPA05 noanim",
+      "category": "backreaction",
+      "year": null,
+      "format": "PDF",
+      "path": "backreaction/backreaction_MPA05_noanim.pdf",
+      "modified": "2005-10-27",
+      "bytes": 1091491
+    },
+    {
+      "title": "backreaction MPA05 noanim",
+      "category": "backreaction",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "backreaction/backreaction_MPA05_noanim.ppt",
+      "modified": "2005-10-27",
+      "bytes": 1680384
+    },
+    {
+      "title": "seminar at UFL",
+      "category": "backreaction",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "backreaction/seminar at UFL.ppt",
+      "modified": "2005-08-08",
+      "bytes": 1150976
+    },
+    {
+      "title": "shell",
+      "category": "backreaction",
+      "year": null,
+      "format": "PDF",
+      "path": "backreaction/shell.pdf",
+      "modified": "2005-12-07",
+      "bytes": 13202
+    },
+    {
+      "title": "space",
+      "category": "backreaction",
+      "year": null,
+      "format": "PDF",
+      "path": "backreaction/space.pdf",
+      "modified": "2005-12-08",
+      "bytes": 13345
+    },
+    {
+      "title": "Kids Zoom Mar 2025",
+      "category": "Battle of the Big Bang",
+      "year": "2025",
+      "format": "Keynote",
+      "path": "Battle of the Big Bang/Kids_Zoom_Mar_2025.key",
+      "modified": "2025-03-05",
+      "bytes": 218255802
+    },
+    {
+      "title": "BH to Big Bang",
+      "category": "BH_to_Big_Bang",
+      "year": null,
+      "format": "PDF",
+      "path": "BH_to_Big_Bang/BH_to_Big_Bang.pdf",
+      "modified": "2015-10-26",
+      "bytes": 23139708
+    },
+    {
+      "title": "BH to Big Bang",
+      "category": "BH_to_Big_Bang",
+      "year": null,
+      "format": "Keynote",
+      "path": "BH_to_Big_Bang/BH_to_Big_Bang.key",
+      "modified": "2022-11-25",
+      "bytes": null
+    },
+    {
+      "title": "Big Bang-Fact vs Fiction",
+      "category": "Big Bang",
+      "year": null,
+      "format": "Keynote",
+      "path": "Big Bang/Big Bang-Fact vs Fiction.key",
+      "modified": "2021-05-27",
+      "bytes": 140198063
+    },
+    {
+      "title": "Big Bang-Fact vs Fiction",
+      "category": "Big Bang",
+      "year": null,
+      "format": "PDF",
+      "path": "Big Bang/Big Bang-Fact vs Fiction.pdf",
+      "modified": "2021-05-27",
+      "bytes": 3634957
+    },
+    {
+      "title": "Cosmology Trials",
+      "category": "Big Bang",
+      "year": null,
+      "format": "Keynote",
+      "path": "Big Bang/Cosmology Trials.key",
+      "modified": "2021-11-01",
+      "bytes": 512039007
+    },
+    {
+      "title": "Cosmology Trials PHYS 10",
+      "category": "Big Bang",
+      "year": null,
+      "format": "Keynote",
+      "path": "Big Bang/Cosmology Trials  PHYS 10.key",
+      "modified": "2021-11-10",
+      "bytes": 493049108
+    },
+    {
+      "title": "Dark Side",
+      "category": "Buffalo",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "Buffalo/Dark Side.pptx",
+      "modified": "2007-01-17",
+      "bytes": 2340782
+    },
+    {
+      "title": "CDM Haloes",
+      "category": "Cape Town Cosmo School 2012",
+      "year": "2012",
+      "format": "PDF",
+      "path": "Cape Town Cosmo School 2012/CDM Haloes.pdf",
+      "modified": "2012-01-23",
+      "bytes": 1713206
+    },
+    {
+      "title": "CDM Haloes",
+      "category": "Cape Town Cosmo School 2012",
+      "year": "2012",
+      "format": "Keynote",
+      "path": "Cape Town Cosmo School 2012/CDM Haloes.key",
+      "modified": "2012-01-23",
+      "bytes": 10537808
+    },
+    {
+      "title": "Lifshitz",
+      "category": "Cape Town Cosmo School 2012",
+      "year": "2012",
+      "format": "PDF",
+      "path": "Cape Town Cosmo School 2012/Lifshitz.pdf",
+      "modified": "2012-01-24",
+      "bytes": 1762677
+    },
+    {
+      "title": "Lifshitz",
+      "category": "Cape Town Cosmo School 2012",
+      "year": "2012",
+      "format": "Keynote",
+      "path": "Cape Town Cosmo School 2012/Lifshitz.key",
+      "modified": "2012-01-24",
+      "bytes": 2142320
+    },
+    {
+      "title": "beyond horizon",
+      "category": "Case-Western_08",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "Case-Western_08/beyond_horizon.pptx",
+      "modified": "2008-02-11",
+      "bytes": 47938968
+    },
+    {
+      "title": "catast",
+      "category": "catast",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "catast/catast.ppt",
+      "modified": "2005-04-14",
+      "bytes": 768000
+    },
+    {
+      "title": "catast cosmo05",
+      "category": "catast",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "catast/catast_cosmo05.ppt",
+      "modified": "2005-08-31",
+      "bytes": 671232
+    },
+    {
+      "title": "catast cosmo05",
+      "category": "catast",
+      "year": null,
+      "format": "PDF",
+      "path": "catast/catast_cosmo05.pdf",
+      "modified": "2005-08-31",
+      "bytes": 591877
+    },
+    {
+      "title": "caustics",
+      "category": "Caustics",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "Caustics/caustics.ppt",
+      "modified": "2007-06-21",
+      "bytes": 1267200
+    },
+    {
+      "title": "caustics",
+      "category": "Caustics",
+      "year": null,
+      "format": "Web slides",
+      "path": "Caustics/caustics.htm",
+      "modified": "2006-02-13",
+      "bytes": 2354
+    },
+    {
+      "title": "glast 07",
+      "category": "Caustics",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "Caustics/glast_07.pptx",
+      "modified": "2007-06-21",
+      "bytes": 946173
+    },
+    {
+      "title": "glast 07",
+      "category": "Caustics",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "Caustics/glast_07.ppt",
+      "modified": "2007-06-30",
+      "bytes": 2309120
+    },
+    {
+      "title": "CC many face",
+      "category": "CC_many_face",
+      "year": null,
+      "format": "PDF",
+      "path": "CC_many_face/CC_many_face.pdf",
+      "modified": "2016-09-26",
+      "bytes": 14907425
+    },
+    {
+      "title": "CC many face",
+      "category": "CC_many_face",
+      "year": null,
+      "format": "Keynote",
+      "path": "CC_many_face/CC_many_face.key",
+      "modified": "2017-01-16",
+      "bytes": 38774374
+    },
+    {
+      "title": "szplane",
+      "category": "CITA",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "CITA/szplane.pptx",
+      "modified": "2007-11-30",
+      "bytes": 1221378
+    },
+    {
+      "title": "cosmic baryonic budget",
+      "category": "cluster reading group",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "cluster reading group/cosmic baryonic budget.ppt",
+      "modified": "2007-07-20",
+      "bytes": 2703872
+    },
+    {
+      "title": "cosmic baryonic budget",
+      "category": "cluster reading group",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "cluster reading group/cosmic baryonic budget.pptx",
+      "modified": "2007-07-20",
+      "bytes": 1016236
+    },
+    {
+      "title": "CMB S4",
+      "category": "CNC",
+      "year": null,
+      "format": "Keynote",
+      "path": "CNC/CMB_S4.key",
+      "modified": "2015-09-21",
+      "bytes": 1299908
+    },
+    {
+      "title": "CMB S4",
+      "category": "CNC",
+      "year": null,
+      "format": "PDF",
+      "path": "CNC/CMB_S4.pdf",
+      "modified": "2015-09-21",
+      "bytes": 588108
+    },
+    {
+      "title": "CNC Case anomaly",
+      "category": "CNC",
+      "year": null,
+      "format": "PDF",
+      "path": "CNC/CNC_Case_anomaly.pdf",
+      "modified": "2014-09-11",
+      "bytes": 190255
+    },
+    {
+      "title": "CNC Case anomaly",
+      "category": "CNC",
+      "year": null,
+      "format": "Keynote",
+      "path": "CNC/CNC_Case_anomaly.key",
+      "modified": "2022-11-25",
+      "bytes": null
+    },
+    {
+      "title": "CnC Mannfest",
+      "category": "CNC",
+      "year": null,
+      "format": "Keynote",
+      "path": "CNC/CnC_Mannfest.key",
+      "modified": "2015-12-06",
+      "bytes": 21213612
+    },
+    {
+      "title": "CnC Mannfest",
+      "category": "CNC",
+      "year": null,
+      "format": "PDF",
+      "path": "CNC/CnC_Mannfest.pdf",
+      "modified": "2015-12-07",
+      "bytes": 7335723
+    },
+    {
+      "title": "CnC NBI",
+      "category": "CNC",
+      "year": null,
+      "format": "Keynote",
+      "path": "CNC/CnC_NBI.key",
+      "modified": "2016-05-03",
+      "bytes": 14412853
+    },
+    {
+      "title": "CnC NBI",
+      "category": "CNC",
+      "year": null,
+      "format": "PDF",
+      "path": "CNC/CnC_NBI.pdf",
+      "modified": "2016-05-03",
+      "bytes": 5293938
+    },
+    {
+      "title": "CNC Strong Gravity",
+      "category": "CNC",
+      "year": null,
+      "format": "PDF",
+      "path": "CNC/CNC Strong Gravity.pdf",
+      "modified": "2021-03-01",
+      "bytes": 9854956
+    },
+    {
+      "title": "CNC Strong Gravity",
+      "category": "CNC",
+      "year": null,
+      "format": "Keynote",
+      "path": "CNC/CNC Strong Gravity.key",
+      "modified": "2021-07-06",
+      "bytes": 28687863
+    },
+    {
+      "title": "LIGO noise CnC",
+      "category": "CNC",
+      "year": null,
+      "format": "PDF",
+      "path": "CNC/LIGO noise CnC.pdf",
+      "modified": "2019-07-17",
+      "bytes": 117664
+    },
+    {
+      "title": "NanoGravo+LIGO",
+      "category": "CNC",
+      "year": null,
+      "format": "Keynote",
+      "path": "CNC/NanoGravo+LIGO.key",
+      "modified": "2020-10-02",
+      "bytes": 54942629
+    },
+    {
+      "title": "Afshordi CNC miami 2014",
+      "category": "CNC",
+      "year": "2014",
+      "format": "PDF",
+      "path": "CNC/Afshordi_CNC_miami_2014.pdf",
+      "modified": "2014-12-17",
+      "bytes": 930492
+    },
+    {
+      "title": "Afshordi CNC miami 2014",
+      "category": "CNC",
+      "year": "2014",
+      "format": "Keynote",
+      "path": "CNC/Afshordi_CNC_miami_2014.key",
+      "modified": "2014-12-17",
+      "bytes": 2634413
+    },
+    {
+      "title": "Afshordi CnC APS AnnArbor 2015",
+      "category": "CNC",
+      "year": "2015",
+      "format": "PDF",
+      "path": "CNC/Afshordi_CnC_APS_AnnArbor_2015.pdf",
+      "modified": "2015-08-05",
+      "bytes": 3147867
+    },
+    {
+      "title": "Afshordi CNC Erlangen 2015",
+      "category": "CNC",
+      "year": "2015",
+      "format": "Keynote",
+      "path": "CNC/Afshordi_CNC_Erlangen_2015.key",
+      "modified": "2015-02-12",
+      "bytes": 25551892
+    },
+    {
+      "title": "Afshordi CnC PI convergence 2015",
+      "category": "CNC",
+      "year": "2015",
+      "format": "Keynote",
+      "path": "CNC/Afshordi_CnC_PI_convergence_2015.key",
+      "modified": "2015-09-21",
+      "bytes": 11932460
+    },
+    {
+      "title": "Afshordi CNC SFU 2015",
+      "category": "CNC",
+      "year": "2015",
+      "format": "Keynote",
+      "path": "CNC/Afshordi_CNC_SFU_2015.key",
+      "modified": "2015-02-11",
+      "bytes": 17250830
+    },
+    {
+      "title": "Afshordi CnC Theory Canada 2015",
+      "category": "CNC",
+      "year": "2015",
+      "format": "PDF",
+      "path": "CNC/Afshordi_CnC_Theory_Canada_2015.pdf",
+      "modified": "2015-06-12",
+      "bytes": 3253485
+    },
+    {
+      "title": "Afshordi CnC Theory Canada 2015",
+      "category": "CNC",
+      "year": "2015",
+      "format": "Keynote",
+      "path": "CNC/Afshordi_CnC_Theory_Canada_2015.key",
+      "modified": "2015-06-12",
+      "bytes": 11965938
+    },
+    {
+      "title": "Afshordi CNC Toronto 2015",
+      "category": "CNC",
+      "year": "2015",
+      "format": "Keynote",
+      "path": "CNC/Afshordi_CNC_Toronto_2015.key",
+      "modified": "2015-04-23",
+      "bytes": 22966583
+    },
+    {
+      "title": "Afshordi CNC Toronto 2015",
+      "category": "CNC",
+      "year": "2015",
+      "format": "PDF",
+      "path": "CNC/Afshordi_CNC_Toronto_2015.pdf",
+      "modified": "2015-04-21",
+      "bytes": 7155635
+    },
+    {
+      "title": "CnC PI Asymptotic 2018",
+      "category": "CNC",
+      "year": "2018",
+      "format": "Keynote",
+      "path": "CNC/CnC_PI_Asymptotic_2018.key",
+      "modified": "2018-06-05",
+      "bytes": 14910512
+    },
+    {
+      "title": "CnC BASIC 2019",
+      "category": "CNC",
+      "year": "2019",
+      "format": "PDF",
+      "path": "CNC/CnC_BASIC_2019.pdf",
+      "modified": "2019-01-10",
+      "bytes": 11024352
+    },
+    {
+      "title": "CnC BASIC 2019",
+      "category": "CNC",
+      "year": "2019",
+      "format": "Keynote",
+      "path": "CNC/CnC_BASIC_2019.key",
+      "modified": "2019-01-10",
+      "bytes": 15023153
+    },
+    {
+      "title": "CnC QG RG 2020",
+      "category": "CNC",
+      "year": "2020",
+      "format": "Keynote",
+      "path": "CNC/CnC_QG_RG_2020.key",
+      "modified": "2020-10-13",
+      "bytes": 79597366
+    },
+    {
+      "title": "CnC QG RG 2020",
+      "category": "CNC",
+      "year": "2020",
+      "format": "PDF",
+      "path": "CNC/CnC_QG_RG_2020.pdf",
+      "modified": "2020-10-13",
+      "bytes": 14759007
+    },
+    {
+      "title": "CnC MG 2021",
+      "category": "CNC",
+      "year": "2021",
+      "format": "Keynote",
+      "path": "CNC/CnC_MG_2021.key",
+      "modified": "2021-07-06",
+      "bytes": 78005883
+    },
+    {
+      "title": "CnC SUSY 2021",
+      "category": "CNC",
+      "year": "2021",
+      "format": "Keynote",
+      "path": "CNC/CnC_SUSY_2021.key",
+      "modified": "2021-08-25",
+      "bytes": 78195914
+    },
+    {
+      "title": "CnC PI cosmo group 2025",
+      "category": "CNC",
+      "year": "2025",
+      "format": "Keynote",
+      "path": "CNC/CnC_PI_cosmo_group_2025.key",
+      "modified": "2025-06-16",
+      "bytes": 78394513
+    },
+    {
+      "title": "concent",
+      "category": "concent",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "concent/concent.pptx",
+      "modified": "2007-02-15",
+      "bytes": 192966
+    },
+    {
+      "title": "concent",
+      "category": "concent",
+      "year": null,
+      "format": "PDF",
+      "path": "concent/concent.pdf",
+      "modified": "2007-02-19",
+      "bytes": 94513
+    },
+    {
+      "title": "IPM Apr 2025",
+      "category": "Copenhagen Survey",
+      "year": "2025",
+      "format": "PDF",
+      "path": "Copenhagen Survey/IPM_Apr_2025.pdf",
+      "modified": "2025-04-16",
+      "bytes": 4868289
+    },
+    {
+      "title": "IPM Apr 2025",
+      "category": "Copenhagen Survey",
+      "year": "2025",
+      "format": "Keynote",
+      "path": "Copenhagen Survey/IPM_Apr_2025.key",
+      "modified": "2025-04-16",
+      "bytes": 42197020
+    },
+    {
+      "title": "QG Plasma CnC",
+      "category": "Cosmology_QG_Plasma",
+      "year": null,
+      "format": "PDF",
+      "path": "Cosmology_QG_Plasma/QG_Plasma_CnC.pdf",
+      "modified": "2015-04-23",
+      "bytes": 7308608
+    },
+    {
+      "title": "QG Plasma CnC",
+      "category": "Cosmology_QG_Plasma",
+      "year": null,
+      "format": "Keynote",
+      "path": "Cosmology_QG_Plasma/QG_Plasma_CnC.key",
+      "modified": "2015-04-23",
+      "bytes": 30980563
+    },
+    {
+      "title": "D7",
+      "category": "Covid",
+      "year": null,
+      "format": "PDF",
+      "path": "Covid/D7.pdf",
+      "modified": "2020-07-21",
+      "bytes": 51275
+    },
+    {
+      "title": "I7",
+      "category": "Covid",
+      "year": null,
+      "format": "PDF",
+      "path": "Covid/I7.pdf",
+      "modified": "2020-07-21",
+      "bytes": 68689
+    },
+    {
+      "title": "Immunity",
+      "category": "Covid",
+      "year": null,
+      "format": "PDF",
+      "path": "Covid/Immunity.pdf",
+      "modified": "2020-11-11",
+      "bytes": 258444
+    },
+    {
+      "title": "Immunity",
+      "category": "Covid",
+      "year": null,
+      "format": "Keynote",
+      "path": "Covid/Immunity.key",
+      "modified": "2020-11-11",
+      "bytes": 967971
+    },
+    {
+      "title": "Orleans",
+      "category": "Covid",
+      "year": null,
+      "format": "PDF",
+      "path": "Covid/Orleans.pdf",
+      "modified": "2020-07-29",
+      "bytes": 29895
+    },
+    {
+      "title": "Untitled",
+      "category": "Covid",
+      "year": null,
+      "format": "Keynote",
+      "path": "Covid/Untitled.key",
+      "modified": "2020-09-01",
+      "bytes": 1284835
+    },
+    {
+      "title": "Covid Fields July 2020",
+      "category": "Covid",
+      "year": "2020",
+      "format": "Keynote",
+      "path": "Covid/Covid_Fields_July_2020.key",
+      "modified": "2020-07-28",
+      "bytes": 50988895
+    },
+    {
+      "title": "Covid Fields July 2020",
+      "category": "Covid",
+      "year": "2020",
+      "format": "PDF",
+      "path": "Covid/Covid_Fields_July_2020.pdf",
+      "modified": "2020-07-22",
+      "bytes": 31029424
+    },
+    {
+      "title": "Covid Google Sep 2020",
+      "category": "Covid",
+      "year": "2020",
+      "format": "Keynote",
+      "path": "Covid/Covid_Google_Sep_2020.key",
+      "modified": "2020-09-21",
+      "bytes": 61213969
+    },
+    {
+      "title": "Covid Iran SoA Sep 2020",
+      "category": "Covid",
+      "year": "2020",
+      "format": "Keynote",
+      "path": "Covid/Covid_Iran_SoA_Sep_2020.key",
+      "modified": "2020-11-03",
+      "bytes": 50567051
+    },
+    {
+      "title": "Covid PI July 2020",
+      "category": "Covid",
+      "year": "2020",
+      "format": "Keynote",
+      "path": "Covid/Covid_PI_July_2020.key",
+      "modified": "2020-07-29",
+      "bytes": 60737928
+    },
+    {
+      "title": "Covid PI July 2020",
+      "category": "Covid",
+      "year": "2020",
+      "format": "PDF",
+      "path": "Covid/Covid_PI_July_2020.pdf",
+      "modified": "2020-07-30",
+      "bytes": 5963263
+    },
+    {
+      "title": "Covid York Oct 2020",
+      "category": "Covid",
+      "year": "2020",
+      "format": "Keynote",
+      "path": "Covid/Covid_York_Oct_2020.key",
+      "modified": "2021-01-28",
+      "bytes": 74454584
+    },
+    {
+      "title": "Covid IAP Mar 2021",
+      "category": "Covid",
+      "year": "2021",
+      "format": "PDF",
+      "path": "Covid/Covid_IAP_Mar_2021.pdf",
+      "modified": "2021-03-24",
+      "bytes": 28221046
+    },
+    {
+      "title": "Covid IAP Mar 2021 copy",
+      "category": "Covid",
+      "year": "2021",
+      "format": "Keynote",
+      "path": "Covid/Covid_IAP_Mar_2021 copy.key",
+      "modified": "2021-03-24",
+      "bytes": 54753492
+    },
+    {
+      "title": "Covid UNI Apr 2021",
+      "category": "Covid",
+      "year": "2021",
+      "format": "Keynote",
+      "path": "Covid/Covid_UNI_Apr_2021.key",
+      "modified": "2021-05-09",
+      "bytes": 86470820
+    },
+    {
+      "title": "CROSS",
+      "category": "cross_poster",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "cross_poster/CROSS.ppt",
+      "modified": "2003-07-03",
+      "bytes": 712704
+    },
+    {
+      "title": "cross talk",
+      "category": "cross_talk",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "cross_talk/cross_talk.ppt",
+      "modified": "2003-12-12",
+      "bytes": 1336320
+    },
+    {
+      "title": "cross talk",
+      "category": "cross_talk",
+      "year": null,
+      "format": "Web slides",
+      "path": "cross_talk/cross_talk.htm",
+      "modified": "2004-07-29",
+      "bytes": 2277
+    },
+    {
+      "title": "cross talk AAS",
+      "category": "cross_talk",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "cross_talk/cross_talk_AAS.ppt",
+      "modified": "2004-01-05",
+      "bytes": 1719296
+    },
+    {
+      "title": "cross talk aspen",
+      "category": "cross_talk",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "cross_talk/cross_talk_aspen.ppt",
+      "modified": "2004-01-19",
+      "bytes": 1989120
+    },
+    {
+      "title": "cross talk columbia",
+      "category": "cross_talk",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "cross_talk/cross_talk_columbia.ppt",
+      "modified": "2004-02-10",
+      "bytes": 1246720
+    },
+    {
+      "title": "cross talk columbia",
+      "category": "cross_talk",
+      "year": null,
+      "format": "PDF",
+      "path": "cross_talk/cross_talk_columbia.pdf",
+      "modified": "2005-05-24",
+      "bytes": 634383
+    },
+    {
+      "title": "cross talk isw",
+      "category": "cross_talk",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "cross_talk/cross_talk_isw.ppt",
+      "modified": "2004-02-04",
+      "bytes": 1236480
+    },
+    {
+      "title": "cross talk old",
+      "category": "cross_talk",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "cross_talk/cross_talk_old.ppt",
+      "modified": "2003-12-04",
+      "bytes": 1374208
+    },
+    {
+      "title": "cross talk princeton",
+      "category": "cross_talk",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "cross_talk/cross_talk_princeton.ppt",
+      "modified": "2004-03-16",
+      "bytes": 1447424
+    },
+    {
+      "title": "cross talk upenn",
+      "category": "cross_talk",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "cross_talk/cross_talk_upenn.ppt",
+      "modified": "2003-12-08",
+      "bytes": 1411584
+    },
+    {
+      "title": "cuscuton",
+      "category": "Cuscuton",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "Cuscuton/cuscuton.ppt",
+      "modified": "2006-09-30",
+      "bytes": 1864704
+    },
+    {
+      "title": "Lee Fest 2025",
+      "category": "Cuscuton",
+      "year": "2025",
+      "format": "Keynote",
+      "path": "Cuscuton/Lee_Fest_2025.key",
+      "modified": "2025-06-04",
+      "bytes": 29742174
+    },
+    {
+      "title": "cosmo cruise 2019",
+      "category": "Dark Energy",
+      "year": "2019",
+      "format": "PDF",
+      "path": "Dark Energy/cosmo_cruise_2019.pdf",
+      "modified": "2019-09-09",
+      "bytes": 9587724
+    },
+    {
+      "title": "cosmo cruise 2019",
+      "category": "Dark Energy",
+      "year": "2019",
+      "format": "Keynote",
+      "path": "Dark Energy/cosmo_cruise_2019.key",
+      "modified": "2019-08-22",
+      "bytes": 22594729
+    },
+    {
+      "title": "disk ins",
+      "category": "disk_ins",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "disk_ins/disk_ins.ppt",
+      "modified": "2005-01-11",
+      "bytes": 1350144
+    },
+    {
+      "title": "thin disks",
+      "category": "disk_ins",
+      "year": null,
+      "format": "PDF",
+      "path": "disk_ins/thin disks.pdf",
+      "modified": "2005-01-10",
+      "bytes": 105743
+    },
+    {
+      "title": "Cooling+Heating McNamara@65",
+      "category": "DM hierarchy",
+      "year": null,
+      "format": "Keynote",
+      "path": "DM hierarchy/Cooling+Heating McNamara@65.key",
+      "modified": "2025-10-14",
+      "bytes": 29912913
+    },
+    {
+      "title": "DM hierarchy",
+      "category": "DM hierarchy",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "DM hierarchy/DM hierarchy.pptx",
+      "modified": "2008-12-18",
+      "bytes": 1945345
+    },
+    {
+      "title": "DM hierarchy Case Feb 10",
+      "category": "DM hierarchy",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "DM hierarchy/DM hierarchy_Case_Feb_10.pptx",
+      "modified": "2010-02-12",
+      "bytes": 3897108
+    },
+    {
+      "title": "DM hierarchy IPM Aug 10",
+      "category": "DM hierarchy",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "DM hierarchy/DM hierarchy_IPM_Aug_10.pptx",
+      "modified": "2010-08-02",
+      "bytes": 4032723
+    },
+    {
+      "title": "DM hierarchy KIAA Oct 13",
+      "category": "DM hierarchy",
+      "year": null,
+      "format": "Keynote",
+      "path": "DM hierarchy/DM hierarchy_KIAA_Oct_13.key",
+      "modified": "2022-11-25",
+      "bytes": null
+    },
+    {
+      "title": "DM hierarchy KITPC Mar 09",
+      "category": "DM hierarchy",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "DM hierarchy/DM hierarchy_ KITPC_Mar_09.pptx",
+      "modified": "2009-03-09",
+      "bytes": 2748746
+    },
+    {
+      "title": "DM hierarchy McMaster Jun 16",
+      "category": "DM hierarchy",
+      "year": null,
+      "format": "Keynote",
+      "path": "DM hierarchy/DM hierarchy_McMaster_Jun_16.key",
+      "modified": "2016-06-24",
+      "bytes": 29817506
+    },
+    {
+      "title": "DM hierarchy McMaster Jun 16",
+      "category": "DM hierarchy",
+      "year": null,
+      "format": "PDF",
+      "path": "DM hierarchy/DM hierarchy_McMaster_Jun_16.pdf",
+      "modified": "2016-06-24",
+      "bytes": 2777326
+    },
+    {
+      "title": "DM hierarchy Michigan Jan 11",
+      "category": "DM hierarchy",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "DM hierarchy/DM hierarchy_Michigan_Jan_11.pptx",
+      "modified": "2011-03-02",
+      "bytes": 4255690
+    },
+    {
+      "title": "DM hierarchy MIT Jun 09",
+      "category": "DM hierarchy",
+      "year": null,
+      "format": "PDF",
+      "path": "DM hierarchy/DM hierarchy_MIT_Jun_09.pdf",
+      "modified": "2009-06-11",
+      "bytes": 4126630
+    },
+    {
+      "title": "DM hierarchy MIT Jun 09",
+      "category": "DM hierarchy",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "DM hierarchy/DM hierarchy_MIT_Jun_09.pptx",
+      "modified": "2009-06-11",
+      "bytes": 3204400
+    },
+    {
+      "title": "DM hierarchy MIT Jun 09",
+      "category": "DM hierarchy",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "DM hierarchy/DM hierarchy_MIT_Jun_09.ppt",
+      "modified": "2009-06-14",
+      "bytes": 7780864
+    },
+    {
+      "title": "DM hierarchy Mitchell May 14",
+      "category": "DM hierarchy",
+      "year": null,
+      "format": "Keynote",
+      "path": "DM hierarchy/DM hierarchy_Mitchell_May_14.key",
+      "modified": "2022-11-25",
+      "bytes": null
+    },
+    {
+      "title": "DM hierarchy Mitchell May 14",
+      "category": "DM hierarchy",
+      "year": null,
+      "format": "PDF",
+      "path": "DM hierarchy/DM hierarchy_Mitchell_May_14.pdf",
+      "modified": "2014-05-15",
+      "bytes": 6406507
+    },
+    {
+      "title": "DM hierarchy PI Oct 13",
+      "category": "DM hierarchy",
+      "year": null,
+      "format": "Keynote",
+      "path": "DM hierarchy/DM hierarchy_PI_Oct_13.key",
+      "modified": "2013-10-11",
+      "bytes": 15749614
+    },
+    {
+      "title": "DM hierarchy PI Sep 11",
+      "category": "DM hierarchy",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "DM hierarchy/DM hierarchy_PI_Sep_11.pptx",
+      "modified": "2012-04-13",
+      "bytes": 5694812
+    },
+    {
+      "title": "DM hierarchy Queens Mar 10",
+      "category": "DM hierarchy",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "DM hierarchy/DM hierarchy_Queens_Mar_10.pptx",
+      "modified": "2010-03-15",
+      "bytes": 3896848
+    },
+    {
+      "title": "DM hierarchy Sharif Oct 14",
+      "category": "DM hierarchy",
+      "year": null,
+      "format": "Keynote",
+      "path": "DM hierarchy/DM hierarchy_Sharif_Oct_14.key",
+      "modified": "2022-11-25",
+      "bytes": null
+    },
+    {
+      "title": "DM hierarchy Syracuse Mar 09",
+      "category": "DM hierarchy",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "DM hierarchy/DM hierarchy_ Syracuse_Mar_09.pptx",
+      "modified": "2009-03-23",
+      "bytes": 3978761
+    },
+    {
+      "title": "DM hierarchy TAMU Mar 13",
+      "category": "DM hierarchy",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "DM hierarchy/DM hierarchy_TAMU_Mar_13.pptx",
+      "modified": "2013-03-10",
+      "bytes": 4888794
+    },
+    {
+      "title": "DM hierarchy TAMU Mar 13",
+      "category": "DM hierarchy",
+      "year": null,
+      "format": "PDF",
+      "path": "DM hierarchy/DM hierarchy_TAMU_Mar_13.pdf",
+      "modified": "2013-03-10",
+      "bytes": 5845098
+    },
+    {
+      "title": "DM hierarchy UNM May 11",
+      "category": "DM hierarchy",
+      "year": null,
+      "format": "PDF",
+      "path": "DM hierarchy/DM hierarchy_UNM_May_11.pdf",
+      "modified": "2011-06-02",
+      "bytes": 5090069
+    },
+    {
+      "title": "DM hierarchy UNM May 11",
+      "category": "DM hierarchy",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "DM hierarchy/DM hierarchy_UNM_May_11.pptx",
+      "modified": "2011-05-29",
+      "bytes": 4012600
+    },
+    {
+      "title": "DM hierarchy UW Mar 09",
+      "category": "DM hierarchy",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "DM hierarchy/DM hierarchy_UW_Mar_09 - Copy.pptx",
+      "modified": "2009-03-25",
+      "bytes": 3978786
+    },
+    {
+      "title": "DM hierarchy UW Mar 11",
+      "category": "DM hierarchy",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "DM hierarchy/DM hierarchy_UW_Mar_11.pptx",
+      "modified": "2011-03-02",
+      "bytes": 4342132
+    },
+    {
+      "title": "DM hierarchy UW Sep 14",
+      "category": "DM hierarchy",
+      "year": null,
+      "format": "Keynote",
+      "path": "DM hierarchy/DM hierarchy_UW_Sep_14.key",
+      "modified": "2022-11-25",
+      "bytes": null
+    },
+    {
+      "title": "Extreme Feedback GEESE-ON",
+      "category": "DM hierarchy",
+      "year": null,
+      "format": "PDF",
+      "path": "DM hierarchy/Extreme Feedback GEESE-ON.pdf",
+      "modified": "2025-10-14",
+      "bytes": 36543990
+    },
+    {
+      "title": "OfDM",
+      "category": "DM hierarchy",
+      "year": null,
+      "format": "Keynote",
+      "path": "DM hierarchy/OfDM.key",
+      "modified": "2019-11-15",
+      "bytes": 1326908
+    },
+    {
+      "title": "Dark in extremes PI 2017",
+      "category": "DM hierarchy",
+      "year": "2017",
+      "format": "Keynote",
+      "path": "DM hierarchy/Dark_in_extremes_PI_2017.key",
+      "modified": "2017-12-07",
+      "bytes": 38051651
+    },
+    {
+      "title": "Dark in extremes Queens 2017",
+      "category": "DM hierarchy",
+      "year": "2017",
+      "format": "Keynote",
+      "path": "DM hierarchy/Dark_in_extremes_Queens_2017.key",
+      "modified": "2017-10-31",
+      "bytes": 62580172
+    },
+    {
+      "title": "Blind Spots Rotman Jun 2018",
+      "category": "DM hierarchy",
+      "year": "2018",
+      "format": "Keynote",
+      "path": "DM hierarchy/Blind_Spots_Rotman_Jun_2018.key",
+      "modified": "2018-06-15",
+      "bytes": 37952277
+    },
+    {
+      "title": "Blind Spots Rotman Jun 2018 2.29.44 AM",
+      "category": "DM hierarchy",
+      "year": "2018",
+      "format": "PDF",
+      "path": "DM hierarchy/Blind_Spots_Rotman_Jun_2018 2.29.44 AM.pdf",
+      "modified": "2018-06-26",
+      "bytes": 13416216
+    },
+    {
+      "title": "Nanostructure CITA Jun 2018",
+      "category": "DM hierarchy",
+      "year": "2018",
+      "format": "Keynote",
+      "path": "DM hierarchy/Nanostructure_CITA_Jun_2018.key",
+      "modified": "2018-06-26",
+      "bytes": 45588717
+    },
+    {
+      "title": "Nanostructure CITA Jun 2018 2.29.44 AM",
+      "category": "DM hierarchy",
+      "year": "2018",
+      "format": "PDF",
+      "path": "DM hierarchy/Nanostructure_CITA_Jun_2018 2.29.44 AM.pdf",
+      "modified": "2018-06-26",
+      "bytes": 13616647
+    },
+    {
+      "title": "dm windows",
+      "category": "dm_windows",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "dm_windows/dm_windows.ppt",
+      "modified": "2006-02-03",
+      "bytes": 1249280
+    },
+    {
+      "title": "dm windows",
+      "category": "dm_windows",
+      "year": null,
+      "format": "Web slides",
+      "path": "dm_windows/dm_windows.htm",
+      "modified": "2006-02-13",
+      "bytes": 2474
+    },
+    {
+      "title": "SFU Nov 2023",
+      "category": "Echo+Specs",
+      "year": "2023",
+      "format": "PDF",
+      "path": "Echo+Specs/SFU_Nov_2023.pdf",
+      "modified": "2024-09-03",
+      "bytes": 104171250
+    },
+    {
+      "title": "Tsinghua 2024",
+      "category": "Echo+Specs",
+      "year": "2024",
+      "format": "Keynote",
+      "path": "Echo+Specs/Tsinghua_2024.key",
+      "modified": "2024-07-24",
+      "bytes": 41854564
+    },
+    {
+      "title": "Tsinghua 2024",
+      "category": "Echo+Specs",
+      "year": "2024",
+      "format": "PDF",
+      "path": "Echo+Specs/Tsinghua_2024.pdf",
+      "modified": "2024-07-24",
+      "bytes": 24213576
+    },
+    {
+      "title": "BIU echoes",
+      "category": "Echoes",
+      "year": null,
+      "format": "Keynote",
+      "path": "Echoes/BIU echoes.key",
+      "modified": "2020-05-24",
+      "bytes": 70541476
+    },
+    {
+      "title": "BIU echoes",
+      "category": "Echoes",
+      "year": null,
+      "format": "PDF",
+      "path": "Echoes/BIU echoes.pdf",
+      "modified": "2020-05-20",
+      "bytes": 30353293
+    },
+    {
+      "title": "Black Holes, Unscripted",
+      "category": "Echoes",
+      "year": null,
+      "format": "PDF",
+      "path": "Echoes/Black Holes, Unscripted.pdf",
+      "modified": "2021-05-05",
+      "bytes": 7538506
+    },
+    {
+      "title": "Black Holes, Unscripted",
+      "category": "Echoes",
+      "year": null,
+      "format": "Keynote",
+      "path": "Echoes/Black Holes, Unscripted.key",
+      "modified": "2021-05-04",
+      "bytes": 101199040
+    },
+    {
+      "title": "Black Holes, Unscripted, Paris",
+      "category": "Echoes",
+      "year": null,
+      "format": "Keynote",
+      "path": "Echoes/Black Holes, Unscripted, Paris.key",
+      "modified": "2021-06-07",
+      "bytes": 104859908
+    },
+    {
+      "title": "Echo COVID 1",
+      "category": "Echoes",
+      "year": null,
+      "format": "PDF",
+      "path": "Echoes/Echo_COVID_1.pdf",
+      "modified": "2020-05-07",
+      "bytes": 42770
+    },
+    {
+      "title": "Echo COVID 2",
+      "category": "Echoes",
+      "year": null,
+      "format": "PDF",
+      "path": "Echoes/Echo_COVID_2.pdf",
+      "modified": "2020-05-07",
+      "bytes": 36786
+    },
+    {
+      "title": "Echoes",
+      "category": "Echoes",
+      "year": null,
+      "format": "PDF",
+      "path": "Echoes/Echoes.pdf",
+      "modified": "2017-01-17",
+      "bytes": 21379595
+    },
+    {
+      "title": "Einstein vs Einstein",
+      "category": "Echoes",
+      "year": null,
+      "format": "PDF",
+      "path": "Echoes/Einstein vs Einstein.pdf",
+      "modified": "2021-12-03",
+      "bytes": 55561720
+    },
+    {
+      "title": "Einstein vs Einstein (CERN)",
+      "category": "Echoes",
+      "year": null,
+      "format": "Keynote",
+      "path": "Echoes/Einstein vs Einstein (CERN).key",
+      "modified": "2022-01-19",
+      "bytes": 184506033
+    },
+    {
+      "title": "Einstein vs Einstein (IPM)",
+      "category": "Echoes",
+      "year": null,
+      "format": "Keynote",
+      "path": "Echoes/Einstein vs Einstein (IPM).key",
+      "modified": "2022-02-02",
+      "bytes": 184524637
+    },
+    {
+      "title": "Einstein vs Einstein (IPM)",
+      "category": "Echoes",
+      "year": null,
+      "format": "PDF",
+      "path": "Echoes/Einstein vs Einstein (IPM).pdf",
+      "modified": "2022-02-02",
+      "bytes": 8831113
+    },
+    {
+      "title": "Einstein vs Einstein (Southampton)",
+      "category": "Echoes",
+      "year": null,
+      "format": "Keynote",
+      "path": "Echoes/Einstein vs Einstein (Southampton).key",
+      "modified": "2025-06-26",
+      "bytes": 186619286
+    },
+    {
+      "title": "Einstein vs Einstein (Testing GR 22)",
+      "category": "Echoes",
+      "year": null,
+      "format": "Keynote",
+      "path": "Echoes/Einstein vs Einstein (Testing_GR_22).key",
+      "modified": "2022-03-13",
+      "bytes": 190038587
+    },
+    {
+      "title": "Einstein vs Einstein Iran",
+      "category": "Echoes",
+      "year": null,
+      "format": "Keynote",
+      "path": "Echoes/Einstein vs Einstein  Iran.key",
+      "modified": "2021-12-14",
+      "bytes": 186591496
+    },
+    {
+      "title": "Einstein vs Einstein small",
+      "category": "Echoes",
+      "year": null,
+      "format": "PDF",
+      "path": "Echoes/Einstein vs Einstein small.pdf",
+      "modified": "2021-12-03",
+      "bytes": 8773602
+    },
+    {
+      "title": "GW170817 BH",
+      "category": "Echoes",
+      "year": null,
+      "format": "PDF",
+      "path": "Echoes/GW170817_BH.pdf",
+      "modified": "2018-02-27",
+      "bytes": 18010
+    },
+    {
+      "title": "IPM echoes",
+      "category": "Echoes",
+      "year": null,
+      "format": "Keynote",
+      "path": "Echoes/IPM echoes.key",
+      "modified": "2020-06-19",
+      "bytes": 70544553
+    },
+    {
+      "title": "PstrainE2THlinearamplitudes v2",
+      "category": "Echoes",
+      "year": null,
+      "format": "PDF",
+      "path": "Echoes/PstrainE2THlinearamplitudes_v2.pdf",
+      "modified": "2020-05-07",
+      "bytes": 10536
+    },
+    {
+      "title": "PstrainETHlinearamplitudes v2",
+      "category": "Echoes",
+      "year": null,
+      "format": "PDF",
+      "path": "Echoes/PstrainETHlinearamplitudes_v2.pdf",
+      "modified": "2020-05-07",
+      "bytes": 10187
+    },
+    {
+      "title": "QBH, Damghan",
+      "category": "Echoes",
+      "year": null,
+      "format": "Keynote",
+      "path": "Echoes/QBH, Damghan.key",
+      "modified": "2022-03-10",
+      "bytes": 185432082
+    },
+    {
+      "title": "Quantum BH cartoon",
+      "category": "Echoes",
+      "year": null,
+      "format": "Keynote",
+      "path": "Echoes/Quantum_BH_cartoon.key",
+      "modified": "2019-04-13",
+      "bytes": 410435
+    },
+    {
+      "title": "Quantum BH cartoon",
+      "category": "Echoes",
+      "year": null,
+      "format": "PDF",
+      "path": "Echoes/Quantum_BH_cartoon.pdf",
+      "modified": "2019-04-13",
+      "bytes": 26688
+    },
+    {
+      "title": "Specη50E2TH",
+      "category": "Echoes",
+      "year": null,
+      "format": "PDF",
+      "path": "Echoes/Specη50E2TH.pdf",
+      "modified": "2020-05-07",
+      "bytes": 17911
+    },
+    {
+      "title": "Specη50ETH",
+      "category": "Echoes",
+      "year": null,
+      "format": "PDF",
+      "path": "Echoes/Specη50ETH.pdf",
+      "modified": "2020-05-07",
+      "bytes": 16082
+    },
+    {
+      "title": "summary Jing",
+      "category": "Echoes",
+      "year": null,
+      "format": "Keynote",
+      "path": "Echoes/summary_Jing.key",
+      "modified": "2017-12-09",
+      "bytes": 5975407
+    },
+    {
+      "title": "Zanjan echoes",
+      "category": "Echoes",
+      "year": null,
+      "format": "Keynote",
+      "path": "Echoes/Zanjan echoes.key",
+      "modified": "2020-05-28",
+      "bytes": 70545992
+    },
+    {
+      "title": "Zanjan echoes",
+      "category": "Echoes",
+      "year": null,
+      "format": "PDF",
+      "path": "Echoes/Zanjan echoes.pdf",
+      "modified": "2020-05-28",
+      "bytes": 16731884
+    },
+    {
+      "title": "Afshordi Echoes CosPA2017",
+      "category": "Echoes",
+      "year": "2017",
+      "format": "PDF",
+      "path": "Echoes/Afshordi_Echoes_CosPA2017.pdf",
+      "modified": "2017-12-13",
+      "bytes": 28179266
+    },
+    {
+      "title": "Afshordi Echoes PAX 2017",
+      "category": "Echoes",
+      "year": "2017",
+      "format": "PDF",
+      "path": "Echoes/Afshordi_Echoes_PAX_2017.pdf",
+      "modified": "2017-08-15",
+      "bytes": 10884468
+    },
+    {
+      "title": "Echoes CosPA2017",
+      "category": "Echoes",
+      "year": "2017",
+      "format": "PDF",
+      "path": "Echoes/Echoes_CosPA2017.pdf",
+      "modified": "2017-12-13",
+      "bytes": 28179266
+    },
+    {
+      "title": "Echoes CosPA2017",
+      "category": "Echoes",
+      "year": "2017",
+      "format": "Keynote",
+      "path": "Echoes/Echoes_CosPA2017.key",
+      "modified": "2017-12-13",
+      "bytes": 83405345
+    },
+    {
+      "title": "Echoes KU 2017",
+      "category": "Echoes",
+      "year": "2017",
+      "format": "Keynote",
+      "path": "Echoes/Echoes_KU_2017.key",
+      "modified": "2017-12-13",
+      "bytes": 146885472
+    },
+    {
+      "title": "Echoes OSU 2017",
+      "category": "Echoes",
+      "year": "2017",
+      "format": "Keynote",
+      "path": "Echoes/Echoes_OSU_2017.key",
+      "modified": "2017-02-22",
+      "bytes": 63667161
+    },
+    {
+      "title": "Echoes OSU 2017",
+      "category": "Echoes",
+      "year": "2017",
+      "format": "PDF",
+      "path": "Echoes/Echoes_OSU_2017.pdf",
+      "modified": "2017-02-22",
+      "bytes": 22778449
+    },
+    {
+      "title": "Echoes PAX 2017",
+      "category": "Echoes",
+      "year": "2017",
+      "format": "Keynote",
+      "path": "Echoes/Echoes_PAX_2017.key",
+      "modified": "2017-08-15",
+      "bytes": 39451022
+    },
+    {
+      "title": "Echoes PI 2017",
+      "category": "Echoes",
+      "year": "2017",
+      "format": "PDF",
+      "path": "Echoes/Echoes_PI_2017.pdf",
+      "modified": "2017-02-05",
+      "bytes": 23928712
+    },
+    {
+      "title": "Echoes PI 2017",
+      "category": "Echoes",
+      "year": "2017",
+      "format": "Keynote",
+      "path": "Echoes/Echoes_PI_2017.key",
+      "modified": "2017-02-02",
+      "bytes": 63595416
+    },
+    {
+      "title": "Echoes UW 2017",
+      "category": "Echoes",
+      "year": "2017",
+      "format": "Keynote",
+      "path": "Echoes/Echoes_UW_2017.key",
+      "modified": "2017-01-17",
+      "bytes": 58377641
+    },
+    {
+      "title": "Echoes Vancouver 2017",
+      "category": "Echoes",
+      "year": "2017",
+      "format": "PDF",
+      "path": "Echoes/Echoes_Vancouver_2017.pdf",
+      "modified": "2017-01-27",
+      "bytes": 21525913
+    },
+    {
+      "title": "Echoes Vancouver 2017",
+      "category": "Echoes",
+      "year": "2017",
+      "format": "Keynote",
+      "path": "Echoes/Echoes_Vancouver_2017.key",
+      "modified": "2017-01-27",
+      "bytes": 59323785
+    },
+    {
+      "title": "Echoes McGill Apr 2018",
+      "category": "Echoes",
+      "year": "2018",
+      "format": "Keynote",
+      "path": "Echoes/Echoes_McGill_Apr_2018.key",
+      "modified": "2018-04-06",
+      "bytes": 192243330
+    },
+    {
+      "title": "Echoes PI Feb 2018",
+      "category": "Echoes",
+      "year": "2018",
+      "format": "Keynote",
+      "path": "Echoes/Echoes_PI_Feb_2018.key",
+      "modified": "2018-02-28",
+      "bytes": 93689508
+    },
+    {
+      "title": "Echoes Solvay May 2018",
+      "category": "Echoes",
+      "year": "2018",
+      "format": "Keynote",
+      "path": "Echoes/Echoes_Solvay_May_2018.key",
+      "modified": "2018-05-15",
+      "bytes": 192312366
+    },
+    {
+      "title": "Echoes Western Mar 2018",
+      "category": "Echoes",
+      "year": "2018",
+      "format": "Keynote",
+      "path": "Echoes/Echoes_Western_Mar_2018.key",
+      "modified": "2018-03-29",
+      "bytes": 187866616
+    },
+    {
+      "title": "Echoes TG19 Jan 2019",
+      "category": "Echoes",
+      "year": "2019",
+      "format": "PDF",
+      "path": "Echoes/Echoes_TG19_Jan_2019.pdf",
+      "modified": "2019-01-24",
+      "bytes": 34215697
+    },
+    {
+      "title": "Echoes TG19 Jan 2019",
+      "category": "Echoes",
+      "year": "2019",
+      "format": "Keynote",
+      "path": "Echoes/Echoes_TG19_Jan_2019.key",
+      "modified": "2019-07-09",
+      "bytes": 72193026
+    },
+    {
+      "title": "Echoes status update PI Jan 2020",
+      "category": "Echoes",
+      "year": "2020",
+      "format": "Keynote",
+      "path": "Echoes/Echoes_status_update_PI_Jan_2020.key",
+      "modified": "2021-06-07",
+      "bytes": 72444350
+    },
+    {
+      "title": "LISA echoes 2020",
+      "category": "Echoes",
+      "year": "2020",
+      "format": "PDF",
+      "path": "Echoes/LISA echoes 2020.pdf",
+      "modified": "2020-08-22",
+      "bytes": 21200506
+    },
+    {
+      "title": "LISA echoes 2020",
+      "category": "Echoes",
+      "year": "2020",
+      "format": "Keynote",
+      "path": "Echoes/LISA echoes 2020.key",
+      "modified": "2020-08-22",
+      "bytes": 70564578
+    },
+    {
+      "title": "Stimulating Hawking (GGI 2022)",
+      "category": "Echoes",
+      "year": "2022",
+      "format": "Keynote",
+      "path": "Echoes/Stimulating Hawking (GGI 2022).key",
+      "modified": "2022-04-07",
+      "bytes": 195957063
+    },
+    {
+      "title": "Stimulating Hawking (GGI 2022)",
+      "category": "Echoes",
+      "year": "2022",
+      "format": "PDF",
+      "path": "Echoes/Stimulating Hawking (GGI 2022).pdf",
+      "modified": "2024-10-13",
+      "bytes": 8508553
+    },
+    {
+      "title": "Stimulating Hawking (QSimFP 2022)",
+      "category": "Echoes",
+      "year": "2022",
+      "format": "Keynote",
+      "path": "Echoes/Stimulating Hawking (QSimFP 2022).key",
+      "modified": "2024-11-04",
+      "bytes": 204563414
+    },
+    {
+      "title": "EFT CalTech 16",
+      "category": "EFT",
+      "year": null,
+      "format": "Keynote",
+      "path": "EFT/EFT_CalTech_16.key",
+      "modified": "2016-07-21",
+      "bytes": 22264577
+    },
+    {
+      "title": "EFT CalTech 16 afshordi",
+      "category": "EFT",
+      "year": null,
+      "format": "PDF",
+      "path": "EFT/EFT_CalTech_16_afshordi.pdf",
+      "modified": "2016-07-21",
+      "bytes": 8827281
+    },
+    {
+      "title": "EFT CalTech 16 afshordi",
+      "category": "EFT",
+      "year": null,
+      "format": "Keynote",
+      "path": "EFT/EFT_CalTech_16_afshordi.key",
+      "modified": "2016-07-21",
+      "bytes": 10945110
+    },
+    {
+      "title": "SFU Nov 2023",
+      "category": "Endgame_colloquia",
+      "year": "2023",
+      "format": "Keynote",
+      "path": "Endgame_colloquia/SFU_Nov_2023.key",
+      "modified": "2023-11-24",
+      "bytes": 231858950
+    },
+    {
+      "title": "SFU Nov 2023",
+      "category": "Endgame_colloquia",
+      "year": "2023",
+      "format": "PDF",
+      "path": "Endgame_colloquia/SFU_Nov_2023.pdf",
+      "modified": "2024-09-03",
+      "bytes": 104171250
+    },
+    {
+      "title": "Sikkim Bani Dec 2023",
+      "category": "Endgame_colloquia",
+      "year": "2023",
+      "format": "Keynote",
+      "path": "Endgame_colloquia/Sikkim_Bani_Dec_2023.key",
+      "modified": "2023-12-13",
+      "bytes": 195202402
+    },
+    {
+      "title": "UBC Jan 2023",
+      "category": "Endgame_colloquia",
+      "year": "2023",
+      "format": "Keynote",
+      "path": "Endgame_colloquia/UBC_Jan_2023.key",
+      "modified": "2023-01-16",
+      "bytes": 94244786
+    },
+    {
+      "title": "Rome Feb 2024",
+      "category": "Endgame_colloquia",
+      "year": "2024",
+      "format": "Keynote",
+      "path": "Endgame_colloquia/Rome_Feb_2024.key",
+      "modified": "2024-02-13",
+      "bytes": 240886731
+    },
+    {
+      "title": "Rome Feb 2024",
+      "category": "Endgame_colloquia",
+      "year": "2024",
+      "format": "PDF",
+      "path": "Endgame_colloquia/Rome_Feb_2024.pdf",
+      "modified": "2024-02-16",
+      "bytes": 8471658
+    },
+    {
+      "title": "FPO",
+      "category": "FPO",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "FPO/FPO.ppt",
+      "modified": "2004-07-23",
+      "bytes": 2291200
+    },
+    {
+      "title": "FPO",
+      "category": "FPO",
+      "year": null,
+      "format": "Web slides",
+      "path": "FPO/FPO.htm",
+      "modified": "2004-07-29",
+      "bytes": 2292
+    },
+    {
+      "title": "Gaia action PI 2019",
+      "category": "Gaia",
+      "year": "2019",
+      "format": "Keynote",
+      "path": "Gaia/Gaia_action_PI_2019.key",
+      "modified": "2019-08-08",
+      "bytes": 163597199
+    },
+    {
+      "title": "Gaia action Canvas 2020",
+      "category": "Gaia",
+      "year": "2020",
+      "format": "Keynote",
+      "path": "Gaia/Gaia_action_Canvas_2020.key",
+      "modified": "2020-08-24",
+      "bytes": 381779192
+    },
+    {
+      "title": "Gaia action Penn 2020",
+      "category": "Gaia",
+      "year": "2020",
+      "format": "Keynote",
+      "path": "Gaia/Gaia_action_Penn_2020.key",
+      "modified": "2020-12-09",
+      "bytes": 382323216
+    },
+    {
+      "title": "Gaia action Sharif 2020",
+      "category": "Gaia",
+      "year": "2020",
+      "format": "Keynote",
+      "path": "Gaia/Gaia_action_Sharif_2020.key",
+      "modified": "2020-06-07",
+      "bytes": 371172490
+    },
+    {
+      "title": "Gaia action Sharif 2020",
+      "category": "Gaia",
+      "year": "2020",
+      "format": "PDF",
+      "path": "Gaia/Gaia_action_Sharif_2020.pdf",
+      "modified": "2020-06-07",
+      "bytes": 14476056
+    },
+    {
+      "title": "Hubble Trouble QG Jun 2020",
+      "category": "Gaia",
+      "year": "2020",
+      "format": "PDF",
+      "path": "Gaia/Hubble_Trouble_QG_Jun_2020.pdf",
+      "modified": "2020-06-24",
+      "bytes": 45325664
+    },
+    {
+      "title": "Gaia action streams21 2021",
+      "category": "Gaia",
+      "year": "2021",
+      "format": "Keynote",
+      "path": "Gaia/Gaia_action_streams21_2021.key",
+      "modified": "2021-02-15",
+      "bytes": 20423176
+    },
+    {
+      "title": "Chairing Seminars",
+      "category": "General archive",
+      "year": null,
+      "format": "Keynote",
+      "path": "Chairing Seminars.key",
+      "modified": "2024-07-19",
+      "bytes": 388199
+    },
+    {
+      "title": "colloquia at UW",
+      "category": "General archive",
+      "year": null,
+      "format": "Keynote",
+      "path": "colloquia_at_UW.key",
+      "modified": "2022-11-25",
+      "bytes": null
+    },
+    {
+      "title": "colloquia at UW",
+      "category": "General archive",
+      "year": null,
+      "format": "PDF",
+      "path": "colloquia_at_UW.pdf",
+      "modified": "2014-09-26",
+      "bytes": 24815
+    },
+    {
+      "title": "concluding remarks Horndeski",
+      "category": "General archive",
+      "year": null,
+      "format": "Keynote",
+      "path": "concluding remarks Horndeski.key",
+      "modified": "2024-07-19",
+      "bytes": 37125209
+    },
+    {
+      "title": "DM ball",
+      "category": "General archive",
+      "year": null,
+      "format": "Keynote",
+      "path": "DM ball.key",
+      "modified": "2011-05-25",
+      "bytes": 1157295
+    },
+    {
+      "title": "GWPI poster",
+      "category": "General archive",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "GWPI_poster.pptx",
+      "modified": "2010-02-02",
+      "bytes": 849131
+    },
+    {
+      "title": "GWPI poster",
+      "category": "General archive",
+      "year": null,
+      "format": "PDF",
+      "path": "GWPI_poster.pdf",
+      "modified": "2010-02-01",
+      "bytes": 728246
+    },
+    {
+      "title": "Iranian Caldendar",
+      "category": "General archive",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "Iranian Caldendar.pptx",
+      "modified": "2009-04-18",
+      "bytes": 886941
+    },
+    {
+      "title": "Krishan",
+      "category": "General archive",
+      "year": null,
+      "format": "Keynote",
+      "path": "Krishan.key",
+      "modified": "2023-05-13",
+      "bytes": 14865305
+    },
+    {
+      "title": "Kruskal",
+      "category": "General archive",
+      "year": null,
+      "format": "Keynote",
+      "path": "Kruskal.key",
+      "modified": "2023-06-21",
+      "bytes": 1040934
+    },
+    {
+      "title": "Matter",
+      "category": "General archive",
+      "year": null,
+      "format": "Keynote",
+      "path": "Matter.key",
+      "modified": "2025-01-16",
+      "bytes": 13482804
+    },
+    {
+      "title": "mitseminar.pdf",
+      "category": "General archive",
+      "year": null,
+      "format": "PDF",
+      "path": "mitseminar.pdf.pdf",
+      "modified": "2008-10-21",
+      "bytes": 30704250
+    },
+    {
+      "title": "ng",
+      "category": "General archive",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "ng.ppt",
+      "modified": "2010-02-08",
+      "bytes": 2339328
+    },
+    {
+      "title": "ng",
+      "category": "General archive",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "ng.pptx",
+      "modified": "2010-02-08",
+      "bytes": 27568
+    },
+    {
+      "title": "Tips for Talks",
+      "category": "General archive",
+      "year": null,
+      "format": "PDF",
+      "path": "Tips_for_Talks.pdf",
+      "modified": "2014-09-29",
+      "bytes": 42683
+    },
+    {
+      "title": "Tips for Talks",
+      "category": "General archive",
+      "year": null,
+      "format": "Keynote",
+      "path": "Tips_for_Talks.key",
+      "modified": "2022-11-25",
+      "bytes": null
+    },
+    {
+      "title": "UW jamboree",
+      "category": "General archive",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "UW_jamboree.pptx",
+      "modified": "2009-09-14",
+      "bytes": 203376
+    },
+    {
+      "title": "UW jamboree 16",
+      "category": "General archive",
+      "year": null,
+      "format": "Keynote",
+      "path": "UW_jamboree_16.key",
+      "modified": "2016-09-13",
+      "bytes": 1378381
+    },
+    {
+      "title": "UW jamboree 16",
+      "category": "General archive",
+      "year": null,
+      "format": "PDF",
+      "path": "UW_jamboree_16.pdf",
+      "modified": "2016-09-13",
+      "bytes": 99417
+    },
+    {
+      "title": "Welcome",
+      "category": "General archive",
+      "year": null,
+      "format": "PDF",
+      "path": "Welcome.pdf",
+      "modified": "2023-05-08",
+      "bytes": 17459152
+    },
+    {
+      "title": "Welcome",
+      "category": "General archive",
+      "year": null,
+      "format": "Keynote",
+      "path": "Welcome.key",
+      "modified": "2023-05-08",
+      "bytes": 32893377
+    },
+    {
+      "title": "Welcome cosmic flows",
+      "category": "General archive",
+      "year": null,
+      "format": "Keynote",
+      "path": "Welcome_cosmic_flows.key",
+      "modified": "2015-08-10",
+      "bytes": 824781
+    },
+    {
+      "title": "Gong Show Buffalo 2011",
+      "category": "General archive",
+      "year": "2011",
+      "format": "PowerPoint",
+      "path": "Gong_Show_Buffalo_2011.pptx",
+      "modified": "2011-01-15",
+      "bytes": 75581
+    },
+    {
+      "title": "Gong Show Buffalo 2011",
+      "category": "General archive",
+      "year": "2011",
+      "format": "PDF",
+      "path": "Gong_Show_Buffalo_2011.pdf",
+      "modified": "2011-01-15",
+      "bytes": 286085
+    },
+    {
+      "title": "LathamSACslides2011v6",
+      "category": "General archive",
+      "year": "2011",
+      "format": "PowerPoint",
+      "path": "LathamSACslides2011v6.ppt",
+      "modified": "2011-10-01",
+      "bytes": 6055936
+    },
+    {
+      "title": "Jamboree Oct 2012",
+      "category": "General archive",
+      "year": "2012",
+      "format": "PDF",
+      "path": "Jamboree_Oct_2012.pdf",
+      "modified": "2012-10-01",
+      "bytes": 37879
+    },
+    {
+      "title": "QG conference Oct 2012",
+      "category": "General archive",
+      "year": "2012",
+      "format": "Keynote",
+      "path": "QG_conference_Oct_2012.key",
+      "modified": "2012-10-22",
+      "bytes": 279837
+    },
+    {
+      "title": "Jamboree PI 2013",
+      "category": "General archive",
+      "year": "2013",
+      "format": "Keynote",
+      "path": "Jamboree_PI_2013.key",
+      "modified": "2013-10-08",
+      "bytes": 10543712
+    },
+    {
+      "title": "Jamboree PI 2013",
+      "category": "General archive",
+      "year": "2013",
+      "format": "PDF",
+      "path": "Jamboree_PI_2013.pdf",
+      "modified": "2013-10-08",
+      "bytes": 4949255
+    },
+    {
+      "title": "SuperJedi galaxies 2013",
+      "category": "General archive",
+      "year": "2013",
+      "format": "PDF",
+      "path": "SuperJedi_galaxies_2013.pdf",
+      "modified": "2013-07-03",
+      "bytes": 23876
+    },
+    {
+      "title": "SuperJedi galaxies 2013",
+      "category": "General archive",
+      "year": "2013",
+      "format": "Keynote",
+      "path": "SuperJedi_galaxies_2013.key",
+      "modified": "2013-07-03",
+      "bytes": 164228
+    },
+    {
+      "title": "Jamboree UW 2014",
+      "category": "General archive",
+      "year": "2014",
+      "format": "PDF",
+      "path": "Jamboree_UW_2014.pdf",
+      "modified": "2014-09-23",
+      "bytes": 9928572
+    },
+    {
+      "title": "Jamboree UW 2014",
+      "category": "General archive",
+      "year": "2014",
+      "format": "Keynote",
+      "path": "Jamboree_UW_2014.key",
+      "modified": "2022-11-25",
+      "bytes": null
+    },
+    {
+      "title": "wrapup frontiers 2019",
+      "category": "General archive",
+      "year": "2019",
+      "format": "Keynote",
+      "path": "wrapup_frontiers_2019.key",
+      "modified": "2019-09-06",
+      "bytes": 46995276
+    },
+    {
+      "title": "wrapup frontiers 2019",
+      "category": "General archive",
+      "year": "2019",
+      "format": "PDF",
+      "path": "wrapup_frontiers_2019.pdf",
+      "modified": "2019-09-08",
+      "bytes": 21658623
+    },
+    {
+      "title": "causal set conference 2020",
+      "category": "General archive",
+      "year": "2020",
+      "format": "PDF",
+      "path": "causal_set_conference_2020.pdf",
+      "modified": "2020-08-26",
+      "bytes": 114807
+    },
+    {
+      "title": "causal set conference 2020",
+      "category": "General archive",
+      "year": "2020",
+      "format": "Keynote",
+      "path": "causal_set_conference_2020.key",
+      "modified": "2020-08-28",
+      "bytes": 13350016
+    },
+    {
+      "title": "For Brian 2020",
+      "category": "General archive",
+      "year": "2020",
+      "format": "Keynote",
+      "path": "For_Brian_2020.key",
+      "modified": "2020-02-05",
+      "bytes": 14511568
+    },
+    {
+      "title": "Jamboree 2020",
+      "category": "General archive",
+      "year": "2020",
+      "format": "PDF",
+      "path": "Jamboree_2020.pdf",
+      "modified": "2020-09-23",
+      "bytes": 8655205
+    },
+    {
+      "title": "Jamboree 2020",
+      "category": "General archive",
+      "year": "2020",
+      "format": "Keynote",
+      "path": "Jamboree_2020.key",
+      "modified": "2020-09-23",
+      "bytes": 22151458
+    },
+    {
+      "title": "Niayesh David 2021",
+      "category": "General archive",
+      "year": "2021",
+      "format": "Keynote",
+      "path": "Niayesh_David_2021.key",
+      "modified": "2021-10-20",
+      "bytes": 15112885
+    },
+    {
+      "title": "Niayesh David 2021",
+      "category": "General archive",
+      "year": "2021",
+      "format": "PDF",
+      "path": "Niayesh_David_2021.pdf",
+      "modified": "2021-10-20",
+      "bytes": 6955462
+    },
+    {
+      "title": "Niayesh WCA Jamboree 2023",
+      "category": "General archive",
+      "year": "2023",
+      "format": "Keynote",
+      "path": "Niayesh_WCA_Jamboree_2023.key",
+      "modified": "2023-02-16",
+      "bytes": 8520818
+    },
+    {
+      "title": "Niayesh WCA Jamboree 2023",
+      "category": "General archive",
+      "year": "2023",
+      "format": "PDF",
+      "path": "Niayesh_WCA_Jamboree_2023.pdf",
+      "modified": "2023-02-16",
+      "bytes": 5136340
+    },
+    {
+      "title": "gravity",
+      "category": "Gravity, the ultimate cosmological frontier",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "Gravity, the ultimate cosmological frontier/gravity.pptx",
+      "modified": "2011-06-22",
+      "bytes": 46176059
+    },
+    {
+      "title": "hot big bang",
+      "category": "HL_cosmology",
+      "year": null,
+      "format": "Keynote",
+      "path": "HL_cosmology/hot_big_bang.key",
+      "modified": "2012-06-14",
+      "bytes": 10150504
+    },
+    {
+      "title": "case low l 2010",
+      "category": "ISW_anomaly",
+      "year": "2010",
+      "format": "PDF",
+      "path": "ISW_anomaly/case_low_l_2010.pdf",
+      "modified": "2010-02-05",
+      "bytes": 800390
+    },
+    {
+      "title": "case low l 2010",
+      "category": "ISW_anomaly",
+      "year": "2010",
+      "format": "PowerPoint",
+      "path": "ISW_anomaly/case_low_l_2010.pptx",
+      "modified": "2010-02-07",
+      "bytes": 1450380
+    },
+    {
+      "title": "AA welcome",
+      "category": "Jamboree_2018",
+      "year": "2018",
+      "format": "PDF",
+      "path": "Jamboree_2018/presentation/AA_welcome.pdf",
+      "modified": "2018-01-31",
+      "bytes": 15396
+    },
+    {
+      "title": "Afshordi 2.29.45 AM",
+      "category": "Jamboree_2018",
+      "year": "2018",
+      "format": "PDF",
+      "path": "Jamboree_2018/presentation/Afshordi 2.29.45 AM.pdf",
+      "modified": "2018-01-31",
+      "bytes": 4203059
+    },
+    {
+      "title": "Altamirano",
+      "category": "Jamboree_2018",
+      "year": "2018",
+      "format": "PDF",
+      "path": "Jamboree_2018/presentation/Altamirano.pdf",
+      "modified": "2018-01-31",
+      "bytes": 3752151
+    },
+    {
+      "title": "Babyk press",
+      "category": "Jamboree_2018",
+      "year": "2018",
+      "format": "PDF",
+      "path": "Jamboree_2018/presentation/Babyk_press.pdf",
+      "modified": "2018-01-31",
+      "bytes": 200835
+    },
+    {
+      "title": "Balogh",
+      "category": "Jamboree_2018",
+      "year": "2018",
+      "format": "PDF",
+      "path": "Jamboree_2018/presentation/Balogh.pdf",
+      "modified": "2018-01-31",
+      "bytes": 3738914
+    },
+    {
+      "title": "Binder2",
+      "category": "Jamboree_2018",
+      "year": "2018",
+      "format": "PDF",
+      "path": "Jamboree_2018/Binder2.pdf",
+      "modified": "2018-01-31",
+      "bytes": 52804727
+    },
+    {
+      "title": "Binder3",
+      "category": "Jamboree_2018",
+      "year": "2018",
+      "format": "PDF",
+      "path": "Jamboree_2018/presentation/Binder3.pdf",
+      "modified": "2018-01-31",
+      "bytes": 50349139
+    },
+    {
+      "title": "Bobotsis - Astro Jamboree Slide",
+      "category": "Jamboree_2018",
+      "year": "2018",
+      "format": "PDF",
+      "path": "Jamboree_2018/presentation/Bobotsis - Astro Jamboree Slide.pdf",
+      "modified": "2018-01-31",
+      "bytes": 485574
+    },
+    {
+      "title": "Broderick",
+      "category": "Jamboree_2018",
+      "year": "2018",
+      "format": "PDF",
+      "path": "Jamboree_2018/presentation/Broderick.pdf",
+      "modified": "2018-01-31",
+      "bytes": 1144610
+    },
+    {
+      "title": "combined",
+      "category": "Jamboree_2018",
+      "year": "2018",
+      "format": "PDF",
+      "path": "Jamboree_2018/combined.pdf",
+      "modified": "2018-01-31",
+      "bytes": 49916835
+    },
+    {
+      "title": "ConnorMartz",
+      "category": "Jamboree_2018",
+      "year": "2018",
+      "format": "PDF",
+      "path": "Jamboree_2018/presentation/ConnorMartz.pdf",
+      "modified": "2018-01-31",
+      "bytes": 156581
+    },
+    {
+      "title": "Conrad Jamboree Winter2018",
+      "category": "Jamboree_2018",
+      "year": "2018",
+      "format": "PDF",
+      "path": "Jamboree_2018/presentation/Conrad_Jamboree_Winter2018.pdf",
+      "modified": "2018-01-31",
+      "bytes": 920642
+    },
+    {
+      "title": "Drakos AstroJamboree",
+      "category": "Jamboree_2018",
+      "year": "2018",
+      "format": "PDF",
+      "path": "Jamboree_2018/presentation/Drakos_AstroJamboree.pdf",
+      "modified": "2018-01-31",
+      "bytes": 3741084
+    },
+    {
+      "title": "FichJamboree2018",
+      "category": "Jamboree_2018",
+      "year": "2018",
+      "format": "PDF",
+      "path": "Jamboree_2018/presentation/FichJamboree2018.pdf",
+      "modified": "2018-01-31",
+      "bytes": 15881679
+    },
+    {
+      "title": "Georgiev Astro Jamboree 2018",
+      "category": "Jamboree_2018",
+      "year": "2018",
+      "format": "PDF",
+      "path": "Jamboree_2018/presentation/Georgiev Astro Jamboree  2018.pdf",
+      "modified": "2018-01-31",
+      "bytes": 392826
+    },
+    {
+      "title": "Hudson Jamboree",
+      "category": "Jamboree_2018",
+      "year": "2018",
+      "format": "PDF",
+      "path": "Jamboree_2018/presentation/Hudson_Jamboree.pdf",
+      "modified": "2018-01-31",
+      "bytes": 1973149
+    },
+    {
+      "title": "Jamboree2018",
+      "category": "Jamboree_2018",
+      "year": "2018",
+      "format": "Keynote",
+      "path": "Jamboree_2018/Jamboree2018.key",
+      "modified": "2018-01-31",
+      "bytes": 23732419
+    },
+    {
+      "title": "Jamboree2018",
+      "category": "Jamboree_2018",
+      "year": "2018",
+      "format": "PDF",
+      "path": "Jamboree_2018/Jamboree2018.pdf",
+      "modified": "2018-01-31",
+      "bytes": 25743751
+    },
+    {
+      "title": "Jamboree2018 1.24.46 AM",
+      "category": "Jamboree_2018",
+      "year": "2018",
+      "format": "PDF",
+      "path": "Jamboree_2018/Jamboree2018 1.24.46 AM.pdf",
+      "modified": "2018-01-31",
+      "bytes": 24664499
+    },
+    {
+      "title": "Jeter",
+      "category": "Jamboree_2018",
+      "year": "2018",
+      "format": "PDF",
+      "path": "Jamboree_2018/presentation/Jeter.pdf",
+      "modified": "2018-01-31",
+      "bytes": 1274824
+    },
+    {
+      "title": "Karami",
+      "category": "Jamboree_2018",
+      "year": "2018",
+      "format": "PDF",
+      "path": "Jamboree_2018/presentation/Karami.pdf",
+      "modified": "2018-01-31",
+      "bytes": 182846
+    },
+    {
+      "title": "mann",
+      "category": "Jamboree_2018",
+      "year": "2018",
+      "format": "PDF",
+      "path": "Jamboree_2018/presentation/mann.pdf",
+      "modified": "2018-01-31",
+      "bytes": 2643764
+    },
+    {
+      "title": "McNamara",
+      "category": "Jamboree_2018",
+      "year": "2018",
+      "format": "PDF",
+      "path": "Jamboree_2018/presentation/McNamara.pdf",
+      "modified": "2018-01-31",
+      "bytes": 403985
+    },
+    {
+      "title": "morawetz slide",
+      "category": "Jamboree_2018",
+      "year": "2018",
+      "format": "PowerPoint",
+      "path": "Jamboree_2018/morawetz slide.pptx",
+      "modified": "2018-01-31",
+      "bytes": 679799
+    },
+    {
+      "title": "morawetz slide",
+      "category": "Jamboree_2018",
+      "year": "2018",
+      "format": "PDF",
+      "path": "Jamboree_2018/presentation/morawetz slide.pdf",
+      "modified": "2018-01-31",
+      "bytes": 671585
+    },
+    {
+      "title": "Ni",
+      "category": "Jamboree_2018",
+      "year": "2018",
+      "format": "PDF",
+      "path": "Jamboree_2018/presentation/Ni.pdf",
+      "modified": "2018-01-31",
+      "bytes": 201434
+    },
+    {
+      "title": "Okoli",
+      "category": "Jamboree_2018",
+      "year": "2018",
+      "format": "PDF",
+      "path": "Jamboree_2018/presentation/Okoli.pdf",
+      "modified": "2018-01-31",
+      "bytes": 59956
+    },
+    {
+      "title": "Percival 31-1-18",
+      "category": "Jamboree_2018",
+      "year": "2018",
+      "format": "PDF",
+      "path": "Jamboree_2018/presentation/Percival 31-1-18.pdf",
+      "modified": "2018-01-31",
+      "bytes": 379163
+    },
+    {
+      "title": "Preciado",
+      "category": "Jamboree_2018",
+      "year": "2018",
+      "format": "PDF",
+      "path": "Jamboree_2018/presentation/Preciado.pdf",
+      "modified": "2018-01-31",
+      "bytes": 442536
+    },
+    {
+      "title": "PU",
+      "category": "Jamboree_2018",
+      "year": "2018",
+      "format": "PDF",
+      "path": "Jamboree_2018/presentation/PU.pdf",
+      "modified": "2018-01-31",
+      "bytes": 702805
+    },
+    {
+      "title": "Reeves",
+      "category": "Jamboree_2018",
+      "year": "2018",
+      "format": "PDF",
+      "path": "Jamboree_2018/presentation/Reeves.pdf",
+      "modified": "2018-01-31",
+      "bytes": 1973412
+    },
+    {
+      "title": "Robbins - Astro Jamboree - January 31, 2018",
+      "category": "Jamboree_2018",
+      "year": "2018",
+      "format": "PDF",
+      "path": "Jamboree_2018/presentation/Robbins - Astro Jamboree - January 31, 2018.pdf",
+      "modified": "2018-01-31",
+      "bytes": 347345
+    },
+    {
+      "title": "Rufus",
+      "category": "Jamboree_2018",
+      "year": "2018",
+      "format": "PowerPoint",
+      "path": "Jamboree_2018/Rufus.pptx",
+      "modified": "2018-01-31",
+      "bytes": 194259
+    },
+    {
+      "title": "SpitzerJamboree",
+      "category": "Jamboree_2018",
+      "year": "2018",
+      "format": "PDF",
+      "path": "Jamboree_2018/presentation/SpitzerJamboree.pdf",
+      "modified": "2018-01-31",
+      "bytes": 161090
+    },
+    {
+      "title": "Tamhane",
+      "category": "Jamboree_2018",
+      "year": "2018",
+      "format": "PDF",
+      "path": "Jamboree_2018/presentation/Tamhane.pdf",
+      "modified": "2018-01-31",
+      "bytes": 434676
+    },
+    {
+      "title": "Taylor",
+      "category": "Jamboree_2018",
+      "year": "2018",
+      "format": "PDF",
+      "path": "Jamboree_2018/presentation/Taylor.pdf",
+      "modified": "2018-01-31",
+      "bytes": 548961
+    },
+    {
+      "title": "Tiede a",
+      "category": "Jamboree_2018",
+      "year": "2018",
+      "format": "PDF",
+      "path": "Jamboree_2018/presentation/Tiede_a.pdf",
+      "modified": "2018-01-31",
+      "bytes": 148620
+    },
+    {
+      "title": "Vantyghem",
+      "category": "Jamboree_2018",
+      "year": "2018",
+      "format": "PDF",
+      "path": "Jamboree_2018/presentation/Vantyghem.pdf",
+      "modified": "2018-01-31",
+      "bytes": 713344
+    },
+    {
+      "title": "Wang",
+      "category": "Jamboree_2018",
+      "year": "2018",
+      "format": "PDF",
+      "path": "Jamboree_2018/presentation/Wang.pdf",
+      "modified": "2018-01-31",
+      "bytes": 917752
+    },
+    {
+      "title": "webb jamboree slide",
+      "category": "Jamboree_2018",
+      "year": "2018",
+      "format": "PDF",
+      "path": "Jamboree_2018/presentation/webb_jamboree_slide.pdf",
+      "modified": "2018-01-31",
+      "bytes": 1474271
+    },
+    {
+      "title": "Xi",
+      "category": "Jamboree_2018",
+      "year": "2018",
+      "format": "PDF",
+      "path": "Jamboree_2018/presentation/Xi.pdf",
+      "modified": "2018-01-31",
+      "bytes": 733379
+    },
+    {
+      "title": "Yang",
+      "category": "Jamboree_2018",
+      "year": "2018",
+      "format": "PDF",
+      "path": "Jamboree_2018/presentation/Yang.pdf",
+      "modified": "2018-01-31",
+      "bytes": 105652
+    },
+    {
+      "title": "ZZ pizza",
+      "category": "Jamboree_2018",
+      "year": "2018",
+      "format": "PDF",
+      "path": "Jamboree_2018/presentation/ZZ_pizza.pdf",
+      "modified": "2018-01-31",
+      "bytes": 4513530
+    },
+    {
+      "title": "AAA",
+      "category": "Jamboree_2019",
+      "year": "2019",
+      "format": "PDF",
+      "path": "Jamboree_2019/AAA.pdf",
+      "modified": "2019-01-16",
+      "bytes": 15263
+    },
+    {
+      "title": "Amber Hollinger",
+      "category": "Jamboree_2019",
+      "year": "2019",
+      "format": "PDF",
+      "path": "Jamboree_2019/Amber_Hollinger.pdf",
+      "modified": "2019-01-16",
+      "bytes": 83491
+    },
+    {
+      "title": "Andrej Obuljen",
+      "category": "Jamboree_2019",
+      "year": "2019",
+      "format": "PDF",
+      "path": "Jamboree_2019/Andrej_Obuljen.pdf",
+      "modified": "2019-01-16",
+      "bytes": 785297
+    },
+    {
+      "title": "Andrew Reeves",
+      "category": "Jamboree_2019",
+      "year": "2019",
+      "format": "PDF",
+      "path": "Jamboree_2019/Andrew_Reeves.pdf",
+      "modified": "2019-01-16",
+      "bytes": 1013501
+    },
+    {
+      "title": "Avery Broderick",
+      "category": "Jamboree_2019",
+      "year": "2019",
+      "format": "PDF",
+      "path": "Jamboree_2019/Avery_Broderick.pdf",
+      "modified": "2019-01-16",
+      "bytes": 191862
+    },
+    {
+      "title": "Avery Broderick",
+      "category": "Jamboree_2019",
+      "year": "2019",
+      "format": "Keynote",
+      "path": "Jamboree_2019/other formats/Avery_Broderick.key",
+      "modified": "2019-01-16",
+      "bytes": 5144785
+    },
+    {
+      "title": "Bailey Robison",
+      "category": "Jamboree_2019",
+      "year": "2019",
+      "format": "PDF",
+      "path": "Jamboree_2019/Bailey_Robison.pdf",
+      "modified": "2019-01-16",
+      "bytes": 141753
+    },
+    {
+      "title": "Boris Georgiev",
+      "category": "Jamboree_2019",
+      "year": "2019",
+      "format": "PDF",
+      "path": "Jamboree_2019/Boris_Georgiev.pdf",
+      "modified": "2019-01-16",
+      "bytes": 74446
+    },
+    {
+      "title": "Boris Georgiev",
+      "category": "Jamboree_2019",
+      "year": "2019",
+      "format": "Keynote",
+      "path": "Jamboree_2019/other formats/Boris_Georgiev.key",
+      "modified": "2019-01-16",
+      "bytes": 4799439
+    },
+    {
+      "title": "Brian McNamara",
+      "category": "Jamboree_2019",
+      "year": "2019",
+      "format": "PDF",
+      "path": "Jamboree_2019/Brian_McNamara.pdf",
+      "modified": "2018-01-31",
+      "bytes": 403985
+    },
+    {
+      "title": "Britt Jetter",
+      "category": "Jamboree_2019",
+      "year": "2019",
+      "format": "PDF",
+      "path": "Jamboree_2019/Britt_Jetter.pdf",
+      "modified": "2019-01-16",
+      "bytes": 1303331
+    },
+    {
+      "title": "Chengyu Xi",
+      "category": "Jamboree_2019",
+      "year": "2019",
+      "format": "PDF",
+      "path": "Jamboree_2019/Chengyu_Xi.pdf",
+      "modified": "2019-01-16",
+      "bytes": 734110
+    },
+    {
+      "title": "Connor Martz",
+      "category": "Jamboree_2019",
+      "year": "2019",
+      "format": "PDF",
+      "path": "Jamboree_2019/Connor_Martz.pdf",
+      "modified": "2019-01-16",
+      "bytes": 396383
+    },
+    {
+      "title": "Dustin Lang",
+      "category": "Jamboree_2019",
+      "year": "2019",
+      "format": "PDF",
+      "path": "Jamboree_2019/Dustin_Lang.pdf",
+      "modified": "2019-01-16",
+      "bytes": 1356947
+    },
+    {
+      "title": "Faizan Mohammad",
+      "category": "Jamboree_2019",
+      "year": "2019",
+      "format": "PDF",
+      "path": "Jamboree_2019/Faizan_Mohammad.pdf",
+      "modified": "2019-01-16",
+      "bytes": 1720702
+    },
+    {
+      "title": "Ghazal Geshnizjani",
+      "category": "Jamboree_2019",
+      "year": "2019",
+      "format": "PDF",
+      "path": "Jamboree_2019/Ghazal_Geshnizjani.pdf",
+      "modified": "2019-01-16",
+      "bytes": 16289976
+    },
+    {
+      "title": "Isaac Spitzer",
+      "category": "Jamboree_2019",
+      "year": "2019",
+      "format": "PDF",
+      "path": "Jamboree_2019/Isaac_Spitzer.pdf",
+      "modified": "2019-01-16",
+      "bytes": 161151
+    },
+    {
+      "title": "Jamboree 2019",
+      "category": "Jamboree_2019",
+      "year": "2019",
+      "format": "PDF",
+      "path": "Jamboree_2019/Jamboree_2019.pdf",
+      "modified": "2019-01-16",
+      "bytes": 58545310
+    },
+    {
+      "title": "Jamboree2019",
+      "category": "Jamboree_2019",
+      "year": "2019",
+      "format": "Keynote",
+      "path": "Jamboree_2019/other formats/Jamboree2019.key",
+      "modified": "2019-01-16",
+      "bytes": 29216146
+    },
+    {
+      "title": "James Taylor",
+      "category": "Jamboree_2019",
+      "year": "2019",
+      "format": "PDF",
+      "path": "Jamboree_2019/James_Taylor.pdf",
+      "modified": "2019-01-16",
+      "bytes": 4018528
+    },
+    {
+      "title": "Karen Mcnab",
+      "category": "Jamboree_2019",
+      "year": "2019",
+      "format": "PDF",
+      "path": "Jamboree_2019/Karen_Mcnab.pdf",
+      "modified": "2019-01-16",
+      "bytes": 10782166
+    },
+    {
+      "title": "Krishan Saraswat",
+      "category": "Jamboree_2019",
+      "year": "2019",
+      "format": "PDF",
+      "path": "Jamboree_2019/Krishan_Saraswat.pdf",
+      "modified": "2019-01-16",
+      "bytes": 113783
+    },
+    {
+      "title": "Kristi Webb",
+      "category": "Jamboree_2019",
+      "year": "2019",
+      "format": "PDF",
+      "path": "Jamboree_2019/Kristi_Webb.pdf",
+      "modified": "2019-01-16",
+      "bytes": 588937
+    },
+    {
+      "title": "Matthew Robbins",
+      "category": "Jamboree_2019",
+      "year": "2019",
+      "format": "PDF",
+      "path": "Jamboree_2019/Matthew_Robbins.pdf",
+      "modified": "2019-01-16",
+      "bytes": 108425
+    },
+    {
+      "title": "mcnab-jamboree-2018",
+      "category": "Jamboree_2019",
+      "year": "2019",
+      "format": "PowerPoint",
+      "path": "Jamboree_2019/other formats/mcnab-jamboree-2018.pptx",
+      "modified": "2019-01-16",
+      "bytes": 782380
+    },
+    {
+      "title": "Michael Balogh",
+      "category": "Jamboree_2019",
+      "year": "2019",
+      "format": "PDF",
+      "path": "Jamboree_2019/Michael_Balogh.pdf",
+      "modified": "2019-01-16",
+      "bytes": 3629600
+    },
+    {
+      "title": "Michael Chapman",
+      "category": "Jamboree_2019",
+      "year": "2019",
+      "format": "PDF",
+      "path": "Jamboree_2019/Michael_Chapman.pdf",
+      "modified": "2019-01-16",
+      "bytes": 104998
+    },
+    {
+      "title": "Mike Fich",
+      "category": "Jamboree_2019",
+      "year": "2019",
+      "format": "PDF",
+      "path": "Jamboree_2019/Mike_Fich.pdf",
+      "modified": "2019-01-16",
+      "bytes": 1559123
+    },
+    {
+      "title": "Mike Hudson",
+      "category": "Jamboree_2019",
+      "year": "2019",
+      "format": "PDF",
+      "path": "Jamboree_2019/Mike_Hudson.pdf",
+      "modified": "2019-01-16",
+      "bytes": 1004583
+    },
+    {
+      "title": "Niayesh Afshordi",
+      "category": "Jamboree_2019",
+      "year": "2019",
+      "format": "PDF",
+      "path": "Jamboree_2019/Niayesh_Afshordi.pdf",
+      "modified": "2019-01-16",
+      "bytes": 5288686
+    },
+    {
+      "title": "Nicole Drakos",
+      "category": "Jamboree_2019",
+      "year": "2019",
+      "format": "PDF",
+      "path": "Jamboree_2019/Nicole_Drakos.pdf",
+      "modified": "2019-01-16",
+      "bytes": 552909
+    },
+    {
+      "title": "Prathamesh Tamhane",
+      "category": "Jamboree_2019",
+      "year": "2019",
+      "format": "PDF",
+      "path": "Jamboree_2019/Prathamesh_Tamhane.pdf",
+      "modified": "2019-01-16",
+      "bytes": 167188
+    },
+    {
+      "title": "Qingwen Wang",
+      "category": "Jamboree_2019",
+      "year": "2019",
+      "format": "PDF",
+      "path": "Jamboree_2019/Qingwen_Wang.pdf",
+      "modified": "2019-01-16",
+      "bytes": 513604
+    },
+    {
+      "title": "Robb Mann",
+      "category": "Jamboree_2019",
+      "year": "2019",
+      "format": "PDF",
+      "path": "Jamboree_2019/Robb_Mann.pdf",
+      "modified": "2019-01-16",
+      "bytes": 494147
+    },
+    {
+      "title": "Robb Mann",
+      "category": "Jamboree_2019",
+      "year": "2019",
+      "format": "PowerPoint",
+      "path": "Jamboree_2019/other formats/Robb_Mann.pptx",
+      "modified": "2019-01-16",
+      "bytes": 344940
+    },
+    {
+      "title": "Supranta Bourah",
+      "category": "Jamboree_2019",
+      "year": "2019",
+      "format": "PDF",
+      "path": "Jamboree_2019/Supranta_Bourah.pdf",
+      "modified": "2019-01-16",
+      "bytes": 1336024
+    },
+    {
+      "title": "Tianyi Yang",
+      "category": "Jamboree_2019",
+      "year": "2019",
+      "format": "PDF",
+      "path": "Jamboree_2019/Tianyi_Yang.pdf",
+      "modified": "2019-01-16",
+      "bytes": 334977
+    },
+    {
+      "title": "Tianyi Yang",
+      "category": "Jamboree_2019",
+      "year": "2019",
+      "format": "Keynote",
+      "path": "Jamboree_2019/other formats/Tianyi_Yang.key",
+      "modified": "2019-01-16",
+      "bytes": 1046109
+    },
+    {
+      "title": "Will Percival",
+      "category": "Jamboree_2019",
+      "year": "2019",
+      "format": "PDF",
+      "path": "Jamboree_2019/Will_Percival.pdf",
+      "modified": "2019-01-16",
+      "bytes": 226163
+    },
+    {
+      "title": "ZZZ",
+      "category": "Jamboree_2019",
+      "year": "2019",
+      "format": "PDF",
+      "path": "Jamboree_2019/ZZZ.pdf",
+      "modified": "2019-01-16",
+      "bytes": 4513565
+    },
+    {
+      "title": "Dark Cosmology",
+      "category": "Job Interviews",
+      "year": null,
+      "format": "Keynote",
+      "path": "Job Interviews/Amsterdam/Dark Cosmology.key",
+      "modified": "2011-04-12",
+      "bytes": 47666232
+    },
+    {
+      "title": "QMUL interview 2023",
+      "category": "Job Interviews",
+      "year": "2023",
+      "format": "Keynote",
+      "path": "Job Interviews/QMUL interview 2023.key",
+      "modified": "2023-01-16",
+      "bytes": 21182836
+    },
+    {
+      "title": "neutrinos and DE",
+      "category": "Leiden_Apr_08",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "Leiden_Apr_08/neutrinos and DE.pptx",
+      "modified": "2009-04-07",
+      "bytes": 971645
+    },
+    {
+      "title": "backreaction london",
+      "category": "London_conference_07",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "London_conference_07/backreaction_london.pptx",
+      "modified": "2007-03-29",
+      "bytes": 988670
+    },
+    {
+      "title": "szmap london",
+      "category": "London_conference_07",
+      "year": null,
+      "format": "PDF",
+      "path": "London_conference_07/szmap_london.pdf",
+      "modified": "2007-11-20",
+      "bytes": 979328
+    },
+    {
+      "title": "szmap london",
+      "category": "London_conference_07",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "London_conference_07/szmap_london.pptx",
+      "modified": "2007-03-26",
+      "bytes": 1175286
+    },
+    {
+      "title": "massive",
+      "category": "massive gravity",
+      "year": null,
+      "format": "PDF",
+      "path": "massive gravity/massive.pdf",
+      "modified": "2008-10-24",
+      "bytes": 5599810
+    },
+    {
+      "title": "massive",
+      "category": "massive gravity",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "massive gravity/massive.ppt",
+      "modified": "2008-10-23",
+      "bytes": 8734208
+    },
+    {
+      "title": "massive",
+      "category": "massive gravity",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "massive gravity/massive.pptx",
+      "modified": "2008-10-23",
+      "bytes": 5205225
+    },
+    {
+      "title": "neutrino florence",
+      "category": "massive neutrinos",
+      "year": null,
+      "format": "PDF",
+      "path": "massive neutrinos/neutrino_florence.pdf",
+      "modified": "2016-03-29",
+      "bytes": 1120192
+    },
+    {
+      "title": "neutrino florence",
+      "category": "massive neutrinos",
+      "year": null,
+      "format": "Keynote",
+      "path": "massive neutrinos/neutrino_florence.key",
+      "modified": "2016-03-29",
+      "bytes": 38767108
+    },
+    {
+      "title": "neutrino PI 26",
+      "category": "massive neutrinos",
+      "year": null,
+      "format": "Keynote",
+      "path": "massive neutrinos/neutrino_PI_26.key",
+      "modified": "2026-02-02",
+      "bytes": 16865159
+    },
+    {
+      "title": "Journey Michigan",
+      "category": "Michigan",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "Michigan/Journey_Michigan.ppt",
+      "modified": "2007-03-05",
+      "bytes": 3613696
+    },
+    {
+      "title": "Journey Michigan",
+      "category": "Michigan",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "Michigan/Journey_Michigan.pptx",
+      "modified": "2007-02-05",
+      "bytes": 1816038
+    },
+    {
+      "title": "missing shanghai 2013",
+      "category": "missing baryons",
+      "year": "2013",
+      "format": "PDF",
+      "path": "missing baryons/missing_shanghai_2013.pdf",
+      "modified": "2013-10-16",
+      "bytes": 4967091
+    },
+    {
+      "title": "missing shanghai 2013",
+      "category": "missing baryons",
+      "year": "2013",
+      "format": "Keynote",
+      "path": "missing baryons/missing_shanghai_2013.key",
+      "modified": "2013-10-16",
+      "bytes": 14466369
+    },
+    {
+      "title": "Dark Side",
+      "category": "New Mexico",
+      "year": null,
+      "format": "PDF",
+      "path": "New Mexico/Dark Side.pdf",
+      "modified": "2007-04-06",
+      "bytes": 1911270
+    },
+    {
+      "title": "Dark Side",
+      "category": "New Mexico",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "New Mexico/Dark Side.ppt",
+      "modified": "2007-04-06",
+      "bytes": 4751360
+    },
+    {
+      "title": "Dark Side",
+      "category": "New Mexico",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "New Mexico/Dark Side.pptx",
+      "modified": "2007-06-11",
+      "bytes": 3050526
+    },
+    {
+      "title": "non-gaussianity",
+      "category": "non-gaussianity",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "non-gaussianity/non-gaussianity.pptx",
+      "modified": "2008-03-11",
+      "bytes": 1406023
+    },
+    {
+      "title": "non-gaussianity sharif",
+      "category": "non-gaussianity",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "non-gaussianity/non-gaussianity_sharif.pptx",
+      "modified": "2008-09-16",
+      "bytes": 2634418
+    },
+    {
+      "title": "GVSU colloquium",
+      "category": "Nothing",
+      "year": null,
+      "format": "PDF",
+      "path": "Nothing/GVSU_colloquium.pdf",
+      "modified": "2019-10-07",
+      "bytes": 56848775
+    },
+    {
+      "title": "GVSU colloquium",
+      "category": "Nothing",
+      "year": null,
+      "format": "Keynote",
+      "path": "Nothing/GVSU_colloquium.key",
+      "modified": "2019-10-07",
+      "bytes": 150984844
+    },
+    {
+      "title": "Hubble Trouble",
+      "category": "Nothing",
+      "year": null,
+      "format": "Keynote",
+      "path": "Nothing/Hubble_Trouble.key",
+      "modified": "2019-11-11",
+      "bytes": 80186275
+    },
+    {
+      "title": "Hubble Trouble QG Jun 2020",
+      "category": "Nothing",
+      "year": "2020",
+      "format": "Keynote",
+      "path": "Nothing/Hubble_Trouble_QG_Jun_2020.key",
+      "modified": "2020-06-24",
+      "bytes": 104692497
+    },
+    {
+      "title": "Hubble Trouble QG Jun 2020",
+      "category": "Nothing",
+      "year": "2020",
+      "format": "PDF",
+      "path": "Nothing/Hubble_Trouble_QG_Jun_2020.pdf",
+      "modified": "2020-06-24",
+      "bytes": 45325664
+    },
+    {
+      "title": "AltecosmoFun 2021",
+      "category": "Nothing",
+      "year": "2021",
+      "format": "Keynote",
+      "path": "Nothing/AltecosmoFun_2021.key",
+      "modified": "2021-10-11",
+      "bytes": 155377150
+    },
+    {
+      "title": "oxford interview",
+      "category": "Oxford_interview",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "Oxford_interview/oxford_interview.pptx",
+      "modified": "2007-06-11",
+      "bytes": 340567
+    },
+    {
+      "title": "oxford talk",
+      "category": "Oxford_interview",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "Oxford_interview/oxford_talk.pptx",
+      "modified": "2007-06-12",
+      "bytes": 1385695
+    },
+    {
+      "title": "oxford talk",
+      "category": "Oxford_interview",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "Oxford_interview/oxford_talk.ppt",
+      "modified": "2007-06-30",
+      "bytes": 3288576
+    },
+    {
+      "title": "PDT Echoes",
+      "category": "PDT",
+      "year": null,
+      "format": "Keynote",
+      "path": "PDT/PDT_Echoes.key",
+      "modified": "2020-11-11",
+      "bytes": 143913642
+    },
+    {
+      "title": "PDT Echoes",
+      "category": "PDT",
+      "year": null,
+      "format": "PDF",
+      "path": "PDT/PDT_Echoes.pdf",
+      "modified": "2020-11-10",
+      "bytes": 12542455
+    },
+    {
+      "title": "beyond horizon Penn",
+      "category": "Penn_job_tal_08",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "Penn_job_tal_08/beyond_horizon_Penn.pptx",
+      "modified": "2008-05-09",
+      "bytes": 47946104
+    },
+    {
+      "title": "Fundamentalism",
+      "category": "Philosophy",
+      "year": null,
+      "format": "Keynote",
+      "path": "Philosophy/Fundamentalism.key",
+      "modified": "2022-07-14",
+      "bytes": 47033175
+    },
+    {
+      "title": "Fundamentalism",
+      "category": "Philosophy",
+      "year": null,
+      "format": "PDF",
+      "path": "Philosophy/Fundamentalism.pdf",
+      "modified": "2022-07-14",
+      "bytes": 1735381
+    },
+    {
+      "title": "beyond horizon PI",
+      "category": "PI_job_talk_08",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "PI_job_talk_08/beyond_horizon_PI.pptx",
+      "modified": "2008-02-21",
+      "bytes": 48634162
+    },
+    {
+      "title": "Dark Side",
+      "category": "Pitt",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "Pitt/Dark Side.pptx",
+      "modified": "2007-01-12",
+      "bytes": 2536098
+    },
+    {
+      "title": "Research Plan",
+      "category": "Pitt",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "Pitt/Research Plan.pptx",
+      "modified": "2007-01-15",
+      "bytes": 313279
+    },
+    {
+      "title": "ISW",
+      "category": "Poster_Maryland",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "Poster_Maryland/ISW.ppt",
+      "modified": "2004-01-14",
+      "bytes": 248320
+    },
+    {
+      "title": "Picture McGill",
+      "category": "Power Spectra",
+      "year": null,
+      "format": "Keynote",
+      "path": "Power Spectra/Picture_McGill.key",
+      "modified": "2019-11-24",
+      "bytes": 2079844
+    },
+    {
+      "title": "Testing Gravity Vancouver Jan 2023",
+      "category": "Precision Quantum Cosmology",
+      "year": "2023",
+      "format": "Keynote",
+      "path": "Precision Quantum Cosmology/Testing_Gravity_Vancouver_Jan_2023.key",
+      "modified": "2025-06-04",
+      "bytes": 57978062
+    },
+    {
+      "title": "ICBS Beijing 2024",
+      "category": "Precision Quantum Cosmology",
+      "year": "2024",
+      "format": "Keynote",
+      "path": "Precision Quantum Cosmology/ICBS_Beijing_2024.key",
+      "modified": "2025-06-04",
+      "bytes": 182917247
+    },
+    {
+      "title": "ICBS Beijing 2024",
+      "category": "Precision Quantum Cosmology",
+      "year": "2024",
+      "format": "PDF",
+      "path": "Precision Quantum Cosmology/ICBS_Beijing_2024.pdf",
+      "modified": "2024-07-22",
+      "bytes": 79461098
+    },
+    {
+      "title": "ICBS July 2024",
+      "category": "Precision Quantum Cosmology",
+      "year": "2024",
+      "format": "Keynote",
+      "path": "Precision Quantum Cosmology/ICBS_July_2024.key",
+      "modified": "2024-05-10",
+      "bytes": 177859479
+    },
+    {
+      "title": "ICBS July 2024",
+      "category": "Precision Quantum Cosmology",
+      "year": "2024",
+      "format": "PDF",
+      "path": "Precision Quantum Cosmology/ICBS_July_2024.pdf",
+      "modified": "2024-05-10",
+      "bytes": 76371810
+    },
+    {
+      "title": "Kyoto Feb 2024",
+      "category": "Precision Quantum Cosmology",
+      "year": "2024",
+      "format": "PDF",
+      "path": "Precision Quantum Cosmology/Kyoto_Feb_2024.pdf",
+      "modified": "2024-02-21",
+      "bytes": 7690414
+    },
+    {
+      "title": "Kyoto Feb 2024",
+      "category": "Precision Quantum Cosmology",
+      "year": "2024",
+      "format": "Keynote",
+      "path": "Precision Quantum Cosmology/Kyoto_Feb_2024.key",
+      "modified": "2024-02-20",
+      "bytes": 197996728
+    },
+    {
+      "title": "QuRIOS Apr 2024",
+      "category": "Precision Quantum Cosmology",
+      "year": "2024",
+      "format": "Keynote",
+      "path": "Precision Quantum Cosmology/QuRIOS_Apr_2024.key",
+      "modified": "2024-10-12",
+      "bytes": 178644093
+    },
+    {
+      "title": "PBH",
+      "category": "Primordial Black Holes as Dark Matter",
+      "year": null,
+      "format": "Web slides",
+      "path": "Primordial Black Holes as Dark Matter/PBH.htm",
+      "modified": "2003-02-23",
+      "bytes": 2667
+    },
+    {
+      "title": "Primordial Black Holes as Dark Matter",
+      "category": "Primordial Black Holes as Dark Matter",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "Primordial Black Holes as Dark Matter/Primordial Black Holes as Dark Matter.ppt",
+      "modified": "2003-02-20",
+      "bytes": 168448
+    },
+    {
+      "title": "wmapII cosmology",
+      "category": "princeton_apr07",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "princeton_apr07/wmapII_cosmology.ppt",
+      "modified": "2007-06-30",
+      "bytes": 3386368
+    },
+    {
+      "title": "wmapII cosmology",
+      "category": "princeton_apr07",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "princeton_apr07/wmapII_cosmology.pptx",
+      "modified": "2007-04-27",
+      "bytes": 1699751
+    },
+    {
+      "title": "Proof",
+      "category": "Proof!",
+      "year": null,
+      "format": "Keynote",
+      "path": "Proof!/Proof.key",
+      "modified": "2015-04-01",
+      "bytes": 4862386
+    },
+    {
+      "title": "Proof",
+      "category": "Proof!",
+      "year": null,
+      "format": "PDF",
+      "path": "Proof!/Proof.pdf",
+      "modified": "2015-04-01",
+      "bytes": 686012
+    },
+    {
+      "title": "PSI presentation",
+      "category": "PSI",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "PSI/PSI_presentation.pptx",
+      "modified": "2009-12-04",
+      "bytes": 1387271
+    },
+    {
+      "title": "PSI presentation",
+      "category": "PSI",
+      "year": null,
+      "format": "PDF",
+      "path": "PSI/PSI_presentation.pdf",
+      "modified": "2009-12-04",
+      "bytes": 602713
+    },
+    {
+      "title": "PSI 2019",
+      "category": "PSI",
+      "year": "2019",
+      "format": "Keynote",
+      "path": "PSI/PSI_2019.key",
+      "modified": "2021-10-31",
+      "bytes": 35421859
+    },
+    {
+      "title": "PSI 2021",
+      "category": "PSI",
+      "year": "2021",
+      "format": "Keynote",
+      "path": "PSI/PSI_2021.key",
+      "modified": "2021-11-01",
+      "bytes": 39615082
+    },
+    {
+      "title": "PSI 2022",
+      "category": "PSI",
+      "year": "2022",
+      "format": "Keynote",
+      "path": "PSI/PSI_2022.key",
+      "modified": "2022-09-19",
+      "bytes": 35319061
+    },
+    {
+      "title": "PSI 2023",
+      "category": "PSI",
+      "year": "2023",
+      "format": "Keynote",
+      "path": "PSI/PSI_2023.key",
+      "modified": "2023-10-10",
+      "bytes": 144542152
+    },
+    {
+      "title": "PSI 2023 1",
+      "category": "PSI",
+      "year": "2023",
+      "format": "Keynote",
+      "path": "PSI/PSI_2023_1.key",
+      "modified": "2023-10-10",
+      "bytes": 35339121
+    },
+    {
+      "title": "PSI 2024",
+      "category": "PSI",
+      "year": "2024",
+      "format": "Keynote",
+      "path": "PSI/PSI_2024.key",
+      "modified": "2025-09-15",
+      "bytes": 147427467
+    },
+    {
+      "title": "PSI 2025",
+      "category": "PSI",
+      "year": "2025",
+      "format": "Keynote",
+      "path": "PSI/PSI_2025.key",
+      "modified": "2025-09-15",
+      "bytes": 34989055
+    },
+    {
+      "title": "Battle of the Big Bang Secular AZ",
+      "category": "public talk",
+      "year": null,
+      "format": "Keynote",
+      "path": "public talk/Battle of the Big Bang Secular AZ.key",
+      "modified": "2025-10-08",
+      "bytes": 854338309
+    },
+    {
+      "title": "dark cosmos",
+      "category": "public talk",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "public talk/dark cosmos.pptx",
+      "modified": "2009-01-25",
+      "bytes": 49887119
+    },
+    {
+      "title": "Dragons 2.29.43 AM",
+      "category": "public talk",
+      "year": null,
+      "format": "Keynote",
+      "path": "public talk/Dragons 2.29.43 AM.key",
+      "modified": "2018-09-21",
+      "bytes": 234935382
+    },
+    {
+      "title": "Dragons 2.29.44 AM",
+      "category": "public talk",
+      "year": null,
+      "format": "PDF",
+      "path": "public talk/Dragons 2.29.44 AM.pdf",
+      "modified": "2018-09-21",
+      "bytes": 89986206
+    },
+    {
+      "title": "Geometry",
+      "category": "public talk",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "public talk/Geometry.pptx",
+      "modified": "2012-07-10",
+      "bytes": 49561704
+    },
+    {
+      "title": "Hologram",
+      "category": "public talk",
+      "year": null,
+      "format": "Keynote",
+      "path": "public talk/Hologram.key",
+      "modified": "2017-04-06",
+      "bytes": 113161137
+    },
+    {
+      "title": "Hologram",
+      "category": "public talk",
+      "year": null,
+      "format": "PDF",
+      "path": "public talk/Hologram.pdf",
+      "modified": "2017-04-06",
+      "bytes": 34272486
+    },
+    {
+      "title": "Paradox Ottawa Zoom",
+      "category": "public talk",
+      "year": null,
+      "format": "Keynote",
+      "path": "public talk/Paradox_Ottawa_Zoom.key",
+      "modified": "2023-06-22",
+      "bytes": 255105644
+    },
+    {
+      "title": "PSI 1",
+      "category": "public talk",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "public talk/PSI_1.pptx",
+      "modified": "2009-11-27",
+      "bytes": 49248133
+    },
+    {
+      "title": "PSI 1",
+      "category": "public talk",
+      "year": null,
+      "format": "PDF",
+      "path": "public talk/PSI_1.pdf",
+      "modified": "2009-11-27",
+      "bytes": 10009851
+    },
+    {
+      "title": "PSI 1",
+      "category": "public talk",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "public talk/PSI_1.ppt",
+      "modified": "2010-01-01",
+      "bytes": 54758912
+    },
+    {
+      "title": "Rahe Shiri",
+      "category": "public talk",
+      "year": null,
+      "format": "Keynote",
+      "path": "public talk/Rahe Shiri.key",
+      "modified": "2025-01-26",
+      "bytes": 23589289
+    },
+    {
+      "title": "Rahe Shiri",
+      "category": "public talk",
+      "year": null,
+      "format": "PDF",
+      "path": "public talk/Rahe Shiri.pdf",
+      "modified": "2019-05-25",
+      "bytes": 12361611
+    },
+    {
+      "title": "The Other 99 Percent",
+      "category": "public talk",
+      "year": null,
+      "format": "PDF",
+      "path": "public talk/The Other 99 Percent.pdf",
+      "modified": "2018-07-04",
+      "bytes": 5949790
+    },
+    {
+      "title": "What Banged",
+      "category": "public talk",
+      "year": null,
+      "format": "PDF",
+      "path": "public talk/What_Banged.pdf",
+      "modified": "2017-01-16",
+      "bytes": 34716668
+    },
+    {
+      "title": "What Banged",
+      "category": "public talk",
+      "year": null,
+      "format": "Keynote",
+      "path": "public talk/What_Banged.key",
+      "modified": "2025-06-04",
+      "bytes": 109310872
+    },
+    {
+      "title": "Geometry EinsteinPlus July 2012",
+      "category": "public talk",
+      "year": "2012",
+      "format": "PowerPoint",
+      "path": "public talk/Geometry_EinsteinPlus_July_2012.pptx",
+      "modified": "2014-03-12",
+      "bytes": 50767872
+    },
+    {
+      "title": "Horiozns 2014 Phys10",
+      "category": "public talk",
+      "year": "2014",
+      "format": "Keynote",
+      "path": "public talk/Horiozns_2014_Phys10.key",
+      "modified": "2022-11-25",
+      "bytes": null
+    },
+    {
+      "title": "introduction universe sharif 2014",
+      "category": "public talk",
+      "year": "2014",
+      "format": "PowerPoint",
+      "path": "public talk/introduction_universe_sharif_2014.pptx",
+      "modified": "2014-10-14",
+      "bytes": 51911228
+    },
+    {
+      "title": "Perseids welcome 2014",
+      "category": "public talk",
+      "year": "2014",
+      "format": "Keynote",
+      "path": "public talk/Perseids_welcome_2014.key",
+      "modified": "2022-11-25",
+      "bytes": null
+    },
+    {
+      "title": "Soap 2015",
+      "category": "public talk",
+      "year": "2015",
+      "format": "Keynote",
+      "path": "public talk/Soap_2015.key",
+      "modified": "2015-07-06",
+      "bytes": 5401675
+    },
+    {
+      "title": "The Other 99 Percent PI Jul 2018",
+      "category": "public talk",
+      "year": "2018",
+      "format": "Keynote",
+      "path": "public talk/The Other 99 Percent_PI_Jul_2018.key",
+      "modified": "2020-06-22",
+      "bytes": 391764619
+    },
+    {
+      "title": "e-Tek 2021",
+      "category": "public talk",
+      "year": "2021",
+      "format": "Keynote",
+      "path": "public talk/e-Tek 2021.key",
+      "modified": "2022-03-03",
+      "bytes": 193568925
+    },
+    {
+      "title": "Lord Byng Astro Club, May 2023",
+      "category": "public talk",
+      "year": "2023",
+      "format": "Keynote",
+      "path": "public talk/Lord Byng Astro Club, May 2023.key",
+      "modified": "2023-05-03",
+      "bytes": 193446917
+    },
+    {
+      "title": "Paradox Kitchenre Public Library 2023",
+      "category": "public talk",
+      "year": "2023",
+      "format": "Keynote",
+      "path": "public talk/Paradox_Kitchenre_Public_Library_2023.key",
+      "modified": "2023-06-29",
+      "bytes": 257632299
+    },
+    {
+      "title": "Paradox Phys10 2023",
+      "category": "public talk",
+      "year": "2023",
+      "format": "Keynote",
+      "path": "public talk/Paradox_Phys10_2023.key",
+      "modified": "2023-11-05",
+      "bytes": 260953196
+    },
+    {
+      "title": "Battle of the Big Bang Howard 2026",
+      "category": "public talk",
+      "year": "2026",
+      "format": "Keynote",
+      "path": "public talk/Battle of the Big Bang Howard 2026.key",
+      "modified": "2026-01-07",
+      "bytes": 699418321
+    },
+    {
+      "title": "Battle of the Big Bang KPL 2026",
+      "category": "public talk",
+      "year": "2026",
+      "format": "Keynote",
+      "path": "public talk/Battle of the Big Bang KPL 2026.key",
+      "modified": "2026-02-25",
+      "bytes": 699968128
+    },
+    {
+      "title": "Large Scale Structure",
+      "category": "Qeshm_School_2005",
+      "year": "2005",
+      "format": "PowerPoint",
+      "path": "Qeshm_School_2005/Large_Scale_Structure.ppt",
+      "modified": "2005-01-20",
+      "bytes": 16599552
+    },
+    {
+      "title": "Secondaries Observations",
+      "category": "Qeshm_School_2005",
+      "year": "2005",
+      "format": "PowerPoint",
+      "path": "Qeshm_School_2005/Secondaries_Observations.ppt",
+      "modified": "2005-01-17",
+      "bytes": 17920
+    },
+    {
+      "title": "Secondaries Theory",
+      "category": "Qeshm_School_2005",
+      "year": "2005",
+      "format": "PowerPoint",
+      "path": "Qeshm_School_2005/Secondaries_Theory.ppt",
+      "modified": "2005-01-20",
+      "bytes": 3111936
+    },
+    {
+      "title": "QPOs",
+      "category": "QPOs",
+      "year": null,
+      "format": "Web slides",
+      "path": "QPOs/QPOs.htm",
+      "modified": "2003-04-16",
+      "bytes": 2460
+    },
+    {
+      "title": "QPOs",
+      "category": "QPOs",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "QPOs/QPOs.ppt",
+      "modified": "2003-04-16",
+      "bytes": 578560
+    },
+    {
+      "title": "Hangzhou panel Afshordi",
+      "category": "Quadratic Gravity",
+      "year": null,
+      "format": "Keynote",
+      "path": "Quadratic Gravity/Hangzhou_panel_Afshordi.key",
+      "modified": "2026-06-04",
+      "bytes": 5189331
+    },
+    {
+      "title": "Hangzhou panel Afshordi",
+      "category": "Quadratic Gravity",
+      "year": null,
+      "format": "PDF",
+      "path": "Quadratic Gravity/Hangzhou_panel_Afshordi.pdf",
+      "modified": "2026-06-04",
+      "bytes": 3198975
+    },
+    {
+      "title": "QQG SAB",
+      "category": "Quadratic Gravity",
+      "year": null,
+      "format": "Keynote",
+      "path": "Quadratic Gravity/QQG_SAB.key",
+      "modified": "2026-05-20",
+      "bytes": 1632508
+    },
+    {
+      "title": "UV-Universe-QG-DIAS",
+      "category": "Quadratic Gravity",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "Quadratic Gravity/UV-Universe-QG-DIAS.pptx",
+      "modified": "2025-10-30",
+      "bytes": 48388326
+    },
+    {
+      "title": "UV-Universe-QG-DIAS",
+      "category": "Quadratic Gravity",
+      "year": null,
+      "format": "Keynote",
+      "path": "Quadratic Gravity/UV-Universe-QG-DIAS.key",
+      "modified": "2025-10-23",
+      "bytes": 62862722
+    },
+    {
+      "title": "UV-Universe-QG-Imperial",
+      "category": "Quadratic Gravity",
+      "year": null,
+      "format": "Keynote",
+      "path": "Quadratic Gravity/UV-Universe-QG-Imperial.key",
+      "modified": "2025-06-26",
+      "bytes": 63144770
+    },
+    {
+      "title": "UV-Universe-QG-Kings",
+      "category": "Quadratic Gravity",
+      "year": null,
+      "format": "Keynote",
+      "path": "Quadratic Gravity/UV-Universe-QG-Kings.key",
+      "modified": "2025-06-27",
+      "bytes": 62877815
+    },
+    {
+      "title": "QG Wild MannFest 2025",
+      "category": "Quadratic Gravity",
+      "year": "2025",
+      "format": "Keynote",
+      "path": "Quadratic Gravity/QG_Wild_MannFest_2025.key",
+      "modified": "2025-12-17",
+      "bytes": 94488958
+    },
+    {
+      "title": "QG Wild MannFest 2025",
+      "category": "Quadratic Gravity",
+      "year": "2025",
+      "format": "PowerPoint",
+      "path": "Quadratic Gravity/QG_Wild_MannFest_2025.pptx",
+      "modified": "2025-12-21",
+      "bytes": 74165318
+    },
+    {
+      "title": "QG Wild RRI 2025",
+      "category": "Quadratic Gravity",
+      "year": "2025",
+      "format": "Keynote",
+      "path": "Quadratic Gravity/QG_Wild_RRI_2025.key",
+      "modified": "2025-12-12",
+      "bytes": 86236485
+    },
+    {
+      "title": "QG Wild Hangzhou 2026",
+      "category": "Quadratic Gravity",
+      "year": "2026",
+      "format": "Keynote",
+      "path": "Quadratic Gravity/QG_Wild_Hangzhou_2026.key",
+      "modified": "2026-06-04",
+      "bytes": 92537107
+    },
+    {
+      "title": "QG Wild Hangzhou 2026",
+      "category": "Quadratic Gravity",
+      "year": "2026",
+      "format": "PDF",
+      "path": "Quadratic Gravity/QG_Wild_Hangzhou_2026.pdf",
+      "modified": "2026-06-01",
+      "bytes": 67500512
+    },
+    {
+      "title": "QBH IHEP Beijing 2024",
+      "category": "Quantum Black Holes",
+      "year": "2024",
+      "format": "Keynote",
+      "path": "Quantum Black Holes/QBH_IHEP_Beijing_2024.key",
+      "modified": "2025-04-29",
+      "bytes": 172257406
+    },
+    {
+      "title": "QBH UCAS Beijing 2024",
+      "category": "Quantum Black Holes",
+      "year": "2024",
+      "format": "Keynote",
+      "path": "Quantum Black Holes/QBH_UCAS_Beijing_2024.key",
+      "modified": "2024-11-05",
+      "bytes": 161344455
+    },
+    {
+      "title": "Afshordi QBH Simons 2025",
+      "category": "Quantum Black Holes",
+      "year": "2025",
+      "format": "Keynote",
+      "path": "Quantum Black Holes/Afshordi_QBH_Simons_2025.key",
+      "modified": "2025-11-03",
+      "bytes": 76158108
+    },
+    {
+      "title": "QBH ASU 2025",
+      "category": "Quantum Black Holes",
+      "year": "2025",
+      "format": "Keynote",
+      "path": "Quantum Black Holes/QBH_ASU_2025.key",
+      "modified": "2025-04-28",
+      "bytes": 174981729
+    },
+    {
+      "title": "QBH McMaster 2025",
+      "category": "Quantum Black Holes",
+      "year": "2025",
+      "format": "Keynote",
+      "path": "Quantum Black Holes/QBH_McMaster_2025.key",
+      "modified": "2025-10-23",
+      "bytes": 179280878
+    },
+    {
+      "title": "QBH Simons 2025",
+      "category": "Quantum Black Holes",
+      "year": "2025",
+      "format": "Keynote",
+      "path": "Quantum Black Holes/QBH_Simons_2025.key",
+      "modified": "2025-11-03",
+      "bytes": 76158087
+    },
+    {
+      "title": "QBH Sydney 2025",
+      "category": "Quantum Black Holes",
+      "year": "2025",
+      "format": "Keynote",
+      "path": "Quantum Black Holes/QBH_Sydney_2025.key",
+      "modified": "2025-04-28",
+      "bytes": 176947314
+    },
+    {
+      "title": "Fabric SISSA 2017",
+      "category": "Reflections",
+      "year": "2017",
+      "format": "PDF",
+      "path": "Reflections/Fabric_SISSA_2017.pdf",
+      "modified": "2017-07-12",
+      "bytes": 11291651
+    },
+    {
+      "title": "Fabric SISSA 2017",
+      "category": "Reflections",
+      "year": "2017",
+      "format": "Keynote",
+      "path": "Reflections/Fabric_SISSA_2017.key",
+      "modified": "2017-07-12",
+      "bytes": 60917278
+    },
+    {
+      "title": "Refelction Western 2017",
+      "category": "Reflections",
+      "year": "2017",
+      "format": "Keynote",
+      "path": "Reflections/Refelction_Western_2017.key",
+      "modified": "2017-06-14",
+      "bytes": 51782778
+    },
+    {
+      "title": "Refelction Western 2017",
+      "category": "Reflections",
+      "year": "2017",
+      "format": "PDF",
+      "path": "Reflections/Refelction_Western_2017.pdf",
+      "modified": "2017-06-19",
+      "bytes": 11317959
+    },
+    {
+      "title": "imprecision cosmology",
+      "category": "Sharif_07",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "Sharif_07/imprecision_cosmology.pptx",
+      "modified": "2007-10-27",
+      "bytes": 3075896
+    },
+    {
+      "title": "Strauss:Lupton Fest",
+      "category": "Strauss:Lupton Fest",
+      "year": null,
+      "format": "PDF",
+      "path": "Strauss:Lupton Fest/Strauss:Lupton Fest.pdf",
+      "modified": "2023-06-19",
+      "bytes": 47254361
+    },
+    {
+      "title": "Strauss:Lupton Fest",
+      "category": "Strauss:Lupton Fest",
+      "year": null,
+      "format": "Keynote",
+      "path": "Strauss:Lupton Fest/Strauss:Lupton Fest.key",
+      "modified": "2023-06-06",
+      "bytes": 78006457
+    },
+    {
+      "title": "beyond horizon Syracuse",
+      "category": "syracuse",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "syracuse/beyond_horizon_Syracuse.ppt",
+      "modified": "2008-10-06",
+      "bytes": 53102592
+    },
+    {
+      "title": "beyond horizon Syracuse",
+      "category": "syracuse",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "syracuse/beyond_horizon_Syracuse.pptx",
+      "modified": "2008-03-25",
+      "bytes": 47939618
+    },
+    {
+      "title": "szplane",
+      "category": "syracuse",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "syracuse/szplane.pptx",
+      "modified": "2008-03-24",
+      "bytes": 1693922
+    },
+    {
+      "title": "slacconf two",
+      "category": "SZ_map_Texas",
+      "year": null,
+      "format": "PDF",
+      "path": "SZ_map_Texas/Proceeding/slacconf_two.pdf",
+      "modified": "2004-05-14",
+      "bytes": 68883
+    },
+    {
+      "title": "Texas Poster",
+      "category": "SZ_map_Texas",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "SZ_map_Texas/Texas_Poster.ppt",
+      "modified": "2004-12-10",
+      "bytes": 1528320
+    },
+    {
+      "title": "Texas Talk",
+      "category": "SZ_map_Texas",
+      "year": null,
+      "format": "PDF",
+      "path": "SZ_map_Texas/Texas_Talk.pdf",
+      "modified": "2004-12-11",
+      "bytes": 213980
+    },
+    {
+      "title": "Texas Talk",
+      "category": "SZ_map_Texas",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "SZ_map_Texas/Texas_Talk.ppt",
+      "modified": "2004-12-14",
+      "bytes": 234496
+    },
+    {
+      "title": "SZ",
+      "category": "SZ_sep_chicago",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "SZ_sep_chicago/SZ.ppt",
+      "modified": "2003-11-15",
+      "bytes": 2055168
+    },
+    {
+      "title": "digging",
+      "category": "szmap",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "szmap/digging.ppt",
+      "modified": "2007-01-10",
+      "bytes": 2864128
+    },
+    {
+      "title": "szmap",
+      "category": "szmap",
+      "year": null,
+      "format": "PDF",
+      "path": "szmap/szmap.pdf",
+      "modified": "2004-12-09",
+      "bytes": 702089
+    },
+    {
+      "title": "szmap",
+      "category": "szmap",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "szmap/szmap.ppt",
+      "modified": "2004-10-13",
+      "bytes": 1502208
+    },
+    {
+      "title": "szmap aspen",
+      "category": "szmap",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "szmap/szmap_aspen.pptx",
+      "modified": "2007-02-12",
+      "bytes": 1430430
+    },
+    {
+      "title": "szmap benasque",
+      "category": "szmap",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "szmap/szmap_benasque.ppt",
+      "modified": "2006-08-01",
+      "bytes": 2160128
+    },
+    {
+      "title": "szmap fermilab",
+      "category": "szmap",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "szmap/szmap_fermilab.ppt",
+      "modified": "2006-05-31",
+      "bytes": 1858048
+    },
+    {
+      "title": "szmap irvine",
+      "category": "szmap",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "szmap/szmap_irvine.ppt",
+      "modified": "2006-03-25",
+      "bytes": 2038784
+    },
+    {
+      "title": "szmap penn state",
+      "category": "szmap",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "szmap/szmap_penn_state.ppt",
+      "modified": "2007-01-11",
+      "bytes": 3262976
+    },
+    {
+      "title": "szmap pi",
+      "category": "szmap",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "szmap/szmap_pi.ppt",
+      "modified": "2006-11-10",
+      "bytes": 2387968
+    },
+    {
+      "title": "Afshordi N talk mac",
+      "category": "The Big Picture",
+      "year": null,
+      "format": "PDF",
+      "path": "The Big Picture/Afshordi_N_talk_mac.pdf",
+      "modified": "2023-06-13",
+      "bytes": 59878870
+    },
+    {
+      "title": "Afshordi N talk mac",
+      "category": "The Big Picture",
+      "year": null,
+      "format": "Keynote",
+      "path": "The Big Picture/Afshordi_N_talk_mac.key",
+      "modified": "2023-12-12",
+      "bytes": 99747425
+    },
+    {
+      "title": "The Big Picture @DEShaw",
+      "category": "The Big Picture",
+      "year": null,
+      "format": "Keynote",
+      "path": "The Big Picture/The Big Picture @DEShaw.key",
+      "modified": "2023-08-28",
+      "bytes": 107249639
+    },
+    {
+      "title": "The Big Picture @UCL",
+      "category": "The Big Picture",
+      "year": null,
+      "format": "Keynote",
+      "path": "The Big Picture/The Big Picture @UCL.key",
+      "modified": "2025-06-04",
+      "bytes": 46615796
+    },
+    {
+      "title": "The Big Picture @CASCA 2023",
+      "category": "The Big Picture",
+      "year": "2023",
+      "format": "Keynote",
+      "path": "The Big Picture/The Big Picture @CASCA 2023.key",
+      "modified": "2023-06-13",
+      "bytes": 99750490
+    },
+    {
+      "title": "Knowledge",
+      "category": "The Nature of Scientific Knowledge",
+      "year": null,
+      "format": "Keynote",
+      "path": "The Nature of Scientific Knowledge/Knowledge.key",
+      "modified": "2018-10-16",
+      "bytes": 58695048
+    },
+    {
+      "title": "Knowledge 2019",
+      "category": "The Nature of Scientific Knowledge",
+      "year": "2019",
+      "format": "PDF",
+      "path": "The Nature of Scientific Knowledge/Knowledge_2019.pdf",
+      "modified": "2019-10-01",
+      "bytes": 8269694
+    },
+    {
+      "title": "Knowledge 2019",
+      "category": "The Nature of Scientific Knowledge",
+      "year": "2019",
+      "format": "Keynote",
+      "path": "The Nature of Scientific Knowledge/Knowledge_2019.key",
+      "modified": "2019-10-01",
+      "bytes": 18506289
+    },
+    {
+      "title": "Knowledge 2020",
+      "category": "The Nature of Scientific Knowledge",
+      "year": "2020",
+      "format": "Keynote",
+      "path": "The Nature of Scientific Knowledge/Knowledge_2020.key",
+      "modified": "2020-10-09",
+      "bytes": 40197073
+    },
+    {
+      "title": "Knowledge 2020",
+      "category": "The Nature of Scientific Knowledge",
+      "year": "2020",
+      "format": "PDF",
+      "path": "The Nature of Scientific Knowledge/Knowledge_2020.pdf",
+      "modified": "2020-10-09",
+      "bytes": 4594520
+    },
+    {
+      "title": "Thin Accretion Disks",
+      "category": "Thin Accretion Disks",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "Thin Accretion Disks/Thin Accretion Disks.ppt",
+      "modified": "2002-11-06",
+      "bytes": 2573312
+    },
+    {
+      "title": "Thin Accretion Disks",
+      "category": "Thin Accretion Disks",
+      "year": null,
+      "format": "PDF",
+      "path": "Thin Accretion Disks/Thin Accretion Disks.pdf",
+      "modified": "2005-05-24",
+      "bytes": 408398
+    },
+    {
+      "title": "szplane toulouse",
+      "category": "toulouse",
+      "year": null,
+      "format": "PDF",
+      "path": "toulouse/szplane_toulouse.pdf",
+      "modified": "2008-07-02",
+      "bytes": 1591108
+    },
+    {
+      "title": "szplane toulouse",
+      "category": "toulouse",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "toulouse/szplane_toulouse.pptx",
+      "modified": "2008-06-26",
+      "bytes": 2678045
+    },
+    {
+      "title": "Dark Side",
+      "category": "UNC",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "UNC/Dark Side.pptx",
+      "modified": "2007-02-21",
+      "bytes": 2359255
+    },
+    {
+      "title": "SZ paradox",
+      "category": "UW luster workshop July 08",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "UW luster workshop July 08/SZ_paradox.pptx",
+      "modified": "2008-07-07",
+      "bytes": 2490749
+    },
+    {
+      "title": "UWC chair presentation",
+      "category": "UWC chair 2012",
+      "year": "2012",
+      "format": "Keynote",
+      "path": "UWC chair 2012/UWC_chair_presentation.key",
+      "modified": "2012-07-10",
+      "bytes": 12325992
+    },
+    {
+      "title": "UWC chair presentation",
+      "category": "UWC chair 2012",
+      "year": "2012",
+      "format": "PDF",
+      "path": "UWC chair 2012/UWC_chair_presentation.pdf",
+      "modified": "2012-07-10",
+      "bytes": 1746972
+    },
+    {
+      "title": "PBH",
+      "category": "What I did during the last 12 months",
+      "year": null,
+      "format": "PDF",
+      "path": "What I did during the last 12 months/PBH.pdf",
+      "modified": "2003-10-07",
+      "bytes": 144808
+    },
+    {
+      "title": "What I did during the last 12 months",
+      "category": "What I did during the last 12 months",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "What I did during the last 12 months/What I did during the last 12 months.ppt",
+      "modified": "2003-10-08",
+      "bytes": 380416
+    },
+    {
+      "title": "What I did during the last 17 months",
+      "category": "What I did during the last 17 months",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "What I did during the last 17 months/What I did during the last 17 months.ppt",
+      "modified": "2002-10-30",
+      "bytes": 150528
+    },
+    {
+      "title": "0202409",
+      "category": "What I did during the last 17 months",
+      "year": "2024",
+      "format": "PDF",
+      "path": "What I did during the last 17 months/0202409.pdf",
+      "modified": "2002-10-29",
+      "bytes": 951377
+    },
+    {
+      "title": "what is wrong with cosmology",
+      "category": "what is wrong with cosmology",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "what is wrong with cosmology/what is wrong with cosmology.pptx",
+      "modified": "2008-03-18",
+      "bytes": 45589747
+    },
+    {
+      "title": "white hole miami dec 2013",
+      "category": "white hole",
+      "year": "2013",
+      "format": "Keynote",
+      "path": "white hole/white_hole_miami_dec_2013.key",
+      "modified": "2022-11-25",
+      "bytes": null
+    },
+    {
+      "title": "white hole miami dec 2013",
+      "category": "white hole",
+      "year": "2013",
+      "format": "PDF",
+      "path": "white hole/white_hole_miami_dec_2013.pdf",
+      "modified": "2013-12-17",
+      "bytes": 14536083
+    },
+    {
+      "title": "white hole michigan sep 2013",
+      "category": "white hole",
+      "year": "2013",
+      "format": "Keynote",
+      "path": "white hole/white_hole_michigan_sep_2013.key",
+      "modified": "2013-09-24",
+      "bytes": 22806944
+    },
+    {
+      "title": "Dark Side",
+      "category": "York",
+      "year": null,
+      "format": "PowerPoint",
+      "path": "York/Dark Side.pptx",
+      "modified": "2007-11-27",
+      "bytes": 3209626
+    }
+  ]
+}

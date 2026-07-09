@@ -7,7 +7,7 @@ import argparse
 import json
 import re
 from pathlib import Path
-from urllib.parse import urlparse
+from urllib.parse import unquote, urlparse
 
 from lxml import etree
 
@@ -26,11 +26,23 @@ def clean_html(value: str) -> str:
     value = re.sub(r"\[gallery[^\]]*\]", "", value, flags=re.I)
     value = re.sub(r"\[caption[^\]]*\]", "", value, flags=re.I)
     value = value.replace("[/caption]", "")
+    value = re.sub(
+        r"https?://(?:www\.)?nafshordi\.com/wp-content/uploads/",
+        "/media/",
+        value,
+        flags=re.I,
+    )
+    value = re.sub(
+        r"https?://(?:www\.)?nafshordi\.com/?",
+        "/",
+        value,
+        flags=re.I,
+    )
     return value.strip()
 
 
 def path_from_link(link: str, post_type: str, slug: str) -> str:
-    path = urlparse(link).path.strip("/")
+    path = unquote(urlparse(link).path).strip("/")
     if path:
         return f"/{path}/"
     if post_type == "page" and slug == "welcome":
