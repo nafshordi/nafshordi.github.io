@@ -46,7 +46,17 @@ const routes = [...new Set([...fixedRoutes, ...entries.map((entry) => entry.path
 
 await rm(outputRoot, { recursive: true, force: true });
 await mkdir(outputRoot, { recursive: true });
-await cp(clientPath, outputRoot, { recursive: true });
+await cp(clientPath, outputRoot, {
+  recursive: true,
+  filter(source) {
+    const relative = path.relative(clientPath, source);
+    if (!relative) return true;
+    if (relative === "_headers" || relative === ".assetsignore") return false;
+    if (relative === ".vite" || relative.startsWith(`.vite${path.sep}`)) return false;
+    if (relative.endsWith(".js")) return false;
+    return true;
+  },
+});
 
 const workerUrl = pathToFileURL(workerPath);
 workerUrl.searchParams.set("github-pages-export", `${Date.now()}`);
