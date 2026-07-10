@@ -30,7 +30,7 @@ export default function Home() {
             </div>
           </div>
           <figure className="hero-portrait">
-            <img src="/images/niayesh-afshordi-portrait.jpg" alt="Niayesh Afshordi" />
+            <img src="/images/niayesh-afshordi-hero.png" alt="Niayesh Afshordi" />
           </figure>
         </div>
         <div className="orbit-mark" aria-hidden="true"><i /><i /><i /></div>
