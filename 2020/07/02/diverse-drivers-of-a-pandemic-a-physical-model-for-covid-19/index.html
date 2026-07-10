@@ -1,0 +1,85 @@
+<!DOCTYPE html><html lang="en"><head><meta charSet="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1"/><link rel="stylesheet" href="/assets/index-BI0cFOjm.css"/><title>Niayesh Afshordi | Astrophysics, Cosmology, and Gravity</title><meta name="description" content="Research, people, papers, talks, and writing by astrophysicist Niayesh Afshordi."/><link rel="shortcut icon" href="/favicon.svg"/><link rel="icon" href="/favicon.svg"/></head><body><div class="site-shell"><header class="site-header"><a href="/" class="wordmark" aria-label="Niayesh Afshordi home"><span>Niayesh</span> Afshordi</a><nav aria-label="Primary navigation"><a href="/research">Research</a><a href="/group">People</a><a href="/publications">Papers</a><a href="/talks">Talks &amp; Outreach</a><a href="/updates">Writing</a><a href="/cv">CV</a></nav></header><main><section class="page-hero"><h1>Diverse Drivers of a Pandemic: A Physical Model for COVID-19</h1><p>2020-07-02</p></section><div class="content-page"><p> For the past 3 months, I have been hidden deep in an underground bunker, and this was not just due to the fear of the infection by the novel coronavirus. The COVID-19 pandemic that has locked down much of the world, and taken <a href="https://www.worldometers.info/coronavirus/">the lives of half a million people in 3 months</a>, has exposed deep and dangerous gaps in our understanding of the population dynamics, biology, and how we interact with our environment. Our world is suddenly much more dangerous, and draconian measures of centuries gone-by are (justifiably) threatening the freedoms that underpin the viability of modern civil societies, as the price to pay for our health.  </p>
+
+
+
+<p>But as an Astrophysicist, dabbling in the dark arts (so to speak), is something that comes with the territory.  My <a href="http://www.perimeterinstitute.ca/personal/nafshordi/thesis_niayesh.pdf">PhD thesis, back in 2004</a>, was on how we can use subtle correlations of light coming from the big bang with that of galaxies to learn about <a href="http://www.perimeterinstitute.ca/personal/nafshordi/thesis_niayesh.pdf">"The Other 99 Percent"</a>,  the dark and mysterious components that dominate the energy of our universe today. Well, we decided to do the same thing with the <a href="http://pirsa.org/20060022/">"Dark Matter of the Disease"</a>! Who are "we"?! Well, my main partner in crime is<a href="https://www.gvsu.edu/physics/dr-benjamin-holder-80.htm"> Ben Holder</a>, a physics professor at Grand Valley State University, who was visiting me on his sabbatical since January. Ben's most recent research has been on mathematical and computational modeling of infectious disease and viruses, but he had planned to switch to General Relativity and work on <a href="/2018/04/02/echoes-strike-back/">Black Hole Echoes</a>, during his sabbatical. Well, let's just say things didn't quite go as planned! Along the way, we were joined by Mads Bahrami and Danny Lichtblau from Wolfram Research. Without further ado, here is what we find:</p>
+
+
+
+<h2>Correlations</h2>
+
+
+
+<p>So, we looked at <a href="/2020/04/14/physical-measure-of-a-pandemic/">14-day average of daily mortality growth rate</a>, i.e. the exponent of the exponential growth rate as a pan-epidemic, dynamical, measure of infectious spread, across more than 200 US counties, which had available <a href="https://www.google.com/covid19/mobility/">Google Mobility</a> data, as well as enough mortality that we could fit an exponential to. We studied various correlations, but these were the only ones that were independent and significant:</p>
+
+
+
+<figure class="wp-block-image size-large"><img src="/media/2020/07/image-1.png?w=1024" alt="" class="wp-image-1549" /></figure>
+
+
+
+<p>You can clearly see that the reduction in social mobility 2 weeks, or 4 weeks prior to death reduces the growth rate of the disease (hence the positive correlation). This was not a surprise, and the whole point of "lockdown". The two other significant correlations however, were big surprises: We discovered that the growth rate of the disease is correlated with lived population density (average population density around a typical person) at 7$latex \sigma$. This, of course, makes sense but was never measured in a meaningful way. Most surprising was the highly significant $latex 10 \sigma$ negative correlation with the total COVID death fraction, suggesting the depletion of susceptibles (or approach to "herd immunity") as the infection spreads further in a community. </p>
+
+
+
+<h2>Causation: A Physical Model</h2>
+
+
+
+<p>We know correlation is not causation. To establish the latter, we need a causal physical model that could explain the current data, and then be used to make predictions. Given the highly unpredictable and random nature of COVID-19 symptoms, we decided to model it as a random walk, starting from exposure at C=0, while you become infectious at C&gt;1 (see below)</p>
+
+
+
+<figure class="wp-block-image size-large"><img src="/media/2020/07/image-2.png?w=1024" alt="" class="wp-image-1555" /></figure>
+
+
+
+<p>It turns out that this simple model, with an age-dependent random walk step sizes, gives a much better fit to the dependence of exponential growth rate on driving factors we discussed above.</p>
+
+
+
+<h4>Now we have a predictive model that can be used to forecast where the epidemic can evolve to, depending on the interventions adopted by each community, as well as the intrinsic geography and demography of the community. You can run various possible scenarios for all US counties via <a href="https://wolfr.am/COVID19Dash">our cloud simulator</a> , which we hope can inform current and future policy decisions using actual scientific evidence-based models. </h4>
+
+
+
+<p>The evolution of epidemic can be visualized via a phase space, showing daily COVID mortality against total COVID mortality. The best-fit model predicts the trajectories in this phase space, depending on social mobility (see below). The red curves are for normal mobility, while the blue curves are for the average mobility for each county since mid-February. The green disc shows the "herd immunity threshold". For example, we can see that, due to the early onset of the epidemic, New York has overshot the herd immunity threshold, in spite of lockdown. In contrast, Suffolk county (Boston) is heading right towards the threshold, while the LA is far from it, and thus remains highly susceptible to the growth of the epidemic.   </p>
+
+
+
+<figure class="wp-block-image size-large"><img src="/media/2020/07/image-3.png?w=1024" alt="" class="wp-image-1558" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img src="/media/2020/07/image-6.png?w=1024" alt="" class="wp-image-1561" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img src="/media/2020/07/image-5.png?w=1024" alt="" class="wp-image-1560" /></figure>
+
+
+
+<p>Looking at the all US counties, our best fit model suggests that about 9% of US population live in counties which might have passed "herd immunity threshold". These are shown in the map below (click on the map for PDF version):</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://www.dropbox.com/s/a8fvsqr2vn7y1tw/US_Immunity_Map.pdf?dl=0"><img src="/media/2020/07/image-7.png?w=1024" alt="" class="wp-image-1563" /></a></figure>
+
+
+
+<h4>Further Reading</h4>
+
+
+
+<p>Our paper on arXiv: <a href="https://arxiv.org/abs/2007.00159">https://arxiv.org/abs/2007.00159</a></p>
+
+
+
+<p>Our paper on medRxiv: <a href="https://www.medrxiv.org/content/10.1101/2020.06.30.20143636v1">https://www.medrxiv.org/content/10.1101/2020.06.30.20143636v1</a></p>
+
+
+
+<p>Covid maps and resources: <a href="/welcome/covid/">/covid/</a></p>
+
+
+
+<p>Our online cloud simulator: <a href="https://wolfr.am/COVID19Dash">https://wolfr.am/COVID19Dash</a></p></div></main><footer class="site-footer"><p>Niayesh Afshordi · Astrophysics, cosmology, and gravity</p><a href="mailto:nafshordi@pitp.ca">nafshordi@pitp.ca</a><a href="https://www.physics.uwaterloo.ca/">University of Waterloo</a><a href="https://perimeterinstitute.ca/">Perimeter Institute</a></footer></div></body></html>

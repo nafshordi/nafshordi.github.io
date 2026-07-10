@@ -1,0 +1,161 @@
+<!DOCTYPE html><html lang="en"><head><meta charSet="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1"/><link rel="stylesheet" href="/assets/index-BI0cFOjm.css"/><title>Niayesh Afshordi | Astrophysics, Cosmology, and Gravity</title><meta name="description" content="Research, people, papers, talks, and writing by astrophysicist Niayesh Afshordi."/><link rel="shortcut icon" href="/favicon.svg"/><link rel="icon" href="/favicon.svg"/></head><body><div class="site-shell"><header class="site-header"><a href="/" class="wordmark" aria-label="Niayesh Afshordi home"><span>Niayesh</span> Afshordi</a><nav aria-label="Primary navigation"><a href="/research">Research</a><a href="/group">People</a><a href="/publications">Papers</a><a href="/talks">Talks &amp; Outreach</a><a href="/updates">Writing</a><a href="/cv">CV</a></nav></header><main><section class="page-hero"><h1>Physical Measure of a Pandemic</h1><p>2020-04-14</p></section><div class="content-page"><p>My <a href="/2020/03/30/physical-modelling-of-a-pandemic/">last post, on March 30th, </a> argued for physical modelling of the spread of the pandemic that still continues to dominate our daily lives.  I also argued for a universal profile for the pandemic growth, starting with a super-exponential growth at early times (as a superposition of many infection clusters), followed by saturation and decay. </p>
+
+
+
+<p>In particular, the best-fit "universal model" to Italy, US, and Canada (on March 29th) predicted that: <em>"... Canadian mortality will pass 1000 around April 9th, while the US mortality will pass 10,000 around April 5th."</em> </p>
+
+
+
+<p>As you can see below, while the latter milestone did indeed come to pass, the Canadian rate has fortunately slowed down since the end of March, and we are so far below 1000 COVID-19 fatalities in Canada.   </p>
+
+
+
+<figure class="wp-block-image size-large"><img src="/media/2020/04/total-deaths-covid-19.png?w=1024" alt="" class="wp-image-1376" /></figure>
+
+
+
+<p>In fact, exactly how the spread of a contagion slows down was beyond the scope of my last post, but clearly it is what we care about the most as a society. So, given the wealth of data that is available on the spread of COVID-19 across the world, I decided to figure out how the data can tell us when a slow-down might be happening.  </p>
+
+
+
+<p>There are different ways that different outlets decide to visualize this. Probably one of the better ones is the number of daily confirmed fatalities as a function of time:</p>
+
+
+
+<figure class="wp-block-image size-large"><img src="/media/2020/04/daily-covid-deaths-3-day-average.png?w=1024" alt="" class="wp-image-1380" /></figure>
+
+
+
+<p>While this is a good measure, it still has a few caveats. One obvious caveat is that there <a href="https://www.linkedin.com/pulse/most-important-question-world-bruce-bassett/">could be many deaths that were missed</a>, especially at peaks of outbreaks (e.g., due to death at home), or <a href="https://www.nbcnewyork.com/news/local/massive-spike-in-nyc-cardiac-arrest-deaths-seen-as-sign-of-covid-19-undercounting/2368678/">misidentification of the cause of death</a>. Another caveat is that it is hard to compare different countries, due to their different populations, or different sizes of outbreaks.  </p>
+
+
+
+<h3>A New Measure</h3>
+
+
+
+<p>To solve the latter problem, I will now introduce the <em>Relative Daily Increase in Reported Death</em>, $latex I(t)$, which is defined as:</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img src="/media/2020/04/image-6.png?w=246" alt="" class="wp-image-1394" width="173" height="54" /></figure></div>
+
+
+
+<p class="has-text-align-left">where $latex N(t)$ is the number of daily confirmed death, on day $latex t$. For example, $latex I=0.10$ implies that the number of reported deaths today, is $latex \exp(0.1)= 11$% higher than the number of reported deaths yesterday.   To reduce the scatter, I will actually use a rolling average over 14 days, i.e.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img src="/media/2020/04/image-7.png?w=868" alt="" class="wp-image-1397" /></figure></div>
+
+
+
+<p>For example, $latex I_7=0.10$/day today means that the number of reported death in the past 7 days (including today) were twice ($latex \exp(0.1\times 7) \simeq 2$) that of the preceding 7 days. </p>
+
+
+
+<p>Of course, what we really need is this number for the infected individuals, but given the arbitrariness and shortcomings in testings across municipalities, and the <a href="https://science.sciencemag.org/content/early/2020/03/24/science.abb3221">prevalence of asymptomatic individuals</a>, I think the mortality numbers (even with all its shortcomings) may give a more reliable measure of the epidemic. However, there is clearly a time-delay between the exposure and death, which needs to be taken into account if one wants to relate the mortality statistics to the epidemic dynamics. According to current clinical studies, the <a href="https://www.nejm.org/doi/full/10.1056/NEJMoa2001316">incubation period (the period from exposure to onset of symptoms) is 4 to 7 days </a>, while <a href="https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30243-7/fulltext#seccestitle230">the time from onset of symptoms to death (on average) is 17 to 19 days</a> (both at 95% confidence level). Given my lack of knowledge of how these uncertainties may be correlated, I take the conservative range of 21-26 days, as the expected time delay from exposure to death.  Now, since $latex I_7(t)$ depends on mortality data in the past 14 days, the 21-26 day delay implies that it takes at least<strong> <em>21 days</em></strong> for any effect of, e.g., social distancing to show up in $latex I_7(t)$, but it may take up to <em>14+26=40 days </em>to see the full effect.   </p>
+
+
+
+<h3>United States vs. Canada: <em>Comparison of COVID-19 Mortality Growth Rates</em></h3>
+
+
+
+<p>So, after all this introduction, the next plot compares $latex I_7(t)$ between the United States and Canada, where the errorbars are simple Poisson errors.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img src="/media/2020/04/image-8.png?w=1004" alt="" class="wp-image-1401" /></figure></div>
+
+
+
+<p>As I had predicted in <a href="/2020/03/30/physical-modelling-of-a-pandemic/">my last post</a>, both US and Canada show an early rise in death growth rates, which could be attributed to different competing epidemic clusters. Since US is more geographically diverse, it has a faster rise.   However, they both reach a <strong>peak, US around March 25th, and Canada around April 9th</strong>, following which the rates start to drop precipitously.  In fact, it appears that daily death rates $latex N(t)$ might have peaked for both countries in the last couple of days, i.e. $latex I(t) \simeq 0$, although it may take a few days for it to show up in $latex I_7(t)$ (if it is indeed real, and not a statistical fluke). </p>
+
+
+
+<p>But what is responsible for these precipitous drops in mortality growth rates? The natural response might be that preventative measures, such as lockdowns and social distancing have started to work. To test this hypothesis, we can compare the <a href="https://www.google.com/covid19/mobility/">recently released mobility data from Google</a>, that shows how lockdowns have affected the two countries (I only show the first row of the report, which is representative of the drop in other social activities) .</p>
+
+
+
+<figure class="wp-block-image size-large"><img src="/media/2020/04/image-10.png?w=1024" alt="" class="wp-image-1406" /><figcaption><a href="https://www.gstatic.com/covid19/mobility/2020-04-05_US_Mobility_Report_en.pdf">Google Community Mobility Report for the <strong>United States</strong></a></figcaption></figure>
+
+
+
+<p> </p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img src="/media/2020/04/image-9.png?w=1024" alt="" class="wp-image-1405" width="580" height="118" /><figcaption><a href="https://www.gstatic.com/covid19/mobility/2020-04-05_CA_Mobility_Report_en.pdf">Google Community Mobility Report for <strong>Canada</strong></a></figcaption></figure></div>
+
+
+
+<p>We notice that the activities in both countries start to drop around March 15th, and take almost a week to reach their plateau. If this drop can mitigate the spread of COVID-19, given the 21-day delay that we discussed above, it should only start to affect the mortality after April 5th, which could well fit the rapid drop in Canadian mortality growth (or $latex I_7(t)$), on April 9th.   But what about the US, whose mortality growth peaked on March 25th? For that, the spread of the virus must have slowed down well before March 4th. Even looking at the mobility reports for <a href="https://www.gstatic.com/covid19/mobility/2020-04-05_US_Washington_Mobility_Report_en.pdf">Washington </a>and <a href="https://www.gstatic.com/covid19/mobility/2020-04-05_US_New_York_Mobility_Report_en.pdf">New York</a> States, which are respectively the earliest and the biggest US epicenters of the pandemic, show little change in social activities prior to March 8th.  More curiously, even though US and Canada started their social distancing around March 15th (even though US's -49% is not quite as impressive as Canada's -63%), the precipitous drop in Canadian mortality rate around April 9th, has no counterpart in US's data (in spite of its much smaller Poisson errors).  </p>
+
+
+
+<h3>Mystery Deepens</h3>
+
+
+
+<p>To understand how unique the situation with the US might (or might not) be, I decided to compare it to mortality growth rate, $latex I_7(t)$, for other countries. In the next plot, I am comparing this measure for the 9 countries with the highest reported total death (I am excluding Iran here, as<a href="https://www.medrxiv.org/content/10.1101/2020.03.22.20040956v1"> its official figures might be a significant underestimate</a>). I have shifted all the curves, so that their peak is at $latex t=0$.  </p>
+
+
+
+<figure class="wp-block-image size-large is-resized"><img src="/media/2020/04/image-11.png?w=1024" alt="" class="wp-image-1413" width="620" height="328" /></figure>
+
+
+
+<p> Most countries (with the exception of US and France), don't have much data prior to the peak. This could well be because the epidemic was growing in the dark and under the radar (<a href="https://www.linkedin.com/pulse/how-deadly-covid-19-really-walk-through-dark-matter-bruce-bassett/">as it is believed was the case, e.g. in Italy</a>). </p>
+
+
+
+<p>More interestingly, it also appears that the mortality growth rates falls precipitously, in essentially an identical fashion to the US, past the peak: They all appear to peak around $latex I_{7,max} = 0.39 \pm 0.04$/day (at 1-$latex \sigma$), and linearly decrease, with similar slopes that cross zero (i.e. max. daily death) within 21-27 days. The two exceptions are the UK and France that appear to undergo secondary and tertiary outbreaks.    </p>
+
+
+
+<p>Similar to the US, there appears to be no correlation between the dates of the lockdown (defined as when the <a href="https://www.google.com/covid19/mobility/">social mobility</a> plateaus to its lockdown rate) , and those of the peak mortality rate $latex  I_7(t)$, no matter how effective the lockdown has been. </p>
+
+
+
+<figure class="wp-block-image size-large"><img src="/media/2020/04/image-12.png?w=1024" alt="" class="wp-image-1416" /></figure>
+
+
+
+<h3>"Herd Immunity" vs Lockdown</h3>
+
+
+
+<p>There is an interesting coincidence between the numbers that we discussed above. The 21-27 days from the peak of $latex I_7(t)$ to when it crosses zero (i.e. max. daily fatality), which is common amongst the 9 countries with biggest total death (excluding Iran) is identical to the 21-26 days exposure-to-death period, inferred for COVID-19. Therefore, if we are near the peak of the epidemic with $latex I_7 \simeq 0.4$/day, i.e.  twice as many people are infected tomorrow as they were yesterday, and you suddenly stop the infections today, then most fatalities will happen 21-26 days from today. This would explain the universality of the universal precipitous drop in $latex I_7(t)$. </p>
+
+
+
+<p>But what would suddenly stop the spread at the peak? As the last plot showed, there doesn't seem to be an obvious causal relationship between the lockdown and the peak in mortality growth. In fact, one may speculate that the lockdown might be more of a sociological response to large mortality growth. To shed light on this situation, let's make a comparison between four countries, Canada and Austria (with more effective lockdown starting at small $latex I_7(t)$), USA (with less effective lockdown starting at already large $latex I_7(t)$) and Sweden (with no effective lockdown):</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img src="/media/2020/04/image-14.png?w=1024" alt="" class="wp-image-1443" width="588" height="297" /></figure></div>
+
+
+
+<p>We see that, for Austria and Canada, as we argued above, the rapid drop and small peak at $latex I_7(t) \simeq 0.2$, is a likely (and timely) response to social distancing measures. However, countries with late or no lockdown will reach a universal maximum, until they presumably reach some version of "herd immunity", at which point the death rate drops in a universal fashion (case in point: US and Sweden curves are indistinguishable beyond the peak, despite vastly different populations).  The problem with "herd immunity", however, is that it may need to happen over and over again, within different communities in a country, as it seems to be happening in France and the UK.    </p>
+
+
+
+<h3>Bottom Line</h3>
+
+
+
+<p>At this point, if you managed to make it this far (congratulations by the way! you are excellent at extreme social distancing👏), you may have hoped to find one concise conclusion. I am afraid to disappoint you! </p>
+
+
+
+<p>I guess one lesson might be that you may always learn new things by plotting different statistical measures of a physical phenomenon, including a pandemic. I also think the universal behavior of mortality growth rate, as I have defined here, at least with countries with large number of deaths was a surprise to me, and something that I hadn't seen anywhere else. I also believe the existence of a dark onset of epidemic for most countries in Europe and China (having missed the early rise), might be another lesson from these plots. As to the most important question,  i.e. the role of "herd immunity" vs. "lockdown", it appears hard to distinguish the two possibilities, as they both appear to happen around the peaks of a pandemic in a community. However, countries with poorer and/or later lockdowns appear to see higher peaks and/or slower decays of the mortality growth rate (translating to a larger overall fatality per capita). Ultimately though, this is intimately related to <a href="https://science.sciencemag.org/content/early/2020/03/24/science.abb3221">the prevalence of asymptomatic and undetected spreaders</a>, the more of them around, the <a href="https://www.linkedin.com/pulse/how-deadly-covid-19-really-walk-through-dark-matter-bruce-bassett/">less fatal is COVID-19</a> and we reach "herd immunity" faster, while an effective lockdown and contact tracing will become harder. </p>
+
+
+
+<p>In the end, let me thank Ghazal Geshnizjani, Ben Holder and Bruce Bassett for many useful discussions. In particular, Bruce has some excellent analysis on data science with COVID-19 that can be found on his <a href="https://www.linkedin.com/in/bruce-bassett-32698229/">Linked-In Page</a>.</p>
+
+
+
+<p><em>Update (April 14th, at 9:12am EDT): The last figure was updated to include Austria (a similar sized country to Sweden), as was suggested by Ghazal Geshnizjani. </em></p></div></main><footer class="site-footer"><p>Niayesh Afshordi · Astrophysics, cosmology, and gravity</p><a href="mailto:nafshordi@pitp.ca">nafshordi@pitp.ca</a><a href="https://www.physics.uwaterloo.ca/">University of Waterloo</a><a href="https://perimeterinstitute.ca/">Perimeter Institute</a></footer></div></body></html>

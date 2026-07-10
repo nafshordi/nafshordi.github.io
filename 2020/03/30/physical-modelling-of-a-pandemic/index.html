@@ -1,0 +1,133 @@
+<!DOCTYPE html><html lang="en"><head><meta charSet="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1"/><link rel="stylesheet" href="/assets/index-BI0cFOjm.css"/><title>Niayesh Afshordi | Astrophysics, Cosmology, and Gravity</title><meta name="description" content="Research, people, papers, talks, and writing by astrophysicist Niayesh Afshordi."/><link rel="shortcut icon" href="/favicon.svg"/><link rel="icon" href="/favicon.svg"/></head><body><div class="site-shell"><header class="site-header"><a href="/" class="wordmark" aria-label="Niayesh Afshordi home"><span>Niayesh</span> Afshordi</a><nav aria-label="Primary navigation"><a href="/research">Research</a><a href="/group">People</a><a href="/publications">Papers</a><a href="/talks">Talks &amp; Outreach</a><a href="/updates">Writing</a><a href="/cv">CV</a></nav></header><main><section class="page-hero"><h1>Physical Modelling of a Pandemic</h1><p>2020-03-30</p></section><div class="content-page"><p>These are strange times, the likes of which we probably see once in a generation, and it is amazing that it is happening across the world simultaneously, and in the age of internet. As physicists, as much as one would like to carry on , it is hard to ignore what is going on around you, and try to understand it, the same way we understand any other physical system.  So here it goes:</p>
+
+
+
+<h2>A Growth+Diffusion Model for Early Epidemic</h2>
+
+
+
+<p>As we approach any other physics problem, we start from first principles that describe the system of interest. For the purpose of this note, I will start by describing how how a contagion is transmitted within a community and spreads across large geographical locations. What bothers me about the standard treatments (e.g., <a href="https://www.maa.org/press/periodicals/loci/joma/the-sir-model-for-spread-of-disease-the-differential-equation-model">the SIR equation</a>) is that, by reducing the system to ordinary differential equations, it ignores this geographical diversity and thus (as we shall see below) might miss important phenomenological features of the evolution. </p>
+
+
+
+<p>Instead, I will use an inhomogeneous linear growth+diffusion equation to describe the early phase of an epidemic, prior to large-scale immunity or social intervention:</p>
+
+
+
+<figure class="wp-block-image size-large"><img src="/media/2020/03/image-1.png?w=870" alt="" class="wp-image-1290" /></figure>
+
+
+
+<p>Here n(x,t) is the number density of infected individuals as a function of space and time. R(x) is the local linear growth rate (= ln(2) divided by the doubling time), while D(x) is a diffusion coefficient, quantifying how infected individuals can move around. Since the coefficients don't have explicit time-dependence, we can decompose the solution into modes with exponential growth (or decay):</p>
+
+
+
+<figure class="wp-block-image size-large"><img src="/media/2020/03/image-2.png?w=870" alt="" class="wp-image-1292" /></figure>
+
+
+
+<p>where $latex \lambda_m$'s and $latex u_m({\bf x})$'s are eigenvalues and eingenstates of the elliptic operator $latex R+\nabla\cdot D \nabla$: </p>
+
+
+
+<figure class="wp-block-image size-large"><img src="/media/2020/03/image-4.png?w=870" alt="" class="wp-image-1307" /></figure>
+
+
+
+<p>For constant D, this is the same equation as energy states of a particle in 2D that satisfies time-independent Schrodinger Equation:</p>
+
+
+
+<figure class="wp-block-image size-large"><img src="/media/2020/03/image-6.png?w=870" alt="" class="wp-image-1309" /></figure>
+
+
+
+<p>For example, one result that we can now use is that for generic random potentials (or disorder) in 2D the eigenstates are localized, otherwise known as <a href="https://en.wikipedia.org/wiki/Anderson_localization"><em>Anderson localization</em></a>. One can think of these different localized eigenstates as localized communities with different doubling times for the growth of the epidemic. </p>
+
+
+
+<p>The next physics result we shall use is the probability distribution of spacing of energy states of a random potential, known as <em><a href="https://en.wikipedia.org/wiki/Wigner_surmise">Wigner surmise</a></em>:</p>
+
+
+
+<figure class="wp-block-image size-large"><img src="/media/2020/03/image-8.png?w=870" alt="" class="wp-image-1313" /></figure>
+
+
+
+<p>which we shall use to quantify the distribution of the largest eigenvalue (equivalent to the energy of the most energy bound state). Plugging this into Equation (2) yields:</p>
+
+
+
+<figure class="wp-block-image size-large"><img src="/media/2020/03/image-9.png?w=870" alt="" class="wp-image-1314" /></figure>
+
+
+
+<p>Now, for large $latex \lambda$ and $latex t$, we would like to use saddle approximation compute this integral. To do this, we have to expand $latex -\ln A(\lambda)$ to second order in $latex \lambda$, i.e. $latex -\ln A(\lambda) = a_0 +a_1 \lambda + a_2 \lambda^2 + \dots $ where we assume $latex a_2 &gt;-C$, otherwise the integral would diverge (or we need to include more terms). The saddle-point approximation for large times yields:</p>
+
+
+
+<figure class="wp-block-image size-large"><img src="/media/2020/03/image-11.png?w=870" alt="" class="wp-image-1318" /></figure>
+
+
+
+<p>In other words, we predict a super-exponential growth at early times, which is contrast to the exponential expectation from simple uniform models, such as <a href="https://www.maa.org/press/periodicals/loci/joma/the-sir-model-for-spread-of-disease-the-differential-equation-model">the SIR equation</a>. The reason for this is clearly that we are dealing with a distribution of growth rates, and the later times will be dominated by populations with faster growth rates (smallest doubling time), no matter how small they start.  </p>
+
+
+
+<p>One clear limitation of Equation (8), apart that it only applies to the linear regime and no interventions, is that at some point we will be dominated by the community with the largest eigenvalue, at which point the exponent should become linear time. This will be followed by further nonlinear effects. I will include these effects, by terms that are higher order in time, i.e. </p>
+
+
+
+<figure class="wp-block-image size-large"><img src="/media/2020/03/image-12.png?w=870" alt="" class="wp-image-1321" /></figure>
+
+
+
+<h2>Comparison to Data</h2>
+
+
+
+<p>We shall next try to fit this to fatality data for different countries, up until March 29th, 2020 (using data provided by <a href="https://ourworldindata.org/coronavirus">https://ourworldindata.org/coronavirus</a>). We find the best fit parameters:</p>
+
+
+
+<p>$latex b_2= (7.7 \pm 1.4) \times 10^{-3}~ {\rm day}^2$ and $latex b_3= (8.7 \pm 3.6) \times 10^{-5}~ {\rm day}^3$. However, these parameters are highly degenerate, as can be seen in the 1 and 2$latex \sigma$ contours</p>
+
+
+
+<figure class="wp-block-image size-large is-resized"><img src="/media/2020/03/image-20.png?w=433" alt="" class="wp-image-1348" width="539" height="512" /><figcaption>Best fit parameters for US (blue), Canada (red) data, and Italy (green) as of March 29, 2020. There is just over $latex 2\sigma$ evidence for the cubic term in US data, which means that $latex t\exp(b_2 t^2)$ can describe most of US data. The Canadian parameters are more poorly constrained, but appear perfectly consistent with those of the US. The Italian parameters, are considerably better constrained but still consistent with the two other countries (but see below). </figcaption></figure>
+
+
+
+<p>In fact, including the cubic terms only became necessary in the last 3 days to fit the US data. Furthermore, the Canadian parameters are perfectly consistent with those of US, but with larger errors. </p>
+
+
+
+<p>Some comments on fitting the data: The most rigorous way to fit the data (assuming that you have a perfect model) is to fit daily values using <a href="https://en.wikipedia.org/wiki/Poisson_distribution">Poisson statistics</a>, as they are independent. Using this, our best fit to US, Canada, and Italy data gives $latex \chi^2_{\rm red} =1.9, 0.9,$ and $latex 12$ respectively. I interpret this as data not being completely uncorrelated, as expected, since infection happens in clusters. As such, for parameter estimation I divide the Poisson log-likelihood by $latex \chi^2_{\rm red}$ to reflect this sample variance.</p>
+
+
+
+<p>The next figure shows the logarithmic derivative $latex \dot{N}/N$ for US, Canada, Italy, and South Korea. While for the US and Canada, t=1 is the report of first death, the Italy data is shifted forward by 25 days from the day of first death.  The best curve fit is to the US data, but clearly fits both Canada and Italy (after the shift), as the parameters are consistent at 95% confidence level, per the figure above. </p>
+
+
+
+<p>I have also added South Korean data, but shifted by 40 days. While the US best-fit, extrapolated forward can fit well the first 20 days of S Korean dat, it clearly misses the second half. However, it could well be that higher order terms in the exponent of Equation (9) will become important at this point. </p>
+
+
+
+<figure class="wp-block-image size-large is-resized"><img src="/media/2020/03/image-24-e1585545223898.png" alt="" class="wp-image-1355" width="612" height="300" /><figcaption>Logarithmic derivative of the total fatality $latex \frac{d\ln N}{dt} \simeq \frac{N(t)-N(t-1)}{N(t-1)}$ for US (blue), Canada (red), Italy (green), and South Korea (black), as of March 29th. For US and Canada, t=1 is at the report of first death, while the data for Italy and South Korea are shifted forward by 25 and 40 days, respectively. The curve shows the best fit to US data.</figcaption></figure>
+
+
+
+<p>This plot is of course very suggestive. Could there be a universal $latex \dot{N}/N$ as a function of time (analogous to Hubble constant H(t), or Friedmann equation,  in cosmology)? This may suggest the intriguing possibility that the true onset of the Italian (South Korean) epidemic might have been 25 (40) days before the first death was attributed to the Covid-19 epidemic. Of course, the alternative is that there is no universality, and the different behaviors are dictated by environmental and social factors. </p>
+
+
+
+<h2>Final Note</h2>
+
+
+
+<p>Finally, let me end on a somber note: The best-fit model (to US, Canada, and Italy) predicts that Canadian mortality will pass 1000 around April 9th, while the US mortality will pass 10,000 around April 5th. I will not dare extrapolate beyond that point, and I sincerely hope that the model is wrong.</p>
+
+
+
+<h3>So, <strong><em>Stay Home! Stay Safe! </em></strong></h3></div></main><footer class="site-footer"><p>Niayesh Afshordi · Astrophysics, cosmology, and gravity</p><a href="mailto:nafshordi@pitp.ca">nafshordi@pitp.ca</a><a href="https://www.physics.uwaterloo.ca/">University of Waterloo</a><a href="https://perimeterinstitute.ca/">Perimeter Institute</a></footer></div></body></html>
