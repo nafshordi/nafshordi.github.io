@@ -549,10 +549,9 @@ export const alumniPeople: GroupMember[] = [
     role: "Undergraduate researcher",
     years: "2021",
     research: "COVID forecasting and dashboard development.",
-    destination: "Most recent group record: Software Engineer, Bloomberg.",
+    destination: "Software Engineer, Bloomberg.",
     image: "/media/2021/04/image-14.png",
-    profileHref: "https://jolenezheng.github.io/",
-    verification: "Please confirm current employer.",
+    profileHref: "https://www.linkedin.com/in/jolenezheng/",
   },
 ];
 
