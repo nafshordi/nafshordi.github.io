@@ -685,7 +685,7 @@ export const battleOfBigBang = {
   interviews: [
     { date: "June 2025", title: "What Really Happened During the Big Bang? — Royal Institution", href: "https://youtu.be/Tx0net82eTo" },
     { date: "August 2025", title: "What Came Before the Big Bang? — Alex O'Connor interview", href: "https://youtu.be/rscDW-l8N0Q" },
-    { date: "June 2025", title: "Public Lecture Livestream — Perimeter Institute", href: "https://youtu.be/v06wbsphIa0" },
+    { date: "June 2025", title: "Public Lecture Livestream — Perimeter Institute", href: "https://www.youtube.com/watch?v=ns4OHQjHreE&t=1s" },
     { date: "April 2026", title: "The Big Bang May Not Be the Beginning: Time and Nothingness", href: "https://youtu.be/qj5wCEfpqc0" },
     { date: "May 2026", title: "What Came Before The Big Bang?", href: "https://youtu.be/lFVqEZ1qF_g" },
     { date: "October 2025", title: "Has Science Just Proved God?", href: "https://youtu.be/DO5iArbukzg" },
