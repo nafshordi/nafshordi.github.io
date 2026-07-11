@@ -487,6 +487,7 @@ export const alumniPeople: GroupMember[] = [
     years: "Former",
     research: "Research assistance in astrophysics and cosmology.",
     destination: "PhD student, Swansea University.",
+    image: "/images/eleanna-kolonia.png",
     profileHref: "https://www.linkedin.com/in/eleni-anna-kolonia-229263247/",
   },
   {
