@@ -304,10 +304,10 @@ const cvAlumniAdditions: GroupMember[] = [
   { name: "Ali Narimani", role: "Visiting PhD researcher", years: "2013–2014", research: "How does pressure gravitate?", destination: "Data Scientist, Twitter." },
   { name: "Jeremy Sakstein", role: "Visiting PhD researcher", years: "2013–2014", research: "Novel approaches to modified gravity.", destination: "Assistant Professor, University of Hawaiʻi.", image: "/images/online/jeremy-sakstein.png", profileHref: "https://www.phys.hawaii.edu/profile/Dr-Sakstein/" },
   { name: "Sean Gryb", role: "PhD researcher", years: "2010–2011", research: "Shape dynamics and Mach’s principles.", destination: "Assistant Professor, University College Groningen.", image: "/images/online/sean-gryb.jpg", profileHref: "https://seangryb.com/" },
-  { name: "Marilena LoVerde", role: "Visiting PhD researcher", years: "2007–2008", research: "Extended Limber approximation.", destination: "Assistant Professor, Stony Brook University." },
+  { name: "Marilena LoVerde", role: "Visiting PhD researcher", years: "2007–2008", research: "Extended Limber approximation.", destination: "Associate Professor, University of Washington." },
   { name: "Ramit Dey", role: "Postdoctoral researcher", years: "2020–2024", research: "Spectrogram correlated stacking and black-hole echoes.", destination: "Research Associate, Western University." },
   { name: "Barak Shoshani", role: "Postdoctoral researcher", years: "2020", research: "Bayesian search for black-hole echoes.", destination: "Assistant Professor, Brock University." },
-  { name: "Takeshi Kobayashi", role: "Postdoctoral researcher", years: "2012–2015", research: "Primordial magnetic fields from the post-inflationary universe.", destination: "Postdoctoral Fellow, ICTP." },
+  { name: "Takeshi Kobayashi", role: "Professor", years: "2012–2015", research: "Primordial magnetic fields from the post-inflationary universe.", destination: "Professor, SISSA (Scuola Internazionale Superiore di Studi Avanzati)." },
 ];
 
 export const alumniPeople: GroupMember[] = [
