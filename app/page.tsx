@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { SiteFrame } from "./components/SiteFrame";
 import {
+  battleOfBigBang,
   currentMembers,
   externalProfiles,
   recentTalks,
@@ -66,6 +67,17 @@ export default function Home() {
               <b>↗</b>
             </Link>
           ))}
+        </div>
+      </section>
+
+      <section className="book-feature section-pad">
+        <div className="book-feature-cover"><img src={battleOfBigBang.cover} alt="Battle of the Big Bang book cover" /></div>
+        <div>
+          <p className="eyebrow">BOOK</p>
+          <h2>{battleOfBigBang.title}</h2>
+          <p className="book-feature-subtitle">{battleOfBigBang.subtitle}</p>
+          <p>{battleOfBigBang.description}</p>
+          <Link className="button" href="/battle-of-the-big-bang">Book page &amp; media archive <span>↗</span></Link>
         </div>
       </section>
 

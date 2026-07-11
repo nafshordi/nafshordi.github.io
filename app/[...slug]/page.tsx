@@ -6,6 +6,7 @@ import externalLinkAudit from "../../data/migration-audit/wordpress-external-lin
 import { SiteFrame } from "../components/SiteFrame";
 import {
   alumniPeople,
+  battleOfBigBang,
   currentPeople,
   externalProfiles,
   recentMediaCoverage,
@@ -114,6 +115,62 @@ function Content({ html }: { html: string }) {
   return <div className="content-page" dangerouslySetInnerHTML={{ __html: repairLegacyLinks(safeHtml) }} />;
 }
 
+function prepareTalkArchive(html: string) {
+  let prepared = html
+    .replace(/<p>A selected list of my talks can be found in my[\s\S]*?<\/p>/i, "")
+    .replace(/<p class="paragraph_style">I \(intend to\) keep an up-to-date archive[\s\S]*?<\/p>/i, "")
+    .replace(/Here are some of the&nbsp;recent talks:/i, "<h2>Earlier talks and seminars</h2>")
+    .replaceAll('<ul class="wp-block-list">', '<ul class="talk-archive-list">')
+    .replaceAll("<li>", '<li class="talk-archive-entry">');
+  prepared = prepared.replace(
+    /<figure class="wp-block-embed[^>]*wp-block-embed-youtube[^>]*>[\s\S]*?<div class="wp-block-embed__wrapper">\s*([^<\s]+)[\s\S]*?<\/div>[\s\S]*?<\/figure>/gi,
+    (full, rawUrl: string) => {
+      const normalized = rawUrl.replaceAll("&amp;", "&");
+      try {
+        const url = new URL(normalized);
+        const id = url.hostname.endsWith("youtu.be") ? url.pathname.slice(1) : url.searchParams.get("v");
+        if (!id || !/^[A-Za-z0-9_-]{6,}$/.test(id)) return full;
+        const watchUrl = `https://www.youtube.com/watch?v=${id}`;
+        return `<figure class="talk-video-card"><a href="${watchUrl}" target="_blank" rel="noreferrer"><img src="https://i.ytimg.com/vi/${id}/hqdefault.jpg" alt="YouTube recording thumbnail" loading="lazy" decoding="async" /></a><figcaption><a href="${watchUrl}" target="_blank" rel="noreferrer">Watch the YouTube recording ↗</a></figcaption></figure>`;
+      } catch {
+        return full;
+      }
+    },
+  );
+  return prepared;
+}
+
+function prepareNewsArchive(html: string) {
+  let prepared = html
+    .replace(/<p>Here you can find:[\s\S]*?<\/p>/i, "")
+    .replace(/<p>And some news clippings:<\/p>/i, "<h2 class=\"news-archive-heading\">Historical coverage</h2>")
+    .replaceAll('<h2 class="wp-block-heading">', '<h2 class="news-archive-year">')
+    .replaceAll('<h2 id="2022" class="wp-block-heading">', '<h2 class="news-archive-year">2022</h2>')
+    .replaceAll('<ul class="wp-block-list">', '<ul class="news-archive-list">')
+    .replaceAll("<li>", '<li class="news-archive-entry">')
+    .replace(/<figure class="wp-block-image([^>]*)>/gi, '<figure class="news-image-card$1>');
+  prepared = prepared.replace(
+    /<figure class="wp-block-embed[^>]*wp-block-embed-youtube[^>]*>[\s\S]*?<div class="wp-block-embed__wrapper">\s*([^<\s]+)[\s\S]*?<\/div>[\s\S]*?<\/figure>/gi,
+    (full, rawUrl: string) => {
+      const normalized = rawUrl.replaceAll("&amp;", "&");
+      try {
+        const url = new URL(normalized);
+        const id = url.hostname.endsWith("youtu.be") ? url.pathname.slice(1) : url.searchParams.get("v");
+        if (!id || !/^[A-Za-z0-9_-]{6,}$/.test(id)) return full;
+        const watchUrl = `https://www.youtube.com/watch?v=${id}`;
+        return `<figure class="news-video-card"><a href="${watchUrl}" target="_blank" rel="noreferrer"><img src="https://i.ytimg.com/vi/${id}/hqdefault.jpg" alt="YouTube recording thumbnail" loading="lazy" decoding="async" /></a><figcaption><a href="${watchUrl}" target="_blank" rel="noreferrer">Watch the recording on YouTube ↗</a></figcaption></figure>`;
+      } catch {
+        return full;
+      }
+    },
+  );
+  prepared = prepared.replace(
+    /(<ul class="news-archive-list">[\s\S]*?<\/ul>)\s*(<figure class="(?:news-image-card|news-video-card)[^>]*>[\s\S]*?<\/figure>)/gi,
+    '<article class="news-archive-card">$1$2</article>',
+  );
+  return prepared;
+}
+
 function ResearchPage() {
   return <>
     <PageHero title="Research"><p>Observational routes into the puzzles of gravity, cosmology, and the quantum universe.</p></PageHero>
@@ -145,6 +202,7 @@ function PersonCard({ person }: { person: (typeof currentPeople)[number] }) {
     <div className="person-card-copy">
       <p className="eyebrow">{person.role}</p>
       <h3>{person.profileHref ? <a href={person.profileHref} target="_blank" rel="noreferrer">{person.name} ↗</a> : person.name}</h3>
+      {person.secondaryProfileHref ? <p className="person-profile-link"><a href={person.secondaryProfileHref} target="_blank" rel="noreferrer">{person.secondaryProfileLabel ?? "More profile"} ↗</a></p> : null}
       <p><strong>{person.years}</strong></p>
       <p>{person.research}</p>
       <p className="person-destination">{person.destination}</p>
@@ -159,7 +217,7 @@ function PeoplePage() {
     <div className="content-page">
       <h2>Current members</h2>
       <div className="people-grid">{currentPeople.map((person) => <PersonCard key={person.name} person={person} />)}</div>
-      <p className="notice">Group roles were last reviewed in July 2026. Preferred portraits are still needed for the current members; new members, departures, projects, and destinations will be reconfirmed in the monthly group update.</p>
+      <p className="notice">Group roles were last reviewed in July 2026. Some external profiles do not expose stable portrait files; those entries use initials until a preferred portrait is supplied. New members, departures, projects, and destinations will be reconfirmed in the monthly group update.</p>
       <h2>Former group members</h2>
       <div className="people-grid">{alumniPeople.map((person) => <PersonCard key={person.name} person={person} />)}</div>
       <p className="notice">These cards cover the complete historical group roster carried by the original website. The broader supervision record—short projects, visiting students, and co-supervised researchers—is being reconciled with the long CV during the monthly review. Please send corrections or updated photographs; uncertain details are labelled rather than guessed.</p>
@@ -203,11 +261,11 @@ function TalksPage() {
     <div className="content-page">
       <h2>Recent talks</h2>
       <p className="notice">Each recent entry is transcribed from its title slide and opens the specific PDF deck.</p>
-      <ul className="entry-list">{recentTalks.map((talk) => <li key={talk.href}><time>{talk.date}</time><div><a href={talk.href} target="_blank" rel="noreferrer" aria-label={`Open PDF deck for ${talk.title}`}>{talk.title} ↗</a><p>{talk.venue}</p><span className="talk-file-type">PDF deck</span></div></li>)}</ul>
+      <ul className="talk-archive-list talk-recent-list">{recentTalks.map((talk) => <li className="talk-archive-entry" key={talk.href}><time>{talk.date}</time><div><a href={talk.href} target="_blank" rel="noreferrer" aria-label={`Open PDF deck for ${talk.title}`}>{talk.title} ↗</a><p>{talk.venue}</p><span className="talk-file-type">PDF deck</span></div></li>)}</ul>
       <h2 id="historical-talks">Historical talks & recordings</h2>
-      <p>The selected historical record below retains direct links to individual talk files and recordings. The page no longer sends visitors to a bulk download of the entire archive.</p>
+      <p>The historical archive uses the same record style and retains direct links to slides, recordings, and event pages. YouTube recordings are shown with thumbnails when the original archive supplied them.</p>
     </div>
-    {legacy ? <Content html={legacy.html} /> : null}
+    {legacy ? <div className="talks-legacy"><Content html={prepareTalkArchive(legacy.html)} /></div> : null}
   </>;
 }
 
@@ -225,6 +283,35 @@ function UpdatesPage() {
   </>;
 }
 
+function BattleOfBigBangPage() {
+  return <>
+    <PageHero title={battleOfBigBang.title}><p>{battleOfBigBang.subtitle} · {battleOfBigBang.authors}</p></PageHero>
+    <div className="book-page content-page">
+      <section className="book-intro">
+        <img src={battleOfBigBang.cover} alt="Battle of the Big Bang book cover" />
+        <div>
+          <p className="eyebrow">BOOK &amp; MEDIA</p>
+          <h2>{battleOfBigBang.subtitle}</h2>
+          <p>{battleOfBigBang.description}</p>
+          <div className="profile-links">{battleOfBigBang.links.map((link) => <a href={link.href} key={link.href} target="_blank" rel="noreferrer">{link.label} ↗</a>)}</div>
+        </div>
+      </section>
+      <section>
+        <h2>Reviews and coverage</h2>
+        <ul className="book-link-list">{battleOfBigBang.reviews.map((review) => <li key={review.href}><a href={review.href} target="_blank" rel="noreferrer">{review.label} ↗</a></li>)}</ul>
+      </section>
+      <section>
+        <h2>YouTube interviews</h2>
+        <div className="book-video-grid">{battleOfBigBang.interviews.map((interview) => {
+          const url = new URL(interview.href);
+          const videoId = url.hostname.endsWith("youtu.be") ? url.pathname.slice(1) : (url.searchParams.get("v") ?? "");
+          return <a className="book-video-card" href={interview.href} key={interview.href} target="_blank" rel="noreferrer"><img src={`https://i.ytimg.com/vi/${videoId}/hqdefault.jpg`} alt="" loading="lazy" decoding="async" /><span>{interview.date}</span><strong>{interview.title} ↗</strong></a>;
+        })}</div>
+      </section>
+    </div>
+  </>;
+}
+
 function NewsPage() {
   const legacy = entries.find((entry) => entry.path === "/welcome/for-public/");
   const coverageByYear = recentMediaCoverage.reduce<Record<string, (typeof recentMediaCoverage)[number][]>>((all, item) => {
@@ -234,16 +321,19 @@ function NewsPage() {
   return <>
     <PageHero title="News & media"><p>Public talks, interviews, articles, reviews, and media coverage in English and Persian.</p></PageHero>
     <div className="content-page news-intro">
-      <p className="notice">Recent coverage has been checked against public sources and the historical collection. Older material is preserved below; fragile third-party images have been replaced with stable archival assets where possible, and YouTube embeds now play directly on this site.</p>
+      <p className="notice">Recent coverage and the historical collection use one consistent card style. Article images and YouTube thumbnails open the original source.</p>
       <section className="news-additions" aria-label="Recent news and media coverage">
         <h2>Recent additions</h2>
         {Object.entries(coverageByYear).sort(([a], [b]) => Number(b) - Number(a)).map(([year, items]) => <div key={year}>
           <h3>{year}</h3>
-          <ul>{items.map((item) => <li key={item.href}><a href={item.href} target="_blank" rel="noreferrer">{item.title} ↗</a><span>{item.detail}</span></li>)}</ul>
+          <ul>{items.map((item) => <li className="news-addition-card" key={item.href}>
+            {item.youtubeId ? <a className="news-addition-media" href={item.href} target="_blank" rel="noreferrer"><img src={`https://i.ytimg.com/vi/${item.youtubeId}/hqdefault.jpg`} alt="" loading="lazy" decoding="async" /></a> : item.image ? <a className="news-addition-media" href={item.href} target="_blank" rel="noreferrer"><img src={item.image} alt="" loading="lazy" decoding="async" /></a> : null}
+            <div><a href={item.href} target="_blank" rel="noreferrer">{item.title} ↗</a><span>{item.detail}</span></div>
+          </li>)}</ul>
         </div>)}
       </section>
     </div>
-    {legacy ? <Content html={legacy.html} /> : null}
+    {legacy ? <div className="news-legacy"><Content html={prepareNewsArchive(legacy.html)} /></div> : null}
   </>;
 }
 
@@ -310,6 +400,7 @@ export default async function CatchAllPage({ params }: { params: Promise<{ slug:
   else if (slug.length === 1 && slug[0] === "talks") body = <TalksPage />;
   else if (slug.length === 1 && slug[0] === "news") body = <NewsPage />;
   else if (slug.length === 1 && slug[0] === "updates") body = <UpdatesPage />;
+  else if (slug.join("/") === "battle-of-the-big-bang") body = <BattleOfBigBangPage />;
   else if (slug.length === 1 && slug[0] === "cv") body = <CvPage />;
   else if (slug.length === 1 && slug[0] === "archive") body = <ArchivePage />;
   else if (slug.join("/") === "welcome/news") body = <UpdatesPage />;

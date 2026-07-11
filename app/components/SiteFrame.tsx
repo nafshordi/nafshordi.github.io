@@ -8,6 +8,7 @@ const links = [
   ["Papers", "/publications"],
   ["Talks & Outreach", "/talks"],
   ["News & Media", "/news"],
+  ["Book", "/battle-of-the-big-bang"],
   ["Writing", "/updates"],
   ["CV", "/cv"],
 ] as const;

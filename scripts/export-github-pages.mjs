@@ -17,6 +17,7 @@ const fixedRoutes = [
   "/publications/",
   "/talks/",
   "/news/",
+  "/battle-of-the-big-bang/",
   "/updates/",
   "/cv/",
   "/archive/",

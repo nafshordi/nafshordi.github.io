@@ -13,6 +13,9 @@ const audit = JSON.parse(await readFile(path.join(projectRoot, "data/migration-a
 const htmlCache = new Map();
 const intentionallyReplacedLegacyUrls = new Set([
   "https://www.facebook.com/sabine.hossenfelder/posts/10156438692514574?comment_id=10156439172764574&reply_comment_id=10156442581219574¬if_id=1522146692570693¬if_t=mentions_comment&ref=notif",
+  "https://www.dropbox.com/sh/8wdfwq2w71m2n11/AADyCug38aZFBSAq9qcOU_TEa?dl=0",
+  "https://www.dropbox.com/sh/kz43x6iievxe85f/AACLsVv6dpp2eqTuaBSzLYega?dl=0",
+  "https://www.dropbox.com/sh/xy1tbqfxqdnilkm/AAC7R7_jDfg4gMzZDmE0cuqsa?dl=0",
 ]);
 
 function decodeEntities(value) {
