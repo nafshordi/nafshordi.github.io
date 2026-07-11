@@ -301,7 +301,7 @@ function BattleOfBigBangPage() {
         <ul className="book-link-list">{battleOfBigBang.reviews.map((review) => <li key={review.href}><a href={review.href} target="_blank" rel="noreferrer">{review.label} ↗</a></li>)}</ul>
       </section>
       <section>
-        <h2>YouTube interviews</h2>
+        <h2>YouTube talks and interviews</h2>
         <div className="book-video-grid">{battleOfBigBang.interviews.map((interview) => {
           const url = new URL(interview.href);
           const videoId = url.hostname.endsWith("youtu.be") ? url.pathname.slice(1) : (url.searchParams.get("v") ?? "");

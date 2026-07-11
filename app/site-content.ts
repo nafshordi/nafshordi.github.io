@@ -171,7 +171,7 @@ export const currentPeople: GroupMember[] = [
     years: "2023–present",
     research: "Quadratic gravity, the Big Bang, quantum black holes, and quantum sensors.",
     destination: "Perimeter Institute and University of Waterloo.",
-    image: "https://perimeterinstitute.ca/sites/default/files/styles/people_446x514/public/2025-11/Ruolin%20Liu%20web.jpg",
+    image: "/images/ruolin-liu.png",
     profileHref: "https://perimeterinstitute.ca/people/ruolin-liu",
   },
   {
@@ -613,7 +613,9 @@ export const battleOfBigBang = {
     { label: "Audiobook details", href: "https://rbmediaglobal.com/audiobook/9798318515187/" },
   ],
   reviews: [
-    { label: "The Wall Street Journal / UCP review excerpts", href: "https://press.uchicago.edu/ucp/books/book/chicago/B/bo244963115.html" },
+    { label: "The Wall Street Journal review — A Question of Origins", href: "https://www.wsj.com/public/resources/documents/e3nmpymJpO50ZWvNOXUk-WSJNewsPaper-8-7-2025.pdf" },
+    { label: "The Wall Street Journal — Five Best: Cosmic Origins and Endings (publisher excerpt)", href: "https://press.uchicago.edu/ucp/books/book/chicago/B/bo244963115.html" },
+    { label: "Smithsonian Magazine — Ten Best Science Books of 2025", href: "https://www.smithsonianmag.com/science-nature/the-ten-best-science-books-of-2025-180987773/" },
     { label: "Times Literary Supplement", href: "https://www.the-tls.com/science-technology/sciences/battle-of-the-big-bang-niayesh-afshordi-phil-halper-review-philip-ball" },
     { label: "Physics World", href: "https://physicsworld.com/a/beyond-the-big-bang-reopening-the-doors-on-how-it-all-began/" },
     { label: "Publishers Weekly", href: "https://www.publishersweekly.com/9780226830476" },
@@ -623,6 +625,9 @@ export const battleOfBigBang = {
     { label: "Popular Science Books", href: "https://popsciencebooks.blogspot.com/2025/06/battle-of-big-bang-niayesh-afshordi-and.html" },
   ],
   interviews: [
+    { date: "June 2025", title: "What Really Happened During the Big Bang? — Royal Institution", href: "https://youtu.be/Tx0net82eTo" },
+    { date: "August 2025", title: "What Came Before the Big Bang? — Alex O'Connor interview", href: "https://youtu.be/rscDW-l8N0Q" },
+    { date: "June 2025", title: "Public Lecture Livestream — Perimeter Institute", href: "https://youtu.be/v06wbsphIa0" },
     { date: "April 2026", title: "The Big Bang May Not Be the Beginning: Time and Nothingness", href: "https://youtu.be/qj5wCEfpqc0" },
     { date: "May 2026", title: "What Came Before The Big Bang?", href: "https://youtu.be/lFVqEZ1qF_g" },
     { date: "October 2025", title: "Has Science Just Proved God?", href: "https://youtu.be/DO5iArbukzg" },
