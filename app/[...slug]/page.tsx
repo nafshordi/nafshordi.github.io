@@ -4,6 +4,7 @@ import entries from "../../data/wordpress-content.json";
 import publicationsData from "../../data/publications.json";
 import externalLinkAudit from "../../data/migration-audit/wordpress-external-links-2026-07-10.json";
 import { SiteFrame } from "../components/SiteFrame";
+import { ResearchTopicCloud } from "../components/ResearchTopicCloud";
 import {
   alumniPeople,
   battleOfBigBang,
@@ -177,7 +178,7 @@ function ResearchPage() {
     <div className="content-page">
       <p className="notice">Updated in July 2026 from current research profiles and the recent publication record. The figures are selected illustrations from the preserved research archive.</p>
       <p><a className="text-link" href="https://nafshordi.github.io/aps-dashboard/" target="_blank" rel="noreferrer">Explore the Big Mysteries dashboard <span>↗</span></a></p>
-      <ul className="research-list">{researchFeatures.map((area, index) => <li key={area.id}><span>{String(index + 1).padStart(2, "0")}</span><a href={`#${area.id}`}>{area.title}</a></li>)}</ul>
+      <ResearchTopicCloud topics={researchFeatures.map(({ id, title }) => ({ id, title }))} />
       <h2>Research directions</h2>
       <p>I work on astrophysics, cosmology, and the physics of gravity, with a particular interest in observational hints that can address fundamental questions.</p>
       <div className="research-feature-grid">
