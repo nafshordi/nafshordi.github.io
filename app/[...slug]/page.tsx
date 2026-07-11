@@ -176,12 +176,12 @@ function ResearchPage() {
   return <>
     <PageHero title="Research"><p>Observational routes into the puzzles of gravity, cosmology, and the quantum universe.</p></PageHero>
     <div className="content-page">
-      <p className="notice">Updated in July 2026 from current research profiles and the recent publication record. The figures are selected illustrations from the preserved research archive.</p>
+      <ResearchTopicCloud topics={researchFeatures.map(({ id, title }) => ({ id, title }))} />
       <a className="dashboard-card" href="https://nafshordi.github.io/aps-dashboard/" target="_blank" rel="noreferrer">
         <span className="dashboard-thumb" aria-hidden="true"><span className="dashboard-thumb-title">BIG MYSTERIES</span><span className="dashboard-thumb-chart dashboard-thumb-chart-one"><i /><i /><i /><i /></span><span className="dashboard-thumb-chart dashboard-thumb-chart-two"><i /><i /><i /></span><span className="dashboard-thumb-axis" /></span>
         <span className="dashboard-card-copy"><strong>Explore the Big Mysteries dashboard</strong><span>Interactive survey explorer ↗</span></span>
       </a>
-      <ResearchTopicCloud topics={researchFeatures.map(({ id, title }) => ({ id, title }))} />
+      <p className="notice">Updated in July 2026 from current research profiles and the recent publication record. The figures are selected illustrations from the preserved research archive.</p>
       <h2>Research directions</h2>
       <p>I work on astrophysics, cosmology, and the physics of gravity, with a particular interest in observational hints that can address fundamental questions.</p>
       <div className="research-feature-grid">
