@@ -113,6 +113,33 @@ export const researchFeatures = [
       { year: "2025", title: "Copenhagen Survey on Black Holes and Fundamental Physics", href: "https://arxiv.org/abs/2503.15776" },
     ],
   },
+  {
+    id: "medical-physics",
+    title: "Medical physics & radiotherapy",
+    description: "I apply statistical and multiscale physics to radiation transport, microscopic energy deposition, and temperature profiles in tissue. This work helps clarify the mechanisms that shape FLASH ultra-high-dose-rate radiotherapy and other particle-therapy responses.",
+    image: "/images/flash-radiotherapy-temperature-profile.png",
+    alt: "Temperature increase as a function of distance from a therapeutic ion track for several particle energies",
+    caption: "Temperature profiles around a therapeutic ion track, from work on FLASH radiotherapy.",
+    archiveHref: "/publications",
+    archiveLabel: "Related publications →",
+    papers: [
+      { year: "2025", title: "A semiclassical model of the immediate temperature distribution surrounding the track of heavy ions with therapeutic energies", href: "https://doi.org/10.1088/1361-6560/add83b" },
+      { year: "2022", title: "The effect of non-ionizing excitations on the diffusion of ion species and inter-track correlations in FLASH ultra-high dose rate radiotherapy", href: "https://arxiv.org/abs/2201.07887" },
+    ],
+  },
+  {
+    id: "epidemiology",
+    title: "Epidemiology & public-health modelling",
+    description: "During the COVID-19 pandemic, I developed data-driven models of local epidemic growth that separated the effects of population density, demographics, climate, susceptible depletion, and interventions. The work connected transparent modelling to public dashboards and accessible public communication.",
+    image: "/media/2020/07/us_county_lambda_map.jpeg",
+    alt: "County-level United States map of predicted COVID-19 mortality growth rate",
+    caption: "A county-level COVID-19 growth-rate projection from the preserved public-health modelling archive.",
+    archiveHref: "/covid/",
+    archiveLabel: "COVID-19 project archive →",
+    papers: [
+      { year: "2020", title: "Diverse local epidemics reveal the distinct effects of population density, demographics, climate, depletion of susceptibles, and intervention in the first wave of COVID-19 in the United States", href: "https://arxiv.org/abs/2007.00159" },
+    ],
+  },
 ];
 
 export type GroupMember = {
@@ -465,28 +492,32 @@ export const currentMembers = currentPeople.map((member) => member.name);
 
 export const recentTalks = [
   {
-    date: "April 2025",
+    date: "May 31–June 5, 2026",
+    title: "Quantum Gravity in the Wild: Testing Horizon-Scale Physics with Gravitational Waves and Cosmology",
+    venue: "Recent Development of Quantum Gravity and Applications to Cosmology and Black Hole Physics · Hangzhou, China",
+    href: "/talks/quantum-gravity-in-the-wild-hangzhou-2026.pdf",
+  },
+  {
+    date: "April 16, 2025",
     title: "Copenhagen Survey on Black Holes and Fundamental Physics",
-    venue: "IPM Physics Colloquium, Iran (in Farsi)",
+    venue: "IPM Physics Colloquium · Institute for Research in Fundamental Sciences",
+    href: "/talks/copenhagen-survey-black-holes-ipm-2025.pdf",
   },
   {
-    date: "March 2025",
-    title: "Battle of the Big Bang: How the Universe Began (and Why It’s a Big Mystery!)",
-    venue: "Physics Literacy for Kids",
+    date: "July 24, 2024",
+    title: "Imaging Quantum Black Holes & (Towards) Optimal Estimators of Stochastic Gravitational Wave Background",
+    venue: "The 1st Tsinghua Relativity Workshop",
+    href: "/talks/imaging-quantum-black-holes-tsinghua-2024.pdf",
   },
   {
-    date: "July 2024",
-    title: "Quantum Spacetime in the Sky: From Horizon to Horizon",
-    venue: "ICBS 2024, BIMSA, China",
-  },
-  {
-    date: "November 2023",
-    title: "Quantum Spacetime & the Cosmic Endgame",
-    venue: "Simon Fraser University Physics Colloquium",
+    date: "January 29–March 1, 2024",
+    title: "Precision Quantum Cosmology: Past, Present, and Future",
+    venue: "Gravity and Cosmology 2024 · Yukawa Institute for Theoretical Physics, Kyoto University",
+    href: "/talks/precision-quantum-cosmology-kyoto-2024.pdf",
   },
 ];
 
-export const talksArchiveUrl = "https://www.dropbox.com/scl/fo/h3czitrga1jxz2tiev3dz/AA4bmJHNu_nipZS4aF5guus?rlkey=hr3wsei04cwpvprfe0952auim&dl=0";
+export const talksArchiveUrl = "/talks/#historical-talks";
 
 export const recentUpdates = [
   {
@@ -512,7 +543,71 @@ export const externalProfiles = [
   { label: "NASA ADS", href: "https://ui.adsabs.harvard.edu/search/q=author%3A%22Afshordi%22" },
   { label: "Google Scholar", href: "https://scholar.google.ca/citations?user=xWZGFlEAAAAJ&hl=en" },
   { label: "ORCID", href: "https://orcid.org/0000-0002-9940-7040" },
+  { label: "Mathematics Genealogy", href: "https://www.mathgenealogy.org/id.php?id=84888" },
 ];
+
+export const recentMediaCoverage = [
+  {
+    year: "2026",
+    title: "New theory reshapes quantum view of Big Bang",
+    detail: "Perimeter Institute and University of Waterloo news, March 2026",
+    href: "https://perimeterinstitute.ca/news/new-theory-reshapes-quantum-view-big-bang",
+  },
+  {
+    year: "2026",
+    title: "The Big Bang May Not Be the Beginning: Dr. Niayesh Afshordi on Time and Nothingness",
+    detail: "Philosophy Everyday interview, April 2026",
+    href: "https://youtu.be/qj5wCEfpqc0",
+  },
+  {
+    year: "2026",
+    title: "What Came Before The Big Bang?",
+    detail: "Apple Finch Pudding interview, May 2026",
+    href: "https://youtu.be/lFVqEZ1qF_g",
+  },
+  {
+    year: "2025",
+    title: "Has Science Just Proved God?",
+    detail: "Premier Unbelievable? debate with Michel-Yves Bollore, October 2025",
+    href: "https://youtu.be/DO5iArbukzg",
+  },
+  {
+    year: "2025",
+    title: "In the Beginning",
+    detail: "Literary Review of Canada review by Dan Falk, October 2025",
+    href: "https://reviewcanada.ca/magazine/2025/10/in-the-beginning-review-battle-of-the-big-bang/",
+  },
+  {
+    year: "2025",
+    title: "Are We Wrong About the Big Bang?",
+    detail: "Dr Brian Keating interview, September 2025",
+    href: "https://youtu.be/2j0Mv74VjTI",
+  },
+  {
+    year: "2025",
+    title: "Was There Anything Before Us?",
+    detail: "Event Horizon interview with Phil Halper, June 2025",
+    href: "https://youtu.be/xuMAoME_FvE",
+  },
+  {
+    year: "2025",
+    title: "Who Really Knows? A Review of Battle of the Big Bang",
+    detail: "Newcity review by Patrick Roberts, June 2025",
+    href: "https://lit.newcity.com/2025/06/02/who-really-knows-a-review-of-battle-of-the-big-bang-by-niayesh-afshordi-and-phil-halper/",
+  },
+  {
+    year: "2025",
+    title: "Mindscape 316: Niayesh Afshordi and Phil Halper on the Big Bang and Before",
+    detail: "Sean Carroll's Mindscape interview, May 2025",
+    href: "https://youtu.be/iG1IYItjgeA",
+  },
+  {
+    year: "2025",
+    title: "Battle of the Big Bang: The New Tales of Our Cosmic Origins",
+    detail: "Library Journal review, April 2025",
+    href: "https://www.libraryjournal.com/review/battle-of-the-big-bang-the-new-tales-of-our-cosmic-origins-1815275",
+  },
+] as const;
 
 export const socialProfiles = [
   { label: "LinkedIn", href: "https://www.linkedin.com/in/niayesh-afshordi-61739462/" },

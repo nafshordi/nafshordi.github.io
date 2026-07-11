@@ -1,7 +1,6 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import entries from "../../data/wordpress-content.json";
-import talksCatalog from "../../data/talks-catalog.json";
 import publicationsData from "../../data/publications.json";
 import externalLinkAudit from "../../data/migration-audit/wordpress-external-links-2026-07-10.json";
 import { SiteFrame } from "../components/SiteFrame";
@@ -9,6 +8,7 @@ import {
   alumniPeople,
   currentPeople,
   externalProfiles,
+  recentMediaCoverage,
   recentTalks,
   researchFeatures,
   talksArchiveUrl,
@@ -29,6 +29,12 @@ const legacyLinkReplacements: Record<string, string> = {
   "https://docs.google.com/presentation/d/1-wNBc9WpeFADkgKljJkaoX3IIfWKvcVfab8HCM7bqlw/edit?usp=sharing": talksArchiveUrl,
   "https://docs.google.com/presentation/d/1GLEKB6fczg8UxNF_K7awwnw29sxq6m5lCmQCsuLItCs/edit?usp=sharing": talksArchiveUrl,
   "https://docs.google.com/presentation/d/1a7dX063-_n0-W3wWwfNJKxatFguWMIshzfzKiPgWihM/edit?usp=sharing": talksArchiveUrl,
+  "http://discovermagazine.com/2019/may/what-can-gravitational-waves-tell-us": "https://web.archive.org/web/20240000000000/http://discovermagazine.com/2019/may/what-can-gravitational-waves-tell-us",
+  "http://pitp.ca/node/97746": "https://perimeterinstitute.ca/news/cosmology-prizes-challenging-research",
+  "http://proofwaterloo.com/equation-series-niayesh-afshordi/": "https://proofwaterloo.com/blog/equation-series-niayesh-afshordi/",
+  "http://www.wired.co.uk/article/putting-einstein-theory-relativity-test": "https://www.wired.com/story/putting-einstein-theory-relativity-test/",
+  "https://uwaterloo.ca/science/news/did-light-break-its-own-speed-limit": "https://web.archive.org/web/20210615101300/https://uwaterloo.ca/science/news/did-light-break-its-own-speed-limit",
+  "https://uwaterloo.ca/science/news/waterloo-astrophysicists-win-third-buchalter-cosmology-prize?hootPostID=df3a4ffde71628ba7ffef161c06679df": "https://perimeterinstitute.ca/news/cosmology-prizes-challenging-research",
 };
 
 for (const url of [
@@ -69,14 +75,42 @@ function PageHero({ title, children }: { title: string; children?: React.ReactNo
   return <section className="page-hero"><h1>{title}</h1>{children}</section>;
 }
 
+function youtubeEmbedUrl(rawUrl: string) {
+  try {
+    const url = new URL(rawUrl.replaceAll("&amp;", "&"));
+    const id = url.hostname.endsWith("youtu.be")
+      ? url.pathname.slice(1)
+      : url.searchParams.get("v");
+    return id && /^[A-Za-z0-9_-]{6,}$/.test(id) ? `https://www.youtube-nocookie.com/embed/${id}` : null;
+  } catch {
+    return null;
+  }
+}
+
+function repairWordPressEmbeds(html: string) {
+  return html.replace(
+    /<figure class="wp-block-embed[^>]*wp-block-embed-youtube[^>]*>[\s\S]*?<div class="wp-block-embed__wrapper">\s*([^<\s]+)[\s\S]*?<\/div>([\s\S]*?)<\/figure>/gi,
+    (full, rawUrl: string, afterWrapper: string) => {
+      const src = youtubeEmbedUrl(rawUrl);
+      if (!src) return full;
+      const caption = afterWrapper.match(/<figcaption[\s\S]*?<\/figcaption>/i)?.[0] ?? "";
+      return `<figure class="legacy-video"><iframe src="${src}" title="Embedded YouTube video" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>${caption}</figure>`;
+    },
+  );
+}
+
 function Content({ html }: { html: string }) {
-  const safeHtml = html
+  const safeHtml = repairWordPressEmbeds(html
     .replace(/\son\w+\s*=\s*(['"]).*?\1/gi, "")
     .replaceAll("/media/2015/07/untitled.jpeg", "/media/2015/07/untitled-e1522977273857.jpeg")
     .replaceAll("/media/2018/07/img_3950.jpg", "/media/2018/07/img_3950-e1531213584786.jpg")
+    .replaceAll("https://k9f7a9j9.rocketcdn.me/wp-content/uploads/2022/01/Two_merging_black_holes.png", "/media/2017/01/mergingblackholes_v2-1.jpg")
+    .replaceAll("https://images.ctfassets.net/cnu0m8re1exe/6HUsrqzZmdpXeKRIFIujBw/d4934c52b35c39602a9a9ab08335bb8a/Black_Hole_Diagram_-_Mackey_Discover.png", "/media/2017/01/ligo20160211d-1200x675.jpg")
+    .replaceAll("https://d2r55xnwy6nx47.cloudfront.net/uploads/2018/03/BlackHoleEchoes_2880x1620.jpg", "/media/2018/03/blackholeechoes_2880x1620-2880x1620.jpg")
+    .replace(/<figure class="wp-block-image aligncenter is-resized"><a href="http:\/\/backreaction\.blogspot\.ca\/2016\/02\/much-ado-around-nothing-cosmological\.html\?spref=tw"><img src="http:\/\/fias\.uni-frankfurt\.de\/~hossi\/Bilder\/BR\/lambda_large\.jpg" alt="" style="width:309px;height:307px" \/><\/a><\/figure>/, '<p class="archived-figure-note">The original illustration for this 2016 clipping is no longer supplied by its host; the article link above is retained.</p>')
     .replaceAll("/welcome/covid/", "/covid/")
     .replaceAll("/welcome/my-group/photo-2/", "/group#jahed-abedi")
-    .replaceAll("/welcome/my-group/unnamed/", "/group#hannah-dykaar");
+    .replaceAll("/welcome/my-group/unnamed/", "/group#hannah-dykaar"));
   return <div className="content-page" dangerouslySetInnerHTML={{ __html: repairLegacyLinks(safeHtml) }} />;
 }
 
@@ -95,7 +129,7 @@ function ResearchPage() {
           <p>{feature.description}</p>
           <h4>Selected papers</h4>
           <ul className="research-paper-list">{feature.papers.map((paper) => <li key={paper.href}><span>{paper.year}</span><a href={paper.href} target="_blank" rel="noreferrer">{paper.title} ↗</a></li>)}</ul>
-          <Link className="research-archive-link" href={feature.archiveHref}>Preserved background & earlier work →</Link>
+          <Link className="research-archive-link" href={feature.archiveHref}>{feature.archiveLabel ?? "Preserved background & earlier work →"}</Link>
         </article>)}
       </div>
       <Link className="button" href="/welcome/research/">Explore the preserved research archive</Link>
@@ -164,27 +198,14 @@ function PublicationsPage() {
 
 function TalksPage() {
   const legacy = entries.find((entry) => entry.path === "/welcome/my-talks/");
-  const groups = talksCatalog.talks.reduce<Record<string, (typeof talksCatalog.talks)[number][]>>((all, talk) => {
-    (all[talk.category] ??= []).push(talk);
-    return all;
-  }, {});
   return <>
     <PageHero title="Talks & outreach"><p>Lectures, seminars, interviews, writing, and public conversation about cosmology and fundamental physics.</p></PageHero>
     <div className="content-page">
       <h2>Recent talks</h2>
-      <ul className="entry-list">{recentTalks.map((talk) => <li key={talk.title}><time>{talk.date}</time><div><strong>{talk.title}</strong><p>{talk.venue}</p></div></li>)}</ul>
-      <h2>Talk archive</h2>
-      <p>The archive below is a complete, source-file catalogue built from the local <em>My Talks</em> collection: {talksCatalog.count} decks and slide exports. The original materials stay in their existing Dropbox archive rather than being copied into the website.</p>
-      <div className="archive-tools">
-        <span>{talksCatalog.by_format.PDF} PDFs · {talksCatalog.by_format.Keynote} Keynotes · {talksCatalog.by_format.PowerPoint} PowerPoints · {talksCatalog.by_format["Web slides"]} web slide sets</span>
-        <a className="button" href={talksArchiveUrl} target="_blank" rel="noreferrer">Open the talk materials</a>
-      </div>
-      <div className="talk-archive">
-        {Object.entries(groups).map(([category, talks]) => <details key={category}>
-          <summary>{category} <span>{talks.length} items</span></summary>
-          <ul>{talks.map((talk) => <li key={talk.path}><a href={talksArchiveUrl} target="_blank" rel="noreferrer" aria-label={`Open talk materials for ${talk.title}`}><strong>{talk.title}</strong><span>{talk.year ?? talk.modified.slice(0, 4)} · {talk.format}</span></a></li>)}</ul>
-        </details>)}
-      </div>
+      <p className="notice">Each recent entry is transcribed from its title slide and opens the specific PDF deck. Job-talk materials are excluded.</p>
+      <ul className="entry-list">{recentTalks.map((talk) => <li key={talk.href}><time>{talk.date}</time><div><a href={talk.href} target="_blank" rel="noreferrer" aria-label={`Open PDF deck for ${talk.title}`}>{talk.title} ↗</a><p>{talk.venue}</p><span className="talk-file-type">PDF deck</span></div></li>)}</ul>
+      <h2 id="historical-talks">Historical talks & recordings</h2>
+      <p>The selected historical record below retains direct links to individual talk files and recordings. It excludes job talks; the page no longer sends visitors to a bulk download of the entire archive.</p>
     </div>
     {legacy ? <Content html={legacy.html} /> : null}
   </>;
@@ -206,10 +227,21 @@ function UpdatesPage() {
 
 function NewsPage() {
   const legacy = entries.find((entry) => entry.path === "/welcome/for-public/");
+  const coverageByYear = recentMediaCoverage.reduce<Record<string, (typeof recentMediaCoverage)[number][]>>((all, item) => {
+    (all[item.year] ??= []).push(item);
+    return all;
+  }, {});
   return <>
     <PageHero title="News & media"><p>Public talks, interviews, articles, reviews, and media coverage in English and Persian.</p></PageHero>
     <div className="content-page news-intro">
-      <p className="notice">This restores the complete public-news collection from the original site. Its active external links and embedded sources are retained, while the original address remains available in the archive.</p>
+      <p className="notice">Recent coverage has been checked against public sources and the historical collection. Older material is preserved below; fragile third-party images have been replaced with stable archival assets where possible, and YouTube embeds now play directly on this site.</p>
+      <section className="news-additions" aria-label="Recent news and media coverage">
+        <h2>Recent additions</h2>
+        {Object.entries(coverageByYear).sort(([a], [b]) => Number(b) - Number(a)).map(([year, items]) => <div key={year}>
+          <h3>{year}</h3>
+          <ul>{items.map((item) => <li key={item.href}><a href={item.href} target="_blank" rel="noreferrer">{item.title} ↗</a><span>{item.detail}</span></li>)}</ul>
+        </div>)}
+      </section>
     </div>
     {legacy ? <Content html={legacy.html} /> : null}
   </>;

@@ -25,6 +25,7 @@ SUPPORTED = {
     ".html": "Web slides",
 }
 SKIP_DIRECTORIES = {".git", "node_modules", "__MACOSX"}
+JOB_TALK_PATTERN = re.compile(r"job[ _-]?(?:talk|tal)", re.IGNORECASE)
 
 
 def display_title(path: Path) -> str:
@@ -63,6 +64,8 @@ def collect(source: Path) -> list[dict[str, object]]:
             or part.endswith("_files")
             or part.lower().endswith(".key") for part in relative.parts[:-1]
         ):
+            continue
+        if JOB_TALK_PATTERN.search(str(relative)):
             continue
         if path.is_dir():
             if path.suffix.lower() == ".key":

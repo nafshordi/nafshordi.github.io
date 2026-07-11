@@ -29,6 +29,7 @@ export function SiteFrame({ children }: { children: ReactNode }) {
         <a href="mailto:nafshordi@pitp.ca">nafshordi@pitp.ca</a>
         <a href="https://www.physics.uwaterloo.ca/">University of Waterloo</a>
         <a href="https://perimeterinstitute.ca/">Perimeter Institute</a>
+        <a href="https://www.mathgenealogy.org/id.php?id=84888" target="_blank" rel="noreferrer">Mathematics Genealogy</a>
         <span className="footer-socials">{socialProfiles.map((profile) => <a href={profile.href} key={profile.label} target="_blank" rel="noreferrer">{profile.label}</a>)}</span>
         <Link href="/archive">Complete archive</Link>
       </footer>

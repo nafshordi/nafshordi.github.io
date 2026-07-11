@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-09T21:50:43+00:00",
+  "generated_at": "2026-07-11T02:23:15+00:00",
   "source_description": "Local My Talks archive (files remain in the source archive).",
-  "count": 570,
+  "count": 567,
   "by_format": {
     "Keynote": 211,
     "PDF": 216,
-    "PowerPoint": 137,
+    "PowerPoint": 134,
     "Web slides": 6
   },
   "talks": [
@@ -197,15 +197,6 @@
       "path": "aether/PI_CC_May_09.pptx",
       "modified": "2009-05-27",
       "bytes": 1626758
-    },
-    {
-      "title": "PI job talk Mar 09",
-      "category": "aether",
-      "year": null,
-      "format": "PowerPoint",
-      "path": "aether/PI_job_talk_Mar_09.pptx",
-      "modified": "2009-03-19",
-      "bytes": 2443186
     },
     {
       "title": "PI theory canada Jun 09",
@@ -3934,15 +3925,6 @@
       "bytes": 12542455
     },
     {
-      "title": "beyond horizon Penn",
-      "category": "Penn_job_tal_08",
-      "year": null,
-      "format": "PowerPoint",
-      "path": "Penn_job_tal_08/beyond_horizon_Penn.pptx",
-      "modified": "2008-05-09",
-      "bytes": 47946104
-    },
-    {
       "title": "Fundamentalism",
       "category": "Philosophy",
       "year": null,
@@ -3959,15 +3941,6 @@
       "path": "Philosophy/Fundamentalism.pdf",
       "modified": "2022-07-14",
       "bytes": 1735381
-    },
-    {
-      "title": "beyond horizon PI",
-      "category": "PI_job_talk_08",
-      "year": null,
-      "format": "PowerPoint",
-      "path": "PI_job_talk_08/beyond_horizon_PI.pptx",
-      "modified": "2008-02-21",
-      "bytes": 48634162
     },
     {
       "title": "Dark Side",
