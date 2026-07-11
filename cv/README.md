@@ -9,7 +9,9 @@ the website.
 - `publications.tex` and `data/publications.json` come from the same
   arXiv/INSPIRE/ORCID refresh.
 - `recent-presentations.tex` adds verified 2026 talks to the presentation
-  section.
+  section, in the same numbered-entry layout as the main record.
+- `recent-broadcast-interviews.tex` adds verified current YouTube interviews
+  to the Broadcast Interviews subsection.
 - The 570-file slide inventory is not embedded in the CV. It remains in
   `data/talks-catalog.json` for the website's Talks page, where duplicate file
   formats and archival material can be presented appropriately.

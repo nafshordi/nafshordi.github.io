@@ -49,6 +49,11 @@ def main() -> None:
         "\\recordsection{Presentations}\n\\input{recent-presentations.tex}",
         1,
     )
+    professional = professional.replace(
+        r"\recordsubsection{Broadcast Interviews}",
+        "\\recordsubsection{Broadcast Interviews}\n\\input{recent-broadcast-interviews.tex}",
+        1,
+    )
     found = [marker for marker in PRIVATE_MARKERS if marker.casefold() in professional.casefold()]
     if found:
         raise SystemExit("Privacy check failed: " + ", ".join(found))
