@@ -221,7 +221,7 @@ function PeoplePage() {
       <p className="notice">Group roles were last reviewed in July 2026. Some external profiles do not expose stable portrait files; those entries use initials until a preferred portrait is supplied. New members, departures, projects, and destinations will be reconfirmed in the monthly group update.</p>
       <h2>Former group members</h2>
       <div className="people-grid">{alumniPeople.map((person) => <PersonCard key={person.name} person={person} />)}</div>
-      <p className="notice">These cards cover the complete historical group roster carried by the original website. The broader supervision record—short projects, visiting students, and co-supervised researchers—is being reconciled with the long CV during the monthly review. Please send corrections or updated photographs; uncertain details are labelled rather than guessed.</p>
+      <p className="notice">These cards combine the original historical roster with completed and withdrawn student/postdoctoral records from the long CV. Current and in-progress people remain in the current-members section. Please send corrections or updated photographs; uncertain details are labelled rather than guessed.</p>
     </div>
   </>;
 }
