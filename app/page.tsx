@@ -46,6 +46,7 @@ export default function Home() {
             making fundamental physics answerable to observation.
           </p>
           <Link className="text-link" href="/research">All research areas <span>↗</span></Link>
+          <a className="text-link" href="https://nafshordi.github.io/aps-dashboard/" target="_blank" rel="noreferrer">Big Mysteries dashboard <span>↗</span></a>
         </div>
         <ul className="research-list">
           {researchFeatures.map((area, index) => (

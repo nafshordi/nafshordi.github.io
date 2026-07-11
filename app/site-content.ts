@@ -255,6 +255,57 @@ export const currentPeople: GroupMember[] = [
   },
 ];
 
+const cvAlumniAdditions: GroupMember[] = [
+  { name: "Nabeel Rasheed", role: "Undergraduate researcher", years: "2023–2025", research: "Analytic gravitational-waveform templates.", destination: "PhD student, Massachusetts Institute of Technology." },
+  { name: "Xitai (John) Yin", role: "Undergraduate researcher", years: "2023–2024", research: "Black holes in quantum gravity.", destination: "MSc student, University of Waterloo." },
+  { name: "Shafika Olalekan Koiki", role: "Undergraduate researcher", years: "2021", research: "COVID forecasting and online dashboard development.", destination: "Former group member." },
+  { name: "Kasia Wisniewski", role: "Undergraduate researcher", years: "2021", research: "Black-hole echoes from the failed supernova AT2017be.", destination: "Operations Technician, GHGSat Inc." },
+  { name: "Guandi Zhao", role: "Visiting undergraduate researcher", years: "2023–2024", research: "Thermal Sunyaev–Zel’dovich contribution from low-mass galaxies in unWISE.", destination: "MSc student, ETH Zurich." },
+  { name: "Lakshay Goel", role: "Undergraduate researcher", years: "2023–2024", research: "Accelerated detectors in a superposed spacetime.", destination: "Former group member." },
+  { name: "Hazel Gifford", role: "Bachelor’s researcher", years: "2023–2024", research: "Cuscuton theory and cosmology.", destination: "MSc student, Brock University." },
+  { name: "Aryanna Schiebelbein", role: "Bachelor’s researcher", years: "2022–2023", research: "Mystery noise in LIGO.", destination: "PhD student, University of Toronto." },
+  { name: "Yu Li", role: "Bachelor’s researcher", years: "2022–2024", research: "Cosmological scalar fields and orbital networks of quantum sensors.", destination: "PhD student, California Institute of Technology." },
+  { name: "Jensen Lawrence", role: "Bachelor’s researcher", years: "2021–2023", research: "Universal horizons in Einstein–Aether theory.", destination: "PhD student, Massachusetts Institute of Technology." },
+  { name: "Robin Wen", role: "Bachelor’s researcher", years: "2020–2023", research: "A cosmic glitch in gravity.", destination: "PhD student, California Institute of Technology." },
+  { name: "Meagan Stewart", role: "Bachelor’s researcher", years: "2020–2021", research: "Transient weak lensing from quasar light curves.", destination: "MSc student, Simon Fraser University." },
+  { name: "Shafayat Shawqi", role: "Bachelor’s researcher", years: "2020–2022", research: "Sorkin–Johnston effective field theory.", destination: "PhD student, University of Alberta." },
+  { name: "Petra Duff", role: "Undergraduate researcher", years: "2020", research: "Echoes from the abyss.", destination: "PhD student, University of Toronto." },
+  { name: "Palka Minhas", role: "Bachelor’s researcher", years: "2019–2022", research: "Fast radio bursts.", destination: "MSc student, McGill University." },
+  { name: "Luke Bovard", role: "Bachelor’s Honours researcher", years: "2010–2011", research: "Undergraduate research in astrophysics.", destination: "Postdoctoral researcher, Goethe University." },
+  { name: "Matthias Mueller", role: "Undergraduate researcher", years: "2008–2009", research: "Undergraduate research in astrophysics.", destination: "Postdoctoral Fellow, University of Florence." },
+  { name: "Oleksandra Hrytseniak", role: "Master’s researcher", years: "2022–2023", research: "Search for flattened non-Gaussianity.", destination: "PhD student, Perimeter Institute and University of Waterloo." },
+  { name: "Wan Zen Chua", role: "Master’s researcher", years: "2019–2020", research: "Electromagnetic albedo of fuzzballs.", destination: "PhD student, Cornell University." },
+  { name: "Qingwen Wang", role: "Master’s and PhD researcher", years: "2015–2020", research: "Fuzzball approach to black holes and black-hole echology.", destination: "Senior Quant, Deloitte." },
+  { name: "Brodyn Roberts", role: "Master’s researcher", years: "2013–2014", research: "Perimeter Scholars International research project.", destination: "Software Engineer, Index Exchange." },
+  { name: "Abhineet Agarwal", role: "Master’s researcher", years: "2010–2012", research: "Thermal tachyacoustic cosmology.", destination: "PhD student, Jamia Millia University." },
+  { name: "Jiayue Yang", role: "Master’s researcher", years: "2022–2024", research: "Entropy of analogue black holes in tilted Dirac-cone materials.", destination: "MSc student, University of Waterloo." },
+  { name: "Hamid Golafshani", role: "Master’s researcher (withdrawn)", years: "2021", research: "Topics in astrophysics and cosmology.", destination: "Professor of Mechanical Engineering, Conestoga College." },
+  { name: "Supranta Boruah", role: "Master’s researcher", years: "2017–2018", research: "Milky Way mass and clustering in Gaia action space.", destination: "Postdoctoral Fellow, University of Pennsylvania." },
+  { name: "Hyungjin Kim", role: "Master’s researcher", years: "2016–2017", research: "Cuscuton theory, modified dispersion relations, and pulsar constraints on vacuum noise.", destination: "PhD student, University of Waterloo." },
+  { name: "Robert Schuhmann", role: "Master’s researcher", years: "2011–2012", research: "Perimeter Scholars International research project.", destination: "Postdoctoral Research Associate, University of Manchester." },
+  { name: "Yosdanis Ponce", role: "Master’s researcher", years: "2009–2012", research: "Black-hole halo model and holographic cosmology.", destination: "Adjunct Faculty, Miami Dade College." },
+  { name: "Valentin Boyanov Savov", role: "Visiting PhD researcher", years: "2022", research: "Aspects of quantum black holes in semiclassical gravity.", destination: "Postdoctoral Fellow, Instituto Superior Técnico, Lisbon." },
+  { name: "Luis Felipe Longo", role: "Visiting PhD researcher", years: "2019–2024", research: "Echo diversity in binary-black-hole mergers and spectrogram correlated stacking.", destination: "European Research Council Postdoctoral Fellow, Friedrich Schiller University Jena." },
+  { name: "Daichi Tsuna", role: "Visiting PhD researcher", years: "2019–2020", research: "Quantum black-hole seismology.", destination: "Sherman Fairchild Postdoctoral Scholar, California Institute of Technology." },
+  { name: "Aaron Held", role: "Visiting PhD researcher", years: "2018–2019", research: "Quantum black holes in asymptotic safety.", destination: "Postdoctoral Fellow, École Normale Supérieure, Paris." },
+  { name: "Utkarsh Giri", role: "Visiting PhD researcher", years: "2018–2019", research: "Pressure of haloes in cosmological simulations.", destination: "Postdoctoral Fellow, California Institute of Technology." },
+  { name: "Elliott Nelson", role: "PhD researcher", years: "2014–2018", research: "Cosmological non-constant problem and quantum decoherence during inflation.", destination: "Research Scientist, IBM Research." },
+  { name: "Ali Narimani", role: "Visiting PhD researcher", years: "2013–2014", research: "How does pressure gravitate?", destination: "Data Scientist, Twitter." },
+  { name: "Jeremy Sakstein", role: "Visiting PhD researcher", years: "2013–2014", research: "Novel approaches to modified gravity.", destination: "Postdoctoral Fellow, University of Pennsylvania." },
+  { name: "Sean Gryb", role: "PhD researcher", years: "2010–2011", research: "Shape dynamics and Mach’s principles.", destination: "Research Associate, University of Bristol." },
+  { name: "Marilena LoVerde", role: "Visiting PhD researcher", years: "2007–2008", research: "Extended Limber approximation.", destination: "Assistant Professor, Stony Brook University." },
+  { name: "Jessica Muir", role: "Postdoctoral researcher", years: "2021–2022", research: "Search for flattened non-Gaussianity.", destination: "Postdoctoral Fellow, Perimeter Institute." },
+  { name: "Ramit Dey", role: "Postdoctoral researcher", years: "2020–2024", research: "Spectrogram correlated stacking and black-hole echoes.", destination: "Research Associate, Western University." },
+  { name: "Barak Shoshani", role: "Postdoctoral researcher", years: "2020", research: "Bayesian search for black-hole echoes.", destination: "Assistant Professor, Brock University." },
+  { name: "David Marsh", role: "Postdoctoral researcher", years: "2012–2015", research: "Structure of dark-matter haloes.", destination: "Sofja Kovalevskaja Fellow, University of Göttingen." },
+  { name: "David Kubizňák", role: "Postdoctoral researcher", years: "2012–2016", research: "Black-hole chemistry.", destination: "Senior Fellow, Perimeter Scholars International." },
+  { name: "Kurt Hinterbichler", role: "Postdoctoral researcher", years: "2012–2016", research: "Consistent modifications of Einstein gravity.", destination: "Assistant Professor, Case Western Reserve University." },
+  { name: "Takeshi Kobayashi", role: "Postdoctoral researcher", years: "2012–2015", research: "Primordial magnetic fields from the post-inflationary universe.", destination: "Postdoctoral Fellow, ICTP." },
+  { name: "Matthew Johnson", role: "Postdoctoral researcher", years: "2010–2012", research: "Cosmology and gravitation.", destination: "Associate Professor, York University." },
+  { name: "Sarah Shandera", role: "Postdoctoral researcher", years: "2009–2011", research: "Early-universe cosmology.", destination: "Former postdoctoral researcher." },
+  { name: "Adrienne Erickcek", role: "Postdoctoral researcher", years: "2009–2013", research: "Cosmology and modified gravity.", destination: "Former postdoctoral researcher." },
+];
+
 export const alumniPeople: GroupMember[] = [
   {
     name: "Conner Dailey",
@@ -280,7 +331,7 @@ export const alumniPeople: GroupMember[] = [
     years: "2017–2018",
     research: "Local-observer temperature in curved spacetime and modified gravity.",
     destination: "Associate Professor, Universidad de Ingeniería y Tecnología, Peru.",
-    image: "/media/2018/04/jose-tomasgalvez-ghersi040520101032_15.jpg",
+    image: "/images/jose-tomas-ghersi.png",
     profileHref: "https://cris.utec.edu.pe/es/persons/jos%C3%A9-tom%C3%A1s-g%C3%A1lvez-ghersi/",
   },
   {
@@ -289,7 +340,7 @@ export const alumniPeople: GroupMember[] = [
     years: "2016–2017",
     research: "X-ray cooling flows, turbulent heating, and modified gravity.",
     destination: "Assistant Professor, K. N. Toosi University of Technology.",
-    image: "/media/2018/07/picture-9480-1488993131.jpg",
+    image: "/images/mohammad-haghighi.png",
     profileHref: "https://www.linkedin.com/in/mohammad-h-zhoolideh-9b041077/",
   },
   {
@@ -418,7 +469,7 @@ export const alumniPeople: GroupMember[] = [
     years: "2011–2017",
     research: "Early-universe cosmology, quantum foundations, and holographic cosmology.",
     destination: "Former group member.",
-    image: "/media/2015/07/elizabethgould140920101004_25-e1440386323567.jpg",
+    image: "/images/elizabeth-beth-gould.png",
   },
   {
     name: "Yasaman K. Yazdi",
@@ -555,6 +606,7 @@ export const alumniPeople: GroupMember[] = [
     image: "/media/2021/04/image-14.png",
     profileHref: "https://www.linkedin.com/in/jolenezheng/",
   },
+  ...cvAlumniAdditions,
 ];
 
 export const currentMembers = currentPeople.map((member) => member.name);

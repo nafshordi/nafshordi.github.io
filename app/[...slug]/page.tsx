@@ -176,6 +176,7 @@ function ResearchPage() {
     <PageHero title="Research"><p>Observational routes into the puzzles of gravity, cosmology, and the quantum universe.</p></PageHero>
     <div className="content-page">
       <p className="notice">Updated in July 2026 from current research profiles and the recent publication record. The figures are selected illustrations from the preserved research archive.</p>
+      <p><a className="text-link" href="https://nafshordi.github.io/aps-dashboard/" target="_blank" rel="noreferrer">Explore the Big Mysteries dashboard <span>↗</span></a></p>
       <ul className="research-list">{researchFeatures.map((area, index) => <li key={area.id}><span>{String(index + 1).padStart(2, "0")}</span><a href={`#${area.id}`}>{area.title}</a></li>)}</ul>
       <h2>Research directions</h2>
       <p>I work on astrophysics, cosmology, and the physics of gravity, with a particular interest in observational hints that can address fundamental questions.</p>
