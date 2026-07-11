@@ -4,8 +4,10 @@ import { useRef, useState } from "react";
 
 type Topic = { id: string; title: string };
 
-const layout = [
-  [4, 8], [36, 22], [70, 7], [5, 45], [39, 51], [72, 38], [4, 78], [39, 77], [72, 73],
+const topicCenters = [
+  [0.25, 0.1], [0.75, 0.1], [0.25, 0.3], [0.75, 0.3],
+  [0.25, 0.5], [0.75, 0.5], [0.25, 0.7], [0.75, 0.7],
+  [0.25, 0.9], [0.75, 0.9],
 ];
 
 export function ResearchTopicCloud({ topics }: { topics: Topic[] }) {
@@ -37,28 +39,27 @@ export function ResearchTopicCloud({ topics }: { topics: Topic[] }) {
     >
       <p className="research-topic-cloud-hint">Move across the topics to explore</p>
       {topics.map((topic, index) => {
-        const [left, top] = layout[index % layout.length];
-        const topicX = left / 100;
-        const topicY = top / 100;
+        const [topicX, topicY] = topicCenters[index % topicCenters.length];
         const distance = Math.hypot(pointer.x - topicX, pointer.y - topicY);
         const proximity = Math.max(0, 1 - distance / 0.42);
-        const scale = 1 + proximity * 0.22;
-        const shiftX = (pointer.x - topicX) * -16 * proximity;
-        const shiftY = (pointer.y - topicY) * -12 * proximity;
+        const scale = 1 + proximity * 0.1;
+        const shiftX = (pointer.x - topicX) * -7 * proximity;
+        const shiftY = (pointer.y - topicY) * -5 * proximity;
         return (
-          <a
-            className="research-topic"
-            href={`#${topic.id}`}
-            key={topic.id}
-            style={{
-              left: `${left}%`,
-              top: `${top}%`,
-              transform: `translate3d(${shiftX}px, ${shiftY}px, 0) scale(${scale})`,
-              zIndex: 2 + Math.round(proximity * 10),
-            }}
-          >
-            {topic.title}
-          </a>
+          <div className="research-topic-cell" key={topic.id}>
+            <div className={`research-topic-bouncer topic-bouncer-${index % 6}`}>
+              <a
+                className="research-topic"
+                href={`#${topic.id}`}
+                style={{
+                  transform: `translate3d(${shiftX}px, ${shiftY}px, 0) scale(${scale})`,
+                  zIndex: 2 + Math.round(proximity * 10),
+                }}
+              >
+                {topic.title}
+              </a>
+            </div>
+          </div>
         );
       })}
     </div>
