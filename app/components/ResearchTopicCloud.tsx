@@ -5,7 +5,7 @@ import { useRef, useState } from "react";
 type Topic = { id: string; title: string };
 
 const layout = [
-  [8, 18], [43, 8], [70, 19], [22, 49], [58, 45], [84, 48], [12, 78], [52, 78], [78, 79],
+  [4, 8], [36, 22], [70, 7], [5, 45], [39, 51], [72, 38], [4, 78], [39, 77], [72, 73],
 ];
 
 export function ResearchTopicCloud({ topics }: { topics: Topic[] }) {
@@ -43,8 +43,8 @@ export function ResearchTopicCloud({ topics }: { topics: Topic[] }) {
         const distance = Math.hypot(pointer.x - topicX, pointer.y - topicY);
         const proximity = Math.max(0, 1 - distance / 0.42);
         const scale = 1 + proximity * 0.22;
-        const shiftX = (pointer.x - topicX) * -26 * proximity;
-        const shiftY = (pointer.y - topicY) * -20 * proximity;
+        const shiftX = (pointer.x - topicX) * -16 * proximity;
+        const shiftY = (pointer.y - topicY) * -12 * proximity;
         return (
           <a
             className="research-topic"
@@ -54,6 +54,7 @@ export function ResearchTopicCloud({ topics }: { topics: Topic[] }) {
               left: `${left}%`,
               top: `${top}%`,
               transform: `translate3d(${shiftX}px, ${shiftY}px, 0) scale(${scale})`,
+              zIndex: 2 + Math.round(proximity * 10),
             }}
           >
             {topic.title}
