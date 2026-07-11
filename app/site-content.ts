@@ -220,7 +220,9 @@ export const currentPeople: GroupMember[] = [
     years: "Current",
     research: "PhD research in astrophysics and cosmology; co-supervised by Niayesh Afshordi.",
     destination: "Perimeter Institute and University of Waterloo.",
+    image: "/images/robin-oberfrank.png",
     profileHref: "https://perimeterinstitute.ca/people/robin-oberfrank",
+    verification: "Please confirm the research topic.",
     verification: "Please provide a preferred portrait and research title.",
   },
   {
