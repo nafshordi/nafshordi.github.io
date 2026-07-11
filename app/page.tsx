@@ -5,7 +5,7 @@ import {
   externalProfiles,
   recentTalks,
   recentUpdates,
-  researchAreas,
+  researchFeatures,
   talksArchiveUrl,
 } from "./site-content";
 
@@ -48,8 +48,8 @@ export default function Home() {
           <Link className="text-link" href="/research">All research areas <span>↗</span></Link>
         </div>
         <ul className="research-list">
-          {researchAreas.map((area, index) => (
-            <li key={area}><span>0{index + 1}</span>{area}</li>
+          {researchFeatures.map((area, index) => (
+            <li key={area.id}><span>{String(index + 1).padStart(2, "0")}</span><Link href={`/research#${area.id}`}>{area.title}</Link></li>
           ))}
         </ul>
       </section>

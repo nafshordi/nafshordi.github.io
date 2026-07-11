@@ -1,11 +1,13 @@
 import Link from "next/link";
 import type { ReactNode } from "react";
+import { socialProfiles } from "../site-content";
 
 const links = [
   ["Research", "/research"],
   ["People", "/group"],
   ["Papers", "/publications"],
   ["Talks & Outreach", "/talks"],
+  ["News & Media", "/news"],
   ["Writing", "/updates"],
   ["CV", "/cv"],
 ] as const;
@@ -27,6 +29,8 @@ export function SiteFrame({ children }: { children: ReactNode }) {
         <a href="mailto:nafshordi@pitp.ca">nafshordi@pitp.ca</a>
         <a href="https://www.physics.uwaterloo.ca/">University of Waterloo</a>
         <a href="https://perimeterinstitute.ca/">Perimeter Institute</a>
+        <span className="footer-socials">{socialProfiles.map((profile) => <a href={profile.href} key={profile.label} target="_blank" rel="noreferrer">{profile.label}</a>)}</span>
+        <Link href="/archive">Complete archive</Link>
       </footer>
     </div>
   );

@@ -1,0 +1,2031 @@
+{
+  "unique_internal_targets": 139,
+  "status_counts": {
+    "206": 134,
+    "404": 5
+  },
+  "broken": [
+    {
+      "path": "/media/2015/07/untitled.jpeg",
+      "status": 404,
+      "effective_url": "https://nafshordi.github.io/media/2015/07/untitled.jpeg",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/2018/04/02/echoes-strike-back/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2018/07/img_3950.jpg",
+      "status": 404,
+      "effective_url": "https://nafshordi.github.io/media/2018/07/img_3950.jpg",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/2018/07/10/congratulations-to-dr-natacha-altamirano/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/welcome/covid/",
+      "status": 404,
+      "effective_url": "https://nafshordi.github.io/welcome/covid/",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/2020/07/02/diverse-drivers-of-a-pandemic-a-physical-model-for-covid-19/",
+          "kind": "href"
+        }
+      ]
+    },
+    {
+      "path": "/welcome/my-group/photo-2/",
+      "status": 404,
+      "effective_url": "https://nafshordi.github.io/welcome/my-group/photo-2/",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/2018/04/02/echoes-strike-back/",
+          "kind": "href"
+        }
+      ]
+    },
+    {
+      "path": "/welcome/my-group/unnamed/",
+      "status": 404,
+      "effective_url": "https://nafshordi.github.io/welcome/my-group/unnamed/",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/2018/04/02/echoes-strike-back/",
+          "kind": "href"
+        }
+      ]
+    }
+  ],
+  "targets": [
+    {
+      "path": "/",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/covid/our-team/",
+          "kind": "href"
+        },
+        {
+          "source": "/2015/08/24/welcome-to-my-new-homepage/",
+          "kind": "href"
+        }
+      ]
+    },
+    {
+      "path": "/2017/01/15/can-you-hear-the-echoes-from-the-abyss-if-not-come-to-my-talk/",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/2017/01/15/can-you-hear-the-echoes-from-the-abyss-if-not-come-to-my-talk/",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/2018/04/02/echoes-strike-back/",
+          "kind": "href"
+        },
+        {
+          "source": "/2018/04/02/echoes-strike-back/",
+          "kind": "href"
+        }
+      ]
+    },
+    {
+      "path": "/2018/04/02/echoes-strike-back/",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/2018/04/02/echoes-strike-back/",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/2020/07/02/diverse-drivers-of-a-pandemic-a-physical-model-for-covid-19/",
+          "kind": "href"
+        }
+      ]
+    },
+    {
+      "path": "/2020/03/30/physical-modelling-of-a-pandemic/",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/2020/03/30/physical-modelling-of-a-pandemic/",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/covid/publications/",
+          "kind": "href"
+        },
+        {
+          "source": "/2020/04/14/physical-measure-of-a-pandemic/",
+          "kind": "href"
+        },
+        {
+          "source": "/2020/04/14/physical-measure-of-a-pandemic/",
+          "kind": "href"
+        }
+      ]
+    },
+    {
+      "path": "/2020/04/14/physical-measure-of-a-pandemic/",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/2020/04/14/physical-measure-of-a-pandemic/",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/covid/publications/",
+          "kind": "href"
+        },
+        {
+          "source": "/2020/07/02/diverse-drivers-of-a-pandemic-a-physical-model-for-covid-19/",
+          "kind": "href"
+        }
+      ]
+    },
+    {
+      "path": "/2020/07/02/diverse-drivers-of-a-pandemic-a-physical-model-for-covid-19/",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/2020/07/02/diverse-drivers-of-a-pandemic-a-physical-model-for-covid-19/",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/covid/",
+          "kind": "href"
+        },
+        {
+          "source": "/covid/",
+          "kind": "href"
+        },
+        {
+          "source": "/covid/publications/",
+          "kind": "href"
+        }
+      ]
+    },
+    {
+      "path": "/2021/04/21/my-local-covid-history-forecast-and-mitigation-portal/",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/2021/04/21/my-local-covid-history-forecast-and-mitigation-portal/",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/covid/",
+          "kind": "href"
+        },
+        {
+          "source": "/covid/",
+          "kind": "href"
+        }
+      ]
+    },
+    {
+      "path": "/2024/10/19/battle-of-the-big-bang-new-tales-of-our-cosmic-origins/",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/2024/10/19/battle-of-the-big-bang-new-tales-of-our-cosmic-origins/",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/",
+          "kind": "href"
+        }
+      ]
+    },
+    {
+      "path": "/covid/",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/covid/",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/welcome/research/",
+          "kind": "href"
+        }
+      ]
+    },
+    {
+      "path": "/covid/media/",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/covid/media/",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/covid/",
+          "kind": "href"
+        }
+      ]
+    },
+    {
+      "path": "/covid/on-herd-immunity/",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/covid/on-herd-immunity/",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/covid/",
+          "kind": "href"
+        }
+      ]
+    },
+    {
+      "path": "/covid/our-team/",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/covid/our-team/",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/covid/",
+          "kind": "href"
+        }
+      ]
+    },
+    {
+      "path": "/covid/publications/",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/covid/publications/",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/covid/",
+          "kind": "href"
+        }
+      ]
+    },
+    {
+      "path": "/covid/seminars/",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/covid/seminars/",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/covid/",
+          "kind": "href"
+        }
+      ]
+    },
+    {
+      "path": "/media/2015/07/26d8193-e1440385821548.jpg",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2015/07/26d8193-e1440385821548.jpg",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/2015/12/09/how-dense-are-the-densest-dark-matter-haloes/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2015/07/pi-logo.jpg",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2015/07/pi-logo.jpg",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2015/07/planck_cmb.jpg",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2015/07/planck_cmb.jpg",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/welcome/research/cosmic-microwave-background/",
+          "kind": "href"
+        },
+        {
+          "source": "/welcome/research/cosmic-microwave-background/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2015/07/scientificamerican0814-36-i6.jpg",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2015/07/scientificamerican0814-36-i6.jpg",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/welcome/research/early-universe-cosmology/",
+          "kind": "href"
+        },
+        {
+          "source": "/welcome/research/early-universe-cosmology/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2015/07/shapeimage_2-1.png",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2015/07/shapeimage_2-1.png",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/welcome/research/modified-gravity-and-the-cosmological-constant-problem/",
+          "kind": "href"
+        },
+        {
+          "source": "/welcome/research/modified-gravity-and-the-cosmological-constant-problem/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2015/07/shapeimage_2-2.png",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2015/07/shapeimage_2-2.png",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/welcome/research/quantum-field-theory-in-curved-spacetime/",
+          "kind": "href"
+        },
+        {
+          "source": "/welcome/research/quantum-field-theory-in-curved-spacetime/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2015/07/shapeimage_2-3.png",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2015/07/shapeimage_2-3.png",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/welcome/research/understanding-accretion-disks/",
+          "kind": "href"
+        },
+        {
+          "source": "/welcome/research/understanding-accretion-disks/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2015/07/shapeimage_2-4.png",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2015/07/shapeimage_2-4.png",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/welcome/research/cosmological-backreaction-and-the-role-of-non-linearities/",
+          "kind": "href"
+        },
+        {
+          "source": "/welcome/research/cosmological-backreaction-and-the-role-of-non-linearities/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2015/07/shapeimage_2-5.png",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2015/07/shapeimage_2-5.png",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/welcome/research/missing-baryons-of-the-universe/",
+          "kind": "href"
+        },
+        {
+          "source": "/welcome/research/missing-baryons-of-the-universe/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2015/07/shapeimage_2-6.png",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2015/07/shapeimage_2-6.png",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/welcome/research/understanding-dark-matter-and-dark-energy/",
+          "kind": "href"
+        },
+        {
+          "source": "/welcome/research/understanding-dark-matter-and-dark-energy/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2015/07/untitled.jpeg",
+      "status": 404,
+      "effective_url": "https://nafshordi.github.io/media/2015/07/untitled.jpeg",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/2018/04/02/echoes-strike-back/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2015/07/untitled.png",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2015/07/untitled.png",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/welcome/research/black-hole-physics/",
+          "kind": "href"
+        },
+        {
+          "source": "/welcome/research/black-hole-physics/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2015/10/cosmic-flows_9624.jpg",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2015/10/cosmic-flows_9624.jpg",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/2015/10/22/cosmic-flows-and-other-novelties-on-lareg-scales-at-pi-flowspi/",
+          "kind": "href"
+        },
+        {
+          "source": "/2015/10/22/cosmic-flows-and-other-novelties-on-lareg-scales-at-pi-flowspi/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2015/12/comcm.png",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2015/12/comcm.png",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/2015/12/09/how-dense-are-the-densest-dark-matter-haloes/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2015/12/robmann_0.jpg",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2015/12/robmann_0.jpg",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/2015/12/07/mann-fest-happy-birthday-robb-mann/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2016/01/p2sad_subs_only-eps-converted-to.jpg",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2016/01/p2sad_subs_only-eps-converted-to.jpg",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/2016/01/10/tree-rings-in-the-sky-how-dark-matter-haloes-age/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2016/01/untitled.jpg",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2016/01/untitled.jpg",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/2016/01/10/tree-rings-in-the-sky-how-dark-matter-haloes-age/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2016/03/2000px-ttc-svg.png",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2016/03/2000px-ttc-svg.png",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/2016/03/11/critical-geometry-of-a-thermal-big-bang-and-how-it-exactly-matches-cmb-with-no-fine-tuning/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2017/01/hc_cartoon-001.jpeg",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2017/01/hc_cartoon-001.jpeg",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/2017/01/31/our-universe-out-of-a-hologram-big-bang-without-a-story/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2017/01/mergingblackholes_v2-1.jpg",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2017/01/mergingblackholes_v2-1.jpg",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/2017/01/15/can-you-hear-the-echoes-from-the-abyss-if-not-come-to-my-talk/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2017/01/peggit.jpg",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2017/01/peggit.jpg",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/2017/01/15/can-you-hear-the-echoes-from-the-abyss-if-not-come-to-my-talk/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2017/01/untitled.jpeg",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2017/01/untitled.jpeg",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/2017/01/15/can-you-hear-the-echoes-from-the-abyss-if-not-come-to-my-talk/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2017/06/dcny-vxuaaicpmg.jpg",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2017/06/dcny-vxuaaicpmg.jpg",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/2018/04/02/echoes-strike-back/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2017/06/refelction_western_2017_page_07.png",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2017/06/refelction_western_2017_page_07.png",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/2017/06/19/reflections-on-spacetime/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2017/07/20170718_124817.jpg",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2017/07/20170718_124817.jpg",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/2017/07/20/congratulations-to-dr-yasaman-yazdi/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2017/07/20170718_125222-e1500523341367.jpg",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2017/07/20170718_125222-e1500523341367.jpg",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/2017/07/20/congratulations-to-dr-yasaman-yazdi/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2017/07/img_20170724_173735019-e1501522511322.jpg",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2017/07/img_20170724_173735019-e1501522511322.jpg",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/2017/07/31/congratulations-to-dr-nosiphiwo-zwane/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2017/07/rectangle_cropped.jpg",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2017/07/rectangle_cropped.jpg",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/2017/07/06/quantum-blackholes-in-the-sky-nov-8-10-2017-perimeter/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2018/03/blackholeechoes_2880x1620-2880x1620.jpg",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2018/03/blackholeechoes_2880x1620-2880x1620.jpg",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/2018/04/02/echoes-strike-back/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2018/03/cospa1.jpg",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2018/03/cospa1.jpg",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/2018/04/02/echoes-strike-back/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2018/03/echoes_western_mar_2018-001-e1522644819927.jpeg",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2018/03/echoes_western_mar_2018-001-e1522644819927.jpeg",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/2018/04/02/echoes-strike-back/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2018/03/echoes_western_mar_2018-0011.jpeg",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2018/03/echoes_western_mar_2018-0011.jpeg",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/2018/04/02/echoes-strike-back/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2018/03/peaks_in_frequency_05_sec.jpg",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2018/03/peaks_in_frequency_05_sec.jpg",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/2018/04/02/echoes-strike-back/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2018/03/spectrogram_color.jpg",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2018/03/spectrogram_color.jpg",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/2018/04/02/echoes-strike-back/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2018/03/untitled.jpeg",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2018/03/untitled.jpeg",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/2018/04/02/echoes-strike-back/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2018/03/untitled1.jpeg",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2018/03/untitled1.jpeg",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/2018/04/02/echoes-strike-back/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2018/03/untitled3-e1522645899202.jpeg",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2018/03/untitled3-e1522645899202.jpeg",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/2018/04/02/echoes-strike-back/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2018/03/untitled4.jpeg",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2018/03/untitled4.jpeg",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/2018/04/02/echoes-strike-back/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2018/06/20170914_173008.jpg",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2018/06/20170914_173008.jpg",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/2018/06/09/congratulations-to-dr-elizabeth-gould/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2018/06/20170914_173740.jpg",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2018/06/20170914_173740.jpg",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/2018/06/09/congratulations-to-dr-elizabeth-gould/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2018/07/image-2.jpg",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2018/07/image-2.jpg",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/2020/10/10/congratulations-matthew-robbins-on-winning-the-caps-stoicheff-memorial-graduate-scholarship/",
+          "kind": "href"
+        },
+        {
+          "source": "/2020/10/10/congratulations-matthew-robbins-on-winning-the-caps-stoicheff-memorial-graduate-scholarship/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2018/07/img_3897.jpg",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2018/07/img_3897.jpg",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/2018/07/10/congratulations-to-dr-natacha-altamirano/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2018/07/img_3950.jpg",
+      "status": 404,
+      "effective_url": "https://nafshordi.github.io/media/2018/07/img_3950.jpg",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/2018/07/10/congratulations-to-dr-natacha-altamirano/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2018/09/2018-09-07-16-09-20-e1537425719856.jpg",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2018/09/2018-09-07-16-09-20-e1537425719856.jpg",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/2018/09/20/congratulations-to-dr-mansour-karami/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2018/09/got_dragons_hed.jpg",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2018/09/got_dragons_hed.jpg",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/2018/09/26/hc-svnt-dracones/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2018/09/mansour.jpg",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2018/09/mansour.jpg",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/2018/09/20/congratulations-to-dr-mansour-karami/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2019/06/image-1.png",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2019/06/image-1.png",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/2019/06/18/farewell-to-dr-chiamaka-okoli/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2019/06/image-2.png",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2019/06/image-2.png",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/2019/06/18/farewell-to-dr-chiamaka-okoli/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2019/06/img-7944.jpg",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2019/06/img-7944.jpg",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/2019/06/18/farewell-to-dr-chiamaka-okoli/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2019/06/img-7947-1-e1560843731325.jpg",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2019/06/img-7947-1-e1560843731325.jpg",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/2019/06/18/farewell-to-dr-chiamaka-okoli/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2019/06/img-7949-e1560843379426.jpg",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2019/06/img-7949-e1560843379426.jpg",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/2019/06/18/farewell-to-dr-chiamaka-okoli/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2019/06/img-7954-2.jpg",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2019/06/img-7954-2.jpg",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/2019/06/18/farewell-to-dr-chiamaka-okoli/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2019/12/untitled-e15229772738576763972953804073089.jpeg",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2019/12/untitled-e15229772738576763972953804073089.jpeg",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/2019/12/23/congratulations-to-qingwen-wang-on-becoming-a-2019-institute-of-particle-physics-ipp-early-career-fellow/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2020/01/image-2.png",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2020/01/image-2.png",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/welcome/for-public/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2020/02/image.png",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2020/02/image.png",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/welcome/for-public/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2020/02/xyjk8g2spq59kxfnttcyuj-970-812379458870825692011.jpg",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2020/02/xyjk8g2spq59kxfnttcyuj-970-812379458870825692011.jpg",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/welcome/for-public/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2020/03/image-1.png",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2020/03/image-1.png",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/2020/03/30/physical-modelling-of-a-pandemic/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2020/03/image-11.png",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2020/03/image-11.png",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/2020/03/30/physical-modelling-of-a-pandemic/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2020/03/image-12.png",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2020/03/image-12.png",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/2020/03/30/physical-modelling-of-a-pandemic/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2020/03/image-2.png",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2020/03/image-2.png",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/2020/03/30/physical-modelling-of-a-pandemic/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2020/03/image-20.png",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2020/03/image-20.png",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/2020/03/30/physical-modelling-of-a-pandemic/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2020/03/image-24-e1585545223898.png",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2020/03/image-24-e1585545223898.png",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/2020/03/30/physical-modelling-of-a-pandemic/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2020/03/image-4.png",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2020/03/image-4.png",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/2020/03/30/physical-modelling-of-a-pandemic/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2020/03/image-6.png",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2020/03/image-6.png",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/2020/03/30/physical-modelling-of-a-pandemic/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2020/03/image-8.png",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2020/03/image-8.png",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/2020/03/30/physical-modelling-of-a-pandemic/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2020/03/image-9.png",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2020/03/image-9.png",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/2020/03/30/physical-modelling-of-a-pandemic/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2020/04/daily-covid-deaths-3-day-average.png",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2020/04/daily-covid-deaths-3-day-average.png",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/2020/04/14/physical-measure-of-a-pandemic/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2020/04/image-10.png",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2020/04/image-10.png",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/2020/04/14/physical-measure-of-a-pandemic/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2020/04/image-11.png",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2020/04/image-11.png",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/2020/04/14/physical-measure-of-a-pandemic/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2020/04/image-12.png",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2020/04/image-12.png",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/2020/04/14/physical-measure-of-a-pandemic/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2020/04/image-14.png",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2020/04/image-14.png",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/2020/04/14/physical-measure-of-a-pandemic/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2020/04/image-6.png",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2020/04/image-6.png",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/2020/04/14/physical-measure-of-a-pandemic/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2020/04/image-7.png",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2020/04/image-7.png",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/2020/04/14/physical-measure-of-a-pandemic/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2020/04/image-8.png",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2020/04/image-8.png",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/2020/04/14/physical-measure-of-a-pandemic/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2020/04/image-9.png",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2020/04/image-9.png",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/2020/04/14/physical-measure-of-a-pandemic/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2020/04/total-deaths-covid-19.png",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2020/04/total-deaths-covid-19.png",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/2020/04/14/physical-measure-of-a-pandemic/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2020/05/image.png",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2020/05/image.png",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/welcome/for-public/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2020/07/image-1.png",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2020/07/image-1.png",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/2020/07/02/diverse-drivers-of-a-pandemic-a-physical-model-for-covid-19/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2020/07/image-2.png",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2020/07/image-2.png",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/2020/07/02/diverse-drivers-of-a-pandemic-a-physical-model-for-covid-19/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2020/07/image-3.png",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2020/07/image-3.png",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/2020/07/02/diverse-drivers-of-a-pandemic-a-physical-model-for-covid-19/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2020/07/image-5.png",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2020/07/image-5.png",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/2020/07/02/diverse-drivers-of-a-pandemic-a-physical-model-for-covid-19/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2020/07/image-6.png",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2020/07/image-6.png",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/2020/07/02/diverse-drivers-of-a-pandemic-a-physical-model-for-covid-19/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2020/07/image-7.png",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2020/07/image-7.png",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/2020/07/02/diverse-drivers-of-a-pandemic-a-physical-model-for-covid-19/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2020/07/image.png",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2020/07/image.png",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/covid/publications/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2021/04/image-10.png",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2021/04/image-10.png",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/covid/our-team/",
+          "kind": "href"
+        },
+        {
+          "source": "/covid/our-team/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2021/04/image-11.png",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2021/04/image-11.png",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/covid/our-team/",
+          "kind": "href"
+        },
+        {
+          "source": "/covid/our-team/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2021/04/image-12.png",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2021/04/image-12.png",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/covid/our-team/",
+          "kind": "href"
+        },
+        {
+          "source": "/covid/our-team/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2021/04/image-13.png",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2021/04/image-13.png",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/covid/our-team/",
+          "kind": "href"
+        },
+        {
+          "source": "/covid/our-team/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2021/04/image-14.png",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2021/04/image-14.png",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/covid/our-team/",
+          "kind": "href"
+        },
+        {
+          "source": "/covid/our-team/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2021/04/image-15-edited-1.png",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2021/04/image-15-edited-1.png",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/covid/our-team/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2021/04/image-15.png",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2021/04/image-15.png",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/covid/our-team/",
+          "kind": "href"
+        }
+      ]
+    },
+    {
+      "path": "/media/2021/04/image-2-1-e1619007757927.png",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2021/04/image-2-1-e1619007757927.png",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/2021/04/21/my-local-covid-history-forecast-and-mitigation-portal/",
+          "kind": "href"
+        },
+        {
+          "source": "/2021/04/21/my-local-covid-history-forecast-and-mitigation-portal/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2021/04/image-3.png",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2021/04/image-3.png",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/2021/04/21/my-local-covid-history-forecast-and-mitigation-portal/",
+          "kind": "href"
+        },
+        {
+          "source": "/2021/04/21/my-local-covid-history-forecast-and-mitigation-portal/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2021/04/image-8.png",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2021/04/image-8.png",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/covid/our-team/",
+          "kind": "href"
+        },
+        {
+          "source": "/covid/our-team/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2021/04/image-9.png",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2021/04/image-9.png",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/covid/our-team/",
+          "kind": "href"
+        },
+        {
+          "source": "/covid/our-team/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2021/04/image.jpg",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2021/04/image.jpg",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/2021/04/21/my-local-covid-history-forecast-and-mitigation-portal/",
+          "kind": "href"
+        },
+        {
+          "source": "/2021/04/21/my-local-covid-history-forecast-and-mitigation-portal/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2021/11/image.png",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2021/11/image.png",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/welcome/for-public/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2023/02/image.png",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2023/02/image.png",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/welcome/for-public/",
+          "kind": "href"
+        },
+        {
+          "source": "/welcome/for-public/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2024/01/815ddadb-c3d1-4ea2-84ee-2dfc77224223.jpeg",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2024/01/815ddadb-c3d1-4ea2-84ee-2dfc77224223.jpeg",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/welcome/research/",
+          "kind": "href"
+        },
+        {
+          "source": "/welcome/research/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2024/05/image-1.png",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2024/05/image-1.png",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/welcome/for-public/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2024/05/image-2.png",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2024/05/image-2.png",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/welcome/for-public/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2024/05/image.png",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2024/05/image.png",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2024/05/img_8212.jpg",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2024/05/img_8212.jpg",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/welcome/for-public/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2024/05/universityofwaterloo_logo_vert_rgb.png",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2024/05/universityofwaterloo_logo_vert_rgb.png",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2024/10/81vabmkcfkl._sl1500_.jpg",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2024/10/81vabmkcfkl._sl1500_.jpg",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/",
+          "kind": "src"
+        },
+        {
+          "source": "/2024/10/19/battle-of-the-big-bang-new-tales-of-our-cosmic-origins/",
+          "kind": "href"
+        },
+        {
+          "source": "/2024/10/19/battle-of-the-big-bang-new-tales-of-our-cosmic-origins/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2024/12/9780226830476.jpg",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2024/12/9780226830476.jpg",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/welcome/for-public/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2024/12/image-1.png",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2024/12/image-1.png",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/2024/12/15/a-newtonian-carol/",
+          "kind": "href"
+        },
+        {
+          "source": "/2024/12/15/a-newtonian-carol/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2025/01/c334a8d1fbda50a50b64a53527652a92bc2b01166748aa8905af900f67635ce7.jpg",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2025/01/c334a8d1fbda50a50b64a53527652a92bc2b01166748aa8905af900f67635ce7.jpg",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/2025/01/20/meaning-of-beauty-معنی-قشنگ/",
+          "kind": "href"
+        },
+        {
+          "source": "/2025/01/20/meaning-of-beauty-معنی-قشنگ/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2025/03/image.png",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2025/03/image.png",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/2025/03/25/join-me-at-the-royal-institution-on-june-28-battle-of-the-big-bang/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2025/05/image-1.png",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2025/05/image-1.png",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/welcome/for-public/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2025/05/image.png",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2025/05/image.png",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/welcome/for-public/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/media/2026/02/image-1.png",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/media/2026/02/image-1.png",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/welcome/for-public/",
+          "kind": "src"
+        }
+      ]
+    },
+    {
+      "path": "/welcome/covid/",
+      "status": 404,
+      "effective_url": "https://nafshordi.github.io/welcome/covid/",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/2020/07/02/diverse-drivers-of-a-pandemic-a-physical-model-for-covid-19/",
+          "kind": "href"
+        }
+      ]
+    },
+    {
+      "path": "/welcome/my-group/",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/welcome/my-group/",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/2018/04/02/echoes-strike-back/",
+          "kind": "href"
+        },
+        {
+          "source": "/2019/06/18/farewell-to-dr-chiamaka-okoli/",
+          "kind": "href"
+        },
+        {
+          "source": "/2019/12/23/congratulations-to-qingwen-wang-on-becoming-a-2019-institute-of-particle-physics-ipp-early-career-fellow/",
+          "kind": "href"
+        }
+      ]
+    },
+    {
+      "path": "/welcome/my-group/photo-2/",
+      "status": 404,
+      "effective_url": "https://nafshordi.github.io/welcome/my-group/photo-2/",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/2018/04/02/echoes-strike-back/",
+          "kind": "href"
+        }
+      ]
+    },
+    {
+      "path": "/welcome/my-group/unnamed/",
+      "status": 404,
+      "effective_url": "https://nafshordi.github.io/welcome/my-group/unnamed/",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/2018/04/02/echoes-strike-back/",
+          "kind": "href"
+        }
+      ]
+    },
+    {
+      "path": "/welcome/research/black-hole-physics/",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/welcome/research/black-hole-physics/",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/welcome/research/",
+          "kind": "href"
+        }
+      ]
+    },
+    {
+      "path": "/welcome/research/cosmic-microwave-background/",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/welcome/research/cosmic-microwave-background/",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/welcome/research/",
+          "kind": "href"
+        }
+      ]
+    },
+    {
+      "path": "/welcome/research/cosmological-backreaction-and-the-role-of-non-linearities/",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/welcome/research/cosmological-backreaction-and-the-role-of-non-linearities/",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/welcome/research/",
+          "kind": "href"
+        }
+      ]
+    },
+    {
+      "path": "/welcome/research/early-universe-cosmology/",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/welcome/research/early-universe-cosmology/",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/welcome/research/",
+          "kind": "href"
+        }
+      ]
+    },
+    {
+      "path": "/welcome/research/missing-baryons-of-the-universe/",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/welcome/research/missing-baryons-of-the-universe/",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/welcome/research/",
+          "kind": "href"
+        }
+      ]
+    },
+    {
+      "path": "/welcome/research/modified-gravity-and-the-cosmological-constant-problem/",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/welcome/research/modified-gravity-and-the-cosmological-constant-problem/",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/welcome/research/",
+          "kind": "href"
+        }
+      ]
+    },
+    {
+      "path": "/welcome/research/quantum-field-theory-in-curved-spacetime/",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/welcome/research/quantum-field-theory-in-curved-spacetime/",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/welcome/research/",
+          "kind": "href"
+        }
+      ]
+    },
+    {
+      "path": "/welcome/research/understanding-accretion-disks/",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/welcome/research/understanding-accretion-disks/",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/welcome/research/",
+          "kind": "href"
+        }
+      ]
+    },
+    {
+      "path": "/welcome/research/understanding-dark-matter-and-dark-energy/",
+      "status": 206,
+      "effective_url": "https://nafshordi.github.io/welcome/research/understanding-dark-matter-and-dark-energy/",
+      "curl_exit": 0,
+      "error": "",
+      "occurrences": [
+        {
+          "source": "/welcome/research/",
+          "kind": "href"
+        }
+      ]
+    }
+  ]
+}

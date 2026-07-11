@@ -40,3 +40,8 @@ next-env.d.ts
 /.wrangler/
 /outputs/
 /work/
+__pycache__/
+/cv/*.aux
+/cv/*.log
+/cv/*.out
+/cv/*.pdf

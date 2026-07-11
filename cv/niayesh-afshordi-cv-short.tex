@@ -1,0 +1,47 @@
+\documentclass[10pt]{article}
+\input{public-cv-common.tex}
+\geometry{letterpaper,top=0.48in,bottom=0.45in,left=0.64in,right=0.64in}
+\setlength{\parskip}{0.18em}
+\renewcommand{\cvsection}[1]{%
+  \Needspace{3\baselineskip}%
+  \vspace{0.42em}\noindent{\large\bfseries\color{navy}#1}\par
+  \vspace{0.06em}\noindent\color{accent}\rule{\linewidth}{0.65pt}\color{black}\vspace{0.1em}}
+\renewcommand{\cvitem}[2]{%
+  \par\Needspace{1.7\baselineskip}%
+  \begin{tabularx}{\linewidth}{@{}>{\raggedright\arraybackslash}X>{\raggedleft\arraybackslash}p{0.22\linewidth}@{}}
+    \textbf{#1} & {\footnotesize\color{muted}#2}\tabularnewline
+  \end{tabularx}\par\vspace{-0.08em}}
+\pagestyle{empty}
+\begin{document}
+\cvheader{Short public CV --- updated July 2026}
+\small
+
+\cvsection{Profile}
+Niayesh Afshordi is an astrophysicist whose research connects fundamental questions in gravity and quantum physics to observations of the universe. His work spans black holes, gravitational waves, the early universe, the cosmic microwave background, dark matter and dark energy, cosmic structure, and observational tests of gravity.
+
+\cvsection{Appointments}
+\cvitem{Full Professor, Department of Physics and Astronomy, University of Waterloo}{2022--present}
+\cvitem{Research Associate Faculty, Perimeter Institute for Theoretical Physics}{2009--present}
+\cvitem{Founding Member, Waterloo Centre for Astrophysics}{2018--present}
+
+\cvsection{Education and previous appointments}
+\cvitem{PhD, Astrophysics, Princeton University}{2000--2004}
+\cvitem{BSc, Physics, Sharif University of Technology}{1996--1999}
+\cvitem{Distinguished Research Fellow, Perimeter Institute}{2007--2009}
+\cvitem{Postdoctoral Fellow, Institute for Theory and Computation, Harvard--Smithsonian CfA}{2004--2007}
+
+\cvsection{Selected research support}
+\cvitem{NSERC Discovery Grant: ``Quantum Black Holes, Vacuum, and the Big Bang''}{2025--2030}
+\cvitem{University of Waterloo Interdisciplinary Trailblazer Grant: ``Quantum Spacetime in the Cosmos''}{2022--2025}
+\cvitem{NSERC Discovery Grant: ``Novel Astrophysical Probes of Fundamental Physics''}{2020--2025}
+
+\cvsection{Selected recognitions}
+\cvitem{Buchalter Cosmology Prize}{2019; 2015}
+\cvitem{Professor M. K. Vainu Bappu Gold Medal}{2011}
+\cvitem{Ontario Early Researcher Award}{2011}
+\cvitem{NSERC Discovery Accelerator Supplement}{2010--2013}
+
+\cvsection{Research group and scholarly record}
+Afshordi supervises students and postdoctoral researchers across cosmology, gravity, quantum field theory in curved spacetime, and data-informed astrophysics. A current, public record of papers, talks, group members, and writing is maintained at \cvlink{https://nafshordi.com}{nafshordi.com}. Complete publication listings are available through \cvlink{https://arxiv.org/search/?query=Niayesh+Afshordi\&searchtype=author}{arXiv}, \cvlink{https://inspirehep.net/authors/1023532}{INSPIRE}, \cvlink{https://orcid.org/0000-0002-9940-7040}{ORCID}, and \cvlink{https://scholar.google.ca/citations?user=xWZGFlEAAAAJ}{Google Scholar}.
+
+\end{document}

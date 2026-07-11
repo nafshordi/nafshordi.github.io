@@ -16,8 +16,11 @@ const fixedRoutes = [
   "/group/",
   "/publications/",
   "/talks/",
+  "/news/",
   "/updates/",
   "/cv/",
+  "/archive/",
+  "/welcome/original-home/",
 ];
 
 function staticHtml(html) {

@@ -1,0 +1,5625 @@
+{
+  "generated_at": "2026-07-10",
+  "total_count": 157,
+  "arxiv_author_result_count": 151,
+  "source_provenance": {
+    "baseline": {
+      "name": "arXiv",
+      "query": "au:\"Niayesh Afshordi\"",
+      "url": "https://export.arxiv.org/api/query?search_query=au%3A%22Niayesh+Afshordi%22&start=0&max_results=250&sortBy=submittedDate&sortOrder=descending"
+    },
+    "metadata_enrichment": {
+      "name": "INSPIRE",
+      "author_id": "1023532",
+      "url": "https://inspirehep.net/authors/1023532"
+    },
+    "cross_disciplinary_supplement": {
+      "name": "ORCID",
+      "orcid": "0000-0002-9940-7040",
+      "url": "https://orcid.org/0000-0002-9940-7040"
+    },
+    "manual_cross_check": {
+      "name": "Google Scholar",
+      "checked_at": "2026-07-10",
+      "url": "https://scholar.google.ca/citations?user=xWZGFlEAAAAJ",
+      "observation": "The public profile exposed 200 rows across its paginated result set, including duplicate versions, talks, translations, and research statements."
+    },
+    "note": "Google Scholar is linked for discovery and citation counts and was manually cross-checked, but is not imported automatically because it has no supported public API and its result rows are not a deduplicated publication record."
+  },
+  "publications": [
+    {
+      "title": "Self-regularized entropy: What does black hole entropy predict for tests of Kerr no-hair theorem?",
+      "authors": [
+        "Shokoufe Faraji",
+        "Niayesh Afshordi"
+      ],
+      "publication_date": "2026-07-14",
+      "arxiv_submitted_date": "2025-08-28",
+      "updated_date": "2026-06-04",
+      "year": 2026,
+      "publication_type": "journal-article",
+      "journal": "Classical and Quantum Gravity (CQG), June 2026",
+      "arxiv_id": "2508.20421",
+      "arxiv_url": "https://arxiv.org/abs/2508.20421",
+      "doi": "10.1088/1361-6382/ae7793",
+      "doi_url": "https://doi.org/10.1088/1361-6382/ae7793",
+      "categories": [
+        "gr-qc",
+        "astro-ph.HE",
+        "hep-ph",
+        "hep-th"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2026-07-14",
+      "status": "forthcoming",
+      "url": "https://doi.org/10.1088/1361-6382/ae7793"
+    },
+    {
+      "title": "Thermal Sunyaev-Zel'dovich cross-correlations with unWISE galaxies: disentangling radio contamination, dust properties, and electron pressure",
+      "authors": [
+        "Guandi Zhao",
+        "Alex Krolewski",
+        "Niayesh Afshordi"
+      ],
+      "publication_date": null,
+      "arxiv_submitted_date": "2026-06-26",
+      "updated_date": "2026-06-26",
+      "year": 2026,
+      "publication_type": "preprint",
+      "journal": null,
+      "arxiv_id": "2606.28099",
+      "arxiv_url": "https://arxiv.org/abs/2606.28099",
+      "doi": null,
+      "doi_url": null,
+      "categories": [
+        "astro-ph.CO",
+        "astro-ph.GA",
+        "astro-ph.IM"
+      ],
+      "sources": [
+        "INSPIRE",
+        "arXiv"
+      ],
+      "date": "2026-06-26",
+      "status": "preprint",
+      "url": "https://arxiv.org/abs/2606.28099"
+    },
+    {
+      "title": "Exploring Born-Infeld f(T) teleparallel gravity through accretion disk dynamics",
+      "authors": [
+        "Ruijing Tang",
+        "Shokoufe Faraji",
+        "Niayesh Afshordi"
+      ],
+      "publication_date": "2026-06-09",
+      "arxiv_submitted_date": "2025-02-06",
+      "updated_date": "2026-04-21",
+      "year": 2026,
+      "publication_type": "journal-article",
+      "journal": "Phys. Rev. D 113, 123021 (2026)",
+      "arxiv_id": "2502.03775",
+      "arxiv_url": "https://arxiv.org/abs/2502.03775",
+      "doi": "10.1103/6q8h-k57n",
+      "doi_url": "https://doi.org/10.1103/6q8h-k57n",
+      "categories": [
+        "gr-qc"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2026-06-09",
+      "status": "published",
+      "url": "https://doi.org/10.1103/6q8h-k57n"
+    },
+    {
+      "title": "Big Mysteries Survey: Physicists' Views on Cosmology, Black Holes, Quantum Mechanics, and Quantum Gravity",
+      "authors": [
+        "Niayesh Afshordi",
+        "Phil Halper",
+        "Matteo Rini",
+        "Michael Schirber"
+      ],
+      "publication_date": null,
+      "arxiv_submitted_date": "2026-05-11",
+      "updated_date": "2026-05-11",
+      "year": 2026,
+      "publication_type": "preprint",
+      "journal": null,
+      "arxiv_id": "2605.11058",
+      "arxiv_url": "https://arxiv.org/abs/2605.11058",
+      "doi": null,
+      "doi_url": null,
+      "categories": [
+        "physics.soc-ph",
+        "astro-ph.CO",
+        "gr-qc",
+        "physics.hist-ph"
+      ],
+      "sources": [
+        "INSPIRE",
+        "arXiv"
+      ],
+      "date": "2026-05-11",
+      "status": "preprint",
+      "url": "https://arxiv.org/abs/2605.11058"
+    },
+    {
+      "title": "Ultraviolet Completion of the Big Bang in Quadratic Gravity",
+      "authors": [
+        "Ruolin Liu",
+        "Jerome Quintin",
+        "Niayesh Afshordi"
+      ],
+      "publication_date": "2026-03-18",
+      "arxiv_submitted_date": "2025-10-21",
+      "updated_date": "2026-03-19",
+      "year": 2026,
+      "publication_type": "journal-article",
+      "journal": "Phys. Rev. Lett. 136, 111501 (2026)",
+      "arxiv_id": "2510.18733",
+      "arxiv_url": "https://arxiv.org/abs/2510.18733",
+      "doi": "10.1103/6gtx-j455",
+      "doi_url": "https://doi.org/10.1103/6gtx-j455",
+      "categories": [
+        "hep-th",
+        "astro-ph.CO",
+        "gr-qc"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2026-03-18",
+      "status": "published",
+      "url": "https://doi.org/10.1103/6gtx-j455"
+    },
+    {
+      "title": "Black hole spectroscopy: from theory to experiment",
+      "authors": [
+        "Emanuele Berti",
+        "Vitor Cardoso",
+        "Gregorio Carullo",
+        "Jahed Abedi",
+        "Niayesh Afshordi",
+        "Simone Albanesi",
+        "Vishal Baibhav",
+        "Swetha Bhagwat",
+        "José Luis Blázquez-Salcedo",
+        "Béatrice Bonga",
+        "Bruno Bucciotti",
+        "Giada Caneva Santoro",
+        "Pablo A. Cano",
+        "Collin Capano",
+        "Mark Ho-Yeuk Cheung",
+        "Cecilia Chirenti",
+        "Gregory B. Cook",
+        "Adrian Ka-Wai Chung",
+        "Marina De Amicis",
+        "Kyriakos Destounis",
+        "Oscar J. C. Dias",
+        "Walter Del Pozzo",
+        "Francisco Duque",
+        "Will M. Farr",
+        "Eliot Finch",
+        "Nicola Franchini",
+        "Kwinten Fransen",
+        "Vasco Gennari",
+        "Stephen R. Green",
+        "Scott A. Hughes",
+        "Maximiliano Isi",
+        "Xisco Jimenez Forteza",
+        "Gaurav Khanna",
+        "Fech Scen Khoo",
+        "Masashi Kimura",
+        "Badri Krishnan",
+        "Adrien Kuntz",
+        "Macarena Lagos",
+        "Rico K. L. Lo",
+        "Lionel London",
+        "Sizheng Ma",
+        "Simon Maenaut",
+        "Lorena Magaña Zertuche",
+        "Elisa Maggio",
+        "Andrea Maselli",
+        "Keefe Mitman",
+        "Hayato Motohashi",
+        "Naritaka Oshita",
+        "Costantino Pacilio",
+        "Paolo Pani",
+        "Rodrigo Panosso Macedo",
+        "Chantal Pitte",
+        "Lorenzo Pompili",
+        "Jaime Redondo-Yuste",
+        "Maurício Richartz",
+        "Antonio Riotto",
+        "Jorge E. Santos",
+        "Bangalore Sathyaprakash",
+        "Laura Sberna",
+        "Hector O. Silva",
+        "Leo C. Stein",
+        "Alexandre Toubiana",
+        "Sebastian H. Völkel",
+        "Julian Westerweck",
+        "Huan Yang",
+        "Sophia Yi",
+        "Nicolas Yunes",
+        "Hengrui Zhu"
+      ],
+      "publication_date": "2026",
+      "arxiv_submitted_date": "2025-05-29",
+      "updated_date": "2025-08-24",
+      "year": 2026,
+      "publication_type": "preprint",
+      "journal": "Class. Quant. Grav. 43, 123001 (2026)",
+      "arxiv_id": "2505.23895",
+      "arxiv_url": "https://arxiv.org/abs/2505.23895",
+      "doi": "10.1088/1361-6382/ae59e2",
+      "doi_url": "https://doi.org/10.1088/1361-6382/ae59e2",
+      "categories": [
+        "gr-qc",
+        "astro-ph.HE",
+        "hep-ph"
+      ],
+      "sources": [
+        "INSPIRE",
+        "arXiv"
+      ],
+      "date": "2026",
+      "status": "published",
+      "url": "https://doi.org/10.1088/1361-6382/ae59e2"
+    },
+    {
+      "title": "Smart Holes: Analogue black holes with the right temperature and entropy",
+      "authors": [
+        "Jiayue Yang",
+        "Niayesh Afshordi",
+        "Mahdi Torabian",
+        "Seyed Akbar Jafari",
+        "G. Baskaran"
+      ],
+      "publication_date": "2025-07-22",
+      "arxiv_submitted_date": "2024-12-11",
+      "updated_date": "2025-07-22",
+      "year": 2025,
+      "publication_type": "journal-article",
+      "journal": "JHEP 07, 226 (2025)",
+      "arxiv_id": "2412.08517",
+      "arxiv_url": "https://arxiv.org/abs/2412.08517",
+      "doi": "10.1007/jhep07(2025)226",
+      "doi_url": "https://doi.org/10.1007/jhep07(2025)226",
+      "categories": [
+        "hep-th",
+        "cond-mat.str-el",
+        "gr-qc"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2025-07-22",
+      "status": "published",
+      "url": "https://doi.org/10.1007/jhep07(2025)226"
+    },
+    {
+      "title": "Where are all the dark galaxies? Predicting galaxy/halo locations from their bright neighbors",
+      "authors": [
+        "Alice Chen",
+        "Niayesh Afshordi"
+      ],
+      "publication_date": null,
+      "arxiv_submitted_date": "2025-07-02",
+      "updated_date": "2025-07-02",
+      "year": 2025,
+      "publication_type": "preprint",
+      "journal": null,
+      "arxiv_id": "2507.01814",
+      "arxiv_url": "https://arxiv.org/abs/2507.01814",
+      "doi": null,
+      "doi_url": null,
+      "categories": [
+        "astro-ph.CO",
+        "astro-ph.GA"
+      ],
+      "sources": [
+        "INSPIRE",
+        "arXiv"
+      ],
+      "date": "2025-07-02",
+      "status": "preprint",
+      "url": "https://arxiv.org/abs/2507.01814"
+    },
+    {
+      "title": "A semiclassical model of the immediate temperature distribution surrounding the track of heavy ions with therapeutic energies",
+      "authors": [
+        "Martin Rädler",
+        "Niayesh Afshordi",
+        "Reza Taleei",
+        "Katia Parodi",
+        "Ramin Abolfath",
+        "Julie Lascaud"
+      ],
+      "publication_date": "2025-06-08",
+      "arxiv_submitted_date": null,
+      "updated_date": null,
+      "year": 2025,
+      "publication_type": "journal-article",
+      "journal": "Physics in Medicine & Biology",
+      "arxiv_id": null,
+      "arxiv_url": null,
+      "doi": "10.1088/1361-6560/add83b",
+      "doi_url": "https://doi.org/10.1088/1361-6560/add83b",
+      "categories": [],
+      "sources": [
+        "ORCID"
+      ],
+      "date": "2025-06-08",
+      "status": "published",
+      "url": "https://doi.org/10.1088/1361-6560/add83b"
+    },
+    {
+      "title": "Copenhagen Survey on Black Holes and Fundamental Physics",
+      "authors": [
+        "Alice Y. Chen",
+        "Phil Halper",
+        "Niayesh Afshordi"
+      ],
+      "publication_date": null,
+      "arxiv_submitted_date": "2025-03-20",
+      "updated_date": "2025-03-26",
+      "year": 2025,
+      "publication_type": "preprint",
+      "journal": null,
+      "arxiv_id": "2503.15776",
+      "arxiv_url": "https://arxiv.org/abs/2503.15776",
+      "doi": null,
+      "doi_url": null,
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO",
+        "hep-th",
+        "physics.hist-ph"
+      ],
+      "sources": [
+        "INSPIRE",
+        "arXiv"
+      ],
+      "date": "2025-03-20",
+      "status": "preprint",
+      "url": "https://arxiv.org/abs/2503.15776"
+    },
+    {
+      "title": "Doppler bias: impact of peculiar velocities on color selection and the large scale structure of galaxy surveys",
+      "authors": [
+        "Batia Friedman-Shaw",
+        "Alex Krolewski",
+        "Matteo Foglieni",
+        "Niayesh Afshordi"
+      ],
+      "publication_date": "2025-03-01",
+      "arxiv_submitted_date": "2024-10-07",
+      "updated_date": "2025-03-26",
+      "year": 2025,
+      "publication_type": "journal-article",
+      "journal": "JCAP 03, 059 (2025)",
+      "arxiv_id": "2410.04705",
+      "arxiv_url": "https://arxiv.org/abs/2410.04705",
+      "doi": "10.1088/1475-7516/2025/03/059",
+      "doi_url": "https://doi.org/10.1088/1475-7516/2025/03/059",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2025-03-01",
+      "status": "published",
+      "url": "https://doi.org/10.1088/1475-7516/2025/03/059"
+    },
+    {
+      "title": "Conformal Cores of Quantum Black Holes in Quadratic Gravity",
+      "authors": [
+        "Ruolin Liu",
+        "Jerome Quintin",
+        "Niayesh Afshordi"
+      ],
+      "publication_date": "2025-02-11",
+      "arxiv_submitted_date": "2024-11-28",
+      "updated_date": "2025-02-11",
+      "year": 2025,
+      "publication_type": "journal-article",
+      "journal": "Phys. Rev. D 111, 044031 (2025)",
+      "arxiv_id": "2411.19311",
+      "arxiv_url": "https://arxiv.org/abs/2411.19311",
+      "doi": "10.1103/physrevd.111.044031",
+      "doi_url": "https://doi.org/10.1103/physrevd.111.044031",
+      "categories": [
+        "hep-th",
+        "gr-qc"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2025-02-11",
+      "status": "published",
+      "url": "https://doi.org/10.1103/physrevd.111.044031"
+    },
+    {
+      "title": "Formulating the complete initial boundary value problem in numerical relativity to model black hole echoes",
+      "authors": [
+        "Conner Dailey",
+        "Erik Schnetter",
+        "Niayesh Afshordi"
+      ],
+      "publication_date": "2025-01-17",
+      "arxiv_submitted_date": "2024-09-26",
+      "updated_date": "2025-02-03",
+      "year": 2025,
+      "publication_type": "journal-article",
+      "journal": "Class. Quant. Grav. 42, 025002 (2025)",
+      "arxiv_id": "2409.17970",
+      "arxiv_url": "https://arxiv.org/abs/2409.17970",
+      "doi": "10.1088/1361-6382/ad9701",
+      "doi_url": "https://doi.org/10.1088/1361-6382/ad9701",
+      "categories": [
+        "gr-qc"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2025-01-17",
+      "status": "published",
+      "url": "https://doi.org/10.1088/1361-6382/ad9701"
+    },
+    {
+      "title": "Accelerated detector in a superposed spacetime",
+      "authors": [
+        "Lakshay Goel",
+        "Everett A. Patterson",
+        "María Rosa Preciado-Rivas",
+        "Mahdi Torabian",
+        "Robert B. Mann",
+        "Niayesh Afshordi"
+      ],
+      "publication_date": "2025-01-14",
+      "arxiv_submitted_date": "2024-09-10",
+      "updated_date": "2024-09-10",
+      "year": 2025,
+      "publication_type": "journal-article",
+      "journal": "Phys. Rev. D 111, 025015 (2025)",
+      "arxiv_id": "2409.06818",
+      "arxiv_url": "https://arxiv.org/abs/2409.06818",
+      "doi": "10.1103/physrevd.111.025015",
+      "doi_url": "https://doi.org/10.1103/physrevd.111.025015",
+      "categories": [
+        "gr-qc",
+        "hep-th",
+        "quant-ph"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2025-01-14",
+      "status": "published",
+      "url": "https://doi.org/10.1103/physrevd.111.025015"
+    },
+    {
+      "title": "A glitch in gravity: cosmic Lorentz-violation from fiery Big Bang to glacial heat death",
+      "authors": [
+        "Robin Y. Wen",
+        "Lukas T. Hergt",
+        "Niayesh Afshordi",
+        "Douglas Scott"
+      ],
+      "publication_date": "2025",
+      "arxiv_submitted_date": "2024-12-12",
+      "updated_date": "2024-12-12",
+      "year": 2025,
+      "publication_type": "journal-article",
+      "journal": "Astrophys. Space Sci. Proc. 61, 435 (2025)",
+      "arxiv_id": "2412.09568",
+      "arxiv_url": "https://arxiv.org/abs/2412.09568",
+      "doi": "10.1007/978-3-031-90186-7_35",
+      "doi_url": "https://doi.org/10.1007/978-3-031-90186-7_35",
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-th"
+      ],
+      "sources": [
+        "INSPIRE",
+        "arXiv"
+      ],
+      "date": "2025",
+      "status": "published",
+      "url": "https://doi.org/10.1007/978-3-031-90186-7_35"
+    },
+    {
+      "title": "Waveform Modelling for the Laser Interferometer Space Antenna",
+      "authors": [
+        "LISA Consortium Waveform Working Group",
+        "Niayesh Afshordi",
+        "Sarp Akçay",
+        "Pau Amaro Seoane",
+        "Andrea Antonelli",
+        "Josu C. Aurrekoetxea",
+        "Leor Barack",
+        "Enrico Barausse",
+        "Robert Benkel",
+        "Laura Bernard",
+        "Sebastiano Bernuzzi",
+        "Emanuele Berti",
+        "Matteo Bonetti",
+        "Béatrice Bonga",
+        "Gabriele Bozzola",
+        "Richard Brito",
+        "Alessandra Buonanno",
+        "Alejandro Cárdenas-Avendaño",
+        "Marc Casals",
+        "David F. Chernoff",
+        "Alvin J. K. Chua",
+        "Katy Clough",
+        "Marta Colleoni",
+        "Geoffrey Compère",
+        "Mekhi Dhesi",
+        "Adrien Druart",
+        "Leanne Durkan",
+        "Guillaume Faye",
+        "Deborah Ferguson",
+        "Scott E. Field",
+        "William E. Gabella",
+        "Juan García-Bellido",
+        "Miguel Gracia-Linares",
+        "Davide Gerosa",
+        "Stephen R. Green",
+        "Maria Haney",
+        "Mark Hannam",
+        "Anna Heffernan",
+        "Tanja Hinderer",
+        "Thomas Helfer",
+        "Scott A. Hughes",
+        "Sascha Husa",
+        "Soichiro Isoyama",
+        "Michael L. Katz",
+        "Chris Kavanagh",
+        "Gaurav Khanna",
+        "Larry E. Kidder",
+        "Valeriya Korol",
+        "Lorenzo Küchler",
+        "Pablo Laguna",
+        "François Larrouturou",
+        "Alexandre Le Tiec",
+        "Benjamin Leather",
+        "Eugene A. Lim",
+        "Hyun Lim",
+        "Tyson B. Littenberg",
+        "Oliver Long",
+        "Carlos O. Lousto",
+        "Geoffrey Lovelace",
+        "Georgios Lukes-Gerakopoulos",
+        "Philip Lynch",
+        "Rodrigo P. Macedo",
+        "Charalampos Markakis",
+        "Elisa Maggio",
+        "Ilya Mandel",
+        "Andrea Maselli",
+        "Josh Mathews",
+        "Pierre Mourier",
+        "David Neilsen",
+        "Alessandro Nagar",
+        "David A. Nichols",
+        "Jan Novák",
+        "Maria Okounkova",
+        "Richard O'Shaughnessy",
+        "Naritaka Oshita",
+        "Conor O'Toole",
+        "Zhen Pan",
+        "Paolo Pani",
+        "George Pappas",
+        "Vasileios Paschalidis",
+        "Harald P. Pfeiffer",
+        "Lorenzo Pompili",
+        "Adam Pound",
+        "Geraint Pratten",
+        "Hannes R. Rüter",
+        "Milton Ruiz",
+        "Zeyd Sam",
+        "Laura Sberna",
+        "Stuart L. Shapiro",
+        "Deirdre M. Shoemaker",
+        "Carlos F. Sopuerta",
+        "Andrew Spiers",
+        "Hari Sundar",
+        "Nicola Tamanini",
+        "Jonathan E. Thompson",
+        "Alexandre Toubiana",
+        "Antonios Tsokaros",
+        "Samuel D. Upton",
+        "Maarten van de Meent",
+        "Daniele Vernieri",
+        "Jeremy M. Wachter",
+        "Niels Warburton",
+        "Barry Wardell",
+        "Helvi Witek",
+        "Vojtěch Witzany",
+        "Huan Yang",
+        "Miguel Zilhão",
+        "Angelica Albertini",
+        "K. G. Arun",
+        "Miguel Bezares",
+        "Alexander Bonilla",
+        "Christian Chapman-Bird",
+        "Bradley Cownden",
+        "Kevin Cunningham",
+        "Chris Devitt",
+        "Sam Dolan",
+        "Francisco Duque",
+        "Conor Dyson",
+        "Chris L. Fryer",
+        "Jonathan R. Gair",
+        "Bruno Giacomazzo",
+        "Priti Gupta",
+        "Wen-Biao Han",
+        "Roland Haas",
+        "Eric W. Hirschmann",
+        "E. A. Huerta",
+        "Philippe Jetzer",
+        "Bernard Kelly",
+        "Mohammed Khalil",
+        "Jack Lewis",
+        "Nicole Lloyd-Ronning",
+        "Sylvain Marsat",
+        "Germano Nardini",
+        "Jakob Neef",
+        "Adrian Ottewill",
+        "Christiana Pantelidou",
+        "Gabriel Andres Piovano",
+        "Jaime Redondo-Yuste",
+        "Laura Sagunski",
+        "Leo C. Stein",
+        "Viktor Skoupý",
+        "Ulrich Sperhake",
+        "Lorenzo Speri",
+        "Thomas F. M. Spieksma",
+        "Chris Stevens",
+        "David Trestini",
+        "Alex Vañó-Viñuales"
+      ],
+      "publication_date": "2025",
+      "arxiv_submitted_date": "2023-11-02",
+      "updated_date": "2026-05-01",
+      "year": 2025,
+      "publication_type": "journal-article",
+      "journal": "Living Rev. Rel. 28, 9 (2025)",
+      "arxiv_id": "2311.01300",
+      "arxiv_url": "https://arxiv.org/abs/2311.01300",
+      "doi": "10.1007/s41114-025-00056-1",
+      "doi_url": "https://doi.org/10.1007/s41114-025-00056-1",
+      "categories": [
+        "gr-qc",
+        "astro-ph.HE"
+      ],
+      "sources": [
+        "INSPIRE",
+        "arXiv"
+      ],
+      "date": "2025",
+      "status": "published",
+      "url": "https://doi.org/10.1007/s41114-025-00056-1"
+    },
+    {
+      "title": "Quantum black holes: from regularization to information paradoxes",
+      "authors": [
+        "Niayesh Afshordi",
+        "Stefano Liberati"
+      ],
+      "publication_date": "2025",
+      "arxiv_submitted_date": null,
+      "updated_date": null,
+      "year": 2025,
+      "publication_type": "journal-article",
+      "journal": "Gen. Rel. Grav. 57, 25 (2025)",
+      "arxiv_id": null,
+      "arxiv_url": null,
+      "doi": "10.1007/s10714-025-03356-7",
+      "doi_url": "https://doi.org/10.1007/s10714-025-03356-7",
+      "categories": [],
+      "sources": [
+        "INSPIRE"
+      ],
+      "date": "2025",
+      "status": "published",
+      "url": "https://doi.org/10.1007/s10714-025-03356-7"
+    },
+    {
+      "title": "Simulating Self-Lensing and Eclipsing Signals due to Detached Compact Objects in the TESS Light Curves",
+      "authors": [
+        "Sedighe Sajadian",
+        "Niayesh Afshordi"
+      ],
+      "publication_date": "2024-12-01",
+      "arxiv_submitted_date": "2024-09-19",
+      "updated_date": "2024-09-19",
+      "year": 2024,
+      "publication_type": "preprint",
+      "journal": "The Astronomical Journal",
+      "arxiv_id": "2409.12441",
+      "arxiv_url": "https://arxiv.org/abs/2409.12441",
+      "doi": "10.3847/1538-3881/ad7fdd",
+      "doi_url": "https://doi.org/10.3847/1538-3881/ad7fdd",
+      "categories": [
+        "astro-ph.SR",
+        "astro-ph.EP",
+        "astro-ph.GA",
+        "astro-ph.IM"
+      ],
+      "sources": [
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2024-12-01",
+      "status": "published",
+      "url": "https://doi.org/10.3847/1538-3881/ad7fdd"
+    },
+    {
+      "title": "Black Holes Inside and Out 2024: visions for the future of black hole physics",
+      "authors": [
+        "Niayesh Afshordi",
+        "Abhay Ashtekar",
+        "Enrico Barausse",
+        "Emanuele Berti",
+        "Richard Brito",
+        "Luca Buoninfante",
+        "Raúl Carballo-Rubio",
+        "Vitor Cardoso",
+        "Gregorio Carullo",
+        "Mihalis Dafermos",
+        "Mariafelicia De Laurentis",
+        "Adrian del Rio",
+        "Francesco Di Filippo",
+        "Astrid Eichhorn",
+        "Roberto Emparan",
+        "Ruth Gregory",
+        "Carlos A. R. Herdeiro",
+        "Jutta Kunz",
+        "Luis Lehner",
+        "Stefano Liberati",
+        "Samir D. Mathur",
+        "Samaya Nissanke",
+        "Paolo Pani",
+        "Alessia Platania",
+        "Frans Pretorius",
+        "Misao Sasaki",
+        "Paul Tiede",
+        "William Unruh",
+        "Matt Visser",
+        "Robert M. Wald"
+      ],
+      "publication_date": null,
+      "arxiv_submitted_date": "2024-10-18",
+      "updated_date": "2024-10-18",
+      "year": 2024,
+      "publication_type": "preprint",
+      "journal": null,
+      "arxiv_id": "2410.14414",
+      "arxiv_url": "https://arxiv.org/abs/2410.14414",
+      "doi": null,
+      "doi_url": null,
+      "categories": [
+        "gr-qc",
+        "astro-ph.HE",
+        "hep-ph",
+        "hep-th"
+      ],
+      "sources": [
+        "INSPIRE",
+        "arXiv"
+      ],
+      "date": "2024-10-18",
+      "status": "preprint",
+      "url": "https://arxiv.org/abs/2410.14414"
+    },
+    {
+      "title": "Detecting cosmological scalar fields using orbital networks of quantum sensors",
+      "authors": [
+        "Yu Li",
+        "Ruolin Liu",
+        "Conner Dailey",
+        "Niayesh Afshordi"
+      ],
+      "publication_date": "2024-08-21",
+      "arxiv_submitted_date": "2023-11-29",
+      "updated_date": "2024-08-21",
+      "year": 2024,
+      "publication_type": "journal-article",
+      "journal": "Phys. Rev. D 110, 043028 (2024)",
+      "arxiv_id": "2311.17873",
+      "arxiv_url": "https://arxiv.org/abs/2311.17873",
+      "doi": "10.1103/physrevd.110.043028",
+      "doi_url": "https://doi.org/10.1103/physrevd.110.043028",
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO",
+        "astro-ph.IM",
+        "hep-ph",
+        "hep-th"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2024-08-21",
+      "status": "published",
+      "url": "https://doi.org/10.1103/physrevd.110.043028"
+    },
+    {
+      "title": "A molecular dynamics simulation of the abrupt changes in the thermodynamic properties of water after formation of nano-bubbles / nano-cavities induced by passage of charged particles",
+      "authors": [
+        "Ramin Abolfath",
+        "Niayesh Afshordi",
+        "Sohrab Rahvar",
+        "Adri van Duin",
+        "Martin Radler",
+        "Reza Taleei",
+        "Katia Parodi",
+        "Julie Lascaud",
+        "Radhe Mohan"
+      ],
+      "publication_date": null,
+      "arxiv_submitted_date": "2024-03-09",
+      "updated_date": "2024-03-09",
+      "year": 2024,
+      "publication_type": "journal-article",
+      "journal": "Eur. Phys. J. D (2024) 78: 141",
+      "arxiv_id": "2403.05880",
+      "arxiv_url": "https://arxiv.org/abs/2403.05880",
+      "doi": "10.1140/epjd/s10053-024-00928-1",
+      "doi_url": "https://doi.org/10.1140/epjd/s10053-024-00928-1",
+      "categories": [
+        "physics.med-ph",
+        "physics.bio-ph",
+        "physics.chem-ph",
+        "physics.comp-ph",
+        "physics.flu-dyn"
+      ],
+      "sources": [
+        "arXiv"
+      ],
+      "date": "2024-03-09",
+      "status": "published",
+      "url": "https://doi.org/10.1140/epjd/s10053-024-00928-1"
+    },
+    {
+      "title": "Effective Cuscuton Theory",
+      "authors": [
+        "M. Mylova",
+        "N. Afshordi"
+      ],
+      "publication_date": "2024",
+      "arxiv_submitted_date": "2023-12-11",
+      "updated_date": "2023-12-11",
+      "year": 2024,
+      "publication_type": "preprint",
+      "journal": "JHEP 04, 144 (2024)",
+      "arxiv_id": "2312.06066",
+      "arxiv_url": "https://arxiv.org/abs/2312.06066",
+      "doi": "10.1007/jhep04(2024)144",
+      "doi_url": "https://doi.org/10.1007/jhep04(2024)144",
+      "categories": [
+        "hep-th",
+        "astro-ph.CO",
+        "gr-qc"
+      ],
+      "sources": [
+        "INSPIRE",
+        "arXiv"
+      ],
+      "date": "2024",
+      "status": "published",
+      "url": "https://doi.org/10.1007/jhep04(2024)144"
+    },
+    {
+      "title": "A cosmic glitch in gravity",
+      "authors": [
+        "Robin Y. Wen",
+        "Lukas T. Hergt",
+        "Niayesh Afshordi",
+        "Douglas Scott"
+      ],
+      "publication_date": "2024",
+      "arxiv_submitted_date": "2023-11-06",
+      "updated_date": "2024-05-18",
+      "year": 2024,
+      "publication_type": "journal-article",
+      "journal": "JCAP 03, 045 (2024)",
+      "arxiv_id": "2311.03028",
+      "arxiv_url": "https://arxiv.org/abs/2311.03028",
+      "doi": "10.1088/1475-7516/2024/03/045",
+      "doi_url": "https://doi.org/10.1088/1475-7516/2024/03/045",
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc"
+      ],
+      "sources": [
+        "INSPIRE",
+        "arXiv"
+      ],
+      "date": "2024",
+      "status": "published",
+      "url": "https://doi.org/10.1088/1475-7516/2024/03/045"
+    },
+    {
+      "title": "Spectrogram correlated stacking: A novel time-frequency domain analysis of the Stochastic Gravitational Wave Background",
+      "authors": [
+        "Ramit Dey",
+        "Luís Felipe Longo Micchi",
+        "Suvodip Mukherjee",
+        "Niayesh Afshordi"
+      ],
+      "publication_date": "2024",
+      "arxiv_submitted_date": "2023-05-04",
+      "updated_date": "2024-03-04",
+      "year": 2024,
+      "publication_type": "journal-article",
+      "journal": "Phys. Rev. D 109, 023029 (2024)",
+      "arxiv_id": "2305.03090",
+      "arxiv_url": "https://arxiv.org/abs/2305.03090",
+      "doi": "10.1103/physrevd.109.023029",
+      "doi_url": "https://doi.org/10.1103/physrevd.109.023029",
+      "categories": [
+        "gr-qc",
+        "astro-ph.HE"
+      ],
+      "sources": [
+        "INSPIRE",
+        "arXiv"
+      ],
+      "date": "2024",
+      "status": "published",
+      "url": "https://doi.org/10.1103/physrevd.109.023029"
+    },
+    {
+      "title": "Reflecting boundary conditions in numerical relativity as a model for black hole echoes",
+      "authors": [
+        "Conner Dailey",
+        "Niayesh Afshordi",
+        "Erik Schnetter"
+      ],
+      "publication_date": "2023-10-05",
+      "arxiv_submitted_date": "2023-01-13",
+      "updated_date": "2023-09-30",
+      "year": 2023,
+      "publication_type": "journal-article",
+      "journal": "Class. Quant. Grav. 40, 195007 (2023)",
+      "arxiv_id": "2301.05778",
+      "arxiv_url": "https://arxiv.org/abs/2301.05778",
+      "doi": "10.1088/1361-6382/acde2f",
+      "doi_url": "https://doi.org/10.1088/1361-6382/acde2f",
+      "categories": [
+        "gr-qc"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2023-10-05",
+      "status": "published",
+      "url": "https://doi.org/10.1088/1361-6382/acde2f"
+    },
+    {
+      "title": "GW190521: Search for Echoes due to Stimulated Hawking Radiation from Black Holes",
+      "authors": [
+        "Jahed Abedi",
+        "Luís Felipe Longo Micchi",
+        "Niayesh Afshordi"
+      ],
+      "publication_date": "2023-08-22",
+      "arxiv_submitted_date": "2021-12-31",
+      "updated_date": "2023-05-29",
+      "year": 2023,
+      "publication_type": "journal-article",
+      "journal": "Phys. Rev. D 108, 044047 (2023)",
+      "arxiv_id": "2201.00047",
+      "arxiv_url": "https://arxiv.org/abs/2201.00047",
+      "doi": "10.1103/physrevd.108.044047",
+      "doi_url": "https://doi.org/10.1103/physrevd.108.044047",
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO",
+        "astro-ph.HE",
+        "hep-th"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2023-08-22",
+      "status": "published",
+      "url": "https://doi.org/10.1103/physrevd.108.044047"
+    },
+    {
+      "title": "On the Outskirts of Dark Matter Haloes",
+      "authors": [
+        "Alice Chen",
+        "Niayesh Afshordi"
+      ],
+      "publication_date": "2023-05-23",
+      "arxiv_submitted_date": "2022-10-20",
+      "updated_date": "2023-04-25",
+      "year": 2023,
+      "publication_type": "journal-article",
+      "journal": "Phys. Rev. D 107, 103526 (2023)",
+      "arxiv_id": "2210.11499",
+      "arxiv_url": "https://arxiv.org/abs/2210.11499",
+      "doi": "10.1103/physrevd.107.103526",
+      "doi_url": "https://doi.org/10.1103/physrevd.107.103526",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2023-05-23",
+      "status": "published",
+      "url": "https://doi.org/10.1103/physrevd.107.103526"
+    },
+    {
+      "title": "Model-independent search for the quasinormal modes of gravitational wave echoes",
+      "authors": [
+        "Di Wu",
+        "Pengyuan Gao",
+        "Jing Ren",
+        "Niayesh Afshordi"
+      ],
+      "publication_date": "2023",
+      "arxiv_submitted_date": "2023-08-02",
+      "updated_date": "2023-12-21",
+      "year": 2023,
+      "publication_type": "journal-article",
+      "journal": "Phys. Rev. D 108, 124006 (2023)",
+      "arxiv_id": "2308.01017",
+      "arxiv_url": "https://arxiv.org/abs/2308.01017",
+      "doi": "10.1103/physrevd.108.124006",
+      "doi_url": "https://doi.org/10.1103/physrevd.108.124006",
+      "categories": [
+        "gr-qc"
+      ],
+      "sources": [
+        "INSPIRE",
+        "arXiv"
+      ],
+      "date": "2023",
+      "status": "published",
+      "url": "https://doi.org/10.1103/physrevd.108.124006"
+    },
+    {
+      "title": "From Entropy to Echoes: Counting the quasi-normal modes and the quantum limit of silence",
+      "authors": [
+        "Naritaka Oshita",
+        "Niayesh Afshordi"
+      ],
+      "publication_date": "2023",
+      "arxiv_submitted_date": "2023-02-17",
+      "updated_date": "2023-02-17",
+      "year": 2023,
+      "publication_type": "journal-article",
+      "journal": "Phys. Lett. B 841, 137901 (2023)",
+      "arxiv_id": "2302.08964",
+      "arxiv_url": "https://arxiv.org/abs/2302.08964",
+      "doi": "10.1016/j.physletb.2023.137901",
+      "doi_url": "https://doi.org/10.1016/j.physletb.2023.137901",
+      "categories": [
+        "hep-th",
+        "astro-ph.HE",
+        "cond-mat.mes-hall",
+        "gr-qc"
+      ],
+      "sources": [
+        "INSPIRE",
+        "arXiv"
+      ],
+      "date": "2023",
+      "status": "published",
+      "url": "https://doi.org/10.1016/j.physletb.2023.137901"
+    },
+    {
+      "title": "Scale-invariance at the core of quantum black holes",
+      "authors": [
+        "Johanna N. Borissova",
+        "Aaron Held",
+        "Niayesh Afshordi"
+      ],
+      "publication_date": "2023",
+      "arxiv_submitted_date": "2022-03-04",
+      "updated_date": "2023-02-18",
+      "year": 2023,
+      "publication_type": "journal-article",
+      "journal": "Class. Quant. Grav. 40, 075011 (2023)",
+      "arxiv_id": "2203.02559",
+      "arxiv_url": "https://arxiv.org/abs/2203.02559",
+      "doi": "10.1088/1361-6382/acbc60",
+      "doi_url": "https://doi.org/10.1088/1361-6382/acbc60",
+      "categories": [
+        "gr-qc",
+        "hep-th"
+      ],
+      "sources": [
+        "INSPIRE",
+        "arXiv"
+      ],
+      "date": "2023",
+      "status": "published",
+      "url": "https://doi.org/10.1088/1361-6382/acbc60"
+    },
+    {
+      "title": "Lower bound on the cosmological constant from the classicality of the Early Universe",
+      "authors": [
+        "Niayesh Afshordi",
+        "João Magueijo"
+      ],
+      "publication_date": "2022-12-21",
+      "arxiv_submitted_date": "2022-09-16",
+      "updated_date": "2022-10-05",
+      "year": 2022,
+      "publication_type": "journal-article",
+      "journal": "Phys. Rev. D 106, 123518 (2022)",
+      "arxiv_id": "2209.07914",
+      "arxiv_url": "https://arxiv.org/abs/2209.07914",
+      "doi": "10.1103/physrevd.106.123518",
+      "doi_url": "https://doi.org/10.1103/physrevd.106.123518",
+      "categories": [
+        "hep-th",
+        "astro-ph.CO",
+        "gr-qc"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2022-12-21",
+      "status": "published",
+      "url": "https://doi.org/10.1103/physrevd.106.123518"
+    },
+    {
+      "title": "Detection of Gravitational Waves using Parametric Resonance in Bose-Einstein Condensates",
+      "authors": [
+        "Matthew P. G. Robbins",
+        "Niayesh Afshordi",
+        "Alan O. Jamison",
+        "Robert B. Mann"
+      ],
+      "publication_date": "2022-08-11",
+      "arxiv_submitted_date": "2021-01-11",
+      "updated_date": "2021-03-08",
+      "year": 2022,
+      "publication_type": "journal-article",
+      "journal": "Class. Quant. Grav. 39, 175009 (2022)",
+      "arxiv_id": "2101.03691",
+      "arxiv_url": "https://arxiv.org/abs/2101.03691",
+      "doi": "10.1088/1361-6382/ac7b05",
+      "doi_url": "https://doi.org/10.1088/1361-6382/ac7b05",
+      "categories": [
+        "gr-qc",
+        "astro-ph.IM",
+        "cond-mat.quant-gas",
+        "quant-ph"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2022-08-11",
+      "status": "published",
+      "url": "https://doi.org/10.1088/1361-6382/ac7b05"
+    },
+    {
+      "title": "The effect of non-ionizing excitations on the diffusion of ion species and inter-track correlations in FLASH ultra-high dose rate radiotherapy",
+      "authors": [
+        "Ramin Abolfath",
+        "Alexander Baikalov",
+        "Stefan Bartzsch",
+        "Niayesh Afshordi",
+        "Radhe Mohan"
+      ],
+      "publication_date": null,
+      "arxiv_submitted_date": "2022-01-19",
+      "updated_date": "2022-01-19",
+      "year": 2022,
+      "publication_type": "journal-article",
+      "journal": "Physics in Medicine & Biology 67, 105005 (2022)",
+      "arxiv_id": "2201.07887",
+      "arxiv_url": "https://arxiv.org/abs/2201.07887",
+      "doi": "10.1088/1361-6560/ac69a6",
+      "doi_url": "https://doi.org/10.1088/1361-6560/ac69a6",
+      "categories": [
+        "physics.med-ph",
+        "nlin.CD"
+      ],
+      "sources": [
+        "arXiv"
+      ],
+      "date": "2022-01-19",
+      "status": "published",
+      "url": "https://doi.org/10.1088/1361-6560/ac69a6"
+    },
+    {
+      "title": "New Horizons for Fundamental Physics with LISA",
+      "authors": [
+        "K. G. Arun",
+        "Enis Belgacem",
+        "Robert Benkel",
+        "Laura Bernard",
+        "Emanuele Berti",
+        "Gianfranco Bertone",
+        "Marc Besancon",
+        "Diego Blas",
+        "Christian G. Böhmer",
+        "Richard Brito",
+        "Gianluca Calcagni",
+        "Alejandro Cardenas-Avendaño",
+        "Katy Clough",
+        "Marco Crisostomi",
+        "Valerio De Luca",
+        "Daniela Doneva",
+        "Stephanie Escoffier",
+        "Jose Maria Ezquiaga",
+        "Pedro G. Ferreira",
+        "Pierre Fleury",
+        "Stefano Foffa",
+        "Gabriele Franciolini",
+        "Noemi Frusciante",
+        "Juan García-Bellido",
+        "Carlos Herdeiro",
+        "Thomas Hertog",
+        "Tanja Hinderer",
+        "Philippe Jetzer",
+        "Lucas Lombriser",
+        "Elisa Maggio",
+        "Michele Maggiore",
+        "Michele Mancarella",
+        "Andrea Maselli",
+        "Sourabh Nampalliwar",
+        "David Nichols",
+        "Maria Okounkova",
+        "Paolo Pani",
+        "Vasileios Paschalidis",
+        "Alvise Raccanelli",
+        "Lisa Randall",
+        "Sébastien Renaux-Petel",
+        "Antonio Riotto",
+        "Milton Ruiz",
+        "Alexander Saffer",
+        "Mairi Sakellariadou",
+        "Ippocratis D. Saltas",
+        "B. S. Sathyaprakash",
+        "Lijing Shao",
+        "Carlos F. Sopuerta",
+        "Thomas P. Sotiriou",
+        "Nikolaos Stergioulas",
+        "Nicola Tamanini",
+        "Filippo Vernizzi",
+        "Helvi Witek",
+        "Kinwah Wu",
+        "Kent Yagi",
+        "Stoytcho Yazadjiev",
+        "Nicolas Yunes",
+        "Miguel Zilhao",
+        "Niayesh Afshordi",
+        "Marie-Christine Angonin",
+        "Vishal Baibhav",
+        "Enrico Barausse",
+        "Tiago Barreiro",
+        "Nicola Bartolo",
+        "Nicola Bellomo",
+        "Ido Ben-Dayan",
+        "Eric A. Bergshoeff",
+        "Sebastiano Bernuzzi",
+        "Daniele Bertacca",
+        "Swetha Bhagwat",
+        "Béatrice Bonga",
+        "Lior M. Burko",
+        "Geoffrey Compere",
+        "Giulia Cusin",
+        "Antonio da Silva",
+        "Saurya Das",
+        "Claudia de Rham",
+        "Kyriakos Destounis",
+        "Ema Dimastrogiovanni",
+        "Francisco Duque",
+        "Richard Easther",
+        "Hontas Farmer",
+        "Matteo Fasiello",
+        "Stanislav Fisenko",
+        "Kwinten Fransen",
+        "Jörg Frauendiener",
+        "Jonathan Gair",
+        "Laszlo Arpad Gergely",
+        "Davide Gerosa",
+        "Leonardo Gualtieri",
+        "Wen-Biao Han",
+        "Aurelien Hees",
+        "Thomas Helfer",
+        "Jörg Hennig",
+        "Alexander C. Jenkins",
+        "Eric Kajfasz",
+        "Nemanja Kaloper",
+        "Vladimir Karas",
+        "Bradley J. Kavanagh",
+        "Sergei A. Klioner",
+        "Savvas M. Koushiappas",
+        "Macarena Lagos",
+        "Christophe Le Poncin-Lafitte",
+        "Francisco S. N. Lobo",
+        "Charalampos Markakis",
+        "Prado Martin-Moruno",
+        "C. J. A. P. Martins",
+        "Sabino Matarrese",
+        "Daniel R. Mayerson",
+        "José P. Mimoso",
+        "Johannes Noller",
+        "Nelson J. Nunes",
+        "Roberto Oliveri",
+        "Giorgio Orlando",
+        "George Pappas",
+        "Igor Pikovski",
+        "Luigi Pilo",
+        "Jiri Podolsky",
+        "Geraint Pratten",
+        "Tomislav Prokopec",
+        "Hong Qi",
+        "Saeed Rastgoo",
+        "Angelo Ricciardone",
+        "Rocco Rollo",
+        "Diego Rubiera-Garcia",
+        "Olga Sergijenko",
+        "Stuart Shapiro",
+        "Deirdre Shoemaker",
+        "Alessandro Spallicci",
+        "Oleksandr Stashko",
+        "Leo C. Stein",
+        "Gianmassimo Tasinato",
+        "Andrew J. Tolley",
+        "Elias C. Vagenas",
+        "Stefan Vandoren",
+        "Daniele Vernieri",
+        "Rodrigo Vicente",
+        "Toby Wiseman",
+        "Valery I. Zhdanov",
+        "Miguel Zumalacárregui"
+      ],
+      "publication_date": "2022",
+      "arxiv_submitted_date": "2022-05-03",
+      "updated_date": "2022-05-03",
+      "year": 2022,
+      "publication_type": "journal-article",
+      "journal": "Living Rev. Rel. 25, 4 (2022)",
+      "arxiv_id": "2205.01597",
+      "arxiv_url": "https://arxiv.org/abs/2205.01597",
+      "doi": "10.1007/s41114-022-00036-9",
+      "doi_url": "https://doi.org/10.1007/s41114-022-00036-9",
+      "categories": [
+        "gr-qc"
+      ],
+      "sources": [
+        "INSPIRE",
+        "arXiv"
+      ],
+      "date": "2022",
+      "status": "published",
+      "url": "https://doi.org/10.1007/s41114-022-00036-9"
+    },
+    {
+      "title": "A Universal Profile for Stacked Filaments from Cold Dark Matter Simulations",
+      "authors": [
+        "Tianyi Yang",
+        "Michael J. Hudson",
+        "Niayesh Afshordi"
+      ],
+      "publication_date": "2022",
+      "arxiv_submitted_date": "2022-03-30",
+      "updated_date": "2022-09-07",
+      "year": 2022,
+      "publication_type": "journal-article",
+      "journal": "Mon. Not. Roy. Astron. Soc. 516, 6041 (2022)",
+      "arxiv_id": "2203.16170",
+      "arxiv_url": "https://arxiv.org/abs/2203.16170",
+      "doi": "10.1093/mnras/stac2564",
+      "doi_url": "https://doi.org/10.1093/mnras/stac2564",
+      "categories": [
+        "astro-ph.CO",
+        "astro-ph.GA"
+      ],
+      "sources": [
+        "INSPIRE",
+        "arXiv"
+      ],
+      "date": "2022",
+      "status": "published",
+      "url": "https://doi.org/10.1093/mnras/stac2564"
+    },
+    {
+      "title": "Non-Gaussian Signatures of a Thermal Big Bang",
+      "authors": [
+        "Maria Mylova",
+        "Marianthi Moschou",
+        "Niayesh Afshordi",
+        "João Magueijo"
+      ],
+      "publication_date": "2022",
+      "arxiv_submitted_date": "2021-12-15",
+      "updated_date": "2021-12-23",
+      "year": 2022,
+      "publication_type": "journal-article",
+      "journal": "JCAP 07, 005 (2022)",
+      "arxiv_id": "2112.08179",
+      "arxiv_url": "https://arxiv.org/abs/2112.08179",
+      "doi": "10.1088/1475-7516/2022/07/005",
+      "doi_url": "https://doi.org/10.1088/1475-7516/2022/07/005",
+      "categories": [
+        "hep-th",
+        "astro-ph.CO",
+        "gr-qc"
+      ],
+      "sources": [
+        "INSPIRE",
+        "arXiv"
+      ],
+      "date": "2022",
+      "status": "published",
+      "url": "https://doi.org/10.1088/1475-7516/2022/07/005"
+    },
+    {
+      "title": "Spacing Statistics of Energy Spectra: Random Matrices, Black Hole Thermalization, and Echoes",
+      "authors": [
+        "Krishan Saraswat",
+        "Niayesh Afshordi"
+      ],
+      "publication_date": "2022",
+      "arxiv_submitted_date": "2021-10-07",
+      "updated_date": "2022-04-09",
+      "year": 2022,
+      "publication_type": "journal-article",
+      "journal": "JHEP 04, 017 (2022)",
+      "arxiv_id": "2110.03188",
+      "arxiv_url": "https://arxiv.org/abs/2110.03188",
+      "doi": "10.1007/jhep04(2022)017",
+      "doi_url": "https://doi.org/10.1007/jhep04(2022)017",
+      "categories": [
+        "hep-th",
+        "gr-qc",
+        "quant-ph"
+      ],
+      "sources": [
+        "INSPIRE",
+        "arXiv"
+      ],
+      "date": "2022",
+      "status": "published",
+      "url": "https://doi.org/10.1007/jhep04(2022)017"
+    },
+    {
+      "title": "Boltzmann Meets Lorentz: A Surrogate Model for Black Hole Echoes",
+      "authors": [
+        "Randy S. Conklin",
+        "Niayesh Afshordi"
+      ],
+      "publication_date": null,
+      "arxiv_submitted_date": "2021-12-31",
+      "updated_date": "2021-12-31",
+      "year": 2021,
+      "publication_type": "preprint",
+      "journal": null,
+      "arxiv_id": "2201.00027",
+      "arxiv_url": "https://arxiv.org/abs/2201.00027",
+      "doi": null,
+      "doi_url": null,
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO",
+        "astro-ph.HE",
+        "hep-th"
+      ],
+      "sources": [
+        "INSPIRE",
+        "arXiv"
+      ],
+      "date": "2021-12-31",
+      "status": "preprint",
+      "url": "https://arxiv.org/abs/2201.00027"
+    },
+    {
+      "title": "How loud are echoes from exotic compact objects?",
+      "authors": [
+        "Luis Felipe Longo Micchi",
+        "Niayesh Afshordi",
+        "Cecilia Chirenti"
+      ],
+      "publication_date": "2021-02-15",
+      "arxiv_submitted_date": "2020-10-27",
+      "updated_date": "2021-01-13",
+      "year": 2021,
+      "publication_type": "journal-article",
+      "journal": "Phys. Rev. D 103, 044028 (2021)",
+      "arxiv_id": "2010.14578",
+      "arxiv_url": "https://arxiv.org/abs/2010.14578",
+      "doi": "10.1103/physrevd.103.044028",
+      "doi_url": "https://doi.org/10.1103/physrevd.103.044028",
+      "categories": [
+        "gr-qc"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2021-02-15",
+      "status": "published",
+      "url": "https://doi.org/10.1103/physrevd.103.044028"
+    },
+    {
+      "title": "Electromagnetic Albedo of Quantum Black Holes",
+      "authors": [
+        "Wan Zhen Chua",
+        "Niayesh Afshordi"
+      ],
+      "publication_date": "2021",
+      "arxiv_submitted_date": "2021-03-09",
+      "updated_date": "2021-07-02",
+      "year": 2021,
+      "publication_type": "journal-article",
+      "journal": "JHEP 07, 006 (2021)",
+      "arxiv_id": "2103.05790",
+      "arxiv_url": "https://arxiv.org/abs/2103.05790",
+      "doi": "10.1007/jhep07(2021)006",
+      "doi_url": "https://doi.org/10.1007/jhep07(2021)006",
+      "categories": [
+        "hep-th",
+        "astro-ph.HE",
+        "gr-qc"
+      ],
+      "sources": [
+        "INSPIRE",
+        "arXiv"
+      ],
+      "date": "2021",
+      "status": "published",
+      "url": "https://doi.org/10.1007/jhep07(2021)006"
+    },
+    {
+      "title": "Lifshitz scaling, ringing black holes, and superradiance",
+      "authors": [
+        "Naritaka Oshita",
+        "Niayesh Afshordi",
+        "Shinji Mukohyama"
+      ],
+      "publication_date": "2021",
+      "arxiv_submitted_date": "2021-02-02",
+      "updated_date": "2021-02-02",
+      "year": 2021,
+      "publication_type": "journal-article",
+      "journal": "JCAP 05, 005 (2021)",
+      "arxiv_id": "2102.01741",
+      "arxiv_url": "https://arxiv.org/abs/2102.01741",
+      "doi": "10.1088/1475-7516/2021/05/005",
+      "doi_url": "https://doi.org/10.1088/1475-7516/2021/05/005",
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO",
+        "hep-ph",
+        "hep-th"
+      ],
+      "sources": [
+        "INSPIRE",
+        "arXiv"
+      ],
+      "date": "2021",
+      "status": "published",
+      "url": "https://doi.org/10.1088/1475-7516/2021/05/005"
+    },
+    {
+      "title": "Multimessenger Cosmology: correlating CMB and SGWB measurements",
+      "authors": [
+        "Peter Adshead",
+        "Niayesh Afshordi",
+        "Emanuela Dimastrogiovanni",
+        "Matteo Fasiello",
+        "Eugene A. Lim",
+        "Gianmassimo Tasinato"
+      ],
+      "publication_date": "2021",
+      "arxiv_submitted_date": "2020-04-14",
+      "updated_date": "2021-09-10",
+      "year": 2021,
+      "publication_type": "journal-article",
+      "journal": "Phys. Rev. D 103, 023532 (2021)",
+      "arxiv_id": "2004.06619",
+      "arxiv_url": "https://arxiv.org/abs/2004.06619",
+      "doi": "10.1103/physrevd.103.023532",
+      "doi_url": "https://doi.org/10.1103/physrevd.103.023532",
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-th"
+      ],
+      "sources": [
+        "INSPIRE",
+        "arXiv"
+      ],
+      "date": "2021",
+      "status": "published",
+      "url": "https://doi.org/10.1103/physrevd.103.023532"
+    },
+    {
+      "title": "Extracting Hawking Radiation Near the Horizon of AdS Black Holes",
+      "authors": [
+        "Krishan Saraswat",
+        "Niayesh Afshordi"
+      ],
+      "publication_date": "2021",
+      "arxiv_submitted_date": "2020-03-28",
+      "updated_date": "2021-02-10",
+      "year": 2021,
+      "publication_type": "journal-article",
+      "journal": "JHEP 02, 077 (2021)",
+      "arxiv_id": "2003.12676",
+      "arxiv_url": "https://arxiv.org/abs/2003.12676",
+      "doi": "10.1007/jhep02(2021)077",
+      "doi_url": "https://doi.org/10.1007/jhep02(2021)077",
+      "categories": [
+        "hep-th",
+        "gr-qc",
+        "quant-ph"
+      ],
+      "sources": [
+        "INSPIRE",
+        "arXiv"
+      ],
+      "date": "2021",
+      "status": "published",
+      "url": "https://doi.org/10.1007/jhep02(2021)077"
+    },
+    {
+      "title": "Quantum Black Hole Seismology I: Echoes, Ergospheres, and Spectra",
+      "authors": [
+        "Naritaka Oshita",
+        "Daichi Tsuna",
+        "Niayesh Afshordi"
+      ],
+      "publication_date": "2020-07-15",
+      "arxiv_submitted_date": "2020-01-31",
+      "updated_date": "2020-07-08",
+      "year": 2020,
+      "publication_type": "journal-article",
+      "journal": "Phys. Rev. D 102, 024045 (2020)",
+      "arxiv_id": "2001.11642",
+      "arxiv_url": "https://arxiv.org/abs/2001.11642",
+      "doi": "10.1103/physrevd.102.024045",
+      "doi_url": "https://doi.org/10.1103/physrevd.102.024045",
+      "categories": [
+        "gr-qc",
+        "astro-ph.HE",
+        "hep-th"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2020-07-15",
+      "status": "published",
+      "url": "https://doi.org/10.1103/physrevd.102.024045"
+    },
+    {
+      "title": "Diverse local epidemics reveal the distinct effects of population density, demographics, climate, depletion of susceptibles, and intervention in the first wave of COVID-19 in the United States",
+      "authors": [
+        "Niayesh Afshordi",
+        "Benjamin Holder",
+        "Mohammad Bahrami",
+        "Daniel Lichtblau"
+      ],
+      "publication_date": "2020-07-02",
+      "arxiv_submitted_date": "2020-07-01",
+      "updated_date": "2020-07-01",
+      "year": 2020,
+      "publication_type": "preprint",
+      "journal": null,
+      "arxiv_id": "2007.00159",
+      "arxiv_url": "https://arxiv.org/abs/2007.00159",
+      "doi": "10.1101/2020.06.30.20143636",
+      "doi_url": "https://doi.org/10.1101/2020.06.30.20143636",
+      "categories": [
+        "q-bio.PE",
+        "physics.soc-ph",
+        "q-bio.QM"
+      ],
+      "sources": [
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2020-07-02",
+      "status": "published",
+      "url": "https://doi.org/10.1101/2020.06.30.20143636"
+    },
+    {
+      "title": "Amending the halo model to satisfy cosmological conservation laws",
+      "authors": [
+        "Alice Y. Chen",
+        "Niayesh Afshordi"
+      ],
+      "publication_date": "2020-05-18",
+      "arxiv_submitted_date": "2019-12-10",
+      "updated_date": "2020-05-18",
+      "year": 2020,
+      "publication_type": "journal-article",
+      "journal": "Phys. Rev. D 101, 103522 (2020)",
+      "arxiv_id": "1912.04872",
+      "arxiv_url": "https://arxiv.org/abs/1912.04872",
+      "doi": "10.1103/physrevd.101.103522",
+      "doi_url": "https://doi.org/10.1103/physrevd.101.103522",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2020-05-18",
+      "status": "published",
+      "url": "https://doi.org/10.1103/physrevd.101.103522"
+    },
+    {
+      "title": "Quantum Black Holes in the Sky",
+      "authors": [
+        "Jahed Abedi",
+        "Niayesh Afshordi",
+        "Naritaka Oshita",
+        "Qingwen Wang"
+      ],
+      "publication_date": "2020-03",
+      "arxiv_submitted_date": "2020-01-24",
+      "updated_date": "2020-01-24",
+      "year": 2020,
+      "publication_type": "preprint",
+      "journal": "Universe 6, 43 (2020)",
+      "arxiv_id": "2001.09553",
+      "arxiv_url": "https://arxiv.org/abs/2001.09553",
+      "doi": "10.3390/universe6030043",
+      "doi_url": "https://doi.org/10.3390/universe6030043",
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO",
+        "astro-ph.HE",
+        "hep-th"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2020-03",
+      "status": "published",
+      "url": "https://doi.org/10.3390/universe6030043"
+    },
+    {
+      "title": "Echoes from the Abyss: A Status Update",
+      "authors": [
+        "Jahed Abedi",
+        "Niayesh Afshordi"
+      ],
+      "publication_date": null,
+      "arxiv_submitted_date": "2020-01-03",
+      "updated_date": "2020-01-03",
+      "year": 2020,
+      "publication_type": "preprint",
+      "journal": null,
+      "arxiv_id": "2001.00821",
+      "arxiv_url": "https://arxiv.org/abs/2001.00821",
+      "doi": null,
+      "doi_url": null,
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO",
+        "astro-ph.HE"
+      ],
+      "sources": [
+        "INSPIRE",
+        "arXiv"
+      ],
+      "date": "2020-01-03",
+      "status": "preprint",
+      "url": "https://arxiv.org/abs/2001.00821"
+    },
+    {
+      "title": "Echoes in the Kerr/CFT correspondence",
+      "authors": [
+        "Ramit Dey",
+        "Niayesh Afshordi"
+      ],
+      "publication_date": "2020",
+      "arxiv_submitted_date": "2020-09-18",
+      "updated_date": "2021-07-26",
+      "year": 2020,
+      "publication_type": "journal-article",
+      "journal": "Phys. Rev. D 102, 126006 (2020)",
+      "arxiv_id": "2009.09027",
+      "arxiv_url": "https://arxiv.org/abs/2009.09027",
+      "doi": "10.1103/physrevd.102.126006",
+      "doi_url": "https://doi.org/10.1103/physrevd.102.126006",
+      "categories": [
+        "hep-th",
+        "astro-ph.HE",
+        "gr-qc"
+      ],
+      "sources": [
+        "INSPIRE",
+        "arXiv"
+      ],
+      "date": "2020",
+      "status": "published",
+      "url": "https://doi.org/10.1103/physrevd.102.126006"
+    },
+    {
+      "title": "Quantum Black Hole Seismology II: Applications to Astrophysical Black Holes",
+      "authors": [
+        "Naritaka Oshita",
+        "Daichi Tsuna",
+        "Niayesh Afshordi"
+      ],
+      "publication_date": "2020",
+      "arxiv_submitted_date": "2020-04-14",
+      "updated_date": "2020-07-09",
+      "year": 2020,
+      "publication_type": "journal-article",
+      "journal": "Phys. Rev. D 102, 024046 (2020)",
+      "arxiv_id": "2004.06276",
+      "arxiv_url": "https://arxiv.org/abs/2004.06276",
+      "doi": "10.1103/physrevd.102.024046",
+      "doi_url": "https://doi.org/10.1103/physrevd.102.024046",
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO",
+        "astro-ph.HE",
+        "hep-th"
+      ],
+      "sources": [
+        "INSPIRE",
+        "arXiv"
+      ],
+      "date": "2020",
+      "status": "published",
+      "url": "https://doi.org/10.1103/physrevd.102.024046"
+    },
+    {
+      "title": "How dark are filaments in the cosmic web?",
+      "authors": [
+        "Tianyi Yang",
+        "Michael J. Hudson",
+        "Niayesh Afshordi"
+      ],
+      "publication_date": "2020",
+      "arxiv_submitted_date": "2020-01-29",
+      "updated_date": "2020-08-24",
+      "year": 2020,
+      "publication_type": "journal-article",
+      "journal": "Mon. Not. Roy. Astron. Soc. 498, 3158 (2020)",
+      "arxiv_id": "2001.10943",
+      "arxiv_url": "https://arxiv.org/abs/2001.10943",
+      "doi": "10.1093/mnras/staa2547",
+      "doi_url": "https://doi.org/10.1093/mnras/staa2547",
+      "categories": [
+        "astro-ph.CO",
+        "astro-ph.GA"
+      ],
+      "sources": [
+        "INSPIRE",
+        "arXiv"
+      ],
+      "date": "2020",
+      "status": "published",
+      "url": "https://doi.org/10.1093/mnras/staa2547"
+    },
+    {
+      "title": "Prospects for Fundamental Physics with LISA",
+      "authors": [
+        "Enrico Barausse",
+        "Emanuele Berti",
+        "Thomas Hertog",
+        "Scott A. Hughes",
+        "Philippe Jetzer",
+        "Paolo Pani",
+        "Thomas P. Sotiriou",
+        "Nicola Tamanini",
+        "Helvi Witek",
+        "Kent Yagi",
+        "Nicolas Yunes",
+        "T. Abdelsalhin",
+        "A. Achucarro",
+        "K. V. Aelst",
+        "N. Afshordi",
+        "S. Akcay",
+        "L. Annulli",
+        "K. G. Arun",
+        "I. Ayuso",
+        "V. Baibhav",
+        "T. Baker",
+        "H. Bantilan",
+        "T. Barreiro",
+        "C. Barrera-Hinojosa",
+        "N. Bartolo",
+        "D. Baumann",
+        "E. Belgacem",
+        "E. Bellini",
+        "N. Bellomo",
+        "I. Ben-Dayan",
+        "I. Bena",
+        "R. Benkel",
+        "E. Bergshoefs",
+        "L. Bernard",
+        "S. Bernuzzi",
+        "D. Bertacca",
+        "M. Besancon",
+        "F. Beutler",
+        "F. Beyer",
+        "S. Bhagwat",
+        "J. Bicak",
+        "S. Biondini",
+        "S. Bize",
+        "D. Blas",
+        "C. Boehmer",
+        "K. Boller",
+        "B. Bonga",
+        "C. Bonvin",
+        "P. Bosso",
+        "G. Bozzola",
+        "P. Brax",
+        "M. Breitbach",
+        "R. Brito",
+        "M. Bruni",
+        "B. Brügmann",
+        "H. Bulten",
+        "A. Buonanno",
+        "A. O. Burke",
+        "L. M. Burko",
+        "C. Burrage",
+        "F. Cabral",
+        "G. Calcagni",
+        "C. Caprini",
+        "A. Cárdenas-Avendaño",
+        "M. Celoria",
+        "K. Chatziioannou",
+        "D. Chernoff",
+        "K. Clough",
+        "A. Coates",
+        "D. Comelli",
+        "G. Compère",
+        "D. Croon",
+        "D. Cruces",
+        "G. Cusin",
+        "C. Dalang",
+        "U. Danielsson",
+        "S. Das",
+        "S. Datta",
+        "J. de Boer",
+        "V. De Luca",
+        "C. De Rham",
+        "V. Desjacques",
+        "K. Destounis",
+        "F. Di Filippo",
+        "A. Dima",
+        "E. Dimastrogiovanni",
+        "S. Dolan",
+        "D. Doneva",
+        "F. Duque",
+        "R. Durrer",
+        "W. East",
+        "R. Easther",
+        "M. Elley",
+        "J. R. Ellis",
+        "R. Emparan",
+        "J. M. Ezquiaga",
+        "M. Fairbairn",
+        "S. Fairhurst",
+        "H. F. Farmer",
+        "M. R. Fasiello",
+        "V. Ferrari",
+        "P. G. Ferreira",
+        "G. Ficarra",
+        "P. Figueras",
+        "S. Fisenko",
+        "S. Foffa",
+        "N. Franchini",
+        "G. Franciolini",
+        "K. Fransen",
+        "J. Frauendiener",
+        "N. Frusciante",
+        "R. Fujita",
+        "J. Gair",
+        "A. Ganz",
+        "P. Garcia",
+        "J. Garcia-Bellido",
+        "J. Garriga",
+        "R. Geiger",
+        "C. Geng",
+        "L. Á. Gergely",
+        "C. Germani",
+        "D. Gerosa",
+        "S. B. Giddings",
+        "E. Gourgoulhon",
+        "P. Grandclement",
+        "L. Graziani",
+        "L. Gualtieri",
+        "D. Haggard",
+        "S. Haino",
+        "R. Halburd",
+        "W. -B. Han",
+        "A. J. Hawken",
+        "A. Hees",
+        "I. S. Heng",
+        "J. Hennig",
+        "C. Herdeiro",
+        "S. Hervik",
+        "J. v. Holten",
+        "C. J. D. Hoyle",
+        "Y. Hu",
+        "M. Hull",
+        "T. Ikeda",
+        "M. Isi",
+        "A. Jenkins",
+        "F. Julié",
+        "E. Kajfasz",
+        "C. Kalaghatgi",
+        "N. Kaloper",
+        "M. Kamionkowski",
+        "V. Karas",
+        "S. Kastha",
+        "Z. Keresztes",
+        "L. Kidder",
+        "T. Kimpson",
+        "A. Klein",
+        "S. Klioner",
+        "K. Kokkotas",
+        "H. Kolesova",
+        "S. Kolkowitz",
+        "J. Kopp",
+        "K. Koyama",
+        "N. V. Krishnendu",
+        "J. A. V. Kroon",
+        "M. Kunz",
+        "O. Lahav",
+        "A. Landragin",
+        "R. N. Lang",
+        "C. Le Poncin-Lafitte",
+        "J. Lemos",
+        "B. Li",
+        "S. Liberati",
+        "M. Liguori",
+        "F. Lin",
+        "G. Liu",
+        "F. S. N. Lobo",
+        "R. Loll",
+        "L. Lombriser",
+        "G. Lovelace",
+        "R. P. Macedo",
+        "E. Madge",
+        "E. Maggio",
+        "M. Maggiore",
+        "S. Marassi",
+        "P. Marcoccia",
+        "C. Markakis",
+        "W. Martens",
+        "K. Martinovic",
+        "C. J. A. P. Martins",
+        "A. Maselli",
+        "S. Mastrogiovanni",
+        "S. Matarrese",
+        "A. Matas",
+        "N. E. Mavromatos",
+        "A. Mazumdar",
+        "P. D. Meerburg",
+        "E. Megias",
+        "J. Miller",
+        "J. P. Mimoso",
+        "L. Mittnacht",
+        "M. M. Montero",
+        "B. Moore",
+        "P. Martin-Moruno",
+        "I. Musco",
+        "H. Nakano",
+        "S. Nampalliwar",
+        "G. Nardini",
+        "A. Nielsen",
+        "J. Novák",
+        "N. J. Nunes",
+        "M. Okounkova",
+        "R. Oliveri",
+        "F. Oppizzi",
+        "G. Orlando",
+        "N. Oshita",
+        "G. Pappas",
+        "V. Paschalidis",
+        "H. Peiris",
+        "M. Peloso",
+        "S. Perkins",
+        "V. Pettorino",
+        "I. Pikovski",
+        "L. Pilo",
+        "J. Podolsky",
+        "A. Pontzen",
+        "S. Prabhat",
+        "G. Pratten",
+        "T. Prokopec",
+        "M. Prouza",
+        "H. Qi",
+        "A. Raccanelli",
+        "A. Rajantie",
+        "L. Randall",
+        "G. Raposo",
+        "V. Raymond",
+        "S. Renaux-Petel",
+        "A. Ricciardone",
+        "A. Riotto",
+        "T. Robson",
+        "D. Roest",
+        "R. Rollo",
+        "S. Rosofsky",
+        "J. J. Ruan",
+        "D. Rubiera-García",
+        "M. Ruiz",
+        "M. Rusu",
+        "F. Sabatie",
+        "N. Sago",
+        "M. Sakellariadou",
+        "I. D. Saltas",
+        "L. Sberna",
+        "B. Sathyaprakash",
+        "M. Scheel",
+        "P. Schmidt",
+        "B. Schutz",
+        "P. Schwaller",
+        "L. Shao",
+        "S. L. Shapiro",
+        "D. Shoemaker",
+        "A. d. Silva",
+        "C. Simpson",
+        "C. F. Sopuerta",
+        "A. Spallicci",
+        "B. A. Stefanek",
+        "L. Stein",
+        "N. Stergioulas",
+        "M. Stott",
+        "P. Sutton",
+        "R. Svarc",
+        "H. Tagoshi",
+        "T. Tahamtan",
+        "H. Takeda",
+        "T. Tanaka",
+        "G. Tantilian",
+        "G. Tasinato",
+        "O. Tattersall",
+        "S. Teukolsky",
+        "A. L. Tiec",
+        "G. Theureau",
+        "M. Trodden",
+        "A. Tolley",
+        "A. Toubiana",
+        "D. Traykova",
+        "A. Tsokaros",
+        "C. Unal",
+        "C. S. Unnikrishnan",
+        "E. C. Vagenas",
+        "P. Valageas",
+        "M. Vallisneri",
+        "J. Van den Brand",
+        "C. Van den Broeck",
+        "M. van de Meent",
+        "P. Vanhove",
+        "V. Varma",
+        "J. Veitch",
+        "B. Vercnocke",
+        "L. Verde",
+        "D. Vernieri",
+        "F. Vernizzi",
+        "R. Vicente",
+        "F. Vidotto",
+        "M. Visser",
+        "Z. Vlah",
+        "S. Vretinaris",
+        "S. Völkel",
+        "Q. Wang",
+        "Yu-Tong Wang",
+        "M. C. Werner",
+        "J. Westernacher",
+        "R. v. d. Weygaert",
+        "D. Wiltshire",
+        "T. Wiseman",
+        "P. Wolf",
+        "K. Wu",
+        "K. Yamada",
+        "H. Yang",
+        "L. Yi",
+        "X. Yue",
+        "D. Yvon",
+        "M. Zilhão",
+        "A. Zimmerman",
+        "M. Zumalacarregui"
+      ],
+      "publication_date": "2020",
+      "arxiv_submitted_date": "2020-01-27",
+      "updated_date": "2020-04-27",
+      "year": 2020,
+      "publication_type": "journal-article",
+      "journal": "Gen. Rel. Grav. 52, 81 (2020)",
+      "arxiv_id": "2001.09793",
+      "arxiv_url": "https://arxiv.org/abs/2001.09793",
+      "doi": "10.1007/s10714-020-02691-1",
+      "doi_url": "https://doi.org/10.1007/s10714-020-02691-1",
+      "categories": [
+        "gr-qc"
+      ],
+      "sources": [
+        "INSPIRE",
+        "arXiv"
+      ],
+      "date": "2020",
+      "status": "published",
+      "url": "https://doi.org/10.1007/s10714-020-02691-1"
+    },
+    {
+      "title": "Echoes from the braneworld black holes",
+      "authors": [
+        "Ramit Dey",
+        "Sumanta Chakraborty",
+        "Niayesh Afshordi"
+      ],
+      "publication_date": "2020",
+      "arxiv_submitted_date": "2020-01-05",
+      "updated_date": "2020-05-13",
+      "year": 2020,
+      "publication_type": "journal-article",
+      "journal": "Phys. Rev. D 101, 104014 (2020)",
+      "arxiv_id": "2001.01301",
+      "arxiv_url": "https://arxiv.org/abs/2001.01301",
+      "doi": "10.1103/physrevd.101.104014",
+      "doi_url": "https://doi.org/10.1103/physrevd.101.104014",
+      "categories": [
+        "gr-qc",
+        "hep-th"
+      ],
+      "sources": [
+        "INSPIRE",
+        "arXiv"
+      ],
+      "date": "2020",
+      "status": "published",
+      "url": "https://doi.org/10.1103/physrevd.101.104014"
+    },
+    {
+      "title": "Gravitational Potential from small-scale clustering in action space: Application to Gaia DR2",
+      "authors": [
+        "Tianyi. Yang",
+        "Supranta Sarma Boruah",
+        "Niayesh. Afshordi"
+      ],
+      "publication_date": "2020",
+      "arxiv_submitted_date": "2019-08-06",
+      "updated_date": "2020-08-24",
+      "year": 2020,
+      "publication_type": "journal-article",
+      "journal": "Mon. Not. Roy. Astron. Soc. 493, 3061 (2020)",
+      "arxiv_id": "1908.02336",
+      "arxiv_url": "https://arxiv.org/abs/1908.02336",
+      "doi": "10.1093/mnras/staa441",
+      "doi_url": "https://doi.org/10.1093/mnras/staa441",
+      "categories": [
+        "astro-ph.GA",
+        "astro-ph.CO",
+        "hep-ph"
+      ],
+      "sources": [
+        "INSPIRE",
+        "arXiv"
+      ],
+      "date": "2020",
+      "status": "published",
+      "url": "https://doi.org/10.1093/mnras/staa441"
+    },
+    {
+      "title": "Quantum Nature of Black Holes: Fast Scrambling versus Echoes",
+      "authors": [
+        "Krishan Saraswat",
+        "Niayesh Afshordi"
+      ],
+      "publication_date": "2020",
+      "arxiv_submitted_date": "2019-06-06",
+      "updated_date": "2020-04-22",
+      "year": 2020,
+      "publication_type": "journal-article",
+      "journal": "JHEP 04, 136 (2020)",
+      "arxiv_id": "1906.02653",
+      "arxiv_url": "https://arxiv.org/abs/1906.02653",
+      "doi": "10.1007/jhep04(2020)136",
+      "doi_url": "https://doi.org/10.1007/jhep04(2020)136",
+      "categories": [
+        "hep-th",
+        "gr-qc",
+        "quant-ph"
+      ],
+      "sources": [
+        "INSPIRE",
+        "arXiv"
+      ],
+      "date": "2020",
+      "status": "published",
+      "url": "https://doi.org/10.1007/jhep04(2020)136"
+    },
+    {
+      "title": "On Reflectivity of Quantum Black Hole Horizons",
+      "authors": [
+        "Naritaka Oshita",
+        "Qingwen Wang",
+        "Niayesh Afshordi"
+      ],
+      "publication_date": "2020",
+      "arxiv_submitted_date": "2019-05-01",
+      "updated_date": "2020-01-27",
+      "year": 2020,
+      "publication_type": "journal-article",
+      "journal": "JCAP 04, 016 (2020)",
+      "arxiv_id": "1905.00464",
+      "arxiv_url": "https://arxiv.org/abs/1905.00464",
+      "doi": "10.1088/1475-7516/2020/04/016",
+      "doi_url": "https://doi.org/10.1088/1475-7516/2020/04/016",
+      "categories": [
+        "hep-th",
+        "astro-ph.HE",
+        "gr-qc"
+      ],
+      "sources": [
+        "INSPIRE",
+        "arXiv"
+      ],
+      "date": "2020",
+      "status": "published",
+      "url": "https://doi.org/10.1088/1475-7516/2020/04/016"
+    },
+    {
+      "title": "Echoes from Quantum Black Holes",
+      "authors": [
+        "Qingwen Wang",
+        "Naritaka Oshita",
+        "Niayesh Afshordi"
+      ],
+      "publication_date": "2020",
+      "arxiv_submitted_date": "2019-05-01",
+      "updated_date": "2019-05-30",
+      "year": 2020,
+      "publication_type": "journal-article",
+      "journal": "Phys. Rev. D 101, 024031 (2020)",
+      "arxiv_id": "1905.00446",
+      "arxiv_url": "https://arxiv.org/abs/1905.00446",
+      "doi": "10.1103/physrevd.101.024031",
+      "doi_url": "https://doi.org/10.1103/physrevd.101.024031",
+      "categories": [
+        "gr-qc",
+        "astro-ph.HE",
+        "hep-th"
+      ],
+      "sources": [
+        "INSPIRE",
+        "arXiv"
+      ],
+      "date": "2020",
+      "status": "published",
+      "url": "https://doi.org/10.1103/physrevd.101.024031"
+    },
+    {
+      "title": "On the origin of the LIGO \"mystery\" noise and the high energy particle physics desert",
+      "authors": [
+        "Niayesh Afshordi"
+      ],
+      "publication_date": null,
+      "arxiv_submitted_date": "2019-11-21",
+      "updated_date": "2019-11-21",
+      "year": 2019,
+      "publication_type": "preprint",
+      "journal": null,
+      "arxiv_id": "1911.09384",
+      "arxiv_url": "https://arxiv.org/abs/1911.09384",
+      "doi": null,
+      "doi_url": null,
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO",
+        "astro-ph.IM",
+        "hep-ph",
+        "hep-th"
+      ],
+      "sources": [
+        "INSPIRE",
+        "arXiv"
+      ],
+      "date": "2019-11-21",
+      "status": "preprint",
+      "url": "https://arxiv.org/abs/1911.09384"
+    },
+    {
+      "title": "Does History Repeat Itself? Periodic Time Cosmology",
+      "authors": [
+        "Elizabeth Gould",
+        "Niayesh Afshordi"
+      ],
+      "publication_date": "2019",
+      "arxiv_submitted_date": "2019-03-22",
+      "updated_date": "2019-10-17",
+      "year": 2019,
+      "publication_type": "journal-article",
+      "journal": "JCAP 09, 058 (2019)",
+      "arxiv_id": "1903.09694",
+      "arxiv_url": "https://arxiv.org/abs/1903.09694",
+      "doi": "10.1088/1475-7516/2019/09/058",
+      "doi_url": "https://doi.org/10.1088/1475-7516/2019/09/058",
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-th"
+      ],
+      "sources": [
+        "INSPIRE",
+        "arXiv"
+      ],
+      "date": "2019",
+      "status": "published",
+      "url": "https://doi.org/10.1088/1475-7516/2019/09/058"
+    },
+    {
+      "title": "Bose-Einstein Condensates as Gravitational Wave Detectors",
+      "authors": [
+        "Matthew P. G. Robbins",
+        "Niayesh Afshordi",
+        "Robert B. Mann"
+      ],
+      "publication_date": "2019",
+      "arxiv_submitted_date": "2018-11-11",
+      "updated_date": "2019-03-04",
+      "year": 2019,
+      "publication_type": "journal-article",
+      "journal": "JCAP 07, 032 (2019)",
+      "arxiv_id": "1811.04468",
+      "arxiv_url": "https://arxiv.org/abs/1811.04468",
+      "doi": "10.1088/1475-7516/2019/07/032",
+      "doi_url": "https://doi.org/10.1088/1475-7516/2019/07/032",
+      "categories": [
+        "quant-ph",
+        "astro-ph.HE",
+        "astro-ph.IM",
+        "gr-qc"
+      ],
+      "sources": [
+        "INSPIRE",
+        "arXiv"
+      ],
+      "date": "2019",
+      "status": "published",
+      "url": "https://doi.org/10.1088/1475-7516/2019/07/032"
+    },
+    {
+      "title": "Cosmological Tests of Everpresent $Λ$",
+      "authors": [
+        "Nosiphiwo Zwane",
+        "Niayesh Afshordi",
+        "Rafael D. Sorkin"
+      ],
+      "publication_date": "2018-10",
+      "arxiv_submitted_date": "2017-03-18",
+      "updated_date": "2018-05-22",
+      "year": 2018,
+      "publication_type": "journal-article",
+      "journal": "Class. Quant. Grav. 35, 194002 (2018)",
+      "arxiv_id": "1703.06265",
+      "arxiv_url": "https://arxiv.org/abs/1703.06265",
+      "doi": "10.1088/1361-6382/aadc36",
+      "doi_url": "https://doi.org/10.1088/1361-6382/aadc36",
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2018-10",
+      "status": "published",
+      "url": "https://doi.org/10.1088/1361-6382/aadc36"
+    },
+    {
+      "title": "Searching for dark matter annihilation from individual halos: uncertainties, scatter and signal-to-noise ratios",
+      "authors": [
+        "Chiamaka Okoli",
+        "James E. Taylor",
+        "Niayesh Afshordi"
+      ],
+      "publication_date": "2018-08",
+      "arxiv_submitted_date": "2017-11-14",
+      "updated_date": "2018-08-15",
+      "year": 2018,
+      "publication_type": "journal-article",
+      "journal": "JCAP 08, 019 (2018)",
+      "arxiv_id": "1711.05271",
+      "arxiv_url": "https://arxiv.org/abs/1711.05271",
+      "doi": "10.1088/1475-7516/2018/08/019",
+      "doi_url": "https://doi.org/10.1088/1475-7516/2018/08/019",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2018-08",
+      "status": "published",
+      "url": "https://doi.org/10.1088/1475-7516/2018/08/019"
+    },
+    {
+      "title": "Probing microstructure of black hole spacetimes with gravitational wave echoes",
+      "authors": [
+        "Naritaka Oshita",
+        "Niayesh Afshordi"
+      ],
+      "publication_date": "2018-07",
+      "arxiv_submitted_date": "2018-07-26",
+      "updated_date": "2019-02-13",
+      "year": 2018,
+      "publication_type": "journal-article",
+      "journal": "Phys. Rev. D 99, 044002 (2019)",
+      "arxiv_id": "1807.10287",
+      "arxiv_url": "https://arxiv.org/abs/1807.10287",
+      "doi": "10.1103/physrevd.99.044002",
+      "doi_url": "https://doi.org/10.1103/physrevd.99.044002",
+      "categories": [
+        "gr-qc",
+        "astro-ph.HE",
+        "hep-th"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2018-07",
+      "status": "published",
+      "url": "https://doi.org/10.1103/physrevd.99.044002"
+    },
+    {
+      "title": "Cosmological Zero Modes",
+      "authors": [
+        "Niayesh Afshordi",
+        "Matthew C. Johnson"
+      ],
+      "publication_date": "2018-07",
+      "arxiv_submitted_date": "2017-08-15",
+      "updated_date": "2017-08-15",
+      "year": 2018,
+      "publication_type": "journal-article",
+      "journal": "Phys. Rev. D 98, 023541 (2018)",
+      "arxiv_id": "1708.04694",
+      "arxiv_url": "https://arxiv.org/abs/1708.04694",
+      "doi": "10.1103/physrevd.98.023541",
+      "doi_url": "https://doi.org/10.1103/physrevd.98.023541",
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-th"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2018-07",
+      "status": "published",
+      "url": "https://doi.org/10.1103/physrevd.98.023541"
+    },
+    {
+      "title": "Cooling+Heating Flows in Galaxy clusters: Turbulent heating, spectral modelling, and cooling efficiency",
+      "authors": [
+        "Mohammad H. Zhoolideh Haghighi",
+        "Niayesh Afshordi",
+        "Habib. G. Khosroshahi"
+      ],
+      "publication_date": "2018-06",
+      "arxiv_submitted_date": "2018-06-22",
+      "updated_date": "2019-08-04",
+      "year": 2018,
+      "publication_type": "journal-article",
+      "journal": "Astrophys. J. 884, 47 (2019)",
+      "arxiv_id": "1806.08822",
+      "arxiv_url": "https://arxiv.org/abs/1806.08822",
+      "doi": "10.3847/1538-4357/ab379c",
+      "doi_url": "https://doi.org/10.3847/1538-4357/ab379c",
+      "categories": [
+        "astro-ph.GA",
+        "astro-ph.CO",
+        "astro-ph.HE"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2018-06",
+      "status": "published",
+      "url": "https://doi.org/10.3847/1538-4357/ab379c"
+    },
+    {
+      "title": "Black Hole Echology: The Observer's Manual",
+      "authors": [
+        "Qingwen Wang",
+        "Niayesh Afshordi"
+      ],
+      "publication_date": "2018-06",
+      "arxiv_submitted_date": "2018-03-07",
+      "updated_date": "2018-06-20",
+      "year": 2018,
+      "publication_type": "journal-article",
+      "journal": "Phys. Rev. D 97, 124044 (2018)",
+      "arxiv_id": "1803.02845",
+      "arxiv_url": "https://arxiv.org/abs/1803.02845",
+      "doi": "10.1103/physrevd.97.124044",
+      "doi_url": "https://doi.org/10.1103/physrevd.97.124044",
+      "categories": [
+        "gr-qc",
+        "astro-ph.HE",
+        "hep-th"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2018-06",
+      "status": "published",
+      "url": "https://doi.org/10.1103/physrevd.97.124044"
+    },
+    {
+      "title": "Forward modelling of quasar light curves and the cosmological matter power spectrum on milliparsec scales",
+      "authors": [
+        "Mansour Karami",
+        "Niayesh Afshordi",
+        "Jesús Zavala"
+      ],
+      "publication_date": "2018-05",
+      "arxiv_submitted_date": "2018-05-17",
+      "updated_date": "2018-07-17",
+      "year": 2018,
+      "publication_type": "preprint",
+      "journal": "ArXiv e-prints",
+      "arxiv_id": "1805.06984",
+      "arxiv_url": "https://arxiv.org/abs/1805.06984",
+      "doi": null,
+      "doi_url": null,
+      "categories": [
+        "astro-ph.CO",
+        "astro-ph.IM",
+        "hep-ph"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2018-05",
+      "status": "published",
+      "url": "https://arxiv.org/abs/1805.06984"
+    },
+    {
+      "title": "Instantaneous Temperatures à la Hadamard: Towards a generalized Stefan-Boltzmann law for curved spacetime",
+      "authors": [
+        "Aditya Dhumuntarao",
+        "José Tomás Gálvez Ghersi",
+        "Niayesh Afshordi"
+      ],
+      "publication_date": "2018-04",
+      "arxiv_submitted_date": "2018-04-15",
+      "updated_date": "2018-04-17",
+      "year": 2018,
+      "publication_type": "preprint",
+      "journal": "ArXiv e-prints",
+      "arxiv_id": "1804.05382",
+      "arxiv_url": "https://arxiv.org/abs/1804.05382",
+      "doi": null,
+      "doi_url": null,
+      "categories": [
+        "gr-qc",
+        "hep-th"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2018-04",
+      "status": "published",
+      "url": "https://arxiv.org/abs/1804.05382"
+    },
+    {
+      "title": "Echoes from the Abyss: A highly spinning black hole remnant for the binary neutron star merger GW170817",
+      "authors": [
+        "Jahed Abedi",
+        "Niayesh Afshordi"
+      ],
+      "publication_date": "2018-03",
+      "arxiv_submitted_date": "2018-03-28",
+      "updated_date": "2020-01-05",
+      "year": 2018,
+      "publication_type": "journal-article",
+      "journal": "JCAP 11, 010 (2019)",
+      "arxiv_id": "1803.10454",
+      "arxiv_url": "https://arxiv.org/abs/1803.10454",
+      "doi": "10.1088/1475-7516/2019/11/010",
+      "doi_url": "https://doi.org/10.1088/1475-7516/2019/11/010",
+      "categories": [
+        "gr-qc",
+        "astro-ph.HE",
+        "hep-th"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2018-03",
+      "status": "published",
+      "url": "https://doi.org/10.1088/1475-7516/2019/11/010"
+    },
+    {
+      "title": "Comment on: \"Low significance of evidence for black hole echoes in gravitational wave data\"",
+      "authors": [
+        "Jahed Abedi",
+        "Hannah Dykaar",
+        "Niayesh Afshordi"
+      ],
+      "publication_date": "2018-03",
+      "arxiv_submitted_date": "2018-03-22",
+      "updated_date": "2018-03-22",
+      "year": 2018,
+      "publication_type": "preprint",
+      "journal": "ArXiv e-prints",
+      "arxiv_id": "1803.08565",
+      "arxiv_url": "https://arxiv.org/abs/1803.08565",
+      "doi": null,
+      "doi_url": null,
+      "categories": [
+        "gr-qc",
+        "astro-ph.HE",
+        "hep-th"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2018-03",
+      "status": "published",
+      "url": "https://arxiv.org/abs/1803.08565"
+    },
+    {
+      "title": "$H_0$ tension as a hint for a transition in gravitational theory",
+      "authors": [
+        "Nima Khosravi",
+        "Shant Baghram",
+        "Niayesh Afshordi",
+        "Natacha Altamirano"
+      ],
+      "publication_date": "2017-10",
+      "arxiv_submitted_date": "2017-10-25",
+      "updated_date": "2019-08-20",
+      "year": 2017,
+      "publication_type": "journal-article",
+      "journal": "Phys. Rev. D 99, 103526 (2019)",
+      "arxiv_id": "1710.09366",
+      "arxiv_url": "https://arxiv.org/abs/1710.09366",
+      "doi": "10.1103/physrevd.99.103526",
+      "doi_url": "https://doi.org/10.1103/physrevd.99.103526",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2017-10",
+      "status": "published",
+      "url": "https://doi.org/10.1103/physrevd.99.103526"
+    },
+    {
+      "title": "Echoes from the Abyss: Tentative evidence for Planck-scale structure at black hole horizons",
+      "authors": [
+        "Jahed Abedi",
+        "Hannah Dykaar",
+        "Niayesh Afshordi"
+      ],
+      "publication_date": "2017-10",
+      "arxiv_submitted_date": "2016-12-01",
+      "updated_date": "2017-10-03",
+      "year": 2017,
+      "publication_type": "journal-article",
+      "journal": "Phys. Rev. D 96, 082004 (2017)",
+      "arxiv_id": "1612.00266",
+      "arxiv_url": "https://arxiv.org/abs/1612.00266",
+      "doi": "10.1103/physrevd.96.082004",
+      "doi_url": "https://doi.org/10.1103/physrevd.96.082004",
+      "categories": [
+        "gr-qc",
+        "astro-ph.HE",
+        "hep-th"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2017-10",
+      "status": "published",
+      "url": "https://doi.org/10.1103/physrevd.96.082004"
+    },
+    {
+      "title": "Accretion in Radiative Equipartition (AiRE) Disks",
+      "authors": [
+        "Yasaman K. Yazdi",
+        "Niayesh Afshordi"
+      ],
+      "publication_date": "2017-07",
+      "arxiv_submitted_date": "2016-09-21",
+      "updated_date": "2017-09-27",
+      "year": 2017,
+      "publication_type": "journal-article",
+      "journal": "Astrophys. J. 843, 22 (2017)",
+      "arxiv_id": "1609.06716",
+      "arxiv_url": "https://arxiv.org/abs/1609.06716",
+      "doi": "10.3847/1538-4357/aa73d4",
+      "doi_url": "https://doi.org/10.3847/1538-4357/aa73d4",
+      "categories": [
+        "astro-ph.HE",
+        "gr-qc"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2017-07",
+      "status": "published",
+      "url": "https://doi.org/10.3847/1538-4357/aa73d4"
+    },
+    {
+      "title": "Constraining holographic cosmology using Planck data",
+      "authors": [
+        "Niayesh Afshordi",
+        "Elizabeth Gould",
+        "Kostas Skenderis"
+      ],
+      "publication_date": "2017-06",
+      "arxiv_submitted_date": "2017-03-15",
+      "updated_date": "2017-05-31",
+      "year": 2017,
+      "publication_type": "journal-article",
+      "journal": "Phys. Rev. D 95, 123505 (2017)",
+      "arxiv_id": "1703.05385",
+      "arxiv_url": "https://arxiv.org/abs/1703.05385",
+      "doi": "10.1103/physrevd.95.123505",
+      "doi_url": "https://doi.org/10.1103/physrevd.95.123505",
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-th"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2017-06",
+      "status": "published",
+      "url": "https://doi.org/10.1103/physrevd.95.123505"
+    },
+    {
+      "title": "Dynamical friction in the primordial neutrino sea",
+      "authors": [
+        "Chiamaka Okoli",
+        "Morag I. Scrimgeour",
+        "Niayesh Afshordi",
+        "Michael J. Hudson"
+      ],
+      "publication_date": "2017-06",
+      "arxiv_submitted_date": "2016-11-14",
+      "updated_date": "2017-04-28",
+      "year": 2017,
+      "publication_type": "journal-article",
+      "journal": "Mon. Not. Roy. Astron. Soc. 468, 2164 (2017)",
+      "arxiv_id": "1611.04589",
+      "arxiv_url": "https://arxiv.org/abs/1611.04589",
+      "doi": "10.1093/mnras/stx560",
+      "doi_url": "https://doi.org/10.1093/mnras/stx560",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2017-06",
+      "status": "published",
+      "url": "https://doi.org/10.1093/mnras/stx560"
+    },
+    {
+      "title": "Pulsar Timing Constraints on Physics Beyond the Standard Model",
+      "authors": [
+        "Niayesh Afshordi",
+        "Hyungjin Kim",
+        "Elliot Nelson"
+      ],
+      "publication_date": "2017-03",
+      "arxiv_submitted_date": "2017-03-15",
+      "updated_date": "2017-03-15",
+      "year": 2017,
+      "publication_type": "preprint",
+      "journal": "ArXiv e-prints",
+      "arxiv_id": "1703.05331",
+      "arxiv_url": "https://arxiv.org/abs/1703.05331",
+      "doi": null,
+      "doi_url": null,
+      "categories": [
+        "hep-th",
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-ph"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2017-03",
+      "status": "published",
+      "url": "https://arxiv.org/abs/1703.05331"
+    },
+    {
+      "title": "Cosmological Perturbations in the 5D Holographic Big Bang Model",
+      "authors": [
+        "Natacha Altamirano",
+        "Elizabeth Gould",
+        "Niayesh Afshordi",
+        "Robert B. Mann"
+      ],
+      "publication_date": "2017-03",
+      "arxiv_submitted_date": "2017-03-02",
+      "updated_date": "2017-03-02",
+      "year": 2017,
+      "publication_type": "preprint",
+      "journal": "Fundam. Theor. Phys. 219, 205 (2025)",
+      "arxiv_id": "1703.00954",
+      "arxiv_url": "https://arxiv.org/abs/1703.00954",
+      "doi": "10.1007/978-3-031-76066-2_10",
+      "doi_url": "https://doi.org/10.1007/978-3-031-76066-2_10",
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-th"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2017-03",
+      "status": "published",
+      "url": "https://doi.org/10.1007/978-3-031-76066-2_10"
+    },
+    {
+      "title": "Off-shell Dark Matter: A Cosmological relic of Quantum Gravity",
+      "authors": [
+        "Mehdi Saravani",
+        "Niayesh Afshordi"
+      ],
+      "publication_date": "2017-02",
+      "arxiv_submitted_date": "2016-04-08",
+      "updated_date": "2016-04-08",
+      "year": 2017,
+      "publication_type": "journal-article",
+      "journal": "Phys. Rev. D 95, 043514 (2017)",
+      "arxiv_id": "1604.02448",
+      "arxiv_url": "https://arxiv.org/abs/1604.02448",
+      "doi": "10.1103/physrevd.95.043514",
+      "doi_url": "https://doi.org/10.1103/physrevd.95.043514",
+      "categories": [
+        "gr-qc",
+        "astro-ph.HE",
+        "hep-th"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2017-02",
+      "status": "published",
+      "url": "https://doi.org/10.1103/physrevd.95.043514"
+    },
+    {
+      "title": "Echoes from the Abyss: The Holiday Edition!",
+      "authors": [
+        "Jahed Abedi",
+        "Hannah Dykaar",
+        "Niayesh Afshordi"
+      ],
+      "publication_date": "2017-01",
+      "arxiv_submitted_date": "2017-01-12",
+      "updated_date": "2017-01-12",
+      "year": 2017,
+      "publication_type": "preprint",
+      "journal": "ArXiv e-prints",
+      "arxiv_id": "1701.03485",
+      "arxiv_url": "https://arxiv.org/abs/1701.03485",
+      "doi": null,
+      "doi_url": null,
+      "categories": [
+        "gr-qc",
+        "astro-ph.HE",
+        "hep-th"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2017-01",
+      "status": "published",
+      "url": "https://arxiv.org/abs/1701.03485"
+    },
+    {
+      "title": "From Planck data to Planck era: Observational tests of Holographic Cosmology",
+      "authors": [
+        "Niayesh Afshordi",
+        "Claudio Coriano",
+        "Luigi Delle Rose",
+        "Elizabeth Gould",
+        "Kostas Skenderis"
+      ],
+      "publication_date": "2017-01",
+      "arxiv_submitted_date": "2016-07-17",
+      "updated_date": "2017-01-03",
+      "year": 2017,
+      "publication_type": "journal-article",
+      "journal": "Phys. Rev. Lett. 118, 041301 (2017)",
+      "arxiv_id": "1607.04878",
+      "arxiv_url": "https://arxiv.org/abs/1607.04878",
+      "doi": "10.1103/physrevlett.118.041301",
+      "doi_url": "https://doi.org/10.1103/physrevlett.118.041301",
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-th"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2017-01",
+      "status": "published",
+      "url": "https://doi.org/10.1103/physrevlett.118.041301"
+    },
+    {
+      "title": "\"Firewall\" Phenomenology with Astrophysical Neutrinos",
+      "authors": [
+        "Niayesh Afshordi",
+        "Yasaman K. Yazdi"
+      ],
+      "publication_date": "2016-12",
+      "arxiv_submitted_date": "2015-02-03",
+      "updated_date": "2016-11-10",
+      "year": 2016,
+      "publication_type": "journal-article",
+      "journal": "Class. Quant. Grav. 33, 235017 (2016)",
+      "arxiv_id": "1502.01023",
+      "arxiv_url": "https://arxiv.org/abs/1502.01023",
+      "doi": "10.1088/0264-9381/33/23/235017",
+      "doi_url": "https://doi.org/10.1088/0264-9381/33/23/235017",
+      "categories": [
+        "astro-ph.HE",
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-ph",
+        "hep-th"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2016-12",
+      "status": "published",
+      "url": "https://doi.org/10.1088/0264-9381/33/23/235017"
+    },
+    {
+      "title": "Temperatures of renormalizable quantum field theories in curved spacetime",
+      "authors": [
+        "Morgan H. Lynch",
+        "Niayesh Afshordi"
+      ],
+      "publication_date": "2016-11",
+      "arxiv_submitted_date": "2016-11-21",
+      "updated_date": "2018-10-31",
+      "year": 2016,
+      "publication_type": "journal-article",
+      "journal": "Class. Quant. Grav. 35, 225008 (2018)",
+      "arxiv_id": "1611.06619",
+      "arxiv_url": "https://arxiv.org/abs/1611.06619",
+      "doi": "10.1088/1361-6382/aae792",
+      "doi_url": "https://doi.org/10.1088/1361-6382/aae792",
+      "categories": [
+        "gr-qc"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2016-11",
+      "status": "published",
+      "url": "https://doi.org/10.1088/1361-6382/aae792"
+    },
+    {
+      "title": "The critical geometry of a thermal big bang",
+      "authors": [
+        "Niayesh Afshordi",
+        "Joao Magueijo"
+      ],
+      "publication_date": "2016-11",
+      "arxiv_submitted_date": "2016-03-09",
+      "updated_date": "2016-11-08",
+      "year": 2016,
+      "publication_type": "journal-article",
+      "journal": "Phys. Rev. D 94, 101301 (2016)",
+      "arxiv_id": "1603.03312",
+      "arxiv_url": "https://arxiv.org/abs/1603.03312",
+      "doi": "10.1103/physrevd.94.101301",
+      "doi_url": "https://doi.org/10.1103/physrevd.94.101301",
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO",
+        "hep-th"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2016-11",
+      "status": "published",
+      "url": "https://doi.org/10.1103/physrevd.94.101301"
+    },
+    {
+      "title": "Cosmic Censorship in Lorentz Violating Theories of Gravity",
+      "authors": [
+        "Michael Meiers",
+        "Mehdi Saravani",
+        "Niayesh Afshordi"
+      ],
+      "publication_date": "2016-05",
+      "arxiv_submitted_date": "2015-11-29",
+      "updated_date": "2015-11-29",
+      "year": 2016,
+      "publication_type": "journal-article",
+      "journal": "Phys. Rev. D 93, 104008 (2016)",
+      "arxiv_id": "1511.08969",
+      "arxiv_url": "https://arxiv.org/abs/1511.08969",
+      "doi": "10.1103/physrevd.93.104008",
+      "doi_url": "https://doi.org/10.1103/physrevd.93.104008",
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO",
+        "hep-th"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2016-05",
+      "status": "published",
+      "url": "https://doi.org/10.1103/physrevd.93.104008"
+    },
+    {
+      "title": "Cosmological bounds on TeV-scale physics and beyond",
+      "authors": [
+        "Niayesh Afshordi",
+        "Elliot Nelson"
+      ],
+      "publication_date": "2016-04",
+      "arxiv_submitted_date": "2015-03-31",
+      "updated_date": "2016-07-04",
+      "year": 2016,
+      "publication_type": "journal-article",
+      "journal": "Phys. Rev. D 93, 083505 (2016)",
+      "arxiv_id": "1504.00012",
+      "arxiv_url": "https://arxiv.org/abs/1504.00012",
+      "doi": "10.1103/physrevd.93.083505",
+      "doi_url": "https://doi.org/10.1103/physrevd.93.083505",
+      "categories": [
+        "hep-th",
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-ph"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2016-04",
+      "status": "published",
+      "url": "https://doi.org/10.1103/physrevd.93.083505"
+    },
+    {
+      "title": "Concentration, Ellipsoidal Collapse, and the Densest Dark Matter haloes",
+      "authors": [
+        "Chiamaka Okoli",
+        "Niayesh Afshordi"
+      ],
+      "publication_date": "2016-03",
+      "arxiv_submitted_date": "2015-10-13",
+      "updated_date": "2016-01-04",
+      "year": 2016,
+      "publication_type": "journal-article",
+      "journal": "Mon. Not. Roy. Astron. Soc. 456, 3068 (2016)",
+      "arxiv_id": "1510.03868",
+      "arxiv_url": "https://arxiv.org/abs/1510.03868",
+      "doi": "10.1093/mnras/stv2905",
+      "doi_url": "https://doi.org/10.1093/mnras/stv2905",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2016-03",
+      "status": "published",
+      "url": "https://doi.org/10.1093/mnras/stv2905"
+    },
+    {
+      "title": "Universal clustering of dark matter in phase space",
+      "authors": [
+        "Jesus Zavala",
+        "Niayesh Afshordi"
+      ],
+      "publication_date": "2016-03",
+      "arxiv_submitted_date": "2015-08-11",
+      "updated_date": "2016-01-28",
+      "year": 2016,
+      "publication_type": "journal-article",
+      "journal": "Mon. Not. Roy. Astron. Soc. 457, 986 (2016)",
+      "arxiv_id": "1508.02713",
+      "arxiv_url": "https://arxiv.org/abs/1508.02713",
+      "doi": "10.1093/mnras/stw048",
+      "doi_url": "https://doi.org/10.1093/mnras/stw048",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2016-03",
+      "status": "published",
+      "url": "https://doi.org/10.1093/mnras/stw048"
+    },
+    {
+      "title": "A Non-Local Reality: Is there a Phase Uncertainty in Quantum Mechanics?",
+      "authors": [
+        "Elizabeth S. Gould",
+        "Niayesh Afshordi"
+      ],
+      "publication_date": "2015-12",
+      "arxiv_submitted_date": "2014-07-15",
+      "updated_date": "2015-08-19",
+      "year": 2015,
+      "publication_type": "journal-article",
+      "journal": "Found. Phys. 45, 1620 (2015)",
+      "arxiv_id": "1407.4083",
+      "arxiv_url": "https://arxiv.org/abs/1407.4083",
+      "doi": "10.1007/s10701-015-9948-8",
+      "doi_url": "https://doi.org/10.1007/s10701-015-9948-8",
+      "categories": [
+        "quant-ph",
+        "astro-ph.CO",
+        "hep-th"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2015-12",
+      "status": "published",
+      "url": "https://doi.org/10.1007/s10701-015-9948-8"
+    },
+    {
+      "title": "Why is High Energy Physics Lorentz Invariant?",
+      "authors": [
+        "Niayesh Afshordi"
+      ],
+      "publication_date": "2015-11",
+      "arxiv_submitted_date": "2015-11-24",
+      "updated_date": "2015-11-24",
+      "year": 2015,
+      "publication_type": "preprint",
+      "journal": "ArXiv e-prints",
+      "arxiv_id": "1511.07879",
+      "arxiv_url": "https://arxiv.org/abs/1511.07879",
+      "doi": null,
+      "doi_url": null,
+      "categories": [
+        "hep-th",
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-ph"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2015-11",
+      "status": "published",
+      "url": "https://arxiv.org/abs/1511.07879"
+    },
+    {
+      "title": "A holographic big bang?",
+      "authors": [
+        "N. Afshordi",
+        "R.B. Mann",
+        "R. Pourhasan"
+      ],
+      "publication_date": "2015-11",
+      "arxiv_submitted_date": null,
+      "updated_date": null,
+      "year": 2015,
+      "publication_type": "journal-article",
+      "journal": "Int. J. Mod. Phys. D 24, 1544029 (2015)",
+      "arxiv_id": null,
+      "arxiv_url": null,
+      "doi": "10.1142/s0218271815440290",
+      "doi_url": "https://doi.org/10.1142/s0218271815440290",
+      "categories": [],
+      "sources": [
+        "INSPIRE",
+        "ORCID"
+      ],
+      "date": "2015-11",
+      "status": "published",
+      "url": "https://doi.org/10.1142/s0218271815440290"
+    },
+    {
+      "title": "The mass and radii of strongly magnetized neutron stars",
+      "authors": [
+        "Farbod Kamiab",
+        "Avery E. Broderick",
+        "Niayesh Afshordi"
+      ],
+      "publication_date": "2015-03",
+      "arxiv_submitted_date": "2015-03-12",
+      "updated_date": "2015-03-12",
+      "year": 2015,
+      "publication_type": "preprint",
+      "journal": "ArXiv e-prints",
+      "arxiv_id": "1503.03898",
+      "arxiv_url": "https://arxiv.org/abs/1503.03898",
+      "doi": null,
+      "doi_url": null,
+      "categories": [
+        "astro-ph.HE",
+        "gr-qc",
+        "hep-ph"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2015-03",
+      "status": "published",
+      "url": "https://arxiv.org/abs/1503.03898"
+    },
+    {
+      "title": "Emergent Spacetime in Stochastically Evolving Dimensions",
+      "authors": [
+        "Niayesh Afshordi",
+        "Dejan Stojkovic"
+      ],
+      "publication_date": "2014-12",
+      "arxiv_submitted_date": "2014-05-13",
+      "updated_date": "2014-11-26",
+      "year": 2014,
+      "publication_type": "journal-article",
+      "journal": "Phys. Lett. B 739, 117 (2014)",
+      "arxiv_id": "1405.3297",
+      "arxiv_url": "https://arxiv.org/abs/1405.3297",
+      "doi": "10.1016/j.physletb.2014.10.048",
+      "doi_url": "https://doi.org/10.1016/j.physletb.2014.10.048",
+      "categories": [
+        "hep-th",
+        "gr-qc",
+        "hep-ph"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2014-12",
+      "status": "published",
+      "url": "https://doi.org/10.1016/j.physletb.2014.10.048"
+    },
+    {
+      "title": "Horndeski meets McVittie: A scalar field theory for accretion onto cosmological black holes",
+      "authors": [
+        "Niayesh Afshordi",
+        "Michele Fontanini",
+        "Daniel C. Guariento"
+      ],
+      "publication_date": "2014-10",
+      "arxiv_submitted_date": "2014-08-24",
+      "updated_date": "2014-08-24",
+      "year": 2014,
+      "publication_type": "journal-article",
+      "journal": "Phys. Rev. D 90, 084012 (2014)",
+      "arxiv_id": "1408.5538",
+      "arxiv_url": "https://arxiv.org/abs/1408.5538",
+      "doi": "10.1103/physrevd.90.084012",
+      "doi_url": "https://doi.org/10.1103/physrevd.90.084012",
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO",
+        "hep-th"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2014-10",
+      "status": "published",
+      "url": "https://doi.org/10.1103/physrevd.90.084012"
+    },
+    {
+      "title": "Schwinger Effect in 4D de Sitter Space and Constraints on Magnetogenesis in the Early Universe",
+      "authors": [
+        "Takeshi Kobayashi",
+        "Niayesh Afshordi"
+      ],
+      "publication_date": "2014-10",
+      "arxiv_submitted_date": "2014-08-18",
+      "updated_date": "2014-11-05",
+      "year": 2014,
+      "publication_type": "journal-article",
+      "journal": "JHEP 10, 166 (2014)",
+      "arxiv_id": "1408.4141",
+      "arxiv_url": "https://arxiv.org/abs/1408.4141",
+      "doi": "10.1007/jhep10(2014)166",
+      "doi_url": "https://doi.org/10.1007/jhep10(2014)166",
+      "categories": [
+        "hep-th",
+        "astro-ph.CO",
+        "astro-ph.HE",
+        "hep-ph"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2014-10",
+      "status": "published",
+      "url": "https://doi.org/10.1007/jhep10(2014)166"
+    },
+    {
+      "title": "Thermal Tachyacoustic Cosmology",
+      "authors": [
+        "Abhineet Agarwal",
+        "Niayesh Afshordi"
+      ],
+      "publication_date": "2014-08",
+      "arxiv_submitted_date": "2014-06-03",
+      "updated_date": "2014-06-03",
+      "year": 2014,
+      "publication_type": "journal-article",
+      "journal": "Phys. Rev. D 90, 043528 (2014)",
+      "arxiv_id": "1406.0575",
+      "arxiv_url": "https://arxiv.org/abs/1406.0575",
+      "doi": "10.1103/physrevd.90.043528",
+      "doi_url": "https://doi.org/10.1103/physrevd.90.043528",
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-th"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2014-08",
+      "status": "published",
+      "url": "https://doi.org/10.1103/physrevd.90.043528"
+    },
+    {
+      "title": "How does pressure gravitate? Cosmological constant problem confronts observational cosmology",
+      "authors": [
+        "Ali Narimani",
+        "Niayesh Afshordi",
+        "Douglas Scott"
+      ],
+      "publication_date": "2014-08",
+      "arxiv_submitted_date": "2014-06-02",
+      "updated_date": "2014-08-05",
+      "year": 2014,
+      "publication_type": "journal-article",
+      "journal": "JCAP 08, 049 (2014)",
+      "arxiv_id": "1406.0479",
+      "arxiv_url": "https://arxiv.org/abs/1406.0479",
+      "doi": "10.1088/1475-7516/2014/08/049",
+      "doi_url": "https://doi.org/10.1088/1475-7516/2014/08/049",
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-th"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2014-08",
+      "status": "published",
+      "url": "https://doi.org/10.1088/1475-7516/2014/08/049"
+    },
+    {
+      "title": "Clustering in the Phase Space of Dark Matter Haloes. II. Stable Clustering and Dark Matter Annihilation",
+      "authors": [
+        "Jesus Zavala",
+        "Niayesh Afshordi"
+      ],
+      "publication_date": "2014-06",
+      "arxiv_submitted_date": "2013-11-13",
+      "updated_date": "2014-06-04",
+      "year": 2014,
+      "publication_type": "journal-article",
+      "journal": "Mon. Not. Roy. Astron. Soc. 441, 1329 (2014)",
+      "arxiv_id": "1311.3296",
+      "arxiv_url": "https://arxiv.org/abs/1311.3296",
+      "doi": "10.1093/mnras/stu506",
+      "doi_url": "https://doi.org/10.1093/mnras/stu506",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2014-06",
+      "status": "published",
+      "url": "https://doi.org/10.1093/mnras/stu506"
+    },
+    {
+      "title": "Clustering in the Phase Space of Dark Matter Haloes. I. Results from the Aquarius simulations",
+      "authors": [
+        "Jesus Zavala",
+        "Niayesh Afshordi"
+      ],
+      "publication_date": "2014-06",
+      "arxiv_submitted_date": "2013-08-05",
+      "updated_date": "2014-06-04",
+      "year": 2014,
+      "publication_type": "journal-article",
+      "journal": "Mon. Not. Roy. Astron. Soc. 441, 1317 (2014)",
+      "arxiv_id": "1308.1098",
+      "arxiv_url": "https://arxiv.org/abs/1308.1098",
+      "doi": "10.1093/mnras/stu678",
+      "doi_url": "https://doi.org/10.1093/mnras/stu678",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2014-06",
+      "status": "published",
+      "url": "https://doi.org/10.1093/mnras/stu678"
+    },
+    {
+      "title": "Cosmological black holes from self-gravitating fields",
+      "authors": [
+        "Elcio Abdalla",
+        "Niayesh Afshordi",
+        "Michele Fontanini",
+        "Daniel C. Guariento",
+        "Eleftherios Papantonopoulos"
+      ],
+      "publication_date": "2014-05",
+      "arxiv_submitted_date": "2013-12-13",
+      "updated_date": "2014-05-15",
+      "year": 2014,
+      "publication_type": "journal-article",
+      "journal": "Phys. Rev. D 89, 104018 (2014)",
+      "arxiv_id": "1312.3682",
+      "arxiv_url": "https://arxiv.org/abs/1312.3682",
+      "doi": "10.1103/physrevd.89.104018",
+      "doi_url": "https://doi.org/10.1103/physrevd.89.104018",
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO",
+        "hep-th"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2014-05",
+      "status": "published",
+      "url": "https://doi.org/10.1103/physrevd.89.104018"
+    },
+    {
+      "title": "Dynamical Emergence of Universal Horizons during the formation of Black Holes",
+      "authors": [
+        "Mehdi Saravani",
+        "Niayesh Afshordi",
+        "Robert B. Mann"
+      ],
+      "publication_date": "2014-04",
+      "arxiv_submitted_date": "2013-10-15",
+      "updated_date": "2014-07-09",
+      "year": 2014,
+      "publication_type": "journal-article",
+      "journal": "Phys. Rev. D 89, 084029 (2014)",
+      "arxiv_id": "1310.4143",
+      "arxiv_url": "https://arxiv.org/abs/1310.4143",
+      "doi": "10.1103/physrevd.89.084029",
+      "doi_url": "https://doi.org/10.1103/physrevd.89.084029",
+      "categories": [
+        "gr-qc",
+        "astro-ph.HE",
+        "hep-th"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2014-04",
+      "status": "published",
+      "url": "https://doi.org/10.1103/physrevd.89.084029"
+    },
+    {
+      "title": "Out of the White Hole: A Holographic Origin for the Big Bang",
+      "authors": [
+        "Razieh Pourhasan",
+        "Niayesh Afshordi",
+        "Robert B. Mann"
+      ],
+      "publication_date": "2014-04",
+      "arxiv_submitted_date": "2013-09-05",
+      "updated_date": "2013-09-22",
+      "year": 2014,
+      "publication_type": "journal-article",
+      "journal": "JCAP 04, 005 (2014)",
+      "arxiv_id": "1309.1487",
+      "arxiv_url": "https://arxiv.org/abs/1309.1487",
+      "doi": "10.1088/1475-7516/2014/04/005",
+      "doi_url": "https://doi.org/10.1088/1475-7516/2014/04/005",
+      "categories": [
+        "hep-th",
+        "astro-ph.CO",
+        "gr-qc"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2014-04",
+      "status": "published",
+      "url": "https://doi.org/10.1088/1475-7516/2014/04/005"
+    },
+    {
+      "title": "Transient Weak-Lensing by Cosmological Dark Matter Microhaloes",
+      "authors": [
+        "Sohrab Rahvar",
+        "Shant Baghram",
+        "Niayesh Afshordi"
+      ],
+      "publication_date": "2014-03",
+      "arxiv_submitted_date": "2013-10-21",
+      "updated_date": "2013-10-21",
+      "year": 2014,
+      "publication_type": "journal-article",
+      "journal": "Phys. Rev. D 89, 063001 (2014)",
+      "arxiv_id": "1310.5412",
+      "arxiv_url": "https://arxiv.org/abs/1310.5412",
+      "doi": "10.1103/physrevd.89.063001",
+      "doi_url": "https://doi.org/10.1103/physrevd.89.063001",
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-ph"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2014-03",
+      "status": "published",
+      "url": "https://doi.org/10.1103/physrevd.89.063001"
+    },
+    {
+      "title": "An Optimal and Model-Independent Measurement of the Intracluster Pressure Profile I: Methodology and First Applications",
+      "authors": [
+        "Siavash Aslanbeigi",
+        "Guilhem Lavaux",
+        "Amir Hajian",
+        "Niayesh Afshordi"
+      ],
+      "publication_date": "2013-10",
+      "arxiv_submitted_date": "2013-04-24",
+      "updated_date": "2013-07-02",
+      "year": 2013,
+      "publication_type": "journal-article",
+      "journal": "Mon. Not. Roy. Astron. Soc. 435, 1788 (2013)",
+      "arxiv_id": "1304.6457",
+      "arxiv_url": "https://arxiv.org/abs/1304.6457",
+      "doi": "10.1093/mnras/stt1416",
+      "doi_url": "https://doi.org/10.1093/mnras/stt1416",
+      "categories": [
+        "astro-ph.CO",
+        "astro-ph.GA"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2013-10",
+      "status": "published",
+      "url": "https://doi.org/10.1093/mnras/stt1416"
+    },
+    {
+      "title": "First measurement of the bulk flow of nearby galaxies using the cosmic microwave background",
+      "authors": [
+        "Guilhem Lavaux",
+        "Niayesh Afshordi",
+        "Michael J. Hudson"
+      ],
+      "publication_date": "2013-04",
+      "arxiv_submitted_date": "2012-07-06",
+      "updated_date": "2013-01-13",
+      "year": 2013,
+      "publication_type": "journal-article",
+      "journal": "Mon. Not. Roy. Astron. Soc. 430, 1617 (2013)",
+      "arxiv_id": "1207.1721",
+      "arxiv_url": "https://arxiv.org/abs/1207.1721",
+      "doi": "10.1093/mnras/sts698",
+      "doi_url": "https://doi.org/10.1093/mnras/sts698",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2013-04",
+      "status": "published",
+      "url": "https://doi.org/10.1093/mnras/sts698"
+    },
+    {
+      "title": "An Optimal & Model-Independent Measurement of the Pressure Profile of Hot Gas in Clusters of Galaxies Using the SZ Effect",
+      "authors": [
+        "Niayesh Afshordi"
+      ],
+      "publication_date": "2013-03",
+      "arxiv_submitted_date": null,
+      "updated_date": null,
+      "year": 2013,
+      "publication_type": "conference-paper",
+      "journal": "SnowCLUSTER 2013, Physics of Galaxy Clusters",
+      "arxiv_id": null,
+      "arxiv_url": null,
+      "doi": null,
+      "doi_url": null,
+      "categories": [],
+      "sources": [
+        "ORCID"
+      ],
+      "date": "2013-03",
+      "status": "published",
+      "url": null
+    },
+    {
+      "title": "Empty Black Holes, Firewalls, and the Origin of Bekenstein-Hawking Entropy",
+      "authors": [
+        "Mehdi Saravani",
+        "Niayesh Afshordi",
+        "Robert B. Mann"
+      ],
+      "publication_date": "2012-12",
+      "arxiv_submitted_date": "2012-12-17",
+      "updated_date": "2013-12-02",
+      "year": 2012,
+      "publication_type": "preprint",
+      "journal": "Int. J. Mod. Phys. D 23, 1443007 (2015)",
+      "arxiv_id": "1212.4176",
+      "arxiv_url": "https://arxiv.org/abs/1212.4176",
+      "doi": "10.1142/s021827181443007x",
+      "doi_url": "https://doi.org/10.1142/s021827181443007x",
+      "categories": [
+        "hep-th",
+        "astro-ph.HE",
+        "gr-qc"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2012-12",
+      "status": "published",
+      "url": "https://doi.org/10.1142/s021827181443007x"
+    },
+    {
+      "title": "Removal and mixing of the coronal gas from satellites in galaxy groups: cooling the intragoup gas",
+      "authors": [
+        "Jesus Zavala",
+        "Michael L. Balogh",
+        "Niayesh Afshordi",
+        "Stephen Ro"
+      ],
+      "publication_date": "2012-11",
+      "arxiv_submitted_date": "2012-08-23",
+      "updated_date": "2012-08-23",
+      "year": 2012,
+      "publication_type": "journal-article",
+      "journal": "Mon. Not. Roy. Astron. Soc. 426, 3464 (2012)",
+      "arxiv_id": "1208.4849",
+      "arxiv_url": "https://arxiv.org/abs/1208.4849",
+      "doi": "10.1111/j.1365-2966.2012.21980.x",
+      "doi_url": "https://doi.org/10.1111/j.1365-2966.2012.21980.x",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2012-11",
+      "status": "published",
+      "url": "https://doi.org/10.1111/j.1365-2966.2012.21980.x"
+    },
+    {
+      "title": "A Ground State for the Causal Diamond in 2 Dimensions",
+      "authors": [
+        "Niayesh Afshordi",
+        "Michel Buck",
+        "Fay Dowker",
+        "David Rideout",
+        "Rafael D. Sorkin",
+        "Yasaman K. Yazdi"
+      ],
+      "publication_date": "2012-10",
+      "arxiv_submitted_date": "2012-07-30",
+      "updated_date": "2012-11-15",
+      "year": 2012,
+      "publication_type": "journal-article",
+      "journal": "JHEP 10, 088 (2012)",
+      "arxiv_id": "1207.7101",
+      "arxiv_url": "https://arxiv.org/abs/1207.7101",
+      "doi": "10.1007/jhep10(2012)088",
+      "doi_url": "https://doi.org/10.1007/jhep10(2012)088",
+      "categories": [
+        "hep-th",
+        "gr-qc"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2012-10",
+      "status": "published",
+      "url": "https://doi.org/10.1007/jhep10(2012)088"
+    },
+    {
+      "title": "Lithium Diffusion in the Post-Recombination Universe and Spatial Variation of [Li/H]",
+      "authors": [
+        "Maxim Pospelov",
+        "Niayesh Afshordi"
+      ],
+      "publication_date": "2012-08",
+      "arxiv_submitted_date": "2012-08-03",
+      "updated_date": "2012-08-03",
+      "year": 2012,
+      "publication_type": "preprint",
+      "journal": "ArXiv e-prints",
+      "arxiv_id": "1208.0793",
+      "arxiv_url": "https://arxiv.org/abs/1208.0793",
+      "doi": null,
+      "doi_url": null,
+      "categories": [
+        "astro-ph.CO",
+        "astro-ph.SR",
+        "hep-ph",
+        "nucl-th"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2012-08",
+      "status": "published",
+      "url": "https://arxiv.org/abs/1208.0793"
+    },
+    {
+      "title": "A Distinguished Vacuum State for a Quantum Field in a Curved Spacetime: Formalism, Features, and Cosmology",
+      "authors": [
+        "Niayesh Afshordi",
+        "Siavash Aslanbeigi",
+        "Rafael D. Sorkin"
+      ],
+      "publication_date": "2012-08",
+      "arxiv_submitted_date": "2012-05-07",
+      "updated_date": "2012-10-30",
+      "year": 2012,
+      "publication_type": "journal-article",
+      "journal": "JHEP 08, 137 (2012)",
+      "arxiv_id": "1205.1296",
+      "arxiv_url": "https://arxiv.org/abs/1205.1296",
+      "doi": "10.1007/jhep08(2012)137",
+      "doi_url": "https://doi.org/10.1007/jhep08(2012)137",
+      "categories": [
+        "hep-th",
+        "astro-ph.CO",
+        "gr-qc"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2012-08",
+      "status": "published",
+      "url": "https://doi.org/10.1007/jhep08(2012)137"
+    },
+    {
+      "title": "Where will Einstein fail? Lessons for gravity and cosmology",
+      "authors": [
+        "Niayesh Afshordi"
+      ],
+      "publication_date": "2012",
+      "arxiv_submitted_date": "2012-03-16",
+      "updated_date": "2012-03-16",
+      "year": 2012,
+      "publication_type": "preprint",
+      "journal": "Bull. Astron. Soc. India 40, 1 (2012)",
+      "arxiv_id": "1203.3827",
+      "arxiv_url": "https://arxiv.org/abs/1203.3827",
+      "doi": null,
+      "doi_url": null,
+      "categories": [
+        "astro-ph.CO",
+        "astro-ph.HE",
+        "gr-qc",
+        "hep-th"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2012",
+      "status": "published",
+      "url": "https://arxiv.org/abs/1203.3827"
+    },
+    {
+      "title": "Chameleon Gravity, Electrostatics, and Kinematics in the Outer Galaxy",
+      "authors": [
+        "R. Pourhasan",
+        "N. Afshordi",
+        "R. B. Mann",
+        "A. C. Davis"
+      ],
+      "publication_date": "2011-12",
+      "arxiv_submitted_date": "2011-09-02",
+      "updated_date": "2011-09-02",
+      "year": 2011,
+      "publication_type": "journal-article",
+      "journal": "JCAP 12, 005 (2011)",
+      "arxiv_id": "1109.0538",
+      "arxiv_url": "https://arxiv.org/abs/1109.0538",
+      "doi": "10.1088/1475-7516/2011/12/005",
+      "doi_url": "https://doi.org/10.1088/1475-7516/2011/12/005",
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2011-12",
+      "status": "published",
+      "url": "https://doi.org/10.1088/1475-7516/2011/12/005"
+    },
+    {
+      "title": "Phenomenology of Gravitational Aether as a solution to the Old Cosmological Constant Problem",
+      "authors": [
+        "Siavash Aslanbeigi",
+        "Georg Robbers",
+        "Brendan Z. Foster",
+        "Kazunori Kohri",
+        "Niayesh Afshordi"
+      ],
+      "publication_date": "2011-11",
+      "arxiv_submitted_date": "2011-06-20",
+      "updated_date": "2011-10-16",
+      "year": 2011,
+      "publication_type": "journal-article",
+      "journal": "Phys. Rev. D 84, 103522 (2011)",
+      "arxiv_id": "1106.3955",
+      "arxiv_url": "https://arxiv.org/abs/1106.3955",
+      "doi": "10.1103/physrevd.84.103522",
+      "doi_url": "https://doi.org/10.1103/physrevd.84.103522",
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-th"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2011-11",
+      "status": "published",
+      "url": "https://doi.org/10.1103/physrevd.84.103522"
+    },
+    {
+      "title": "Neutron Stars and the Cosmological Constant Problem",
+      "authors": [
+        "Farbod Kamiab",
+        "Niayesh Afshordi"
+      ],
+      "publication_date": "2011-09",
+      "arxiv_submitted_date": "2011-04-29",
+      "updated_date": "2011-09-26",
+      "year": 2011,
+      "publication_type": "journal-article",
+      "journal": "Phys. Rev. D 84, 063011 (2011)",
+      "arxiv_id": "1104.5704",
+      "arxiv_url": "https://arxiv.org/abs/1104.5704",
+      "doi": "10.1103/physrevd.84.063011",
+      "doi_url": "https://doi.org/10.1103/physrevd.84.063011",
+      "categories": [
+        "astro-ph.CO",
+        "astro-ph.HE",
+        "gr-qc",
+        "hep-ph"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2011-09",
+      "status": "published",
+      "url": "https://doi.org/10.1103/physrevd.84.063011"
+    },
+    {
+      "title": "Prospects for Detecting Dark Matter Halo Substructure with Pulsar Timing",
+      "authors": [
+        "Shant Baghram",
+        "Niayesh Afshordi",
+        "Kathryn M. Zurek"
+      ],
+      "publication_date": "2011-08",
+      "arxiv_submitted_date": "2011-01-28",
+      "updated_date": "2011-09-16",
+      "year": 2011,
+      "publication_type": "journal-article",
+      "journal": "Phys. Rev. D 84, 043511 (2011)",
+      "arxiv_id": "1101.5487",
+      "arxiv_url": "https://arxiv.org/abs/1101.5487",
+      "doi": "10.1103/physrevd.84.043511",
+      "doi_url": "https://doi.org/10.1103/physrevd.84.043511",
+      "categories": [
+        "astro-ph.CO",
+        "astro-ph.GA",
+        "hep-ph"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2011-08",
+      "status": "published",
+      "url": "https://doi.org/10.1103/physrevd.84.043511"
+    },
+    {
+      "title": "A Theory of a Spot",
+      "authors": [
+        "Niayesh Afshordi",
+        "Anže Slosar",
+        "Yi Wang"
+      ],
+      "publication_date": "2011-01",
+      "arxiv_submitted_date": "2010-06-25",
+      "updated_date": "2010-12-25",
+      "year": 2011,
+      "publication_type": "journal-article",
+      "journal": "JCAP 01, 019 (2011)",
+      "arxiv_id": "1006.5021",
+      "arxiv_url": "https://arxiv.org/abs/1006.5021",
+      "doi": "10.1088/1475-7516/2011/01/019",
+      "doi_url": "https://doi.org/10.1088/1475-7516/2011/01/019",
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-th"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2011-01",
+      "status": "published",
+      "url": "https://doi.org/10.1088/1475-7516/2011/01/019"
+    },
+    {
+      "title": "Using Dark Matter Haloes to Learn about Cosmic Acceleration: A New Proposal for a Universal Mass Function",
+      "authors": [
+        "C. Prescod-Weinstein",
+        "N. Afshordi"
+      ],
+      "publication_date": "2010-10",
+      "arxiv_submitted_date": "2010-10-26",
+      "updated_date": "2010-10-26",
+      "year": 2010,
+      "publication_type": "preprint",
+      "journal": "ArXiv e-prints",
+      "arxiv_id": "1010.5501",
+      "arxiv_url": "https://arxiv.org/abs/1010.5501",
+      "doi": null,
+      "doi_url": null,
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2010-10",
+      "status": "published",
+      "url": "https://arxiv.org/abs/1010.5501"
+    },
+    {
+      "title": "Non-Gaussian Posteriors arising from Marginal Detections",
+      "authors": [
+        "Bruce A. Bassett",
+        "Niayesh Afshordi"
+      ],
+      "publication_date": "2010-05",
+      "arxiv_submitted_date": "2010-05-10",
+      "updated_date": "2012-03-16",
+      "year": 2010,
+      "publication_type": "preprint",
+      "journal": "ArXiv e-prints",
+      "arxiv_id": "1005.1664",
+      "arxiv_url": "https://arxiv.org/abs/1005.1664",
+      "doi": null,
+      "doi_url": null,
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2010-05",
+      "status": "published",
+      "url": "https://arxiv.org/abs/1005.1664"
+    },
+    {
+      "title": "Hierarchy in the Phase Space and Dark Matter Astronomy",
+      "authors": [
+        "Niayesh Afshordi",
+        "Roya Mohayaee",
+        "Edmund Bertschinger"
+      ],
+      "publication_date": "2010-05",
+      "arxiv_submitted_date": "2009-11-02",
+      "updated_date": "2009-11-02",
+      "year": 2010,
+      "publication_type": "journal-article",
+      "journal": "Phys. Rev. D 81, 101301 (2010)",
+      "arxiv_id": "0911.0414",
+      "arxiv_url": "https://arxiv.org/abs/0911.0414",
+      "doi": "10.1103/physrevd.81.101301",
+      "doi_url": "https://doi.org/10.1103/physrevd.81.101301",
+      "categories": [
+        "astro-ph.CO",
+        "astro-ph.HE",
+        "hep-ex",
+        "hep-ph"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2010-05",
+      "status": "published",
+      "url": "https://doi.org/10.1103/physrevd.81.101301"
+    },
+    {
+      "title": "Reviving Gravity's Aether in Einstein's Universe",
+      "authors": [
+        "Niayesh Afshordi"
+      ],
+      "publication_date": "2010-04",
+      "arxiv_submitted_date": "2010-04-16",
+      "updated_date": "2010-04-16",
+      "year": 2010,
+      "publication_type": "preprint",
+      "journal": "ArXiv e-prints",
+      "arxiv_id": "1004.2901",
+      "arxiv_url": "https://arxiv.org/abs/1004.2901",
+      "doi": null,
+      "doi_url": null,
+      "categories": [
+        "physics.pop-ph",
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-th"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2010-04",
+      "status": "published",
+      "url": "https://arxiv.org/abs/1004.2901"
+    },
+    {
+      "title": "Dark Energy, Black Hole Entropy, and the First Precision Measurement in Quantum Gravity",
+      "authors": [
+        "Niayesh Afshordi"
+      ],
+      "publication_date": "2010-03",
+      "arxiv_submitted_date": "2010-03-25",
+      "updated_date": "2010-03-25",
+      "year": 2010,
+      "publication_type": "preprint",
+      "journal": "ArXiv e-prints",
+      "arxiv_id": "1003.4811",
+      "arxiv_url": "https://arxiv.org/abs/1003.4811",
+      "doi": null,
+      "doi_url": null,
+      "categories": [
+        "hep-th",
+        "astro-ph.CO",
+        "astro-ph.HE",
+        "gr-qc"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2010-03",
+      "status": "published",
+      "url": "https://arxiv.org/abs/1003.4811"
+    },
+    {
+      "title": "The case for a directional dark matter detector and the status of current experimental efforts",
+      "authors": [
+        "S. Ahlen",
+        "N. Afshordi",
+        "J. B. R. Battat",
+        "J. Billard",
+        "N. Bozorgnia",
+        "S. Burgos",
+        "T. Caldwell",
+        "J. M. Carmona",
+        "S. Cebrian",
+        "P. Colas",
+        "T. Dafni",
+        "E. Daw",
+        "D. Dujmic",
+        "A. Dushkin",
+        "W. Fedus",
+        "E. Ferrer",
+        "D. Finkbeiner",
+        "P. H. Fisher",
+        "J. Forbes",
+        "T. Fusayasu",
+        "J. Galan",
+        "T. Gamble",
+        "C. Ghag",
+        "I. Giomataris",
+        "M. Gold",
+        "H. Gomez",
+        "M. E. Gomez",
+        "P. Gondolo",
+        "A. Green",
+        "C. Grignon",
+        "O. Guillaudin",
+        "C. Hagemann",
+        "K. Hattori",
+        "S. Henderson",
+        "N. Higashi",
+        "C. Ida",
+        "F. J. Iguaz",
+        "A. Inglis",
+        "I. G. Irastorza",
+        "S. Iwaki",
+        "A. Kaboth",
+        "S. Kabuki",
+        "J. Kadyk",
+        "N. Kallivayalil",
+        "H. Kubo",
+        "S. Kurosawa",
+        "V. A. Kudryavtsev",
+        "T. Lamy",
+        "R. Lanza",
+        "T. B. Lawson",
+        "A. Lee",
+        "E. R. Lee",
+        "T. Lin",
+        "D. Loomba",
+        "J. Lopez",
+        "G. Luzon",
+        "T. Manobu",
+        "J. Martoff",
+        "F. Mayet",
+        "B. Mccluskey",
+        "E. Miller",
+        "K. Miuchi",
+        "J. Monroe",
+        "B. Morgan",
+        "D. Muna",
+        "A. St. J. Murphy",
+        "T. Naka",
+        "K. Nakamura",
+        "M. Nakamura",
+        "T. Nakano",
+        "G. G. Nicklin",
+        "H. Nishimura",
+        "K. Niwa",
+        "S. M. Paling",
+        "J. Parker",
+        "A. Petkov",
+        "M. Pipe",
+        "K. Pushkin",
+        "M. Robinson",
+        "A. Rodriguez",
+        "J. Rodriguez-Quintero",
+        "T. Sahin",
+        "R. Sanderson",
+        "N. Sanghi",
+        "D. Santos",
+        "O. Sato",
+        "T. Sawano",
+        "G. Sciolla",
+        "H. Sekiya",
+        "T. R. Slatyer",
+        "D. P. Snowden-Ifft",
+        "N. J. C. Spooner",
+        "A. Sugiyama",
+        "A. Takada",
+        "M. Takahashi",
+        "A. Takeda",
+        "T. Tanimori",
+        "K. Taniue",
+        "A. Tomas",
+        "H. Tomita",
+        "K. Tsuchiya",
+        "J. Turk",
+        "E. Tziaferi",
+        "K. Ueno",
+        "S. Vahsen",
+        "R. Vanderspek",
+        "J. Vergados",
+        "J. A. Villar",
+        "H. Wellenstein",
+        "I. Wolfe",
+        "R. K. Yamamoto",
+        "H. Yegoryan"
+      ],
+      "publication_date": "2010-01",
+      "arxiv_submitted_date": "2009-11-01",
+      "updated_date": "2009-11-01",
+      "year": 2010,
+      "publication_type": "journal-article",
+      "journal": "Int. J. Mod. Phys. A 25, 1 (2010)",
+      "arxiv_id": "0911.0323",
+      "arxiv_url": "https://arxiv.org/abs/0911.0323",
+      "doi": "10.1142/s0217751x10048172",
+      "doi_url": "https://doi.org/10.1142/s0217751x10048172",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2010-01",
+      "status": "published",
+      "url": "https://doi.org/10.1142/s0217751x10048172"
+    },
+    {
+      "title": "Cuscuton and low energy limit of Horava-Lifshitz gravity",
+      "authors": [
+        "Niayesh Afshordi"
+      ],
+      "publication_date": "2009-10",
+      "arxiv_submitted_date": "2009-07-30",
+      "updated_date": "2009-08-07",
+      "year": 2009,
+      "publication_type": "journal-article",
+      "journal": "Phys. Rev. D 80, 081502 (2009)",
+      "arxiv_id": "0907.5201",
+      "arxiv_url": "https://arxiv.org/abs/0907.5201",
+      "doi": "10.1103/physrevd.80.081502",
+      "doi_url": "https://doi.org/10.1103/physrevd.80.081502",
+      "categories": [
+        "hep-th",
+        "astro-ph.CO",
+        "gr-qc"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2009-10",
+      "status": "published",
+      "url": "https://doi.org/10.1103/physrevd.80.081502"
+    },
+    {
+      "title": "Stellar Black Holes and the Origin of Cosmic Acceleration",
+      "authors": [
+        "Chanda Prescod-Weinstein",
+        "Niayesh Afshordi",
+        "Michael L. Balogh"
+      ],
+      "publication_date": "2009-08",
+      "arxiv_submitted_date": "2009-05-22",
+      "updated_date": "2009-07-25",
+      "year": 2009,
+      "publication_type": "journal-article",
+      "journal": "Phys. Rev. D 80, 043513 (2009)",
+      "arxiv_id": "0905.3551",
+      "arxiv_url": "https://arxiv.org/abs/0905.3551",
+      "doi": "10.1103/physrevd.80.043513",
+      "doi_url": "https://doi.org/10.1103/physrevd.80.043513",
+      "categories": [
+        "astro-ph.CO",
+        "astro-ph.HE",
+        "gr-qc",
+        "hep-th"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2009-08",
+      "status": "published",
+      "url": "https://doi.org/10.1103/physrevd.80.043513"
+    },
+    {
+      "title": "Observational Evidence for Cosmological-Scale Extra Dimensions",
+      "authors": [
+        "Niayesh Afshordi",
+        "Ghazal Geshnizjani",
+        "Justin Khoury"
+      ],
+      "publication_date": "2009-08",
+      "arxiv_submitted_date": "2008-12-12",
+      "updated_date": "2009-01-17",
+      "year": 2009,
+      "publication_type": "journal-article",
+      "journal": "JCAP 08, 030 (2009)",
+      "arxiv_id": "0812.2244",
+      "arxiv_url": "https://arxiv.org/abs/0812.2244",
+      "doi": "10.1088/1475-7516/2009/08/030",
+      "doi_url": "https://doi.org/10.1088/1475-7516/2009/08/030",
+      "categories": [
+        "astro-ph",
+        "gr-qc",
+        "hep-ph",
+        "hep-th"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2009-08",
+      "status": "published",
+      "url": "https://doi.org/10.1088/1475-7516/2009/08/030"
+    },
+    {
+      "title": "Hierarchical Phase Space Structure of Dark Matter Haloes: Tidal debris, Caustics, and Dark Matter annihilation",
+      "authors": [
+        "Niayesh Afshordi",
+        "Roya Mohayaee",
+        "Edmund Bertschinger"
+      ],
+      "publication_date": "2009-04",
+      "arxiv_submitted_date": "2008-11-10",
+      "updated_date": "2008-11-10",
+      "year": 2009,
+      "publication_type": "journal-article",
+      "journal": "Phys. Rev. D 79, 083526 (2009)",
+      "arxiv_id": "0811.1582",
+      "arxiv_url": "https://arxiv.org/abs/0811.1582",
+      "doi": "10.1103/physrevd.79.083526",
+      "doi_url": "https://doi.org/10.1103/physrevd.79.083526",
+      "categories": [
+        "astro-ph",
+        "hep-ph"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2009-04",
+      "status": "published",
+      "url": "https://doi.org/10.1103/physrevd.79.083526"
+    },
+    {
+      "title": "Non-Gaussianity as a Probe of the Physics of the Primordial Universe and the Astrophysics of the Low Redshift Universe",
+      "authors": [
+        "E. Komatsu",
+        "N. Afshordi",
+        "N. Bartolo",
+        "D. Baumann",
+        "J. R. Bond",
+        "E. I. Buchbinder",
+        "C. T. Byrnes",
+        "X. Chen",
+        "D. J. H. Chung",
+        "A. Cooray",
+        "P. Creminelli",
+        "N. Dalal",
+        "O. Dore",
+        "R. Easther",
+        "A. V. Frolov",
+        "K. M. Gorski",
+        "M. G. Jackson",
+        "J. Khoury",
+        "W. H. Kinney",
+        "L. Kofman",
+        "K. Koyama",
+        "L. Leblond",
+        "J. -L. Lehners",
+        "J. E. Lidsey",
+        "M. Liguori",
+        "E. A. Lim",
+        "A. Linde",
+        "D. H. Lyth",
+        "J. Maldacena",
+        "S. Matarrese",
+        "L. McAllister",
+        "P. McDonald",
+        "S. Mukohyama",
+        "B. Ovrut",
+        "H. V. Peiris",
+        "C. Raeth",
+        "A. Riotto",
+        "Y. Rodriguez",
+        "M. Sasaki",
+        "R. Scoccimarro",
+        "D. Seery",
+        "E. Sefusatti",
+        "U. Seljak",
+        "L. Senatore",
+        "S. Shandera",
+        "E. P. S. Shellard",
+        "E. Silverstein",
+        "A. Slosar",
+        "K. M. Smith",
+        "A. A. Starobinsky",
+        "P. J. Steinhardt",
+        "F. Takahashi",
+        "M. Tegmark",
+        "A. J. Tolley",
+        "L. Verde",
+        "B. D. Wandelt",
+        "D. Wands",
+        "S. Weinberg",
+        "M. Wyman",
+        "A. P. S. Yadav",
+        "M. Zaldarriaga"
+      ],
+      "publication_date": "2009-01",
+      "arxiv_submitted_date": "2009-02-27",
+      "updated_date": "2009-04-19",
+      "year": 2009,
+      "publication_type": "preprint",
+      "journal": "astro2010: The Astronomy and Astrophysics Decadal Survey",
+      "arxiv_id": "0902.4759",
+      "arxiv_url": "https://arxiv.org/abs/0902.4759",
+      "doi": null,
+      "doi_url": null,
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2009-01",
+      "status": "published",
+      "url": "https://arxiv.org/abs/0902.4759"
+    },
+    {
+      "title": "Extended Limber Approximation",
+      "authors": [
+        "Marilena LoVerde",
+        "Niayesh Afshordi"
+      ],
+      "publication_date": "2008-12",
+      "arxiv_submitted_date": "2008-09-30",
+      "updated_date": "2008-09-30",
+      "year": 2008,
+      "publication_type": "journal-article",
+      "journal": "Phys. Rev. D 78, 123506 (2008)",
+      "arxiv_id": "0809.5112",
+      "arxiv_url": "https://arxiv.org/abs/0809.5112",
+      "doi": "10.1103/physrevd.78.123506",
+      "doi_url": "https://doi.org/10.1103/physrevd.78.123506",
+      "categories": [
+        "astro-ph"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2008-12",
+      "status": "published",
+      "url": "https://doi.org/10.1103/physrevd.78.123506"
+    },
+    {
+      "title": "Primordial non-gaussianity, statistics of collapsed objects, and the Integrated Sachs-Wolfe effect",
+      "authors": [
+        "Niayesh Afshordi",
+        "Andrew J. Tolley"
+      ],
+      "publication_date": "2008-12",
+      "arxiv_submitted_date": "2008-06-06",
+      "updated_date": "2008-07-02",
+      "year": 2008,
+      "publication_type": "journal-article",
+      "journal": "Phys. Rev. D 78, 123507 (2008)",
+      "arxiv_id": "0806.1046",
+      "arxiv_url": "https://arxiv.org/abs/0806.1046",
+      "doi": "10.1103/physrevd.78.123507",
+      "doi_url": "https://doi.org/10.1103/physrevd.78.123507",
+      "categories": [
+        "astro-ph",
+        "gr-qc",
+        "hep-th"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2008-12",
+      "status": "published",
+      "url": "https://doi.org/10.1103/physrevd.78.123507"
+    },
+    {
+      "title": "Fundamental Plane of Sunyaev-Zeldovich clusters",
+      "authors": [
+        "Niayesh Afshordi"
+      ],
+      "publication_date": "2008-10",
+      "arxiv_submitted_date": "2007-04-18",
+      "updated_date": "2007-11-21",
+      "year": 2008,
+      "publication_type": "journal-article",
+      "journal": "Astrophys. J. 686, 201 (2008)",
+      "arxiv_id": "0704.2416",
+      "arxiv_url": "https://arxiv.org/abs/0704.2416",
+      "doi": "10.1086/591307",
+      "doi_url": "https://doi.org/10.1086/591307",
+      "categories": [
+        "astro-ph"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2008-10",
+      "status": "published",
+      "url": "https://doi.org/10.1086/591307"
+    },
+    {
+      "title": "Gravitational Aether and the thermodynamic solution to the cosmological constant problem",
+      "authors": [
+        "Niayesh Afshordi"
+      ],
+      "publication_date": "2008-07",
+      "arxiv_submitted_date": "2008-07-16",
+      "updated_date": "2008-07-16",
+      "year": 2008,
+      "publication_type": "preprint",
+      "journal": "ArXiv e-prints",
+      "arxiv_id": "0807.2639",
+      "arxiv_url": "https://arxiv.org/abs/0807.2639",
+      "doi": null,
+      "doi_url": null,
+      "categories": [
+        "astro-ph",
+        "gr-qc",
+        "hep-th"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2008-07",
+      "status": "published",
+      "url": "https://arxiv.org/abs/0807.2639"
+    },
+    {
+      "title": "Does Planck mass run on the cosmological horizon scale?",
+      "authors": [
+        "Georg Robbers",
+        "Niayesh Afshordi",
+        "Michael Doran"
+      ],
+      "publication_date": "2008-03",
+      "arxiv_submitted_date": "2007-08-23",
+      "updated_date": "2007-08-23",
+      "year": 2008,
+      "publication_type": "journal-article",
+      "journal": "Phys. Rev. Lett. 100, 111101 (2008)",
+      "arxiv_id": "0708.3235",
+      "arxiv_url": "https://arxiv.org/abs/0708.3235",
+      "doi": "10.1103/physrevlett.100.111101",
+      "doi_url": "https://doi.org/10.1103/physrevlett.100.111101",
+      "categories": [
+        "astro-ph",
+        "gr-qc",
+        "hep-th"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2008-03",
+      "status": "published",
+      "url": "https://doi.org/10.1103/physrevlett.100.111101"
+    },
+    {
+      "title": "Cuscuton Cosmology: Dark Energy meets Modified Gravity",
+      "authors": [
+        "Niayesh Afshordi",
+        "Daniel J. H. Chung",
+        "Michael Doran",
+        "Ghazal Geshnizjani"
+      ],
+      "publication_date": "2007-06",
+      "arxiv_submitted_date": "2007-02-01",
+      "updated_date": "2007-05-11",
+      "year": 2007,
+      "publication_type": "journal-article",
+      "journal": "Phys. Rev. D 75, 123509 (2007)",
+      "arxiv_id": "astro-ph/0702002",
+      "arxiv_url": "https://arxiv.org/abs/astro-ph/0702002",
+      "doi": "10.1103/physrevd.75.123509",
+      "doi_url": "https://doi.org/10.1103/physrevd.75.123509",
+      "categories": [
+        "astro-ph",
+        "gr-qc",
+        "hep-ph",
+        "hep-th"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2007-06",
+      "status": "published",
+      "url": "https://doi.org/10.1103/physrevd.75.123509"
+    },
+    {
+      "title": "Missing Thermal Energy of the Intracluster Medium",
+      "authors": [
+        "Niayesh Afshordi",
+        "Yen-Ting Lin",
+        "Daisuke Nagai",
+        "Alastair J. R. Sanderson"
+      ],
+      "publication_date": "2007-06",
+      "arxiv_submitted_date": "2006-12-26",
+      "updated_date": "2007-03-23",
+      "year": 2007,
+      "publication_type": "journal-article",
+      "journal": "Mon. Not. Roy. Astron. Soc. 378, 293 (2007)",
+      "arxiv_id": "astro-ph/0612700",
+      "arxiv_url": "https://arxiv.org/abs/astro-ph/0612700",
+      "doi": "10.1111/j.1365-2966.2007.11776.x",
+      "doi_url": "https://doi.org/10.1111/j.1365-2966.2007.11776.x",
+      "categories": [
+        "astro-ph"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2007-06",
+      "status": "published",
+      "url": "https://doi.org/10.1111/j.1365-2966.2007.11776.x"
+    },
+    {
+      "title": "Cuscuton: A Causal Field Theory with an Infinite Speed of Sound",
+      "authors": [
+        "Niayesh Afshordi",
+        "Daniel J. H. Chung",
+        "Ghazal Geshnizjani"
+      ],
+      "publication_date": "2007-04",
+      "arxiv_submitted_date": "2006-09-21",
+      "updated_date": "2007-04-28",
+      "year": 2007,
+      "publication_type": "journal-article",
+      "journal": "Phys. Rev. D 75, 083513 (2007)",
+      "arxiv_id": "hep-th/0609150",
+      "arxiv_url": "https://arxiv.org/abs/hep-th/0609150",
+      "doi": "10.1103/physrevd.75.083513",
+      "doi_url": "https://doi.org/10.1103/physrevd.75.083513",
+      "categories": [
+        "hep-th",
+        "astro-ph",
+        "gr-qc",
+        "hep-ph"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2007-04",
+      "status": "published",
+      "url": "https://doi.org/10.1103/physrevd.75.083513"
+    },
+    {
+      "title": "How well can (renormalized) perturbation theory predict dark matter clustering properties?",
+      "authors": [
+        "Niayesh Afshordi"
+      ],
+      "publication_date": "2007-01",
+      "arxiv_submitted_date": "2006-10-11",
+      "updated_date": "2006-11-02",
+      "year": 2007,
+      "publication_type": "journal-article",
+      "journal": "Phys. Rev. D 75, 021302 (2007)",
+      "arxiv_id": "astro-ph/0610336",
+      "arxiv_url": "https://arxiv.org/abs/astro-ph/0610336",
+      "doi": "10.1103/physrevd.75.021302",
+      "doi_url": "https://doi.org/10.1103/physrevd.75.021302",
+      "categories": [
+        "astro-ph"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2007-01",
+      "status": "published",
+      "url": "https://doi.org/10.1103/physrevd.75.021302"
+    },
+    {
+      "title": "Intracluster Medium through three years of WMAP",
+      "authors": [
+        "Niayesh Afshordi"
+      ],
+      "publication_date": "2006-12",
+      "arxiv_submitted_date": "2006-08-23",
+      "updated_date": "2006-08-23",
+      "year": 2006,
+      "publication_type": "journal-article",
+      "journal": "New Astron. Rev. 50, 905 (2006)",
+      "arxiv_id": "astro-ph/0608503",
+      "arxiv_url": "https://arxiv.org/abs/astro-ph/0608503",
+      "doi": "10.1016/j.newar.2006.09.022",
+      "doi_url": "https://doi.org/10.1016/j.newar.2006.09.022",
+      "categories": [
+        "astro-ph"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2006-12",
+      "status": "published",
+      "url": "https://doi.org/10.1016/j.newar.2006.09.022"
+    },
+    {
+      "title": "CMB Constraints on the Intracluster Medium",
+      "authors": [
+        "Niayesh Afshordi"
+      ],
+      "publication_date": "2006-05",
+      "arxiv_submitted_date": null,
+      "updated_date": null,
+      "year": 2006,
+      "publication_type": "conference-paper",
+      "journal": "External Correlations of the CMB and Cosmology",
+      "arxiv_id": null,
+      "arxiv_url": null,
+      "doi": null,
+      "doi_url": null,
+      "categories": [],
+      "sources": [
+        "ORCID"
+      ],
+      "date": "2006-05",
+      "status": "published",
+      "url": null
+    },
+    {
+      "title": "Growth of Hydrodynamic Perturbations in Accretion Disks: Possible Route to Non-Magnetic Turbulence",
+      "authors": [
+        "Banibrata Mukhopadhyay",
+        "Niayesh Afshordi",
+        "Ramesh Narayan"
+      ],
+      "publication_date": "2006-01",
+      "arxiv_submitted_date": "2005-07-02",
+      "updated_date": "2005-07-02",
+      "year": 2006,
+      "publication_type": "journal-article",
+      "journal": "Advances in Space Research",
+      "arxiv_id": "astro-ph/0507046",
+      "arxiv_url": "https://arxiv.org/abs/astro-ph/0507046",
+      "doi": "10.1016/j.asr.2005.09.048",
+      "doi_url": "https://doi.org/10.1016/j.asr.2005.09.048",
+      "categories": [
+        "astro-ph",
+        "cond-mat.soft",
+        "cond-mat.stat-mech",
+        "physics.flu-dyn"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2006-01",
+      "status": "published",
+      "url": "https://doi.org/10.1016/j.asr.2005.09.048"
+    },
+    {
+      "title": "On the stability of Dark Energy with Mass-Varying Neutrinos",
+      "authors": [
+        "Niayesh Afshordi",
+        "Matias Zaldarriaga",
+        "Kazunori Kohri"
+      ],
+      "publication_date": "2005-09",
+      "arxiv_submitted_date": "2005-06-27",
+      "updated_date": "2005-06-27",
+      "year": 2005,
+      "publication_type": "journal-article",
+      "journal": "Phys. Rev. D 72, 065024 (2005)",
+      "arxiv_id": "astro-ph/0506663",
+      "arxiv_url": "https://arxiv.org/abs/astro-ph/0506663",
+      "doi": "10.1103/physrevd.72.065024",
+      "doi_url": "https://doi.org/10.1103/physrevd.72.065024",
+      "categories": [
+        "astro-ph",
+        "hep-ph",
+        "hep-th"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2005-09",
+      "status": "published",
+      "url": "https://doi.org/10.1103/physrevd.72.065024"
+    },
+    {
+      "title": "Bypass to Turbulence in Hydrodynamic Accretion: Lagrangian Analysis of Energy Growth",
+      "authors": [
+        "Niayesh Afshordi",
+        "Banibrata Mukhopadhyay",
+        "Ramesh Narayan"
+      ],
+      "publication_date": "2005-08",
+      "arxiv_submitted_date": "2004-12-08",
+      "updated_date": "2005-04-28",
+      "year": 2005,
+      "publication_type": "journal-article",
+      "journal": "Astrophys. J. 629, 373 (2005)",
+      "arxiv_id": "astro-ph/0412194",
+      "arxiv_url": "https://arxiv.org/abs/astro-ph/0412194",
+      "doi": "10.1086/431418",
+      "doi_url": "https://doi.org/10.1086/431418",
+      "categories": [
+        "astro-ph",
+        "physics.flu-dyn"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2005-08",
+      "status": "published",
+      "url": "https://doi.org/10.1086/431418"
+    },
+    {
+      "title": "Bypass to Turbulence in Hydrodynamic Accretion Disks: An Eigenvalue Approach",
+      "authors": [
+        "Banibrata Mukhopadhyay",
+        "Niayesh Afshordi",
+        "Ramesh Narayan"
+      ],
+      "publication_date": "2005-08",
+      "arxiv_submitted_date": "2004-12-08",
+      "updated_date": "2005-04-28",
+      "year": 2005,
+      "publication_type": "journal-article",
+      "journal": "Astrophys. J. 629, 383 (2005)",
+      "arxiv_id": "astro-ph/0412193",
+      "arxiv_url": "https://arxiv.org/abs/astro-ph/0412193",
+      "doi": "10.1086/431419",
+      "doi_url": "https://doi.org/10.1086/431419",
+      "categories": [
+        "astro-ph",
+        "cond-mat.soft",
+        "cond-mat.stat-mech",
+        "physics.flu-dyn"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2005-08",
+      "status": "published",
+      "url": "https://doi.org/10.1086/431419"
+    },
+    {
+      "title": "WMAP constraints on the Intra-Cluster Medium",
+      "authors": [
+        "Niayesh Afshordi",
+        "Yen-Ting Lin",
+        "Alastair J. R. Sanderson"
+      ],
+      "publication_date": "2005-08",
+      "arxiv_submitted_date": "2004-08-30",
+      "updated_date": "2005-04-28",
+      "year": 2005,
+      "publication_type": "journal-article",
+      "journal": "Astrophys. J. 629, 1 (2005)",
+      "arxiv_id": "astro-ph/0408560",
+      "arxiv_url": "https://arxiv.org/abs/astro-ph/0408560",
+      "doi": "10.1086/431274",
+      "doi_url": "https://doi.org/10.1086/431274",
+      "categories": [
+        "astro-ph"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2005-08",
+      "status": "published",
+      "url": "https://doi.org/10.1086/431274"
+    },
+    {
+      "title": "Do Large-Scale Inhomogeneities Explain Away Dark Energy?",
+      "authors": [
+        "Ghazal Geshnizjani",
+        "Daniel J. H. Chung",
+        "Niayesh Afshordi"
+      ],
+      "publication_date": "2005-07",
+      "arxiv_submitted_date": "2005-03-25",
+      "updated_date": "2005-08-10",
+      "year": 2005,
+      "publication_type": "journal-article",
+      "journal": "Phys. Rev. D 72, 023517 (2005)",
+      "arxiv_id": "astro-ph/0503553",
+      "arxiv_url": "https://arxiv.org/abs/astro-ph/0503553",
+      "doi": "10.1103/physrevd.72.023517",
+      "doi_url": "https://doi.org/10.1103/physrevd.72.023517",
+      "categories": [
+        "astro-ph",
+        "gr-qc",
+        "hep-ph",
+        "hep-th"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2005-07",
+      "status": "published",
+      "url": "https://doi.org/10.1103/physrevd.72.023517"
+    },
+    {
+      "title": "CMB B-mode polarization from Thomson scattering in the local universe",
+      "authors": [
+        "Christopher M. Hirata",
+        "Abraham Loeb",
+        "Niayesh Afshordi"
+      ],
+      "publication_date": "2005-03",
+      "arxiv_submitted_date": "2005-01-10",
+      "updated_date": "2005-01-10",
+      "year": 2005,
+      "publication_type": "journal-article",
+      "journal": "Phys. Rev. D 71, 063531 (2005)",
+      "arxiv_id": "astro-ph/0501167",
+      "arxiv_url": "https://arxiv.org/abs/astro-ph/0501167",
+      "doi": "10.1103/physrevd.71.063531",
+      "doi_url": "https://doi.org/10.1103/physrevd.71.063531",
+      "categories": [
+        "astro-ph"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2005-03",
+      "status": "published",
+      "url": "https://doi.org/10.1103/physrevd.71.063531"
+    },
+    {
+      "title": "Coarse-Grained Back Reaction in Single Scalar Field Driven Inflation",
+      "authors": [
+        "Ghazal Geshnizjani",
+        "Niayesh Afshordi"
+      ],
+      "publication_date": "2005-01",
+      "arxiv_submitted_date": "2004-05-21",
+      "updated_date": "2004-05-21",
+      "year": 2005,
+      "publication_type": "journal-article",
+      "journal": "JCAP 01, 011 (2005)",
+      "arxiv_id": "gr-qc/0405117",
+      "arxiv_url": "https://arxiv.org/abs/gr-qc/0405117",
+      "doi": "10.1088/1475-7516/2005/01/011",
+      "doi_url": "https://doi.org/10.1088/1475-7516/2005/01/011",
+      "categories": [
+        "gr-qc",
+        "astro-ph",
+        "hep-ph",
+        "hep-th"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2005-01",
+      "status": "published",
+      "url": "https://doi.org/10.1088/1475-7516/2005/01/011"
+    },
+    {
+      "title": "Integrated Sachs-Wolfe effect in Cross-Correlation: The Observer's Manual",
+      "authors": [
+        "Niayesh Afshordi"
+      ],
+      "publication_date": "2004-10",
+      "arxiv_submitted_date": "2004-01-09",
+      "updated_date": "2004-10-11",
+      "year": 2004,
+      "publication_type": "journal-article",
+      "journal": "Phys. Rev. D 70, 083536 (2004)",
+      "arxiv_id": "astro-ph/0401166",
+      "arxiv_url": "https://arxiv.org/abs/astro-ph/0401166",
+      "doi": "10.1103/physrevd.70.083536",
+      "doi_url": "https://doi.org/10.1103/physrevd.70.083536",
+      "categories": [
+        "astro-ph",
+        "gr-qc",
+        "hep-ph",
+        "hep-th"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2004-10",
+      "status": "published",
+      "url": "https://doi.org/10.1103/physrevd.70.083536"
+    },
+    {
+      "title": "Hydrodynamic Turbulence in Accretion Disks",
+      "authors": [
+        "Banibrata Mukhopadhyay",
+        "Niayesh Afshordi",
+        "Ramesh Narayan"
+      ],
+      "publication_date": "2004",
+      "arxiv_submitted_date": "2005-01-21",
+      "updated_date": "2005-01-21",
+      "year": 2004,
+      "publication_type": "preprint",
+      "journal": "eConf C041213, 1609 (2004)",
+      "arxiv_id": "astro-ph/0501468",
+      "arxiv_url": "https://arxiv.org/abs/astro-ph/0501468",
+      "doi": null,
+      "doi_url": null,
+      "categories": [
+        "astro-ph"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2004",
+      "status": "published",
+      "url": "https://arxiv.org/abs/astro-ph/0501468"
+    },
+    {
+      "title": "Cross-Correlation of the Cosmic Microwave Background with the 2MASS Galaxy Survey: Signatures of Dark Energy, Hot Gas, and Point Sources",
+      "authors": [
+        "Niayesh Afshordi",
+        "Yeong-Shang Loh",
+        "Michael A. Strauss"
+      ],
+      "publication_date": "2003-12",
+      "arxiv_submitted_date": "2003-08-15",
+      "updated_date": "2004-02-03",
+      "year": 2003,
+      "publication_type": "journal-article",
+      "journal": "Phys. Rev. D 69, 083524 (2004)",
+      "arxiv_id": "astro-ph/0308260",
+      "arxiv_url": "https://arxiv.org/abs/astro-ph/0308260",
+      "doi": "10.1103/physrevd.69.083524",
+      "doi_url": "https://doi.org/10.1103/physrevd.69.083524",
+      "categories": [
+        "astro-ph"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2003-12",
+      "status": "published",
+      "url": "https://doi.org/10.1103/physrevd.69.083524"
+    },
+    {
+      "title": "Cross-Correlating the CMB with Large-Scale Structure",
+      "authors": [
+        "Niayesh Afshordi"
+      ],
+      "publication_date": "2003-12",
+      "arxiv_submitted_date": null,
+      "updated_date": null,
+      "year": 2003,
+      "publication_type": "conference-paper",
+      "journal": "KITP: Astrophysics Seminars",
+      "arxiv_id": null,
+      "arxiv_url": null,
+      "doi": null,
+      "doi_url": null,
+      "categories": [],
+      "sources": [
+        "ORCID"
+      ],
+      "date": "2003-12",
+      "status": "published",
+      "url": null
+    },
+    {
+      "title": "Primordial Black Holes as Dark Matter: The Power Spectrum and Evaporation of Early Structures",
+      "authors": [
+        "N. Afshordi",
+        "P. McDonald",
+        "D. N. Spergel"
+      ],
+      "publication_date": "2003-09",
+      "arxiv_submitted_date": "2003-02-03",
+      "updated_date": "2003-02-03",
+      "year": 2003,
+      "publication_type": "journal-article",
+      "journal": "Astrophys. J. Lett. 594, L71 (2003)",
+      "arxiv_id": "astro-ph/0302035",
+      "arxiv_url": "https://arxiv.org/abs/astro-ph/0302035",
+      "doi": "10.1086/378763",
+      "doi_url": "https://doi.org/10.1086/378763",
+      "categories": [
+        "astro-ph",
+        "gr-qc",
+        "hep-ph"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2003-09",
+      "status": "published",
+      "url": "https://doi.org/10.1086/378763"
+    },
+    {
+      "title": "Physical Evidence for Dark Energy",
+      "authors": [
+        "R. Scranton",
+        "A. J. Connolly",
+        "R. C. Nichol",
+        "A. Stebbins",
+        "I. Szapudi",
+        "D. J. Eisenstein",
+        "N. Afshordi",
+        "T. Budavari",
+        "I. Csabai",
+        "J. A. Frieman",
+        "J. E. Gunn",
+        "D. Johnston",
+        "Y. Loh",
+        "R. H. Lupton",
+        "C. J. Miller",
+        "E. S. Sheldon",
+        "R. S. Sheth",
+        "A. S. Szalay",
+        "M. Tegmark",
+        "Y. Xu"
+      ],
+      "publication_date": "2003-07",
+      "arxiv_submitted_date": "2003-07-18",
+      "updated_date": "2003-07-20",
+      "year": 2003,
+      "publication_type": "preprint",
+      "journal": "ArXiv e-prints",
+      "arxiv_id": "astro-ph/0307335",
+      "arxiv_url": "https://arxiv.org/abs/astro-ph/0307335",
+      "doi": null,
+      "doi_url": null,
+      "categories": [
+        "astro-ph",
+        "hep-ex"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2003-07",
+      "status": "published",
+      "url": "https://arxiv.org/abs/astro-ph/0307335"
+    },
+    {
+      "title": "Geometrically Thin Disk Accreting Into a Black Hole",
+      "authors": [
+        "Niayesh Afshordi",
+        "Bohdan Paczynski"
+      ],
+      "publication_date": "2003-07",
+      "arxiv_submitted_date": "2002-02-22",
+      "updated_date": "2003-09-04",
+      "year": 2003,
+      "publication_type": "journal-article",
+      "journal": "Astrophys. J. 592, 354 (2003)",
+      "arxiv_id": "astro-ph/0202409",
+      "arxiv_url": "https://arxiv.org/abs/astro-ph/0202409",
+      "doi": "10.1086/375559",
+      "doi_url": "https://doi.org/10.1086/375559",
+      "categories": [
+        "astro-ph"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2003-07",
+      "status": "published",
+      "url": "https://doi.org/10.1086/375559"
+    },
+    {
+      "title": "Cyclotron Emission and Thermalization of the CMB Spectrum",
+      "authors": [
+        "Niayesh Afshordi"
+      ],
+      "publication_date": "2002-02",
+      "arxiv_submitted_date": "2002-02-04",
+      "updated_date": "2002-02-04",
+      "year": 2002,
+      "publication_type": "preprint",
+      "journal": "ArXiv e-prints",
+      "arxiv_id": "astro-ph/0202082",
+      "arxiv_url": "https://arxiv.org/abs/astro-ph/0202082",
+      "doi": null,
+      "doi_url": null,
+      "categories": [
+        "astro-ph",
+        "gr-qc",
+        "hep-ph"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2002-02",
+      "status": "published",
+      "url": "https://arxiv.org/abs/astro-ph/0202082"
+    },
+    {
+      "title": "Mass-Temperature Relation of Galaxy Clusters: A Theoretical Study",
+      "authors": [
+        "Niayesh Afshordi",
+        "Renyue Cen"
+      ],
+      "publication_date": "2002-01",
+      "arxiv_submitted_date": "2001-05-02",
+      "updated_date": "2001-09-28",
+      "year": 2002,
+      "publication_type": "journal-article",
+      "journal": "Astrophys. J. 564, 669 (2002)",
+      "arxiv_id": "astro-ph/0105020",
+      "arxiv_url": "https://arxiv.org/abs/astro-ph/0105020",
+      "doi": "10.1086/324282",
+      "doi_url": "https://doi.org/10.1086/324282",
+      "categories": [
+        "astro-ph"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2002-01",
+      "status": "published",
+      "url": "https://doi.org/10.1086/324282"
+    },
+    {
+      "title": "Super-Hubble Nonlinear Perturbations During Inflation",
+      "authors": [
+        "Niayesh Afshordi",
+        "Robert Brandenberger"
+      ],
+      "publication_date": "2001-06",
+      "arxiv_submitted_date": "2000-11-22",
+      "updated_date": "2001-04-11",
+      "year": 2001,
+      "publication_type": "journal-article",
+      "journal": "Phys. Rev. D 63, 123505 (2001)",
+      "arxiv_id": "gr-qc/0011075",
+      "arxiv_url": "https://arxiv.org/abs/gr-qc/0011075",
+      "doi": "10.1103/physrevd.63.123505",
+      "doi_url": "https://doi.org/10.1103/physrevd.63.123505",
+      "categories": [
+        "gr-qc",
+        "astro-ph",
+        "hep-ph",
+        "hep-th"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "2001-06",
+      "status": "published",
+      "url": "https://doi.org/10.1103/physrevd.63.123505"
+    },
+    {
+      "title": "A Dynamical Approach to a Self-similar Universe",
+      "authors": [
+        "E. Abdalla",
+        "N. Afshordi",
+        "K. Khodjasteh",
+        "R. Mohayaee"
+      ],
+      "publication_date": "1999",
+      "arxiv_submitted_date": "1998-03-17",
+      "updated_date": "1998-03-17",
+      "year": 1999,
+      "publication_type": "journal-article",
+      "journal": "Astron. Astrophys. 345, 22 (1999)",
+      "arxiv_id": "astro-ph/9803187",
+      "arxiv_url": "https://arxiv.org/abs/astro-ph/9803187",
+      "doi": null,
+      "doi_url": null,
+      "categories": [
+        "astro-ph",
+        "gr-qc",
+        "hep-ph",
+        "hep-th"
+      ],
+      "sources": [
+        "INSPIRE",
+        "ORCID",
+        "arXiv"
+      ],
+      "date": "1999",
+      "status": "published",
+      "url": "https://arxiv.org/abs/astro-ph/9803187"
+    }
+  ]
+}
