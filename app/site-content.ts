@@ -256,7 +256,7 @@ export const currentPeople: GroupMember[] = [
 ];
 
 const cvAlumniAdditions: GroupMember[] = [
-  { name: "Nabeel Rasheed", role: "Undergraduate researcher", years: "2023–2025", research: "Analytic gravitational-waveform templates.", destination: "PhD student, Massachusetts Institute of Technology.", profileHref: "https://uwaterloo.ca/institute-for-quantum-computing/contacts/nabeel-rasheed" },
+  { name: "Nabeel Rasheed", role: "Undergraduate researcher", years: "2023–2025", research: "Analytic gravitational-waveform templates.", destination: "PhD student, Massachusetts Institute of Technology.", image: "/images/nabeel-rasheed.png", profileHref: "https://www.linkedin.com/in/nrashee/" },
   { name: "Ruijing Tang", role: "BSc researcher", years: "2023–2025", research: "Teleparallel Born–Infeld gravity and accretion-disk dynamics.", destination: "Former group member." },
   { name: "Saral Shah", role: "Bachelor’s Honours researcher", years: "2024–2025", research: "Dynamical friction in a neutrino sea.", destination: "Former group member.", profileHref: "https://ca.linkedin.com/in/saral-shah" },
   { name: "Lyvia Yanover", role: "Bachelor’s Honours researcher", years: "2024–2025", research: "The bi-thermal Big Bang.", destination: "Former group member.", profileHref: "https://uwaterloo.ca/astrophysics-centre/contacts/lyvia-yanover" },
