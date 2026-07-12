@@ -14,6 +14,7 @@ const fixedRoutes = [
   "/",
   "/research/",
   "/group/",
+  "/papers/",
   "/publications/",
   "/talks/",
   "/news/",
@@ -103,5 +104,6 @@ const notFound = `<!doctype html>
 <body><main class="content-page"><h1>Page not found</h1><p>The requested page is not in the archive.</p><p><a class="button" href="/">Return home</a></p></main></body></html>`;
 await writeFile(path.join(outputRoot, "404.html"), notFound, "utf8");
 await writeFile(path.join(outputRoot, ".nojekyll"), "", "utf8");
+await writeFile(path.join(outputRoot, "CNAME"), "nafshordi.com\n", "utf8");
 
 console.log(JSON.stringify({ output: outputRoot, routes: routes.length }, null, 2));

@@ -85,7 +85,7 @@ export default function Home() {
       <section className="split-section section-pad">
         <div className="paper-card">
           <p className="eyebrow">PUBLICATIONS</p>
-          <h2><Link className="paper-card-title-link" href="/papers">Research papers &amp; preprints <span>↗</span></Link></h2>
+          <h2><Link className="paper-card-title-link" href="/publications">Research papers &amp; preprints <span>↗</span></Link></h2>
           <p>
             Browse a complete scholarly record through the field&apos;s leading
             indexes, or explore selected work in the research archive.

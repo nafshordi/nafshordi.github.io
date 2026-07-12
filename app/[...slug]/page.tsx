@@ -237,7 +237,7 @@ function PublicationsPage() {
   return <>
     <PageHero title="Papers"><p>Publications, preprints, and research records.</p></PageHero>
     <div className="content-page">
-      <p className="notice">{publicationsData.total_count} works, refreshed {publicationsData.generated_at}. The baseline is the complete arXiv author query, enriched and deduplicated with INSPIRE and ORCID, then cross-checked against Google Scholar. Scholar remains linked for citation counts and discovery; duplicate, translated, chapter-level, and non-paper records are not allowed to inflate the publication list.</p>
+      <p className="notice">Refreshed {publicationsData.generated_at}.</p>
       <div className="profile-links">{externalProfiles.map((profile) => <a href={profile.href} key={profile.label} target="_blank" rel="noreferrer">{profile.label} ↗</a>)}</div>
       <h2>Complete publication record</h2>
       <div className="publication-years">{Object.entries(groups).sort(([a], [b]) => Number(b) - Number(a)).map(([year, publications]) => <details key={year} open={Number(year) >= 2025}>
@@ -400,7 +400,7 @@ export default async function CatchAllPage({ params }: { params: Promise<{ slug:
 
   if (slug.length === 1 && slug[0] === "research") body = <ResearchPage />;
   else if (slug.length === 1 && slug[0] === "group") body = <PeoplePage />;
-  else if (slug.length === 1 && slug[0] === "publications") body = <PublicationsPage />;
+  else if (slug.length === 1 && (slug[0] === "publications" || slug[0] === "papers")) body = <PublicationsPage />;
   else if (slug.length === 1 && slug[0] === "talks") body = <TalksPage />;
   else if (slug.length === 1 && slug[0] === "news") body = <NewsPage />;
   else if (slug.length === 1 && slug[0] === "updates") body = <UpdatesPage />;
