@@ -60,6 +60,9 @@ h2 { font-size: clamp(2.4rem, 4.2vw, 4.6rem); font-weight: 400; letter-spacing: 
 .split-section { display: grid; gap: 1.5rem; grid-template-columns: 1fr 1fr; }
 .paper-card, .people-card { min-height: 400px; padding: clamp(2rem, 4vw, 4rem); }
 .paper-card { background: #e5e8e3; }
+.paper-card-title-link { color: inherit; text-decoration: none; }
+.paper-card-title-link span { color: var(--signal); font-family: Arial, Helvetica, sans-serif; font-size: .55em; }
+.paper-card-title-link:hover, .paper-card-title-link:focus-visible { color: var(--signal); text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: .14em; }
 .people-card { background: var(--signal); color: white; }
 .people-card .eyebrow { color: var(--ink); }
 .people-card ul { border-top: 1px solid rgba(255,255,255,.45); list-style: none; margin: 2rem 0; padding: 0; }
@@ -177,7 +180,6 @@ h2 { font-size: clamp(2.4rem, 4.2vw, 4.6rem); font-weight: 400; letter-spacing: 
 .person-card h3 a:hover, .person-card h3 a:focus-visible { color: var(--signal); text-decoration: underline; text-underline-offset: .12em; }
 .person-card p { font-size: .86rem; line-height: 1.45; margin: .45rem 0; }
 .person-destination { color: var(--slate); }
-.person-verification { border-top: 1px solid rgba(65,82,109,.25); color: #7c3f2f; font-family: Arial, Helvetica, sans-serif; font-size: .68rem !important; margin-top: .8rem !important; padding-top: .65rem; }
 .archive-tools { align-items: center; background: #e5e8e3; display: flex; flex-wrap: wrap; gap: 1.1rem 1.6rem; justify-content: space-between; margin: 2rem 0; padding: 1.3rem; }
 .archive-tools span { font-family: Arial, Helvetica, sans-serif; font-size: .73rem; font-weight: 700; letter-spacing: .04em; text-transform: uppercase; }
 .archive-actions { display: flex; flex-wrap: wrap; gap: .65rem; }

@@ -211,7 +211,6 @@ function PersonCard({ person }: { person: (typeof currentPeople)[number] }) {
       <p><strong>{person.years}</strong></p>
       <p>{person.research}</p>
       <p className="person-destination">{person.destination}</p>
-      {person.verification ? <p className="person-verification">Verification requested: {person.verification}</p> : null}
     </div>
   </article>;
 }
