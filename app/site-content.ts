@@ -685,7 +685,7 @@ export const battleOfBigBang = {
   ],
   interviews: [
     { date: "June 2026", title: "Audiobook Preview — Google Play Books", href: "https://www.youtube.com/watch?v=ybBwC_Nd1rc&t=2113s" },
-    { date: "November 2025", title: "Harvard Science Book Talk — in conversation with Lisa Randall", href: "https://www.youtube.com/watch?v=6UmxNlC7oAk&t=1580s", thumbnail: "/images/niayesh-afshordi-hero.png" },
+    { date: "November 2025", title: "Harvard Science Book Talk", href: "https://www.youtube.com/watch?v=6UmxNlC7oAk&t=1580s", thumbnail: "/images/niayesh-afshordi-hero.png" },
     { date: "June 2025", title: "What Really Happened During the Big Bang? — Royal Institution", href: "https://youtu.be/Tx0net82eTo" },
     { date: "August 2025", title: "What Came Before the Big Bang? — Alex O'Connor interview", href: "https://youtu.be/rscDW-l8N0Q" },
     { date: "June 2025", title: "Public Lecture Livestream — Perimeter Institute", href: "https://www.youtube.com/watch?v=ns4OHQjHreE&t=1s" },
