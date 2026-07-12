@@ -643,6 +643,11 @@ export const talksArchiveUrl = "/talks/#historical-talks";
 
 export const recentUpdates = [
   {
+    date: "May 2026",
+    title: "Big Mysteries Survey: Physicists' Views on the Deepest Questions",
+    href: "/news",
+  },
+  {
     date: "March 2025",
     title: "Join Me at the Royal Institution — Battle of the Big Bang",
     href: "/2025/03/25/join-me-at-the-royal-institution-on-june-28-battle-of-the-big-bang/",
@@ -710,6 +715,20 @@ export const externalProfiles = [
 ];
 
 export const recentMediaCoverage = [
+  {
+    year: "2026",
+    title: "Largest-ever survey of physicists puts Standard Model of cosmology under scrutiny",
+    detail: "Big Mysteries Survey with APS Physics Magazine; Perimeter Institute and University of Waterloo news, May 2026",
+    href: "https://perimeterinstitute.ca/news/largest-ever-survey-physicists-puts-standard-model-cosmology-under-scrutiny",
+    image: "/images/niayesh-afshordi-hero.png",
+  },
+  {
+    year: "2026",
+    title: "Big Mysteries Survey dashboard",
+    detail: "Interactive results for physicists' views on cosmology, black holes, quantum mechanics, and quantum gravity",
+    href: "https://nafshordi.github.io/aps-dashboard/",
+    image: "/media/2025/05/image.png",
+  },
   {
     year: "2026",
     title: "New theory reshapes quantum view of Big Bang",
