@@ -309,7 +309,7 @@ function BattleOfBigBangPage() {
         <div className="book-video-grid">{battleOfBigBang.interviews.map((interview) => {
           const url = new URL(interview.href);
           const videoId = url.hostname.endsWith("youtu.be") ? url.pathname.slice(1) : (url.searchParams.get("v") ?? "");
-          return <a className="book-video-card" href={interview.href} key={interview.href} target="_blank" rel="noreferrer"><img src={`https://i.ytimg.com/vi/${videoId}/hqdefault.jpg`} alt="" loading="lazy" decoding="async" /><span>{interview.date}</span><strong>{interview.title} ↗</strong></a>;
+          return <a className="book-video-card" href={interview.href} key={interview.href} target="_blank" rel="noreferrer"><img src={interview.thumbnail ?? `https://i.ytimg.com/vi/${videoId}/hqdefault.jpg`} alt="" loading="lazy" decoding="async" /><span>{interview.date}</span><strong>{interview.title} ↗</strong></a>;
         })}</div>
       </section>
     </div>
