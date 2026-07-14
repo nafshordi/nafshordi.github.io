@@ -109,6 +109,7 @@ function Content({ html }: { html: string }) {
     .replaceAll("https://k9f7a9j9.rocketcdn.me/wp-content/uploads/2022/01/Two_merging_black_holes.png", "/media/2017/01/mergingblackholes_v2-1.jpg")
     .replaceAll("https://images.ctfassets.net/cnu0m8re1exe/6HUsrqzZmdpXeKRIFIujBw/d4934c52b35c39602a9a9ab08335bb8a/Black_Hole_Diagram_-_Mackey_Discover.png", "/media/2017/01/ligo20160211d-1200x675.jpg")
     .replaceAll("https://d2r55xnwy6nx47.cloudfront.net/uploads/2018/03/BlackHoleEchoes_2880x1620.jpg", "/media/2018/03/blackholeechoes_2880x1620-2880x1620.jpg")
+    .replace(/https:\/\/scontent\.fyto1-1\.fna\.fbcdn\.net\/v\/t31\.0-8\/25542583_1997251716968158_493117777181464894_o\.jpg\?[^"\s<]+/g, "/media/2019/06/img-7944.jpg")
     .replace(/<figure class="wp-block-image aligncenter is-resized"><a href="http:\/\/backreaction\.blogspot\.ca\/2016\/02\/much-ado-around-nothing-cosmological\.html\?spref=tw"><img src="http:\/\/fias\.uni-frankfurt\.de\/~hossi\/Bilder\/BR\/lambda_large\.jpg" alt="" style="width:309px;height:307px" \/><\/a><\/figure>/, '<p class="archived-figure-note">The original illustration for this 2016 clipping is no longer supplied by its host; the article link above is retained.</p>')
     .replaceAll("/welcome/covid/", "/covid/")
     .replaceAll("/welcome/my-group/photo-2/", "/group#jahed-abedi")
