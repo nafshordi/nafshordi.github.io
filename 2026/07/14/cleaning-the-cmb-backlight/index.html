@@ -1,0 +1,96 @@
+<!DOCTYPE html><html lang="en"><head><meta charSet="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1"/><link rel="stylesheet" href="/assets/index-PHYgVxZD.css"/><title>Niayesh Afshordi | Astrophysics, Cosmology, and Gravity</title><meta name="description" content="Research, people, papers, talks, and writing by astrophysicist Niayesh Afshordi."/><link rel="shortcut icon" href="/favicon.svg"/><link rel="icon" href="/favicon.svg"/></head><body><div class="site-shell"><header class="site-header"><a href="/" class="wordmark" aria-label="Niayesh Afshordi home"><span>Niayesh</span> Afshordi</a><nav aria-label="Primary navigation"><a href="/research">Research</a><a href="/group">People</a><a href="/publications">Papers</a><a href="/talks">Talks &amp; Outreach</a><a href="/news">News &amp; Media</a><a href="/battle-of-the-big-bang">Book</a><a href="/updates">Writing</a><a href="/cv">CV</a></nav></header><main><section class="page-hero"><h1>Cleaning the CMB Backlight</h1><p>2026-07-14</p></section><div class="content-page"><article class="writing-post">
+<p class="writing-dek">The hidden gas between galaxies is hard to see. It is even harder to clean.</p>
+
+<p>Most of the ordinary matter in the universe is not in stars, planets, or the cold gas that lights up galaxies. Cosmology tells us how much ordinary matter, or baryonic matter, should have been made in the early universe. But when we count what is easily visible today, a large fraction is hard to find.</p>
+
+<p>This is not because the matter is exotic. It is probably mostly ordinary gas. The difficulty is that much of it is spread thinly through and around galaxies, groups, clusters, and the cosmic web. It can be hot enough to matter dynamically, but too diffuse to shine brightly. So one of the persistent questions in observational cosmology is deceptively simple:</p>
+
+<blockquote>Where is the hot gas?</blockquote>
+
+<p>One of the best ways to look for it is not to look for the gas shining by itself, but to look for how it changes the oldest light in the universe.</p>
+
+<p>The cosmic microwave background, or CMB, reaches us from the early universe after travelling for almost 14 billion years. Along the way, some of its photons pass through hot ionized gas. When they scatter off energetic electrons, their spectrum is shifted in a characteristic way. This is the thermal Sunyaev-Zel'dovich effect, usually abbreviated as tSZ. In simple terms, the CMB becomes a backlight, and hot electrons leave a shadow-like spectral fingerprint on it.</p>
+
+<p>For massive galaxy clusters, this method is now a standard tool. Clusters contain dense reservoirs of hot plasma, and their tSZ signal can be strong. The harder, and in many ways more interesting, regime is lower-mass galaxies and groups. That is where the gas is fainter, more extended, more affected by feedback, and more easily confused with everything else in the microwave sky.</p>
+
+<p>Our new paper, <a href="https://arxiv.org/abs/2606.28099" target="_blank" rel="noreferrer"><em>Thermal Sunyaev-Zel'dovich cross-correlations with unWISE galaxies: disentangling radio contamination, dust properties, and electron pressure</em> ↗</a>, is about this hard regime. The work was led by Guandi Zhao, with Alex Krolewski and me. Guandi carried out the demanding multi-frequency analysis that made it possible to distinguish the overlapping signals. Alex's expertise with the unWISE galaxy samples and their connection to dark matter haloes was essential for turning the cleaned maps into a physical measurement of gas around galaxies.</p>
+
+<p>The method is to cross-correlate maps of the microwave sky with maps of galaxies. A single low-mass halo is too faint to see cleanly in tSZ. But if we know where many galaxies are, we can ask whether the CMB has a statistically consistent tSZ imprint at those positions. The galaxy catalogue we use is based on unWISE, which gives wide-area infrared-selected galaxy samples. The microwave maps come from Planck and the Atacama Cosmology Telescope, ACT. Planck gives broad frequency coverage. ACT gives high angular resolution. Together they are a powerful pair.</p>
+
+<p>But the main lesson of the paper is that the hard part is not only measuring a weak signal. The hard part is knowing what else is being measured at the same time.</p>
+
+<p>At the relevant frequencies, the microwave sky contains more than tSZ. Dusty star-forming galaxies contribute to the cosmic infrared background. Radio emission from galaxies can also correlate with the same structures we are using as tracers. These foregrounds are not just random noise. They can be spatially correlated with the galaxies whose hot gas we are trying to measure. If we ignore them, we do not simply get a noisier answer. We can get the wrong answer.</p>
+
+<p>In fact, without explicitly modelling radio contamination, the recovered galaxy-tSZ cross-correlation can look suppressed, or even become apparently negative on small angular scales. A negative pressure signal is not the physical interpretation one wants for hot gas around galaxies. It is a warning sign that the cleaning procedure is absorbing, mixing, or misassigning components.</p>
+
+<p>The central result of the paper is that the data prefer a three-component model: tSZ, radio emission, and a cosmic-infrared-background amplitude term. Using the nine Planck frequency bands, this radio-inclusive model is strongly preferred over a model that omits radio contamination. Once that lesson from Planck is carried into the higher-resolution ACT plus Planck maps, the apparent negative small-scale galaxy-tSZ signal disappears. The cleaned spectra remain positive to small angular scales and can be interpreted with a conventional halo model and an electron-pressure profile.</p>
+
+<figure class="writing-money-plot">
+  <img src="/images/writing/act-planck-unwise-component-separation-low-z.png" alt="Four-panel comparison of low-redshift unWISE cross-correlations with ACT and Planck component-separated maps" loading="lazy" decoding="async" />
+  <figcaption><strong>The foreground model changes the physical answer.</strong> The key comparison is in the upper-left panel. The orange curve, which models tSZ, radio emission, and infrared-background amplitude together, remains positive on small angular scales. The purple and blue curves, which do not adequately account for the radio contribution, turn negative beyond roughly multipole 2,000. The other panels track the radio and infrared components that have to be separated from the hot-gas signal. Figure from Zhao, Krolewski &amp; Afshordi (2026).</figcaption>
+</figure>
+
+<p>So the story is not simply "we found hot gas." It is more precise, and more useful:</p>
+
+<blockquote>To infer the hot gas around low-redshift galaxies from CMB cross-correlations, radio contamination is not a minor nuisance. It is part of the measurement.</blockquote>
+
+<p>That may sound technical, but it is actually a general lesson about cosmology. The universe does not hand us labelled maps. We observe a sky in which many physical processes overlap: primordial fluctuations, dust, radio sources, gravitational lensing, hot gas, instrumental noise, and survey selection effects. A measurement is only as meaningful as the model that separates these ingredients.</p>
+
+<p>This problem has been in the background of my work for a long time. The <a href="/welcome/research/missing-baryons-of-the-universe/">missing-baryons page</a> on this site says the basic thing plainly: warm and hot gas between galaxies contains much of the thermal energy and baryonic content of the universe, and one way to understand it is through its impact on the CMB via the Sunyaev-Zel'dovich effect.</p>
+
+<h2>An unfinished beginning</h2>
+
+<p>In 2018, Natacha Altamirano led an analysis with Chiamaka Okoli and me using Planck maps and a catalogue of locally brightest galaxies. Our unfinished manuscript had the title <em>Mystery of Missing Energy in Circumgalactic Media: Dust Contamination or Cooling Flows?</em> We were trying to understand a puzzling result: around lower-mass galaxies, the inferred tSZ signal became negative. Natacha pursued the signal through different masks, frequency maps, galaxy colours, pressure templates, and dust-cleaning tests. The negative feature was remarkably difficult to remove.</p>
+
+<p>We never finished that paper. Chiamaka became ill, and Natacha eventually left Waterloo and moved on to other work. Scientific projects are usually described through the papers that reach publication, but that record is incomplete. Some ideas survive in drafts, calculations, and questions that remain open after the collaboration that first asked them can no longer continue.</p>
+
+<p>Chiamaka was part of the beginning of this story. Her curiosity about the hidden structure of dark matter haloes naturally extended to the ordinary matter surrounding galaxies: matter that should be there, but whose observational signature was faint and ambiguous. I wish she could have seen where that question eventually led. Remembering her in this paper is not simply ceremonial. Her name belongs to the history of the problem.</p>
+
+<p>The old draft did not contain the answer found in the new paper. It concentrated largely on dust, the distinction between red and blue galaxies, and the possibility that the negative signal reflected unusual gas physics or cooling. But it established the puzzle with unusual persistence: why did an apparently unphysical negative tSZ signal remain after so many checks?</p>
+
+<p>Years later, Guandi returned to this class of measurement with different galaxy samples, newer Planck and ACT data, and a much more direct treatment of the microwave frequency information. His analysis showed that dust was only part of the foreground problem. Radio emission correlated with the galaxies had to be modelled explicitly. Alex helped connect that component-separated measurement to the unWISE galaxy population and to a conventional halo and electron-pressure model. Once the radio component was included, the negative signal disappeared.</p>
+
+<p>This is why the credit in the new paper matters. Natacha and Chiamaka helped formulate the original puzzle. Guandi and Alex supplied the new data, analysis, and physical framework that resolved it. The new result is not simply the completion of the 2018 draft; it is a stronger and more modern answer to the question that draft left behind.</p>
+
+<div class="writing-portraits" role="group" aria-label="Researchers behind the new result and its early history">
+  <figure>
+    <img src="/images/online/guandi-zhao.png" alt="Guandi Zhao" loading="lazy" decoding="async" />
+    <figcaption><strong>Guandi Zhao</strong><span>Led the new multi-frequency analysis.</span></figcaption>
+  </figure>
+  <figure>
+    <img src="/images/online/alex-krolewski.jpg" alt="Alex Krolewski" loading="lazy" decoding="async" />
+    <figcaption><strong>Alex Krolewski</strong><span>Connected the unWISE samples to the halo interpretation.</span></figcaption>
+  </figure>
+  <figure>
+    <img src="/media/2018/07/img_3950-e1531213584786.jpg" alt="Natacha Altamirano" loading="lazy" decoding="async" />
+    <figcaption><strong>Natacha Altamirano</strong><span>Led the original investigation of the negative signal.</span></figcaption>
+  </figure>
+  <figure>
+    <img src="/media/2015/07/26d8193-e1440385821548.jpg" alt="Chiamaka Okoli" loading="lazy" decoding="async" />
+    <figcaption><strong>Chiamaka Okoli</strong><span>Early collaborator, remembered.</span></figcaption>
+  </figure>
+</div>
+
+<h2>Learning to hear the signal</h2>
+
+<p>There is a temptation, especially in public descriptions of cosmology, to present observations as if they are photographs of invisible things. But much of modern cosmology is closer to listening through a wall in a crowded room. The universe is speaking, but many voices arrive at once. The job is not only to hear a whisper. It is to know which other voices are harmonizing with it, which are mimicking it, and which are cancelling it in the analysis.</p>
+
+<p>The hot gas around galaxies is faint. The radio emission is not the thing we are after, but it is not optional. The dust is not the target either, but it shapes the answer. The CMB is the backlight, but the shadow only becomes meaningful after we understand what else is projected onto the screen.</p>
+
+<p>That is why I find this paper satisfying. It does not claim a dramatic overturning of cosmology. It does something quieter and, in the long run, more important: it clarifies the conditions under which a difficult measurement can be trusted.</p>
+
+<p>If the result holds up across related catalogues, maps, and cleaning methods, it will help make CMB-galaxy cross-correlations a sharper tool for studying baryonic feedback, circumgalactic gas, and the missing-baryon problem. It also gives a warning for future high-resolution microwave surveys: more sensitivity is not enough. Better component separation, better foreground modelling, and better physical cross-checks will matter just as much.</p>
+
+<p class="writing-closing">The missing baryons are not simply hiding in the dark. They are hiding behind other light.</p>
+
+<p>And sometimes the first step to seeing them is admitting that the foreground is part of the story.</p>
+
+<aside class="writing-links" aria-label="Related links">
+  <h2>Related links</h2>
+  <ul>
+    <li><a href="https://arxiv.org/abs/2606.28099" target="_blank" rel="noreferrer">New paper: Thermal Sunyaev-Zel'dovich cross-correlations with unWISE galaxies ↗</a></li>
+    <li><a href="/welcome/research/missing-baryons-of-the-universe/">Background: Missing Baryons of the Universe</a></li>
+    <li><a href="/2019/06/18/farewell-to-dr-chiamaka-okoli/">Remembering Chiamaka: Farewell to Dr Chiamaka Okoli</a></li>
+  </ul>
+</aside>
+</article></div></main><footer class="site-footer"><p>Niayesh Afshordi · Astrophysics, cosmology, and gravity</p><a href="mailto:nafshordi@pitp.ca">nafshordi@pitp.ca</a><a href="https://www.physics.uwaterloo.ca/">University of Waterloo</a><a href="https://perimeterinstitute.ca/">Perimeter Institute</a><a href="https://www.mathgenealogy.org/id.php?id=84888" target="_blank" rel="noreferrer">Mathematics Genealogy</a><span class="footer-socials"><a href="https://www.linkedin.com/in/niayesh-afshordi-61739462/" target="_blank" rel="noreferrer">LinkedIn</a><a href="https://x.com/nafshordi" target="_blank" rel="noreferrer">X</a><a href="https://bsky.app/profile/nafshordi.bsky.social" target="_blank" rel="noreferrer">Bluesky</a><a href="https://www.facebook.com/niayesh.afshordi" target="_blank" rel="noreferrer">Facebook</a><a href="https://www.threads.net/@nafshordi" target="_blank" rel="noreferrer">Threads</a><a href="https://www.instagram.com/nafshordi/" target="_blank" rel="noreferrer">Instagram</a></span><a href="/archive">Complete archive</a></footer></div></body></html>
