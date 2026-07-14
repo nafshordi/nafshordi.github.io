@@ -15,8 +15,10 @@ import {
   researchFeatures,
   talksArchiveUrl,
 } from "../site-content";
+import { writingPosts } from "../writing-posts";
 
-type Entry = (typeof entries)[number];
+type Entry = (typeof entries)[number] | (typeof writingPosts)[number];
+const allEntries: Entry[] = [...writingPosts, ...entries];
 
 const legacyLinkReplacements: Record<string, string> = {
   "http://arxiv.org/find/grp_physics/1/au:+afshordi/0/1/0/all/0/1": "https://arxiv.org/search/?searchtype=author&query=Afshordi%2C+N&order=-announced_date_first&size=200&abstracts=show",
@@ -275,7 +277,7 @@ function TalksPage() {
 }
 
 function UpdatesPage() {
-  const posts = entries.filter((entry) => entry.type === "post").sort((a, b) => b.date.localeCompare(a.date));
+  const posts = allEntries.filter((entry) => entry.type === "post").sort((a, b) => b.date.localeCompare(a.date));
   return <>
     <PageHero title="Writing & updates"><p>Announcements, essays, public-facing research, and a record of the group&apos;s life.</p></PageHero>
     <div className="content-page">
@@ -344,7 +346,7 @@ function NewsPage() {
 
 function ArchivePage() {
   const pages = entries.filter((entry) => entry.type === "page").sort((a, b) => a.title.localeCompare(b.title));
-  const posts = entries.filter((entry) => entry.type === "post").sort((a, b) => b.date.localeCompare(a.date));
+  const posts = allEntries.filter((entry) => entry.type === "post").sort((a, b) => b.date.localeCompare(a.date));
   return <>
     <PageHero title="Complete archive"><p>Every page and post imported from the original WordPress website, including research, courses, outreach, COVID material, and group history.</p></PageHero>
     <div className="content-page">
@@ -417,7 +419,7 @@ export default async function CatchAllPage({ params }: { params: Promise<{ slug:
     body = <LegacyPage entry={{ ...entry, title: "Original WordPress homepage" }} />;
   }
   else {
-    const entry = entries.find((item) => item.path === path);
+    const entry = allEntries.find((item) => item.path === path);
     if (!entry) notFound();
     body = <LegacyPage entry={entry} />;
   }

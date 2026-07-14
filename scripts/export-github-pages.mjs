@@ -22,6 +22,7 @@ const fixedRoutes = [
   "/updates/",
   "/cv/",
   "/archive/",
+  "/2026/07/14/cleaning-the-cmb-backlight/",
   "/welcome/original-home/",
 ];
 
