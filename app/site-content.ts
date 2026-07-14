@@ -254,7 +254,7 @@ export const currentPeople: GroupMember[] = [
 ];
 
 const cvAlumniAdditions: GroupMember[] = [
-  { name: "Michelle Kao", role: "Co-op student", years: "2023", research: "Undergraduate research co-op in astrophysics and cosmology.", destination: "MSc student in Aerospace Engineering, Carleton University (from Fall 2026).", verification: "Please provide Michelle’s preferred portrait and profile link." },
+  { name: "Michelle Kao", role: "Co-op student", years: "2023", research: "Undergraduate research co-op in astrophysics and cosmology.", destination: "MSc student in Aerospace Engineering, Carleton University (from Fall 2026).", image: "/images/online/michelle-kao.png", profileHref: "https://www.linkedin.com/in/kao-michelle/" },
   { name: "Nabeel Rasheed", role: "Undergraduate researcher", years: "2023–2025", research: "Analytic gravitational-waveform templates.", destination: "PhD student, Massachusetts Institute of Technology.", image: "/images/nabeel-rasheed.png", profileHref: "https://www.linkedin.com/in/nrashee/" },
   { name: "Ruijing Tang", role: "BSc researcher", years: "2023–2025", research: "Teleparallel Born–Infeld gravity and accretion-disk dynamics.", destination: "Graduate student, Paris Observatory.", image: "/images/alice-chen.webp", verification: "Please provide Ruijing’s preferred profile link." },
   { name: "Saral Shah", role: "Bachelor’s Honours researcher", years: "2024–2025", research: "Dynamical friction in a neutrino sea.", destination: "MSc student, University of British Columbia.", image: "/images/saral-shah.png", profileHref: "https://ca.linkedin.com/in/saral-shah" },
