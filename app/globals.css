@@ -110,6 +110,11 @@ h2 { font-size: clamp(2.4rem, 4.2vw, 4.6rem); font-weight: 400; letter-spacing: 
 .writing-lead-image img { display: block; width: 100%; }
 .writing-lead-image figcaption { border-bottom: 1px solid #ccd1d0; color: var(--slate); font-family: Arial, Helvetica, sans-serif; font-size: .78rem; line-height: 1.5; padding: 1rem .25rem; }
 .writing-lead-image figcaption strong { color: var(--ink); }
+.writing-collaborator { align-items: stretch; border-bottom: 1px solid #ccd1d0; border-top: 3px solid var(--signal); display: grid; grid-template-columns: 180px 1fr; margin: 2.8rem 0 3.4rem; }
+.writing-collaborator img { aspect-ratio: 1; display: block; height: 100%; object-fit: cover; width: 100%; }
+.writing-collaborator figcaption { align-content: center; display: grid; font-family: Arial, Helvetica, sans-serif; gap: .65rem; padding: 1.4rem 1.6rem; }
+.writing-collaborator figcaption strong { font-family: Georgia, "Times New Roman", serif; font-size: 1.35rem; font-weight: 400; }
+.writing-collaborator figcaption span { color: var(--slate); font-size: .82rem; line-height: 1.55; }
 .writing-money-plot { background: #eef0ed; margin: 3.5rem 50%; padding: clamp(.7rem, 2vw, 1.3rem); transform: translateX(-50%); width: min(1120px, calc(100vw - 2.8rem)); }
 .writing-money-plot img { background: white; display: block; width: 100%; }
 .writing-money-plot figcaption { color: var(--slate); font-family: Arial, Helvetica, sans-serif; font-size: .78rem; line-height: 1.5; padding: 1rem .25rem .1rem; }
@@ -328,6 +333,9 @@ h2 { font-size: clamp(2.4rem, 4.2vw, 4.6rem); font-weight: 400; letter-spacing: 
   .people-list { columns: 1; }
   .person-card { grid-template-columns: 125px 1fr; }
   .person-card > img, .person-placeholder { min-height: 205px; }
+  .writing-collaborator { grid-template-columns: 110px 1fr; }
+  .writing-collaborator figcaption { padding: 1rem; }
+  .writing-collaborator figcaption strong { font-size: 1.1rem; }
   .writing-portraits { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .news-addition-card { grid-template-columns: 100px 1fr; }
   .archive-tools { align-items: flex-start; flex-direction: column; }

@@ -19,6 +19,12 @@ export const writingPosts = [
 <p>That is why the no-hair theorem is so powerful. It turns black holes into clean laboratories. It is also why any controlled way of violating it is interesting.</p>
 <p>If real black holes differ from the Kerr solution of general relativity, the difference cannot be arbitrary. A useful theory has to say not only that there may be deviations, but how large they should be and where observations should look. A deviation that is too small is invisible. A deviation that is too large is already ruled out or physically implausible. The most valuable clue is one that lands in the uncomfortable middle: small enough to have survived, large enough to be testable.</p>
 <p>Our recent paper, <a href="https://arxiv.org/abs/2508.20421" target="_blank" rel="noreferrer">Self-regularized entropy: What does black hole entropy predict for tests of Kerr no-hair theorem?</a>, written with Shokoufe Faraji, asks whether black-hole entropy can provide such a clue.</p>
+
+<figure class="writing-collaborator">
+  <img src="/images/shokoufe-faraji.png" alt="Shokoufe Faraji" loading="lazy" decoding="async" />
+  <figcaption><strong><a href="https://perimeterinstitute.ca/people/shokoufe-faraji" target="_blank" rel="noreferrer">Shokoufe Faraji ↗</a></strong><span>Postdoctoral researcher at Perimeter Institute and the University of Waterloo, working on strong gravity, quantum gravity, and accretion around black holes. Shokoufe is the lead author of the new study.</span></figcaption>
+</figure>
+
 <h2 id="from-entropy-to-echoes-and-back">From entropy to echoes, and back</h2>
 <p>For our group, this question is part of a longer attempt to connect the quantum physics of horizons to observations.</p>
 <p>More than a decade ago, in <a href="https://arxiv.org/abs/1212.4176" target="_blank" rel="noreferrer">Empty Black Holes, Firewalls, and the Origin of Bekenstein-Hawking Entropy</a>, Mehdi Saravani, Robert Mann, and I explored a model in which spacetime ends at a microscopic distance from the classical horizon. A surface fluid at this boundary reproduced the Bekenstein-Hawking area law using local thermodynamics. The details of that proposal were deliberately speculative, but the guiding question has endured: could the same microscopic structure that accounts for black-hole entropy also change what an observer sees from the outside?</p>
