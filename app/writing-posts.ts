@@ -18,7 +18,7 @@ export const writingPosts = [
 <p>In the simplest version of this story, two black holes with the same mass and spin are not merely similar. They are the same object, at least from the outside. The messy history that formed them -- collapsing stars, accretion disks, mergers, magnetic fields, turbulence, and all the violent astrophysics of their birth -- is hidden behind the horizon.</p>
 <p>That is why the no-hair theorem is so powerful. It turns black holes into clean laboratories. It is also why any controlled way of violating it is interesting.</p>
 <p>If real black holes differ from the Kerr solution of general relativity, the difference cannot be arbitrary. A useful theory has to say not only that there may be deviations, but how large they should be and where observations should look. A deviation that is too small is invisible. A deviation that is too large is already ruled out or physically implausible. The most valuable clue is one that lands in the uncomfortable middle: small enough to have survived, large enough to be testable.</p>
-<p>Our recent paper, <a href="https://arxiv.org/abs/2508.20421" target="_blank" rel="noreferrer">Self-regularized entropy: What does black hole entropy predict for tests of Kerr no-hair theorem?</a>, written with Shokoufe Faraji, asks whether black-hole entropy can provide such a clue.</p>
+<p>Our recently published paper, <a href="https://doi.org/10.1088/1361-6382/ae7793" target="_blank" rel="noreferrer">Self-regularized entropy: What does black hole entropy predict for tests of Kerr no-hair theorem?</a>, written with Shokoufe Faraji, asks whether black-hole entropy can provide such a clue.</p>
 
 <figure class="writing-collaborator">
   <img src="/images/shokoufe-faraji.png" alt="Shokoufe Faraji" loading="lazy" decoding="async" />
@@ -60,7 +60,7 @@ export const writingPosts = [
 <aside class="writing-links" aria-label="Related links">
   <h2>Related links</h2>
     <ul>
-      <li><a href="https://arxiv.org/abs/2508.20421" target="_blank" rel="noreferrer">Paper: Self-regularized entropy and tests of Kerr no-hair ↗</a></li>
+      <li><a href="https://doi.org/10.1088/1361-6382/ae7793" target="_blank" rel="noreferrer">Published paper: Self-regularized entropy and tests of Kerr no-hair ↗</a></li>
       <li><a href="/2018/04/02/echoes-strike-back/">Earlier writing: Echoes Strike Back!</a></li>
       <li><a href="https://arxiv.org/abs/2302.08964" target="_blank" rel="noreferrer">Paper: From Entropy to Echoes ↗</a></li>
       <li><a href="https://arxiv.org/abs/2409.17970" target="_blank" rel="noreferrer">Paper: Modelling black-hole echoes in numerical relativity ↗</a></li>
