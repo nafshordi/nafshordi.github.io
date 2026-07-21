@@ -1,5 +1,70 @@
 export const writingPosts = [
   {
+    title: "Do Quantum Black Holes Have Just Enough Hair?",
+    slug: "do-quantum-black-holes-have-just-enough-hair",
+    path: "/2026/07/21/do-quantum-black-holes-have-just-enough-hair/",
+    type: "post" as const,
+    date: "2026-07-21",
+    html: `<article class="writing-post">
+<p class="writing-dek">Black holes are supposed to be simple. Quantum gravity begs to differ!</p>
+
+<figure class="writing-lead-image">
+  <img src="/images/writing/quantum-black-hole-entropy-echoes.png" alt="Conceptual illustration of a slightly deformed black hole with faint gravitational-wave echoes" loading="eager" decoding="async" />
+  <figcaption><strong>Just enough structure to leave a trace?</strong> A conceptual illustration of a nearly classical black hole whose horizon-scale physics could alter its exterior geometry or produce faint gravitational-wave echoes. The image is illustrative, not observational data.</figcaption>
+</figure>
+
+<p>One of the most famous claims about black holes is that they have no hair.</p>
+<p>This does not mean that black holes are featureless in every possible sense. It means something more precise and more astonishing: in classical general relativity, an isolated, settled black hole is described by only a few numbers. Its mass tells us how heavy it is. Its spin tells us how fast it rotates. Its electric charge is usually irrelevant for astrophysical black holes. Once those numbers are fixed, everything else is supposed to follow.</p>
+<p>In the simplest version of this story, two black holes with the same mass and spin are not merely similar. They are the same object, at least from the outside. The messy history that formed them -- collapsing stars, accretion disks, mergers, magnetic fields, turbulence, and all the violent astrophysics of their birth -- is hidden behind the horizon.</p>
+<p>That is why the no-hair theorem is so powerful. It turns black holes into clean laboratories. It is also why any controlled way of violating it is interesting.</p>
+<p>If real black holes differ from the Kerr solution of general relativity, the difference cannot be arbitrary. A useful theory has to say not only that there may be deviations, but how large they should be and where observations should look. A deviation that is too small is invisible. A deviation that is too large is already ruled out or physically implausible. The most valuable clue is one that lands in the uncomfortable middle: small enough to have survived, large enough to be testable.</p>
+<p>Our recent paper, <a href="https://arxiv.org/abs/2508.20421" target="_blank" rel="noreferrer">Self-regularized entropy: What does black hole entropy predict for tests of Kerr no-hair theorem?</a>, written with Shokoufe Faraji, asks whether black-hole entropy can provide such a clue.</p>
+<h2 id="from-entropy-to-echoes-and-back">From entropy to echoes, and back</h2>
+<p>For our group, this question is part of a longer attempt to connect the quantum physics of horizons to observations.</p>
+<p>More than a decade ago, in <a href="https://arxiv.org/abs/1212.4176" target="_blank" rel="noreferrer">Empty Black Holes, Firewalls, and the Origin of Bekenstein-Hawking Entropy</a>, Mehdi Saravani, Robert Mann, and I explored a model in which spacetime ends at a microscopic distance from the classical horizon. A surface fluid at this boundary reproduced the Bekenstein-Hawking area law using local thermodynamics. The details of that proposal were deliberately speculative, but the guiding question has endured: could the same microscopic structure that accounts for black-hole entropy also change what an observer sees from the outside?</p>
+<p>Gravitational-wave astronomy turned that conceptual question into an experimental one. If the region near the horizon is not perfectly absorbing, radiation left after a merger can become trapped between the angular-momentum barrier and the compact object's surface, leaking out in a sequence of delayed echoes. In 2016, Jahed Abedi, Hannah Dykaar, and I reported <a href="https://arxiv.org/abs/1612.00266" target="_blank" rel="noreferrer">tentative evidence for such echoes</a> in the first LIGO black-hole merger data. The significance was modest, the templates were simplified, and the claim generated a healthy controversy. As I wrote in <a href="https://nafshordi.com/2018/04/02/echoes-strike-back/" target="_blank" rel="noreferrer">Echoes Strike Back!</a>, only more data and better predictions could settle whether the apparent signals were new physics, noise, or a systematic effect. That remains the right standard: echoes have not been established observationally.</p>
+<p>The controversy sharpened the theory. With Qingwen Wang, I developed <a href="https://arxiv.org/abs/1803.02845" target="_blank" rel="noreferrer">an observer's manual for black-hole echoes</a>, showing how their shape, decay, and stability depend on the near-horizon boundary. With Naritaka Oshita and Qingwen, we later derived a frequency-dependent <a href="https://arxiv.org/abs/1905.00464" target="_blank" rel="noreferrer">Boltzmann reflectivity</a> from detailed balance and the fluctuation-dissipation theorem, replacing a perfectly reflecting wall with a thermodynamically motivated response. More recently, Conner Dailey, Erik Schnetter, and I formulated a <a href="https://arxiv.org/abs/2409.17970" target="_blank" rel="noreferrer">complete initial-boundary-value framework</a> for evolving such boundaries in numerical relativity, a step toward waveforms that can be compared consistently with merger data.</p>
+<p>Entropy and echoes met directly in our 2023 paper <a href="https://arxiv.org/abs/2302.08964" target="_blank" rel="noreferrer">From Entropy to Echoes</a>, where Naritaka and I related the counting of black-hole modes to an echo timescale. The new work with Shokoufe follows the arrow in the other direction. Rather than starting with a hypothetical surface and asking what echoes it would produce, we start with the entropy and ask what departure from the classical geometry it may require. The possible observable is then not only a delayed echo, but a broader violation of the Kerr no-hair relations.</p>
+<p>The paper is technical, but the motivation is simple. Black holes carry entropy. In the standard Bekenstein-Hawking formula, that entropy is proportional to the area of the horizon. This is one of the deepest results in gravitational physics. It suggests that the microscopic information associated with a black hole is not stored in its volume, as one might naively expect, but scales like the surface that bounds it.</p>
+<p>That idea has shaped quantum gravity for half a century. It is also a source of trouble.</p>
+<p>If one tries to count ordinary quantum-field modes near a classical black-hole horizon, the number of available states grows too fast. In the old "brick wall" calculation, one has to place an artificial cutoff just outside the horizon to prevent the entropy from diverging. The cutoff works as a regulator, but it is put in by hand. It says, in effect: do not trust the calculation closer than this distance.</p>
+<p>That may be a practical fix, but it is not a physical explanation.</p>
+<p>The question we asked is whether a small deformation of the black-hole exterior could regulate the calculation by itself.</p>
+<p>In the paper, the exterior geometry is modeled using a static deformation of the Schwarzschild solution called the q-metric, also known as the Zipoy-Voorhees metric. This is not presented as the final theory of quantum black holes. It is a controlled phenomenological model: a way to ask what happens when the near-horizon region is slightly distorted by a quadrupolar parameter.</p>
+<p>The result is striking. Within the perturbative regime studied, the deformation changes the near-horizon density of states in such a way that the usual brick-wall ultraviolet divergence is self-regularized. The entropy calculation no longer needs an arbitrary proper-distance cutoff. The geometry itself supplies the regularization.</p>
+<p>That is the first lesson:</p>
+<blockquote>
+<p>A black hole whose near-horizon geometry is slightly deformed may avoid the entropy divergence that appears in the classical Schwarzschild calculation.</p>
+</blockquote>
+<p>The second lesson is what makes the result observationally interesting.</p>
+<p>If we require the regulated entropy to match the usual Bekenstein-Hawking entropy of a Schwarzschild black hole of the same mass, the calculation points to a characteristic deformation scale. In the model, the natural size is roughly <em>|q|</em> ≈ 0.2, and it remains of that order from stellar-mass to supermassive black holes.</p>
+<p>This number should not be oversold. It is not a detection. It is not a claim that nature has already chosen this value. It comes from a simplified exterior model and a particular entropy-matching argument.</p>
+<p>But it is not arbitrary either. It is a physical target emerging from the demand that the entropy behave properly.</p>
+<p>The next step is to translate that target into something observers could actually test. Real astrophysical black holes rotate, so the paper uses a stationary extension to map the deformation scale into possible violations of the Kerr multipole relations. In the Kerr solution, all the higher multipole moments are fixed by the mass and spin. If those relations fail, the black hole has "hair" in the precise observational sense: extra structure not captured by the classical Kerr description.</p>
+<p>The mapped effects can land at the percent-to-tens-of-percent level. That is exactly the range that makes the question worth asking now. It is not obviously hopeless, and it is not already settled.</p>
+<p>This is where several future observational programs enter the story.</p>
+<p>The next-generation Event Horizon Telescope, or ngEHT, aims to sharpen horizon-scale images of supermassive black holes. LISA, the planned space-based gravitational-wave observatory, should be especially sensitive to extreme mass-ratio inspirals, where a small compact object traces the spacetime around a massive black hole over many orbits. Third-generation ground-based gravitational-wave detectors will measure black-hole mergers with far greater precision than today's instruments.</p>
+<p>These experiments are very different. One images hot plasma near horizons. One listens to long, delicate gravitational-wave tracks in space. One measures violent mergers from the ground. But they share a common goal: they can test whether astrophysical black holes are exactly Kerr.</p>
+<p>That is why black-hole entropy matters beyond thermodynamics. It may help tell us what kind of imperfection to search for.</p>
+<p>There is a familiar pattern in fundamental physics. A beautiful theory makes an elegant prediction. Experiments confirm it again and again. Then progress depends on asking where the elegance might fail without abandoning the discipline that made the theory powerful in the first place.</p>
+<p>The no-hair theorem is beautiful. Kerr black holes are beautiful. The Bekenstein-Hawking entropy is beautiful. But when these ideas are placed together with quantum fields near a horizon, the calculation asks for something more than beauty. It asks for a regulator. Perhaps that regulator is not a wall inserted by hand, but a hint that the horizon is not quite the featureless surface of the classical story.</p>
+<p>If so, black holes may not need much hair.</p>
+<p>They may need just enough for their entropy to make sense.</p>
+<p>And just enough, if we are fortunate, for the next generation of observations to see.</p>
+<aside class="writing-links" aria-label="Related links">
+  <h2>Related links</h2>
+    <ul>
+      <li><a href="https://arxiv.org/abs/2508.20421" target="_blank" rel="noreferrer">Paper: Self-regularized entropy and tests of Kerr no-hair ↗</a></li>
+      <li><a href="/2018/04/02/echoes-strike-back/">Earlier writing: Echoes Strike Back!</a></li>
+      <li><a href="https://arxiv.org/abs/2302.08964" target="_blank" rel="noreferrer">Paper: From Entropy to Echoes ↗</a></li>
+      <li><a href="https://arxiv.org/abs/2409.17970" target="_blank" rel="noreferrer">Paper: Modelling black-hole echoes in numerical relativity ↗</a></li>
+      <li><a href="/research#quantum-black-holes">Research area: Quantum black holes &amp; horizon physics</a></li>
+      <li><a href="/research#gravitational-waves">Research area: Gravitational-wave astronomy &amp; black-hole spectroscopy</a></li>
+  </ul>
+</aside>
+</article>`,
+  },
+  {
     title: "Cleaning the CMB Backlight",
     slug: "cleaning-the-cmb-backlight",
     path: "/2026/07/14/cleaning-the-cmb-backlight/",

@@ -106,6 +106,10 @@ h2 { font-size: clamp(2.4rem, 4.2vw, 4.6rem); font-weight: 400; letter-spacing: 
 .content-page iframe { max-width: 100%; }
 .writing-post { margin: 0 auto; }
 .writing-dek { border-bottom: 1px solid #ccd1d0; color: var(--slate); font-size: 1.35rem !important; line-height: 1.5 !important; margin: 0 0 2.6rem; padding-bottom: 2rem; }
+.writing-lead-image { margin: 3rem 50%; transform: translateX(-50%); width: min(1120px, calc(100vw - 2.8rem)); }
+.writing-lead-image img { display: block; width: 100%; }
+.writing-lead-image figcaption { border-bottom: 1px solid #ccd1d0; color: var(--slate); font-family: Arial, Helvetica, sans-serif; font-size: .78rem; line-height: 1.5; padding: 1rem .25rem; }
+.writing-lead-image figcaption strong { color: var(--ink); }
 .writing-money-plot { background: #eef0ed; margin: 3.5rem 50%; padding: clamp(.7rem, 2vw, 1.3rem); transform: translateX(-50%); width: min(1120px, calc(100vw - 2.8rem)); }
 .writing-money-plot img { background: white; display: block; width: 100%; }
 .writing-money-plot figcaption { color: var(--slate); font-family: Arial, Helvetica, sans-serif; font-size: .78rem; line-height: 1.5; padding: 1rem .25rem .1rem; }
