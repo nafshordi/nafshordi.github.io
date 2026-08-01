@@ -418,7 +418,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
       url,
       siteName: "Niayesh Afshordi",
       publishedTime: "2026-08-01",
-      images: [{ url: image, width: 1672, height: 941, alt: "Four people discussing evidence around a table as starlight passes through a prism" }],
+      images: [{ url: image, width: 1672, height: 941, alt: "Four people in a dark, book-lined study debate around a table as a beam of starlight passes through a glass prism, splitting into colored rays across papers and an open book." }],
     },
     twitter: { card: "summary_large_image", title, description, images: [image] },
   };

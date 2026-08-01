@@ -9,7 +9,7 @@ export const writingPosts = [
 <p class="writing-dek">A survey found deep disagreement at the frontiers of physics. Brian Keating saw intellectual denominations. My co-author Phil Halper objected. Adam Frank defended the health of science. I found myself somewhere between them.</p>
 
 <figure class="writing-lead-image">
-  <img src="/images/writing/physicists-faith-evidence-prism.png" alt="Conceptual illustration of four people discussing evidence around a table as starlight passes through a prism" loading="eager" decoding="async" />
+  <img src="/images/writing/physicists-faith-evidence-prism.png" alt="Four people in a dark, book-lined study debate around a table as a beam of starlight passes through a glass prism, splitting into colored rays across papers and an open book." loading="eager" decoding="async" />
   <figcaption><strong>One beam, several perspectives.</strong> Evidence does not enter an empty room: it meets prior beliefs, theoretical commitments, and scientific communities. The challenge is to let those different paths reconverge when nature speaks clearly. Conceptual illustration, not a depiction of the people discussed in this essay.</figcaption>
 </figure>
 
