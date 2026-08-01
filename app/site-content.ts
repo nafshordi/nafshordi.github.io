@@ -644,6 +644,11 @@ export const talksArchiveUrl = "/talks/#historical-talks";
 
 export const recentUpdates = [
   {
+    date: "August 2026",
+    title: "Do Physicists Have Faith?",
+    href: "/2026/08/01/do-physicists-have-faith/",
+  },
+  {
     date: "July 2026",
     title: "Cleaning the CMB Backlight",
     href: "/2026/07/14/cleaning-the-cmb-backlight/",

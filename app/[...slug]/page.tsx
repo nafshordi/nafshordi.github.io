@@ -1,4 +1,5 @@
 import Link from "next/link";
+import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import entries from "../../data/wordpress-content.json";
 import publicationsData from "../../data/publications.json";
@@ -394,6 +395,33 @@ function CvPage() {
 
 function LegacyPage({ entry }: { entry: Entry }) {
   return <><PageHero title={entry.title}>{entry.type === "post" ? <p>{entry.date}</p> : null}</PageHero><Content html={entry.html} /></>;
+}
+
+export async function generateMetadata({ params }: { params: Promise<{ slug: string[] }> }): Promise<Metadata> {
+  const { slug } = await params;
+  const path = `/${slug.join("/")}/`;
+  if (path !== "/2026/08/01/do-physicists-have-faith/") return {};
+
+  const title = "Do Physicists Have Faith?";
+  const description = "Brian Keating, Adam Frank, Phil Halper, and Niayesh Afshordi approach belief, evidence, and dogma at the frontiers of physics from different directions.";
+  const url = `https://nafshordi.com${path}`;
+  const image = "https://nafshordi.com/images/writing/physicists-faith-evidence-prism.png";
+
+  return {
+    title: `${title} | Niayesh Afshordi`,
+    description,
+    alternates: { canonical: url },
+    openGraph: {
+      type: "article",
+      title,
+      description,
+      url,
+      siteName: "Niayesh Afshordi",
+      publishedTime: "2026-08-01",
+      images: [{ url: image, width: 1672, height: 941, alt: "Four people discussing evidence around a table as starlight passes through a prism" }],
+    },
+    twitter: { card: "summary_large_image", title, description, images: [image] },
+  };
 }
 
 export default async function CatchAllPage({ params }: { params: Promise<{ slug: string[] }> }) {
