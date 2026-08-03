@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10",
+  "generated_at": "2026-08-03",
   "total_count": 157,
   "arxiv_author_result_count": 151,
   "source_provenance": {
@@ -20,7 +20,7 @@
     },
     "manual_cross_check": {
       "name": "Google Scholar",
-      "checked_at": "2026-07-10",
+      "checked_at": "2026-08-03",
       "url": "https://scholar.google.ca/citations?user=xWZGFlEAAAAJ",
       "observation": "The public profile exposed 200 rows across its paginated result set, including duplicate versions, talks, translations, and research statements."
     },
@@ -38,7 +38,7 @@
       "updated_date": "2026-06-04",
       "year": 2026,
       "publication_type": "journal-article",
-      "journal": "Classical and Quantum Gravity (CQG), June 2026",
+      "journal": "Class. Quant. Grav. 43, 135027 (2026)",
       "arxiv_id": "2508.20421",
       "arxiv_url": "https://arxiv.org/abs/2508.20421",
       "doi": "10.1088/1361-6382/ae7793",
@@ -55,7 +55,7 @@
         "arXiv"
       ],
       "date": "2026-07-14",
-      "status": "forthcoming",
+      "status": "published",
       "url": "https://doi.org/10.1088/1361-6382/ae7793"
     },
     {
@@ -67,7 +67,7 @@
       ],
       "publication_date": null,
       "arxiv_submitted_date": "2026-06-26",
-      "updated_date": "2026-06-26",
+      "updated_date": "2026-07-21",
       "year": 2026,
       "publication_type": "preprint",
       "journal": null,
