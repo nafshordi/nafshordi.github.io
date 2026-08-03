@@ -738,6 +738,7 @@ export const recentMediaCoverage = [
     title: "Science by majority",
     detail: "Bye Bye Universe commentary on consensus and disagreement in cosmology",
     href: "https://byebyeuniverse.substack.com/p/science-by-majority?r=3aldyz&utm_campaign=post-expanded-share&utm_medium=web&triedRedirect=true",
+    image: "/images/news/science-by-majority.jpg",
   },
   {
     year: "2026",
