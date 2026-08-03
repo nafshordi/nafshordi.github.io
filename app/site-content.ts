@@ -728,6 +728,19 @@ export const externalProfiles = [
 export const recentMediaCoverage = [
   {
     year: "2026",
+    title: "3 Physicists on God: Aliens, String Theory, and the Limits of Science",
+    detail: "Conversation with Adam Frank and Brian Keating on science, cosmology, and the limits of explanation",
+    href: "https://www.youtube.com/watch?v=Xhubt2NmFHQ&t=2933s",
+    youtubeId: "Xhubt2NmFHQ",
+  },
+  {
+    year: "2026",
+    title: "Science by majority",
+    detail: "Bye Bye Universe commentary on consensus and disagreement in cosmology",
+    href: "https://byebyeuniverse.substack.com/p/science-by-majority?r=3aldyz&utm_campaign=post-expanded-share&utm_medium=web&triedRedirect=true",
+  },
+  {
+    year: "2026",
     title: "Largest-ever survey of physicists puts Standard Model of cosmology under scrutiny",
     detail: "Big Mysteries Survey with APS Physics Magazine; Perimeter Institute and University of Waterloo news, May 2026",
     href: "https://perimeterinstitute.ca/news/largest-ever-survey-physicists-puts-standard-model-cosmology-under-scrutiny",
