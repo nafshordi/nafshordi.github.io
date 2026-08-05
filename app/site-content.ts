@@ -839,5 +839,5 @@ export const socialProfiles = [
   { label: "Bluesky", href: "https://bsky.app/profile/nafshordi.bsky.social" },
   { label: "Facebook", href: "https://www.facebook.com/niayesh.afshordi" },
   { label: "Threads", href: "https://www.threads.com/@niayeshafshordi" },
-  { label: "Instagram", href: "https://www.instagram.com/nafshordi/" },
+  { label: "Instagram", href: "https://www.instagram.com/niayeshafshordi/" },
 ] as const;
