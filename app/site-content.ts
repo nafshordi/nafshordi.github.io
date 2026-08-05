@@ -728,6 +728,13 @@ export const externalProfiles = [
 export const recentMediaCoverage = [
   {
     year: "2026",
+    title: "The Physics Frontier Ep 1 - Dr. Niayesh Afshordi",
+    detail: "Conversation with Jessica on fundamental physics, open science, AI, and advice for students beginning research",
+    href: "https://www.youtube.com/watch?v=h18FVm6T7yU",
+    youtubeId: "h18FVm6T7yU",
+  },
+  {
+    year: "2026",
     title: "3 Physicists on God: Aliens, String Theory, and the Limits of Science",
     detail: "Conversation with Adam Frank and Brian Keating on science, cosmology, and the limits of explanation",
     href: "https://www.youtube.com/watch?v=Xhubt2NmFHQ&t=2933s",
