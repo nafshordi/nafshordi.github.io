@@ -728,6 +728,13 @@ export const externalProfiles = [
 export const recentMediaCoverage = [
   {
     year: "2026",
+    title: "Phymaths Podcast #74: Phil Halper and Niayesh Afshordi",
+    detail: "Conversation about Battle of the Big Bang, what singularity theorems do and do not establish, inflation and the BGV theorem, cosmic natural selection, cyclic cosmology, variable speed of light, and future surveys",
+    href: "https://www.youtube.com/watch?v=cLnAVEv5Jqg",
+    youtubeId: "cLnAVEv5Jqg",
+  },
+  {
+    year: "2026",
     title: "The Physics Frontier Ep 1 - Dr. Niayesh Afshordi",
     detail: "Conversation with Jessica on fundamental physics, open science, AI, and advice for students beginning research",
     href: "https://www.youtube.com/watch?v=h18FVm6T7yU",
