@@ -687,6 +687,7 @@ export const battleOfBigBang = {
     { label: "Amazon.ca", href: "https://www.amazon.ca/dp/0226830470" },
     { label: "Audiobook details", href: "https://rbmediaglobal.com/audiobook/9798318515187/" },
     { label: "Spanish edition — Qué hubo antes del Big Bang (pre-order)", href: "https://www.casadellibro.com/ebook-que-hubo-antes-del-big-bang-ebook/9791388075490/18524681" },
+    { label: "Polish edition — Bitwa o Wielki Wybuch (pre-order)", href: "https://helion.pl/ksiazki/bitwa-o-wielki-wybuch-jak-naprawde-powstal-wszechswiat-niayesh-afshordi-phil-halper%2Cbiwiwy.htm" },
   ],
   reviews: [
     { label: "The Wall Street Journal review — A Question of Origins", href: "https://www.wsj.com/public/resources/documents/e3nmpymJpO50ZWvNOXUk-WSJNewsPaper-8-7-2025.pdf" },
@@ -727,6 +728,12 @@ export const externalProfiles = [
 ];
 
 export const recentMediaCoverage = [
+  {
+    year: "2026",
+    title: "Bitwa o Wielki Wybuch — Polish edition announced",
+    detail: "Helion Wydawnictwo Naukowe will publish the Polish edition of Battle of the Big Bang on September 1, 2026.",
+    href: "https://helion.pl/ksiazki/bitwa-o-wielki-wybuch-jak-naprawde-powstal-wszechswiat-niayesh-afshordi-phil-halper%2Cbiwiwy.htm",
+  },
   {
     year: "2026",
     title: "Qué hubo antes del Big Bang — Spanish edition announced",
