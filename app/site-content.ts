@@ -686,6 +686,7 @@ export const battleOfBigBang = {
     { label: "Amazon.com", href: "https://www.amazon.com/dp/0226830470" },
     { label: "Amazon.ca", href: "https://www.amazon.ca/dp/0226830470" },
     { label: "Audiobook details", href: "https://rbmediaglobal.com/audiobook/9798318515187/" },
+    { label: "Spanish edition — Qué hubo antes del Big Bang (pre-order)", href: "https://www.casadellibro.com/ebook-que-hubo-antes-del-big-bang-ebook/9791388075490/18524681" },
   ],
   reviews: [
     { label: "The Wall Street Journal review — A Question of Origins", href: "https://www.wsj.com/public/resources/documents/e3nmpymJpO50ZWvNOXUk-WSJNewsPaper-8-7-2025.pdf" },
@@ -726,6 +727,12 @@ export const externalProfiles = [
 ];
 
 export const recentMediaCoverage = [
+  {
+    year: "2026",
+    title: "Qué hubo antes del Big Bang — Spanish edition announced",
+    detail: "Editorial Pinolia will publish the Spanish edition of Battle of the Big Bang on September 29, 2026.",
+    href: "https://www.casadellibro.com/ebook-que-hubo-antes-del-big-bang-ebook/9791388075490/18524681",
+  },
   {
     year: "2026",
     title: "Phymaths Podcast #74: Phil Halper and Niayesh Afshordi",
