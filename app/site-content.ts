@@ -740,12 +740,14 @@ export const recentMediaCoverage = [
     title: "Bitwa o Wielki Wybuch — Polish edition announced",
     detail: "Helion Wydawnictwo Naukowe will publish the Polish edition of Battle of the Big Bang on September 1, 2026.",
     href: "https://helion.pl/ksiazki/bitwa-o-wielki-wybuch-jak-naprawde-powstal-wszechswiat-niayesh-afshordi-phil-halper%2Cbiwiwy.htm",
+    image: "/images/news/bitwa-o-wielki-wybuch-cover.jpg",
   },
   {
     year: "2026",
     title: "Qué hubo antes del Big Bang — Spanish edition announced",
     detail: "Editorial Pinolia will publish the Spanish edition of Battle of the Big Bang on September 29, 2026.",
     href: "https://www.casadellibro.com/ebook-que-hubo-antes-del-big-bang-ebook/9791388075490/18524681",
+    image: "/images/news/que-hubo-antes-del-big-bang-cover.jpg",
   },
   {
     year: "2026",
