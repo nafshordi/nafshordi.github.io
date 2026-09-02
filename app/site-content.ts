@@ -730,6 +730,13 @@ export const externalProfiles = [
 export const recentMediaCoverage = [
   {
     year: "2026",
+    title: "Escaped Sapiens #97: Is the Inside of a Black Hole Just a Physicist's Fantasy?",
+    detail: "Conversation with Shane Farnsworth on the information paradox, quantum horizons, and possible gravitational-wave signatures.",
+    href: "https://www.youtube.com/watch?v=68qwzsjmoxU",
+    youtubeId: "68qwzsjmoxU",
+  },
+  {
+    year: "2026",
     title: "Bitwa o Wielki Wybuch — Polish edition announced",
     detail: "Helion Wydawnictwo Naukowe will publish the Polish edition of Battle of the Big Bang on September 1, 2026.",
     href: "https://helion.pl/ksiazki/bitwa-o-wielki-wybuch-jak-naprawde-powstal-wszechswiat-niayesh-afshordi-phil-halper%2Cbiwiwy.htm",
