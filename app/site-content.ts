@@ -743,8 +743,8 @@ export const recentMediaCoverage = [
   },
   {
     year: "2026",
-    title: "Bitwa o Wielki Wybuch — Polish edition announced",
-    detail: "Helion Wydawnictwo Naukowe will publish the Polish edition of Battle of the Big Bang on September 1, 2026.",
+    title: "Bitwa o Wielki Wybuch — Polish edition now available",
+    detail: "Helion Wydawnictwo Naukowe published the Polish edition of Battle of the Big Bang on September 1, 2026.",
     href: "https://helion.pl/ksiazki/bitwa-o-wielki-wybuch-jak-naprawde-powstal-wszechswiat-niayesh-afshordi-phil-halper%2Cbiwiwy.htm",
     image: "/images/news/bitwa-o-wielki-wybuch-cover.jpg",
   },
