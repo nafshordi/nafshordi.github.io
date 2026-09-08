@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-03T11:54:32+00:00",
+  "generated_at": "2026-09-08T11:05:42+00:00",
   "source_description": "Local My Talks archive (files remain in the source archive).",
-  "count": 567,
+  "count": 572,
   "by_format": {
-    "Keynote": 211,
-    "PDF": 216,
-    "PowerPoint": 134,
+    "Keynote": 212,
+    "PDF": 217,
+    "PowerPoint": 137,
     "Web slides": 6
   },
   "talks": [
@@ -4589,6 +4589,51 @@
       "path": "Quadratic Gravity/QG_Wild_Hangzhou_2026.pdf",
       "modified": "2026-06-01",
       "bytes": 67500512
+    },
+    {
+      "title": "Quantum Gravity in the Wild - CEICO Colloquium 2026",
+      "category": "Quadratic Gravity",
+      "year": "2026",
+      "format": "PDF",
+      "path": "Quadratic Gravity/Quantum Gravity in the Wild - CEICO Colloquium 2026.pdf",
+      "modified": "2026-08-21",
+      "bytes": 9287493
+    },
+    {
+      "title": "Quantum Gravity in the Wild - CEICO Colloquium 2026",
+      "category": "Quadratic Gravity",
+      "year": "2026",
+      "format": "Keynote",
+      "path": "Quadratic Gravity/Quantum Gravity in the Wild - CEICO Colloquium 2026.key",
+      "modified": "2026-08-21",
+      "bytes": 95483921
+    },
+    {
+      "title": "Quantum Gravity in the Wild - CEICO Colloquium 2026",
+      "category": "Quadratic Gravity",
+      "year": "2026",
+      "format": "PowerPoint",
+      "path": "Quadratic Gravity/Quantum Gravity in the Wild - CEICO Colloquium 2026.pptx",
+      "modified": "2026-08-20",
+      "bytes": 2950995
+    },
+    {
+      "title": "Quantum Gravity in the Wild - CEICO Colloquium 2026 - LaTeX equations",
+      "category": "Quadratic Gravity",
+      "year": "2026",
+      "format": "PowerPoint",
+      "path": "Quadratic Gravity/Quantum Gravity in the Wild - CEICO Colloquium 2026 - LaTeX equations.pptx",
+      "modified": "2026-08-20",
+      "bytes": 3007102
+    },
+    {
+      "title": "Quantum Gravity in the Wild - CEICO Colloquium 2026 - Reviewed",
+      "category": "Quadratic Gravity",
+      "year": "2026",
+      "format": "PowerPoint",
+      "path": "Quadratic Gravity/Quantum Gravity in the Wild - CEICO Colloquium 2026 - Reviewed.pptx",
+      "modified": "2026-08-20",
+      "bytes": 8122431
     },
     {
       "title": "QBH IHEP Beijing 2024",

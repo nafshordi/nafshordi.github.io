@@ -615,6 +615,12 @@ export const currentMembers = currentPeople.map((member) => member.name);
 
 export const recentTalks = [
   {
+    date: "August 21, 2026",
+    title: "Quantum Gravity in the Wild: Black Hole Echoes, the Big Bang, and a Cosmic Glitch",
+    venue: "Joint Colloquium, ITP/CEICO · Prague",
+    href: "/talks/quantum-gravity-in-the-wild-ceico-2026.pdf",
+  },
+  {
     date: "May 31–June 5, 2026",
     title: "Quantum Gravity in the Wild: Testing Horizon-Scale Physics with Gravitational Waves and Cosmology",
     venue: "Recent Development of Quantum Gravity and Applications to Cosmology and Black Hole Physics · Hangzhou, China",
