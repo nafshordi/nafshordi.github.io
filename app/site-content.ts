@@ -736,6 +736,12 @@ export const externalProfiles = [
 export const recentMediaCoverage = [
   {
     year: "2026",
+    title: "Remembering Rafael Sorkin",
+    detail: "Perimeter Institute's memorial for theoretical physicist Rafael Sorkin, featuring Niayesh Afshordi's remembrance of his friend, mentor, colleague, and collaborator.",
+    href: "https://perimeterinstitute.ca/news/perimeter-remembers-eminent-physicist-rafael-sorkin-1945-2026",
+  },
+  {
+    year: "2026",
     title: "Escaped Sapiens #97: Is the Inside of a Black Hole Just a Physicist's Fantasy?",
     detail: "Conversation with Shane Farnsworth on the information paradox, quantum horizons, and possible gravitational-wave signatures.",
     href: "https://www.youtube.com/watch?v=68qwzsjmoxU",
