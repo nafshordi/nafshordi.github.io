@@ -739,6 +739,7 @@ export const recentMediaCoverage = [
     title: "Remembering Rafael Sorkin",
     detail: "Perimeter Institute's memorial for theoretical physicist Rafael Sorkin, featuring Niayesh Afshordi's remembrance of his friend, mentor, colleague, and collaborator.",
     href: "https://perimeterinstitute.ca/news/perimeter-remembers-eminent-physicist-rafael-sorkin-1945-2026",
+    image: "/images/news/remembering-rafael-sorkin.png",
   },
   {
     year: "2026",
