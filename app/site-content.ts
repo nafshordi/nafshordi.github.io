@@ -37,6 +37,7 @@ export const researchFeatures = [
     caption: "A visual summary of how primordial physics is tested with the cosmic sky.",
     archiveHref: "/welcome/research/early-universe-cosmology/",
     papers: [
+      { year: "2026", title: "Gauss–Bonnet running and the de Sitter saddle of quadratic gravity inflation", href: "https://arxiv.org/abs/2609.24912" },
       { year: "2025", title: "Ultraviolet completion of the Big Bang in quadratic gravity", href: "https://arxiv.org/abs/2510.18733" },
       { year: "2017", title: "Constraining holographic cosmology using Planck data", href: "https://arxiv.org/abs/1703.05385" },
       { year: "2016", title: "From Planck data to Planck era: observational tests of holographic cosmology", href: "https://arxiv.org/abs/1607.04878" },
@@ -650,6 +651,16 @@ export const talksArchiveUrl = "/talks/#historical-talks";
 
 export const recentUpdates = [
   {
+    date: "September 2026",
+    title: "Where Could Inflation Begin?",
+    href: "/2026/09/22/where-could-inflation-begin/",
+  },
+  {
+    date: "September 2026",
+    title: "Remembering Rafael Sorkin",
+    href: "/2026/09/21/remembering-rafael-sorkin-fqxi/",
+  },
+  {
     date: "August 2026",
     title: "Do Physicists Have Faith?",
     href: "/2026/08/01/do-physicists-have-faith/",
@@ -668,16 +679,6 @@ export const recentUpdates = [
     date: "March 2025",
     title: "Join Me at the Royal Institution — Battle of the Big Bang",
     href: "/2025/03/25/join-me-at-the-royal-institution-on-june-28-battle-of-the-big-bang/",
-  },
-  {
-    date: "January 2025",
-    title: "Meaning of Beauty :معنی قشنگ",
-    href: "/2025/01/20/meaning-of-beauty-%d9%85%d8%b9%d9%86%db%8c-%d9%82%d8%b4%d9%86%da%af/",
-  },
-  {
-    date: "October 2024",
-    title: "Battle of the Big Bang: New Tales of Our Cosmic Origins",
-    href: "/2024/10/19/battle-of-the-big-bang-new-tales-of-our-cosmic-origins/",
   },
 ];
 
@@ -736,7 +737,14 @@ export const externalProfiles = [
 export const recentMediaCoverage = [
   {
     year: "2026",
-    title: "Remembering Rafael Sorkin",
+    title: "Remembering Rafael Sorkin at FQXi",
+    detail: "Niayesh Afshordi's September 21 remembrance of Rafael Sorkin, his mentor and collaborator. Images: PIRSA; Andrej Bauer (CC BY-SA 2.5 SI).",
+    href: "https://qspace.fqxi.org/news/165330/remembering-rafael-sorkin",
+    image: "/images/news/remembering-rafael-sorkin-fqxi.png",
+  },
+  {
+    year: "2026",
+    title: "Perimeter remembers Rafael Sorkin",
     detail: "Perimeter Institute's memorial for theoretical physicist Rafael Sorkin, featuring Niayesh Afshordi's remembrance of his friend, mentor, colleague, and collaborator.",
     href: "https://perimeterinstitute.ca/news/perimeter-remembers-eminent-physicist-rafael-sorkin-1945-2026",
     image: "/images/news/remembering-rafael-sorkin.png",

@@ -22,6 +22,8 @@ const fixedRoutes = [
   "/updates/",
   "/cv/",
   "/archive/",
+  "/2026/09/22/where-could-inflation-begin/",
+  "/2026/09/21/remembering-rafael-sorkin-fqxi/",
   "/2026/08/01/do-physicists-have-faith/",
   "/2026/07/21/do-quantum-black-holes-have-just-enough-hair/",
   "/2026/07/14/cleaning-the-cmb-backlight/",

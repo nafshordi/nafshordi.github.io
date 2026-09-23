@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-08",
-  "total_count": 157,
-  "arxiv_author_result_count": 151,
+  "generated_at": "2026-09-22",
+  "total_count": 158,
+  "arxiv_author_result_count": 152,
   "source_provenance": {
     "baseline": {
       "name": "arXiv",
@@ -27,6 +27,34 @@
     "note": "Google Scholar is linked for discovery and citation counts and was manually cross-checked, but is not imported automatically because it has no supported public API and its result rows are not a deduplicated publication record."
   },
   "publications": [
+    {
+      "title": "Gauss--Bonnet running and the de Sitter saddle of quadratic gravity inflation",
+      "authors": [
+        "Ruolin Liu",
+        "Niayesh Afshordi"
+      ],
+      "publication_date": null,
+      "arxiv_submitted_date": "2026-09-21",
+      "updated_date": "2026-09-21",
+      "year": 2026,
+      "publication_type": "preprint",
+      "journal": null,
+      "arxiv_id": "2609.24912",
+      "arxiv_url": "https://arxiv.org/abs/2609.24912",
+      "doi": null,
+      "doi_url": null,
+      "categories": [
+        "hep-th",
+        "astro-ph.CO",
+        "gr-qc"
+      ],
+      "sources": [
+        "arXiv"
+      ],
+      "date": "2026-09-21",
+      "status": "preprint",
+      "url": "https://arxiv.org/abs/2609.24912"
+    },
     {
       "title": "Self-regularized entropy: What does black hole entropy predict for tests of Kerr no-hair theorem?",
       "authors": [

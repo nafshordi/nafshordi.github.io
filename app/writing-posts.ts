@@ -1,5 +1,102 @@
 export const writingPosts = [
   {
+    title: "Where Could Inflation Begin?",
+    slug: "where-could-inflation-begin",
+    path: "/2026/09/22/where-could-inflation-begin/",
+    type: "post" as const,
+    date: "2026-09-22",
+    html: `<article class="writing-post">
+<p class="writing-dek">A new paper with Ruolin Liu asks how an early universe driven by quadratic gravity could begin its inflationary phase, and what a future measurement of primordial gravitational waves might tell us.</p>
+
+<p>Cosmologists are good at describing what inflation could do: a brief era of rapid expansion can help explain why the universe looks so smooth on large scales. We are less certain about what set it in motion. In a <a href="https://arxiv.org/abs/2609.24912" target="_blank" rel="noreferrer">new preprint</a>, Ruolin Liu and I return to that starting point in a model where the quantum running of gravity itself drives inflation.</p>
+
+<p>Our <a href="https://doi.org/10.1103/6gtx-j455" target="_blank" rel="noreferrer">earlier paper</a> explored a version of quadratic gravity that could produce the slow roll needed for inflation. It left a sharp question. The proposed starting geometry was not stationary once a contribution from the quantum trace anomaly was included. If a model cannot consistently describe its proposed starting state, good predictions for what happens later are not enough.</p>
+
+<h2>The term we could not leave out</h2>
+
+<p>The new calculation keeps the running coefficient of the Gauss–Bonnet term. With a fixed coefficient, that term is topological in four dimensions, so it is often set aside when deriving local equations of motion. Here its coefficient changes with the energy scale. That change matters.</p>
+
+<p>At one particular ratio of the gravitational couplings, the Gauss–Bonnet contribution balances the running of the curvature-squared term. The result is a stationary de Sitter solution: a mathematical model of an almost constant expansion rate. We find the same stationary point through the gravitational constraint and the action of a compact Euclidean geometry. The associated potential has an exceptionally flat summit connected to the slope along which inflation could proceed.</p>
+
+<p>This supplies a possible starting state within the model. It does not show that the real universe began there. The quantum state that would place the universe near the summit, and start its departure from it, remains an open question.</p>
+
+<h2>What could the sky decide?</h2>
+
+<p>The most useful part of a cosmological model is where it meets data. In the range of parameters we study, the paper predicts a scalar tilt of roughly 0.973–0.978 and a tensor-to-scalar ratio of at least about 0.008. The latter measures the possible imprint of primordial gravitational waves on the polarization of the cosmic microwave background. These are predictions of this model, not observed primordial waves.</p>
+
+<p>Current limits already rule out the pure-gravity version of this scenario. To bring the predicted tensor signal below the present bound, the calculation needs a very large matter sector. We do not know whether nature provides such a sector. The model also leaves reheating, the emergence of ordinary Einstein gravity after inflation, and the interpretation of an extra spin-2 mode to be resolved.</p>
+
+<p>That is why I see this result as progress on a specific theoretical problem, not a complete account of cosmic origins. Keeping a term that looked dispensable restores a consistent candidate starting point. Better measurements of CMB polarization can now test a consequential part of the picture.</p>
+
+<p class="writing-closing">The point of giving inflation a beginning is to make its proposed history more accountable to the sky.</p>
+
+<aside class="writing-links" aria-label="Related links">
+  <h2>Related links</h2>
+  <ul>
+    <li><a href="https://arxiv.org/abs/2609.24912" target="_blank" rel="noreferrer">New preprint: Gauss–Bonnet running and the de Sitter saddle of quadratic gravity inflation ↗</a></li>
+    <li><a href="https://doi.org/10.1103/6gtx-j455" target="_blank" rel="noreferrer">Earlier paper: Ultraviolet Completion of the Big Bang in Quadratic Gravity ↗</a></li>
+  </ul>
+</aside>
+</article>`,
+  },
+  {
+    title: "Remembering Rafael Sorkin",
+    slug: "remembering-rafael-sorkin-fqxi",
+    path: "/2026/09/21/remembering-rafael-sorkin-fqxi/",
+    type: "post" as const,
+    date: "2026-09-21",
+    html: `<article class="writing-post">
+<p class="writing-dek">Originally published by <a href="https://qspace.fqxi.org/news/165330/remembering-rafael-sorkin" target="_blank" rel="noreferrer">FQXi on September 21, 2026</a>. Republished here by the author.</p>
+
+<figure class="writing-lead-image">
+  <img src="/images/news/remembering-rafael-sorkin-fqxi.png" alt="Rafael Sorkin writing on a blackboard and seated for a portrait" />
+  <figcaption>Left: Rafael Sorkin at Perimeter Institute, 2019 (via PIRSA). Right: Rafael Sorkin in 2004, photo by Andrej Bauer, <a href="https://creativecommons.org/licenses/by-sa/2.5/si/" target="_blank" rel="noreferrer">CC BY-SA 2.5 SI</a>, via Wikimedia Commons. Image and credits from <a href="https://qspace.fqxi.org/news/165330/remembering-rafael-sorkin" target="_blank" rel="noreferrer">FQXi</a>.</figcaption>
+</figure>
+
+<p>If three decades of studying cosmology has taught me one thing, it may be that the cosmos has a funny, humbling way of breaking even your best models.</p>
+
+<p>For me, one of those moments came almost two decades ago, when a short, funnily dressed gentleman showed up at the back of the Bob Room at Perimeter Institute. I was a young postdoc organizing the cosmology seminars. He was intensely engaged, asking deeply probing questions, and I was slightly embarrassed that I had no idea who he was.</p>
+
+<p>Then the same thing happened again—in quantum gravity, quantum foundations, strings, and quantum information seminars. A few years later, when I became faculty, the same gentleman started showing up at nearly all of my group meetings, asking similarly deep questions. Eventually he formally co-supervised four of my PhD students, and unofficially influenced many more across my group, Perimeter, and Waterloo.</p>
+
+<p>That gentleman was Rafael Sorkin. Last Saturday he asked his final set of probing questions, just before the pancreatic cancer he had been battling for the past eight months finally broke his body. But long before that, he had already broken my simple model of what a scientist is, replacing it with a much richer tapestry of human imagination and intellectual courage.</p>
+
+<p>Rafael had an unusual talent for making familiar ideas look provisional. Spacetime might not be continuous. Quantum theory might not need to be formulated in terms of wavefunctions. Black hole entropy might be telling us as much about quantum entanglement as about thermodynamics—an idea now central to modern holography. The cosmological constant might not be constant at all. Assumptions most physicists regarded as settled were often, for Rafael, exactly the ones worth reopening.</p>
+
+<p>He was one of the founders of <a href="https://qspace.fqxi.org/videos/563/causal-sets-the-quantum-theory-that-predicted-dark-energy" target="_blank" rel="noreferrer">causal set theory</a>, in which spacetime is fundamentally a discrete set of “atoms” related by causal order, with geometry emerging from that more primitive structure. He also made foundational contributions to black hole entropy, quantum measure theory, and sum-over-histories approaches to quantum mechanics.</p>
+
+<p>For my first few years at Perimeter, my office was only a few doors from his. I remember Rafael walking past, then coming back seconds later because something had just occurred to him about an earlier conversation. We would sometimes talk for hours, often late into the night. That was before Ghazal and I had kids.</p>
+
+<p>Rafael was decidedly not a morning person, so later many of our conversations migrated to the parking lot: I would be rushing out to pick up the kids from daycare or school just as he was coming in.</p>
+
+<p>Some of the science that grew from those conversations illustrates how Rafael worked. With my student Siavash Aslanbeigi, Rafael and I studied the Sorkin–Johnston construction, which provides a covariant prescription for a preferred quantum vacuum directly from causal structure. Siavash and another of my students, Mehdi Saravani, then worked with Rafael on nonlocal wave operators inspired by causal sets.</p>
+
+<p>That nonlocality led somewhere unexpected. Mehdi and Siavash realized that such a theory could contain off-shell excitations behaving as a stable, invisible component of the universe. Mehdi and I later explored its cosmology: dark matter arising not from a new fundamental particle, but potentially from the nonlocal structure of spacetime itself.</p>
+
+<p>Two other students took different threads. Yasaman Kouchekzadeh Yazdi worked with Rafael on entanglement entropy in causal sets. Nosiphiwo Zwane studied the observational consequences of Rafael’s Everpresent Lambda proposal, confronting a fluctuating cosmological constant with data. What always struck me was how naturally Rafael moved among all these problems.</p>
+
+<p>There was perhaps something musical in the way he thought, hearing connections between foundational questions and phenomenology that the rest of us tended to separate into different fields. Maybe that is not entirely accidental: his father, Leonard Sorkin, was a distinguished violinist and co-founder of the Fine Arts Quartet in Chicago, while his mother, Aviva, was a dancer.</p>
+
+<p>Rafael himself loved music, and I sometimes felt that he approached physics similarly—as different themes interwoven into the same composition.</p>
+
+<p>Everpresent Lambda is a beautiful example. Long before the 1998 discovery of cosmic acceleration, Rafael argued that causal set theory could naturally produce observable fluctuations in the cosmological constant, through the conjugacy between spacetime volume and Lambda and the Poisson fluctuations in the number of causal set atoms. It was not the standard model of dark energy we use today, but it showed his willingness to ask what universe a deep structural idea might actually produce.</p>
+
+<p>The future of causal sets remains open, and that is part of what makes Rafael’s legacy scientifically alive. Work by Dionigi Benincasa and Fay Dowker showed that causal order can encode discrete analogues of curvature, leading to the Benincasa–Dowker action, a causal-set counterpart of the Einstein–Hilbert action. But the harder questions remain: What is the quantum dynamics of causal sets? Why does smooth four-dimensional spacetime emerge? Could microscopic discreteness leave observable traces?</p>
+
+<p>Rafael’s work on entropy opens another route. Instead of beginning with a spatial slice, he developed a covariant formulation in which entropy can be associated with a spacetime region through its correlations and causal commutator. That idea became especially natural in causal set theory and formed the basis of some of Yasaman’s work with him.</p>
+
+<p>Perhaps the strongest evidence that Rafael created a living research program is that younger researchers are now making these questions their own. Yasaman is one example close to me. Her PhD work with Rafael and me asked how entanglement entropy should be understood when spacetime itself is a causal set. She is now leading a research program at the Dublin Institute for Advanced Studies on Hawking radiation and black hole entropy in causal set theory.</p>
+
+<p>More recently, her work with Joshua Jones on the spectral density of the causal propagator asks whether causal structure can encode geometry in a genuinely Lorentzian version of spectral geometry, pushing Rafael’s vision into new territory.</p>
+
+<p>The last time I saw Rafael was a couple of months ago, when Ghazal and I visited him and his wife, Fatma, in Toronto during his cancer treatment. We walked around the University of Toronto campus and ended up hiking up a footpath called Philosopher’s Walk. We talked about all the usual things: quantum gravity, the no-boundary proposal, causal sets, and of course politics. We sat on a bench but soon had to head back because Rafael was getting tired.</p>
+
+<p>I told him that I had started working on some novel ideas in radiotherapy, and that perhaps we should discuss his treatment plan. That discussion never happened. Maybe the cosmos was telling us that we may live as scientists, but we all die as philosophers.</p>
+
+<p class="writing-closing"><a href="https://qspace.fqxi.org/news/165330/remembering-rafael-sorkin" target="_blank" rel="noreferrer">Read the original at FQXi ↗</a></p>
+</article>`,
+  },
+  {
     title: "Do Physicists Have Faith?",
     slug: "do-physicists-have-faith",
     path: "/2026/08/01/do-physicists-have-faith/",

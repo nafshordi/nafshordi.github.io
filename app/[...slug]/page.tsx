@@ -400,6 +400,34 @@ function LegacyPage({ entry }: { entry: Entry }) {
 export async function generateMetadata({ params }: { params: Promise<{ slug: string[] }> }): Promise<Metadata> {
   const { slug } = await params;
   const path = `/${slug.join("/")}/`;
+  if (path === "/2026/09/22/where-could-inflation-begin/") {
+    const title = "Where Could Inflation Begin?";
+    const description = "Niayesh Afshordi explains a new quadratic-gravity inflation result with Ruolin Liu, its testable CMB predictions, and its open questions.";
+    const url = `https://nafshordi.com${path}`;
+    return {
+      title: `${title} | Niayesh Afshordi`,
+      description,
+      alternates: { canonical: url },
+      openGraph: { type: "article", title, description, url, siteName: "Niayesh Afshordi", publishedTime: "2026-09-22" },
+      twitter: { card: "summary", title, description },
+    };
+  }
+  if (path === "/2026/09/21/remembering-rafael-sorkin-fqxi/") {
+    const title = "Remembering Rafael Sorkin";
+    const description = "Niayesh Afshordi's remembrance of Rafael Sorkin, first published by FQXi on September 21, 2026.";
+    const url = `https://nafshordi.com${path}`;
+    const image = "https://nafshordi.com/images/news/remembering-rafael-sorkin-fqxi.png";
+    return {
+      title: `${title} | Niayesh Afshordi`,
+      description,
+      alternates: { canonical: url },
+      openGraph: {
+        type: "article", title, description, url, siteName: "Niayesh Afshordi", publishedTime: "2026-09-21",
+        images: [{ url: image, width: 1200, height: 470, alt: "Rafael Sorkin writing on a blackboard and seated for a portrait" }],
+      },
+      twitter: { card: "summary_large_image", title, description, images: [image] },
+    };
+  }
   if (path !== "/2026/08/01/do-physicists-have-faith/") return {};
 
   const title = "Do Physicists Have Faith?";
