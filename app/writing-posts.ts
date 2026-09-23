@@ -10,6 +10,15 @@ export const writingPosts = [
 
 <p>Cosmologists are good at describing what inflation could do: a brief era of rapid expansion can help explain why the universe looks so smooth on large scales. We are less certain about what set it in motion. In a <a href="https://arxiv.org/abs/2609.24912" target="_blank" rel="noreferrer">new preprint</a>, Ruolin Liu and I return to that starting point in a model where the quantum running of gravity itself drives inflation.</p>
 
+<figure class="writing-collaborator">
+  <img src="/images/ruolin-liu.png" alt="Portrait of Ruolin Liu" loading="lazy" decoding="async" />
+  <figcaption>
+    <strong><a href="https://perimeterinstitute.ca/people/ruolin-liu" target="_blank" rel="noreferrer">Ruolin Liu ↗</a></strong>
+    <span>First author of the preprint and a PhD researcher in cosmology at the University of Waterloo and Perimeter Institute.</span>
+    <span>Portrait: Perimeter Institute.</span>
+  </figcaption>
+</figure>
+
 <p>Our <a href="https://doi.org/10.1103/6gtx-j455" target="_blank" rel="noreferrer">earlier paper</a> explored a version of quadratic gravity that could produce the slow roll needed for inflation. It left a sharp question. The proposed starting geometry was not stationary once a contribution from the quantum trace anomaly was included. If a model cannot consistently describe its proposed starting state, good predictions for what happens later are not enough.</p>
 
 <h2>The term we could not leave out</h2>
@@ -23,6 +32,13 @@ export const writingPosts = [
 <h2>What could the sky decide?</h2>
 
 <p>The most useful part of a cosmological model is where it meets data. In the range of parameters we study, the paper predicts a scalar tilt of roughly 0.973–0.978 and a tensor-to-scalar ratio of at least about 0.008. The latter measures the possible imprint of primordial gravitational waves on the polarization of the cosmic microwave background. These are predictions of this model, not observed primordial waves.</p>
+
+<figure class="writing-paper-figure">
+  <a href="/images/writing/gauss-bonnet-ns-r-figure-3a.png" target="_blank" rel="noreferrer" aria-label="Open the full-resolution n-s versus r plot">
+    <img src="/images/writing/gauss-bonnet-ns-r-figure-3a.png" alt="Figure 3(a): predicted tensor-to-scalar ratio r against scalar tilt n-s, compared with approximate CMB constraint regions; pure-gravity markers lie above the current bound" loading="lazy" decoding="async" />
+  </a>
+  <figcaption>Figure 3(a), cropped from <a href="https://arxiv.org/abs/2609.24912" target="_blank" rel="noreferrer">our preprint</a> (CC BY 4.0). Colored tracks are model predictions for 50–60 e-folds; the shaded regions summarize approximate likelihoods built from published CMB constraints. Open circles mark the excluded pure-gravity cases, and the star marks a representative viable solution.</figcaption>
+</figure>
 
 <p>Current limits already rule out the pure-gravity version of this scenario. To bring the predicted tensor signal below the present bound, the calculation needs a very large matter sector. We do not know whether nature provides such a sector. The model also leaves reheating, the emergence of ordinary Einstein gravity after inflation, and the interpretation of an extra spin-2 mode to be resolved.</p>
 

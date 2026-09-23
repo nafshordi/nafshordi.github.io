@@ -110,6 +110,9 @@ h2 { font-size: clamp(2.4rem, 4.2vw, 4.6rem); font-weight: 400; letter-spacing: 
 .writing-lead-image img { display: block; width: 100%; }
 .writing-lead-image figcaption { border-bottom: 1px solid #ccd1d0; color: var(--slate); font-family: Arial, Helvetica, sans-serif; font-size: .78rem; line-height: 1.5; padding: 1rem .25rem; }
 .writing-lead-image figcaption strong { color: var(--ink); }
+.writing-paper-figure { margin: 3.5rem 50%; transform: translateX(-50%); width: min(900px, calc(100vw - 2.8rem)); }
+.writing-paper-figure img { display: block; width: 100%; }
+.writing-paper-figure figcaption { border-bottom: 1px solid #ccd1d0; color: var(--slate); font-family: Arial, Helvetica, sans-serif; font-size: .78rem; line-height: 1.5; padding: 1rem .25rem; }
 .writing-survey-figure { background: #eef0ed; margin: 3.5rem 50%; padding: clamp(.7rem, 2vw, 1.3rem); transform: translateX(-50%); width: min(880px, calc(100vw - 2.8rem)); }
 .writing-survey-figure img { background: white; display: block; margin: 0 auto; width: min(100%, 800px); }
 .writing-survey-figure figcaption { color: var(--slate); font-family: Arial, Helvetica, sans-serif; font-size: .78rem; line-height: 1.5; padding: 1rem .25rem .1rem; }
