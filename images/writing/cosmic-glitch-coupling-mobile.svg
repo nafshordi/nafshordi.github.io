@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="800" viewBox="0 0 720 800" role="img" aria-labelledby="t d"><title id="t">Cosmological versus Newtonian gravity</title><desc id="d">CMB plus DESI DR2 model-conditioned fit: 0.9920 plus or minus 0.0025. The interval is one standard deviation; equality is one.</desc><rect width="720" height="800" fill="#f4f1eb"/><g font-family="Arial, sans-serif" fill="#151b2c" font-size="32">
+    <text x="40" y="66" fill="#a44931">COSMOLOGICAL GRAVITY</text>
+    <text x="40" y="130" font-size="40" font-weight="700">A small coupling mismatch</text>
+    <text x="40" y="190">Planck + ACT + SPT primary CMB</text><text x="40" y="235">+ DESI DR2 BAO</text>
+    <path d="M80 480H640 M640 325V480" fill="none" stroke="#5d6472" stroke-width="3"/>
+    <path d="M346 405H486 M346 390V420 M486 390V420" stroke="#167c80" stroke-width="7"/>
+    <circle cx="416" cy="405" r="10" fill="#167c80"/>
+    <text x="400" y="355" text-anchor="middle" font-size="36" fill="#167c80">0.9920 ± 0.0025</text>
+    <text x="640" y="303" text-anchor="end">Equal couplings</text>
+    <text x="80" y="532" text-anchor="middle">0.980</text><text x="360" y="532" text-anchor="middle">0.990</text><text x="640" y="532" text-anchor="middle">1.000</text>
+    <text x="360" y="590" text-anchor="middle">Cosmological / Newtonian coupling</text>
+    <text x="40" y="658">About 0.8% weaker in this fit.</text><text x="40" y="705">Shown: ±1σ, within the model.</text>
+    <text x="40" y="767" font-size="28" fill="#5d6472">Original summary · arXiv:2609.40176</text></g></svg>

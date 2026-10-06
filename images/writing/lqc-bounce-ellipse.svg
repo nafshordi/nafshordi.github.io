@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="820" viewBox="0 0 1200 820" role="img" aria-labelledby="title desc">
+<title id="title">The homogeneous LQC bounce constraint</title><desc id="desc">An ellipse of H over H maximum versus rho over rho critical. Contraction moves along the lower half toward the bounce at critical density; expansion follows the upper half toward lower density. Matching this constraint does not establish matching perturbations.</desc>
+<defs><marker id="teal-arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0 0L10 5L0 10" fill="#167c80"/></marker><marker id="rust-arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0 0L10 5L0 10" fill="#a44931"/></marker></defs>
+<rect width="1200" height="820" fill="#f4f1eb"/>
+<g font-family="Arial, sans-serif" fill="#151b2c">
+<text x="80" y="70" font-size="23" fill="#a44931" letter-spacing="2">LOOP QUANTUM COSMOLOGY · BACKGROUND CONSTRAINT</text>
+<text x="80" y="130" font-size="44" font-weight="700">Contraction → bounce → expansion</text>
+<text x="80" y="180" font-size="25" fill="#5d6472">The same homogeneous history, written as a local cuscuton theory</text>
+<path d="M240 440H1050 M300 675V220" stroke="#8b8d90" stroke-width="2"/>
+<path d="M300 440A340 185 0 0 1 980 440" fill="none" stroke="#167c80" stroke-width="7"/>
+<path d="M300 440A340 185 0 0 0 980 440" fill="none" stroke="#a44931" stroke-width="7"/>
+<path d="M715 258Q645 246 575 258" fill="none" stroke="#167c80" stroke-width="4" marker-end="url(#teal-arrow)"/>
+<path d="M575 622Q645 634 715 622" fill="none" stroke="#a44931" stroke-width="4" marker-end="url(#rust-arrow)"/>
+<circle cx="980" cy="440" r="10" fill="#151b2c"/>
+<text x="995" y="405" font-size="26" font-weight="700">Bounce</text><text x="995" y="482" font-size="22">H = 0</text>
+<text x="640" y="338" font-size="31" text-anchor="middle" fill="#167c80">Expansion · H &gt; 0</text>
+<text x="640" y="550" font-size="31" text-anchor="middle" fill="#a44931">Contraction · H &lt; 0</text>
+<text x="280" y="477" font-size="23" text-anchor="end">0</text><text x="640" y="477" font-size="23" text-anchor="middle">½</text><text x="970" y="517" font-size="23">1</text>
+<text x="281" y="263" font-size="23" text-anchor="end">+1</text><text x="280" y="632" font-size="23" text-anchor="end">−1</text>
+<text x="208" y="440" font-size="24" text-anchor="middle" transform="rotate(-90 208 440)">H / maximum |H|</text>
+<text x="640" y="681" font-size="27" text-anchor="middle">Density / critical density</text>
+<text x="80" y="737" font-size="30">Allowed states—not a prediction of repeated cycles.</text>
+<text x="80" y="784" font-size="25" fill="#5d6472">Afshordi &amp; Giesel · arXiv:2609.35222 · Perturbation agreement not established</text>
+</g></svg>
