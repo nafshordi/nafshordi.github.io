@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="800" viewBox="0 0 720 800" role="img" aria-labelledby="t d"><title id="t">The homogeneous LQC constraint</title><desc id="d">Contraction follows the lower branch toward the critical-density bounce; expansion follows the upper branch toward lower density. The ellipse is not a prediction of repeated cycles.</desc><rect width="720" height="800" fill="#f4f1eb"/><g font-family="Arial, sans-serif" fill="#151b2c" font-size="32">
+    <text x="40" y="66" fill="#a44931">LOOP QUANTUM COSMOLOGY</text>
+    <text x="40" y="130" font-size="40" font-weight="700">Contraction → bounce</text><text x="40" y="180" font-size="40" font-weight="700">→ expansion</text>
+    <defs><marker id="a" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto"><path d="M0 0L8 4L0 8" fill="#167c80"/></marker><marker id="b" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto"><path d="M0 0L8 4L0 8" fill="#a44931"/></marker></defs>
+    <path d="M135 420H640 M160 570V260" stroke="#8b8d90" stroke-width="2" fill="none"/>
+    <path d="M160 420A220 130 0 0 1 600 420" fill="none" stroke="#167c80" stroke-width="6"/>
+    <path d="M160 420A220 130 0 0 0 600 420" fill="none" stroke="#a44931" stroke-width="6"/>
+    <path d="M420 292H345" stroke="#167c80" stroke-width="3" marker-end="url(#a)"/><path d="M345 548H420" stroke="#a44931" stroke-width="3" marker-end="url(#b)"/>
+    <text x="375" y="369" text-anchor="middle" fill="#167c80">Expansion · H &gt; 0</text><text x="375" y="490" text-anchor="middle" fill="#a44931">Contraction · H &lt; 0</text>
+    <circle cx="600" cy="420" r="9"/><path d="M607 408L650 269" stroke="#5d6472" stroke-width="2"/><text x="674" y="248" text-anchor="end">Bounce</text>
+    <text x="135" y="460" text-anchor="end">0</text><text x="635" y="465">1</text><text x="135" y="302" text-anchor="end">+1</text><text x="135" y="561" text-anchor="end">−1</text>
+    <text x="67" y="420" text-anchor="middle" transform="rotate(-90 67 420)">H / maximum |H|</text>
+    <text x="380" y="617" text-anchor="middle">Density / critical density</text>
+    <text x="40" y="680">Allowed states—not repeated cycles.</text><text x="40" y="726" font-size="28">Perturbation agreement not established.</text>
+    <text x="40" y="776" font-size="28" fill="#5d6472">Afshordi &amp; Giesel · arXiv:2609.35222</text></g></svg>
