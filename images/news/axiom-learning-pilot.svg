@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">Axiom learning pilot</title>
+  <desc id="desc">An open book and a feedback conversation, connected in a learning loop.</desc>
+  <rect width="1200" height="675" fill="#e4eae6"/>
+  <path d="M0 0h1200v18H0z" fill="#b03922"/>
+  <circle cx="1065" cy="100" r="215" fill="#d5dfda"/>
+  <circle cx="95" cy="640" r="230" fill="#d5dfda"/>
+  <text x="78" y="158" fill="#243b4c" font-family="Georgia, serif" font-size="112">Axiom</text>
+  <text x="83" y="208" fill="#465e70" font-family="Arial, Helvetica, sans-serif" font-size="29" letter-spacing="5">LEARNING WITH AI</text>
+  <g stroke="#243b4c" stroke-width="13" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M150 326q93-33 196 18 103-51 196-18v203q-99-29-196 18-97-47-196-18z" fill="#fcfcf6"/>
+    <path d="M346 344v203" fill="none"/>
+    <g fill="none" stroke="#82958e" stroke-width="9">
+      <path d="M191 372q56-8 111 14m-111 37q56-8 111 14m-111 37q56-8 111 14"/>
+      <path d="M391 386q55-22 111-14m-111 65q55-22 111-14m-111 65q55-22 111-14"/>
+    </g>
+    <path d="M770 291h249q33 0 33 33v155q0 33-33 33H876l-78 58v-58h-28q-33 0-33-33V324q0-33 33-33z" fill="#243b4c"/>
+    <path d="M789 353h210m-210 54h157" stroke="#fcfcf6" stroke-width="12"/>
+    <path d="m956 465 17 17 35-41" fill="none" stroke="#e7bc62"/>
+  </g>
+  <g fill="none" stroke="#b03922" stroke-width="12" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M480 277q114-62 220-4m-34-40 34 40-51 8"/>
+    <path d="M700 560q-114 62-220 4m34 40-34-40 51-8"/>
+  </g>
+</svg>
