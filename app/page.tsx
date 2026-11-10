@@ -111,7 +111,7 @@ export default function Home() {
         <h2>Conversations about cosmology, fundamental physics, and how science works.</h2>
         <div className="talks-grid">
           {recentTalks.map((talk) => (
-            <a className="talk-card-link" href={talk.href} key={`${talk.date}-${talk.title}`} target="_blank" rel="noreferrer" aria-label={`Open PDF deck for ${talk.title}`}>
+            <a className="talk-card-link" href={talk.href} key={`${talk.date}-${talk.title}`} target="_blank" rel="noreferrer" aria-label={`Open link for ${talk.title}`}>
               <article>
               <p>{talk.date}</p>
               <h3>{talk.title}</h3>

@@ -616,6 +616,26 @@ export const currentMembers = currentPeople.map((member) => member.name);
 
 export const recentTalks = [
   {
+    date: "November 5, 2026",
+    title: "Scrambled Spacetime: Qubits, black holes, and the speed of causality",
+    venue: "Qiskit Fall Fest 2026 · University of Waterloo (B1 271)",
+    href: "/talks/scrambled-spacetime-qiskit-fall-fest-2026.pdf",
+  },
+  {
+    date: "October 23, 2026",
+    title: "Quantum Gravity in the Wild: The Big Bang, Black Holes, and a Cosmic Glitch",
+    venue: "Physics and Astronomy Colloquium · University of New Mexico, Albuquerque (PAIS 1100, 3:30–4:30 PM)",
+    href: "https://physics.unm.edu/events/2026/10/colloquium-1023.html",
+    linkLabel: "Event details",
+  },
+  {
+    date: "October 1, 2026",
+    title: "Making Quantum Gravity Observable: From the Big Bang to Black Holes and Cosmic Horizons",
+    venue: "Invited talk · From Quantum Gravity to Cosmology · Kavli IPMU, The University of Tokyo, Kashiwa, Japan",
+    href: "https://indico.ipmu.jp/event/520/contributions/9159/",
+    linkLabel: "Event details",
+  },
+  {
     date: "August 21, 2026",
     title: "Quantum Gravity in the Wild: Black Hole Echoes, the Big Bang, and a Cosmic Glitch",
     venue: "Joint Colloquium, ITP/CEICO · Prague",

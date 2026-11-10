@@ -269,7 +269,7 @@ function TalksPage() {
     <div className="content-page">
       <h2>Recent talks</h2>
       <p className="notice">Each recent entry is transcribed from its title slide and opens the specific PDF deck.</p>
-      <ul className="talk-archive-list talk-recent-list">{recentTalks.map((talk) => <li className="talk-archive-entry" key={talk.href}><time>{talk.date}</time><div><a href={talk.href} target="_blank" rel="noreferrer" aria-label={`Open PDF deck for ${talk.title}`}>{talk.title} ↗</a><p>{talk.venue}</p><span className="talk-file-type">PDF deck</span></div></li>)}</ul>
+      <ul className="talk-archive-list talk-recent-list">{recentTalks.map((talk) => <li className="talk-archive-entry" key={talk.href}><time>{talk.date}</time><div><a href={talk.href} target="_blank" rel="noreferrer" aria-label={`Open link for ${talk.title}`}>{talk.title} ↗</a><p>{talk.venue}</p><span className="talk-file-type">{talk.linkLabel ?? "PDF deck"}</span></div></li>)}</ul>
       <h2 id="historical-talks">Historical talks & recordings</h2>
       <p>The historical archive uses the same record style and retains direct links to slides, recordings, and event pages. YouTube recordings are shown with thumbnails when the original archive supplied them.</p>
     </div>
